@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist (1)/
+
+# Environment variables
+.env
+.env.*
+.env.local
+.env.*.local
+
+# Cloudflare
+.wrangler/
+
+# Test results
+test-results/
+playwright-report/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials
+*.key
+*.pem
+credentials.json
+google-cloud-credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Large data files
+data/ecdict/

@@ -1,0 +1,20 @@
+{
+  "total_words": 2420,
+  "num_batches": 13,
+  "batch_size": 200,
+  "batches": [
+    "batch_01.json",
+    "batch_02.json",
+    "batch_03.json",
+    "batch_04.json",
+    "batch_05.json",
+    "batch_06.json",
+    "batch_07.json",
+    "batch_08.json",
+    "batch_09.json",
+    "batch_10.json",
+    "batch_11.json",
+    "batch_12.json",
+    "batch_13.json"
+  ]
+}

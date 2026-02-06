@@ -1,0 +1,6 @@
+# Placeholder files (empty)
+# Replace these with real MP3 files from Pixabay
+
+# Keep the directory structure but ignore the placeholder files
+# Uncomment below if you want to prevent committing placeholder files:
+# *.mp3

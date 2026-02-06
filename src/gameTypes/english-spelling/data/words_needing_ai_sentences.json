@@ -1,0 +1,3684 @@
+[
+  {
+    "word": "actress",
+    "file": "elementary.json",
+    "definition": "a woman or girl who is an actor",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "America",
+    "file": "elementary.json",
+    "definition": "either continent (North America or South America) of the western hemisphere",
+    "partOfSpeech": "geographical name",
+    "current_sentence": ""
+  },
+  {
+    "word": "April",
+    "file": "elementary.json",
+    "definition": "the fourth month of the Gregorian calendar",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "aunt",
+    "file": "elementary.json",
+    "definition": "the sister of one's father or mother",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "badminton",
+    "file": "elementary.json",
+    "definition": "a court game played with light long-handled rackets and a shuttlecock volleyed over a net",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "bakery",
+    "file": "elementary.json",
+    "definition": "a place for baking or selling baked goods",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "balcony",
+    "file": "elementary.json",
+    "definition": "a platform that projects from the wall of a building and is enclosed by a parapet or railing",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "bath",
+    "file": "elementary.json",
+    "definition": "a washing or soaking (as in water or steam) of all or part of the body",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "beautiful",
+    "file": "elementary.json",
+    "definition": "having beauty: such as",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The sunset is beautiful tonight."
+  },
+  {
+    "word": "blackboard",
+    "file": "elementary.json",
+    "definition": "a hard smooth usually dark surface used especially in a classroom for writing or drawing on with chalk",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "bookstore",
+    "file": "elementary.json",
+    "definition": "a place of business where books are the main item offered for sale —called also bookshop",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "businessman",
+    "file": "elementary.json",
+    "definition": "a man who transacts business; especially : a business executive",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "centimeter",
+    "file": "elementary.json",
+    "definition": "a unit of length equal to 1/100 meter",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "China",
+    "file": "elementary.json",
+    "definition": "porcelain; also : vitreous porcelain wares (such as dishes, vases, or ornaments) for domestic use",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "Chinese",
+    "file": "elementary.json",
+    "definition": "a native or inhabitant of China",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "classmate",
+    "file": "elementary.json",
+    "definition": "a member of the same class in a school or college",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "cow",
+    "file": "elementary.json",
+    "definition": "the mature female of cattle (genus Bos)",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The cow gives us milk."
+  },
+  {
+    "word": "December",
+    "file": "elementary.json",
+    "definition": "the 12th month of the Gregorian calendar",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "egg",
+    "file": "elementary.json",
+    "definition": "the hard-shelled reproductive body produced by a bird and especially by the common domestic chicken; also : its contents used as food",
+    "partOfSpeech": "名詞",
+    "current_sentence": "a good egg"
+  },
+  {
+    "word": "eighteen",
+    "file": "elementary.json",
+    "definition": "a number that is one more than seventeen",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "eleven",
+    "file": "elementary.json",
+    "definition": "a number that is one more than 10",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "English",
+    "file": "elementary.json",
+    "definition": "of, relating to, or characteristic of England, the English people, or the English language",
+    "partOfSpeech": "adjective",
+    "current_sentence": ""
+  },
+  {
+    "word": "eve",
+    "file": "elementary.json",
+    "definition": "evening",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "February",
+    "file": "elementary.json",
+    "definition": "the second month of the Gregorian calendar",
+    "partOfSpeech": "名詞",
+    "current_sentence": "February is the shortest month."
+  },
+  {
+    "word": "fifteen",
+    "file": "elementary.json",
+    "definition": "a number that is one more than fourteen",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "fisherman",
+    "file": "elementary.json",
+    "definition": "one who engages in fishing as an occupation or for pleasure",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "fourteen",
+    "file": "elementary.json",
+    "definition": "a number that is one more than 13",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "fridge",
+    "file": "elementary.json",
+    "definition": "refrigerator",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "extremely",
+    "file": "middle.json",
+    "definition": "very great in degree",
+    "partOfSpeech": "adjective",
+    "current_sentence": "It is extremely cold."
+  },
+  {
+    "word": "gram",
+    "file": "middle.json",
+    "definition": "any of several leguminous plants (such as a chickpea) grown especially for their seed; also : their seeds",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "guava",
+    "file": "middle.json",
+    "definition": "any of several tropical American shrubs or small trees (genus Psidium) of the myrtle family; especially : a shrubby tree (P. guajava) widely cultivated for its yellow-skinned fruit with sweet acid yellow or pink flesh",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "gym",
+    "file": "middle.json",
+    "definition": "gymnasium",
+    "partOfSpeech": "名詞",
+    "current_sentence": "I exercise at the gym."
+  },
+  {
+    "word": "Halloween",
+    "file": "middle.json",
+    "definition": "October 31 observed especially with dressing up in disguise, trick-or-treating, and displaying jack-o'-lanterns during the evening",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "hamburger",
+    "file": "middle.json",
+    "definition": "ground beef",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "helicopter",
+    "file": "middle.json",
+    "definition": "an aircraft that can stay in the air without moving forward and that has metal blades that turn around on its top",
+    "partOfSpeech": "noun",
+    "current_sentence": "The helicopter flew overhead."
+  },
+  {
+    "word": "hill",
+    "file": "middle.json",
+    "definition": "a usually rounded natural elevation of land lower than a mountain",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "homework",
+    "file": "middle.json",
+    "definition": "work that a student is given to do at home",
+    "partOfSpeech": "noun",
+    "current_sentence": "Finish your homework first."
+  },
+  {
+    "word": "hotel",
+    "file": "middle.json",
+    "definition": "an establishment that provides lodging and usually meals, entertainment, and various personal services for the public : inn",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "housewife",
+    "file": "middle.json",
+    "definition": "a married woman in charge of a household",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "item",
+    "file": "middle.json",
+    "definition": "a distinct part in an enumeration, account, or series : article",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "January",
+    "file": "middle.json",
+    "definition": "the first month of the Gregorian calendar",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "journalist",
+    "file": "middle.json",
+    "definition": "the activity or job of collecting, writing, and editing news stories for newspapers, magazines, television, or radio",
+    "partOfSpeech": "noun",
+    "current_sentence": "The journalist wrote the story."
+  },
+  {
+    "word": "July",
+    "file": "middle.json",
+    "definition": "the seventh month of the Gregorian calendar",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "June",
+    "file": "middle.json",
+    "definition": "the sixth month of the Gregorian calendar",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "kilogram",
+    "file": "middle.json",
+    "definition": "the base unit of mass in the International System of Units that is defined by setting the fixed numerical value of Planck's constant to 6.62607015 x 10—34 joule seconds",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "mailman",
+    "file": "middle.json",
+    "definition": "a person who delivers mail —called also letter carrier, mail carrier, postman",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "math",
+    "file": "middle.json",
+    "definition": "mathematics",
+    "partOfSpeech": "名詞",
+    "current_sentence": "I am good at math."
+  },
+  {
+    "word": "metro",
+    "file": "middle.json",
+    "definition": "an underground railway system in some cities : subway",
+    "partOfSpeech": "noun",
+    "current_sentence": "the Paris Metro"
+  },
+  {
+    "word": "motorcycle",
+    "file": "middle.json",
+    "definition": "an automotive vehicle with two in-line wheels",
+    "partOfSpeech": "名詞",
+    "current_sentence": "He rides a motorcycle."
+  },
+  {
+    "word": "November",
+    "file": "middle.json",
+    "definition": "the 11th month of the Gregorian calendar",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "papaya",
+    "file": "middle.json",
+    "definition": "a tropical American tree (Carica papaya of the family Caricaceae, the papaya family) having an oblong to globose yellow edible fruit with numerous black seeds in a central cavity; also : its fruit",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "pray",
+    "file": "middle.json",
+    "definition": "to speak to God especially in order to give thanks or to ask for something —often + for",
+    "partOfSpeech": "verb",
+    "current_sentence": "praying to God/Allah daily"
+  },
+  {
+    "word": "profession",
+    "file": "middle.json",
+    "definition": "a principal calling, vocation, or employment",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Teaching is a noble profession."
+  },
+  {
+    "word": "professor",
+    "file": "middle.json",
+    "definition": "one that professes, avows, or declares",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The professor teaches history."
+  },
+  {
+    "word": "railway",
+    "file": "middle.json",
+    "definition": "railroad",
+    "partOfSpeech": "noun",
+    "current_sentence": "The railway connects two cities."
+  },
+  {
+    "word": "recently",
+    "file": "middle.json",
+    "definition": "during the period of time that has just passed : not long ago",
+    "partOfSpeech": "adverb",
+    "current_sentence": "She recently graduated from college."
+  },
+  {
+    "word": "regularly",
+    "file": "middle.json",
+    "definition": "at the same time every day, week, month, etc. : on a regular basis",
+    "partOfSpeech": "adverb",
+    "current_sentence": "The sales team meets regularly."
+  },
+  {
+    "word": "reporter",
+    "file": "middle.json",
+    "definition": "a person who writes news stories for a newspaper, magazine, etc., or who tells people the news on radio or television",
+    "partOfSpeech": "noun",
+    "current_sentence": "The reporter covered the story."
+  },
+  {
+    "word": "restaurant",
+    "file": "middle.json",
+    "definition": "a business establishment where meals or refreshments may be purchased",
+    "partOfSpeech": "名詞",
+    "current_sentence": "This is a restaurant."
+  },
+  {
+    "word": "restroom",
+    "file": "middle.json",
+    "definition": "a room or suite of rooms in a public space providing toilets and lavatories : a public bathroom",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "salesman",
+    "file": "middle.json",
+    "definition": "a person (especially a man) whose job is to sell a product or service in a given territory, in a store, or by telephone",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "Saturday",
+    "file": "middle.json",
+    "definition": "the seventh day of the week",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "September",
+    "file": "middle.json",
+    "definition": "the ninth month of the Gregorian calendar",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "seventeen",
+    "file": "middle.json",
+    "definition": "a number that is one more than 16",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "seventy",
+    "file": "middle.json",
+    "definition": "a number equal to seven times 10",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "shopkeeper",
+    "file": "middle.json",
+    "definition": "storekeeper",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "sixteen",
+    "file": "middle.json",
+    "definition": "a number that is one more than 15",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "sixty",
+    "file": "middle.json",
+    "definition": "a number that is equal to six times 10",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "snack",
+    "file": "middle.json",
+    "definition": "a light meal : food eaten between regular meals; also : food suitable for snacking",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "snake",
+    "file": "middle.json",
+    "definition": "any of numerous limbless scaled reptiles (suborder Serpentes synonym Ophidia) with a long tapering body and with salivary glands often modified to produce venom which is injected through grooved or tubular fangs",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The snake slithered away."
+  },
+  {
+    "word": "snowy",
+    "file": "middle.json",
+    "definition": "composed of snow or melted snow",
+    "partOfSpeech": "adjective",
+    "current_sentence": ""
+  },
+  {
+    "word": "soccer",
+    "file": "middle.json",
+    "definition": "a game played on a field between two teams of 11 players each with the object to propel a round ball into the opponent's goal by kicking or by hitting it with any part of the body except the hands and arms —called also association football, football",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "sofa",
+    "file": "middle.json",
+    "definition": "a long upholstered seat usually with arms and a back and often convertible into a bed",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "sometimes",
+    "file": "middle.json",
+    "definition": "at times : now and then : occasionally",
+    "partOfSpeech": "副詞",
+    "current_sentence": "The word sometimes is useful."
+  },
+  {
+    "word": "stairs",
+    "file": "middle.json",
+    "definition": "a series of steps or flights of steps for passing from one level to another —often used in plural but singular or plural in construction",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "strawberry",
+    "file": "middle.json",
+    "definition": "the juicy edible usually red fruit of any of several low-growing temperate herbs (genus Fragaria) of the rose family that is technically an enlarged pulpy receptacle bearing numerous achenes on its surface",
+    "partOfSpeech": "名詞",
+    "current_sentence": "This is a strawberry."
+  },
+  {
+    "word": "supermarket",
+    "file": "middle.json",
+    "definition": "a self-service retail market selling especially foods and household merchandise",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "sweater",
+    "file": "middle.json",
+    "definition": "one that sweats or causes sweating",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Put on a sweater."
+  },
+  {
+    "word": "Taiwan",
+    "file": "middle.json",
+    "definition": "island in the Pacific off the southeast coast east of Fujian, China area 13,892 square miles (35,980 square kilometers), population 23,340,000",
+    "partOfSpeech": "geographical name",
+    "current_sentence": ""
+  },
+  {
+    "word": "teacher",
+    "file": "middle.json",
+    "definition": "a person or thing that teaches something; especially : a person whose job is to teach students about certain subjects",
+    "partOfSpeech": "noun",
+    "current_sentence": "Experience is a good teacher."
+  },
+  {
+    "word": "thirteen",
+    "file": "middle.json",
+    "definition": "a number that is one more than 12",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "thirty",
+    "file": "middle.json",
+    "definition": "a number equal to three times 10",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "Thursday",
+    "file": "middle.json",
+    "definition": "the fifth day of the week",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "tomato",
+    "file": "middle.json",
+    "definition": "the usually large, rounded, edible, pulpy berry of an herb (genus Solanum) of the nightshade family native to South America that is typically red but may be yellow, orange, green, or purplish in color and is eaten raw or cooked as a vegetable",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "triangle",
+    "file": "middle.json",
+    "definition": "a polygon having three sides",
+    "partOfSpeech": "名詞",
+    "current_sentence": "A triangle has three sides."
+  },
+  {
+    "word": "Tuesday",
+    "file": "middle.json",
+    "definition": "the third day of the week",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "turtle",
+    "file": "middle.json",
+    "definition": "any of an order (Testudines synonym Chelonia) of terrestrial, freshwater, and marine reptiles that have a toothless horny beak and a shell of bony dermal plates usually covered with horny shields enclosing the trunk and into which the head, limbs, and tail usually may be withdrawn",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The turtle moves slowly."
+  },
+  {
+    "word": "twelve",
+    "file": "middle.json",
+    "definition": "a number equal to one more than 11",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "upload",
+    "file": "middle.json",
+    "definition": "to transfer (something, such as data or files) from a computer or other digital device to the memory of another device (such as a larger or remote computer) especially via the Internet",
+    "partOfSpeech": "verb",
+    "current_sentence": ""
+  },
+  {
+    "word": "violin",
+    "file": "middle.json",
+    "definition": "a bowed stringed instrument having four strings tuned at intervals of a fifth and a usual range from G below middle C upward for more than 4½ octaves and having a shallow body, shoulders at right angles to the neck, a fingerboard without frets, and a curved bridge",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "watermelon",
+    "file": "middle.json",
+    "definition": "a large oblong or roundish fruit with a hard green or white rind often striped or variegated, a sweet watery pink, yellowish, or red pulp, and usually many seeds",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "weekday",
+    "file": "middle.json",
+    "definition": "any day of the week except Sunday or now usually except Saturday and Sunday",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "wok",
+    "file": "middle.json",
+    "definition": "a large bowl-shaped cooking utensil used especially in stir-frying",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "zebra",
+    "file": "middle.json",
+    "definition": "any of several swift African mammals (Equus grevyi, E. quagga, and E. zebra) related to the horse but distinctively and conspicuously patterned in stripes of black or dark brown and white or buff",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "absolution",
+    "file": "high.json",
+    "definition": "the act of forgiving someone for having done something wrong or sinful : the act of absolving someone or the state of being absolved; specifically : a remission of sins pronounced by a priest (as in the sacrament of reconciliation)",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The absolution is interesting."
+  },
+  {
+    "word": "acidic",
+    "file": "high.json",
+    "definition": "having a very sour or sharp taste",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Lemons are acidic."
+  },
+  {
+    "word": "aircraft",
+    "file": "high.json",
+    "definition": "a machine (such as an airplane or a helicopter) that flies through the air —often used before another noun",
+    "partOfSpeech": "noun",
+    "current_sentence": "The aircraft landed safely."
+  },
+  {
+    "word": "anthropology",
+    "file": "high.json",
+    "definition": "the science of human beings; especially : the study of human beings and their ancestors through time and space and in relation to physical character, environmental and social relations, and culture",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The anthropology is remarkable."
+  },
+  {
+    "word": "archipelago",
+    "file": "high.json",
+    "definition": "an expanse of water with many scattered islands",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The archipelago is remarkable."
+  },
+  {
+    "word": "astronomy",
+    "file": "high.json",
+    "definition": "the study of objects and matter outside the earth's atmosphere and of their physical and chemical properties",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The astronomy is remarkable."
+  },
+  {
+    "word": "calculator",
+    "file": "high.json",
+    "definition": "one that calculates: such as",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The calculator is remarkable."
+  },
+  {
+    "word": "calligraphy",
+    "file": "high.json",
+    "definition": "artistic, stylized, or elegant handwriting or lettering",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The calligraphy is remarkable."
+  },
+  {
+    "word": "Christ",
+    "file": "high.json",
+    "definition": "jesus christ",
+    "partOfSpeech": "noun",
+    "current_sentence": "Christians believe in Christ."
+  },
+  {
+    "word": "commissioner",
+    "file": "high.json",
+    "definition": "a person with a commission: such as",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The commissioner is remarkable."
+  },
+  {
+    "word": "consultant",
+    "file": "high.json",
+    "definition": "a person who gives professional advice or services to companies for a fee",
+    "partOfSpeech": "noun",
+    "current_sentence": "The consultant gave advice."
+  },
+  {
+    "word": "correlation",
+    "file": "high.json",
+    "definition": "the state or relation of being correlated; specifically : a relation existing between phenomena or things or between mathematical or statistical variables which tend to vary, be associated, or occur together in a way not expected on the basis of chance alone",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The correlation is remarkable."
+  },
+  {
+    "word": "crayon",
+    "file": "high.json",
+    "definition": "a stick of white or colored chalk or of colored wax used for writing or drawing",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Color with crayons."
+  },
+  {
+    "word": "defender",
+    "file": "high.json",
+    "definition": "one that defends",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The defender blocked the shot."
+  },
+  {
+    "word": "dioxide",
+    "file": "high.json",
+    "definition": "a molecule that has two atoms of oxygen and one atom of another element (such as carbon)",
+    "partOfSpeech": "noun",
+    "current_sentence": "Plants absorb carbon dioxide."
+  },
+  {
+    "word": "documentation",
+    "file": "high.json",
+    "definition": "the act or an instance of furnishing or authenticating with documents",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The documentation is remarkable."
+  },
+  {
+    "word": "economist",
+    "file": "high.json",
+    "definition": "a person who studies or specializes in economics (sense 1)",
+    "partOfSpeech": "noun",
+    "current_sentence": "Economists are predicting rapid inflation."
+  },
+  {
+    "word": "empire",
+    "file": "high.json",
+    "definition": "a group of countries or regions that are controlled by one ruler or one government; especially : a group of countries ruled by an emperor or empress",
+    "partOfSpeech": "noun",
+    "current_sentence": "The British Empire was large."
+  },
+  {
+    "word": "equinox",
+    "file": "high.json",
+    "definition": "either of the two points on the celestial sphere where the celestial equator intersects the ecliptic",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The equinox is remarkable."
+  },
+  {
+    "word": "excessive",
+    "file": "high.json",
+    "definition": "going beyond what is usual, normal, or proper",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Excessive noise is harmful."
+  },
+  {
+    "word": "exclude",
+    "file": "high.json",
+    "definition": "to prevent or restrict the entrance of",
+    "partOfSpeech": "動詞",
+    "current_sentence": "The rules exclude certain participants."
+  },
+  {
+    "word": "fascination",
+    "file": "high.json",
+    "definition": "the quality or power of fascinating",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Her fascination with stars grew."
+  },
+  {
+    "word": "garment",
+    "file": "high.json",
+    "definition": "a piece of clothing",
+    "partOfSpeech": "noun",
+    "current_sentence": "expensive silk garments"
+  },
+  {
+    "word": "German",
+    "file": "high.json",
+    "definition": "a person born, raised, or living in Germany : a person whose family is from Germany",
+    "partOfSpeech": "noun",
+    "current_sentence": "She is learning German."
+  },
+  {
+    "word": "grandchild",
+    "file": "high.json",
+    "definition": "a child of your son or daughter",
+    "partOfSpeech": "noun",
+    "current_sentence": "She loves her grandchild."
+  },
+  {
+    "word": "grandson",
+    "file": "high.json",
+    "definition": "a son of your son or daughter",
+    "partOfSpeech": "noun",
+    "current_sentence": "His grandson visits every week."
+  },
+  {
+    "word": "helmet",
+    "file": "high.json",
+    "definition": "a hard hat that is worn to protect your head",
+    "partOfSpeech": "noun",
+    "current_sentence": "Wear a helmet when cycling."
+  },
+  {
+    "word": "historian",
+    "file": "high.json",
+    "definition": "a person who studies or writes about history",
+    "partOfSpeech": "noun",
+    "current_sentence": "The historian wrote many books."
+  },
+  {
+    "word": "hockey",
+    "file": "high.json",
+    "definition": "ice hockey",
+    "partOfSpeech": "noun",
+    "current_sentence": "Hockey is popular in Canada."
+  },
+  {
+    "word": "illegal",
+    "file": "high.json",
+    "definition": "not allowed by the law : not legal",
+    "partOfSpeech": "adjective",
+    "current_sentence": "illegal [=illicit, unlawful] drugs"
+  },
+  {
+    "word": "illegally",
+    "file": "high.json",
+    "definition": "not allowed by the law : not legal",
+    "partOfSpeech": "adjective",
+    "current_sentence": "He parked illegally."
+  },
+  {
+    "word": "imprisonment",
+    "file": "high.json",
+    "definition": "to put in or as if in prison : confine",
+    "partOfSpeech": "動詞",
+    "current_sentence": "The imprisonment lasted five years."
+  },
+  {
+    "word": "inquiry",
+    "file": "high.json",
+    "definition": "a request for information —often + into",
+    "partOfSpeech": "noun",
+    "current_sentence": "The police conducted an inquiry."
+  },
+  {
+    "word": "inspector",
+    "file": "high.json",
+    "definition": "a person whose job is to inspect something",
+    "partOfSpeech": "noun",
+    "current_sentence": "a building inspector"
+  },
+  {
+    "word": "instructor",
+    "file": "high.json",
+    "definition": "a person who teaches a subject or skill : someone who instructs people",
+    "partOfSpeech": "noun",
+    "current_sentence": "a swimming/driving instructor"
+  },
+  {
+    "word": "interaction",
+    "file": "high.json",
+    "definition": "mutual or reciprocal action or influence",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Social interaction is important."
+  },
+  {
+    "word": "inventory",
+    "file": "high.json",
+    "definition": "a complete list of the things that are in a place",
+    "partOfSpeech": "noun",
+    "current_sentence": "an inventory of supplies"
+  },
+  {
+    "word": "investigate",
+    "file": "high.json",
+    "definition": "to observe or study by close examination and systematic inquiry",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They investigate every day."
+  },
+  {
+    "word": "Irish",
+    "file": "high.json",
+    "definition": "of or relating to Ireland, its people, or the Gaelic language that is spoken in Ireland",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Irish culture is rich."
+  },
+  {
+    "word": "Italian",
+    "file": "high.json",
+    "definition": "a person born, raised, or living in Italy",
+    "partOfSpeech": "noun",
+    "current_sentence": "Italian food is delicious."
+  },
+  {
+    "word": "kangaroo",
+    "file": "high.json",
+    "definition": "any of various herbivorous leaping marsupial mammals (family Macropodidae) of Australia, New Guinea, and adjacent islands with a small head, large ears, long powerful hind legs, a long thick tail used as a support and in balancing, and rather small forelegs not used in locomotion",
+    "partOfSpeech": "名詞",
+    "current_sentence": "A kangaroo hops."
+  },
+  {
+    "word": "kindergarten",
+    "file": "high.json",
+    "definition": "a school or class for children usually from five to six years old",
+    "partOfSpeech": "名詞",
+    "current_sentence": "My child starts kindergarten."
+  },
+  {
+    "word": "Korean",
+    "file": "high.json",
+    "definition": "a person born, raised, or living in Korea : a person whose family is from Korea",
+    "partOfSpeech": "noun",
+    "current_sentence": "Korean music is popular worldwide."
+  },
+  {
+    "word": "landlord",
+    "file": "high.json",
+    "definition": "a person who owns a house, apartment, etc., and rents it to other people",
+    "partOfSpeech": "noun",
+    "current_sentence": "The landlord raised the rent."
+  },
+  {
+    "word": "largely",
+    "file": "high.json",
+    "definition": "not completely but mostly",
+    "partOfSpeech": "adverb",
+    "current_sentence": "The story is largely true."
+  },
+  {
+    "word": "Latin",
+    "file": "high.json",
+    "definition": "the language of ancient Rome",
+    "partOfSpeech": "noun",
+    "current_sentence": "Latin is an ancient language."
+  },
+  {
+    "word": "locomotive",
+    "file": "high.json",
+    "definition": "the vehicle that produces the power that pulls a train",
+    "partOfSpeech": "noun",
+    "current_sentence": "She looks locomotive today."
+  },
+  {
+    "word": "logo",
+    "file": "high.json",
+    "definition": "a symbol that is used to identify a company and that appears on its products",
+    "partOfSpeech": "noun",
+    "current_sentence": "T-shirts with corporate logos"
+  },
+  {
+    "word": "lorry",
+    "file": "high.json",
+    "definition": "truck",
+    "partOfSpeech": "noun",
+    "current_sentence": "The lorry delivered goods."
+  },
+  {
+    "word": "lucrative",
+    "file": "high.json",
+    "definition": "producing money or wealth : profitable",
+    "partOfSpeech": "adjective",
+    "current_sentence": "It is a lucrative business."
+  },
+  {
+    "word": "marsh",
+    "file": "high.json",
+    "definition": "an area of soft, wet land that has many grasses and other plants",
+    "partOfSpeech": "noun",
+    "current_sentence": "wetlands and marshes"
+  },
+  {
+    "word": "mason",
+    "file": "high.json",
+    "definition": "a skilled worker who builds or works with stone, brick, or concrete",
+    "partOfSpeech": "noun",
+    "current_sentence": "The mason built the wall."
+  },
+  {
+    "word": "maturity",
+    "file": "high.json",
+    "definition": "the condition of being mature: such as",
+    "partOfSpeech": "noun",
+    "current_sentence": "He showed great maturity."
+  },
+  {
+    "word": "mayor",
+    "file": "high.json",
+    "definition": "an official who is elected to be the head of the government of a city or town",
+    "partOfSpeech": "noun",
+    "current_sentence": "The mayor gave a speech."
+  },
+  {
+    "word": "meaningless",
+    "file": "high.json",
+    "definition": "having no meaning",
+    "partOfSpeech": "adjective",
+    "current_sentence": "a meaningless phrase"
+  },
+  {
+    "word": "mechanic",
+    "file": "high.json",
+    "definition": "a person who repairs machines (such as car engines) and keeps them running properly",
+    "partOfSpeech": "noun",
+    "current_sentence": "The mechanic fixed my car."
+  },
+  {
+    "word": "median",
+    "file": "high.json",
+    "definition": "the middle value in a series of values arranged from smallest to largest",
+    "partOfSpeech": "noun",
+    "current_sentence": "The median income has risen."
+  },
+  {
+    "word": "mercury",
+    "file": "high.json",
+    "definition": "a silver metal that is liquid at normal temperatures",
+    "partOfSpeech": "noun",
+    "current_sentence": "Mercury is a planet."
+  },
+  {
+    "word": "microphone",
+    "file": "high.json",
+    "definition": "a device into which people speak or sing in order to record their voices or to make them sound louder —called also (informal) mike",
+    "partOfSpeech": "noun",
+    "current_sentence": "Speak into the microphone."
+  },
+  {
+    "word": "miller",
+    "file": "high.json",
+    "definition": "a person who works in or is in charge of a flour mill",
+    "partOfSpeech": "noun",
+    "current_sentence": "The miller ground the wheat."
+  },
+  {
+    "word": "milligram",
+    "file": "high.json",
+    "definition": "a weight equal to 1/1000 gram",
+    "partOfSpeech": "noun",
+    "current_sentence": "The dose is 500 milligrams."
+  },
+  {
+    "word": "millimeter",
+    "file": "high.json",
+    "definition": "a length equal to 1/1000 meter",
+    "partOfSpeech": "noun",
+    "current_sentence": "It measures five millimeters."
+  },
+  {
+    "word": "musician",
+    "file": "high.json",
+    "definition": "a person who writes, sings, or plays music",
+    "partOfSpeech": "noun",
+    "current_sentence": "She's a very talented musician."
+  },
+  {
+    "word": "narration",
+    "file": "high.json",
+    "definition": "the act or process of telling a story or describing what happens",
+    "partOfSpeech": "noun",
+    "current_sentence": "the narration of events"
+  },
+  {
+    "word": "nationwide",
+    "file": "high.json",
+    "definition": "including or involving all parts of a nation or country",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The murders attracted nationwide attention."
+  },
+  {
+    "word": "naval",
+    "file": "high.json",
+    "definition": "of or relating to a country's navy",
+    "partOfSpeech": "adjective",
+    "current_sentence": "He joined the naval academy."
+  },
+  {
+    "word": "nearby",
+    "file": "high.json",
+    "definition": "not far away : located at a short distance from someone or something",
+    "partOfSpeech": "adjective",
+    "current_sentence": "There is a store nearby."
+  },
+  {
+    "word": "newsletter",
+    "file": "high.json",
+    "definition": "a short written report that tells about the recent activities of an organization and that is sent to members of the organization",
+    "partOfSpeech": "noun",
+    "current_sentence": "the club's monthly newsletter"
+  },
+  {
+    "word": "nineteenth",
+    "file": "high.json",
+    "definition": "the number 19",
+    "partOfSpeech": "noun",
+    "current_sentence": "It is the nineteenth century."
+  },
+  {
+    "word": "nobility",
+    "file": "high.json",
+    "definition": "the quality or state of being noble in character or quality",
+    "partOfSpeech": "noun",
+    "current_sentence": "the nobility of his character"
+  },
+  {
+    "word": "oak",
+    "file": "high.json",
+    "definition": "a type of tree that grows in northern parts of the world and that produces acorns —called also oak tree",
+    "partOfSpeech": "noun",
+    "current_sentence": "Tall oaks line the street."
+  },
+  {
+    "word": "operator",
+    "file": "high.json",
+    "definition": "a person who uses and controls something (such as a machine, device, or business) : someone who operates something",
+    "partOfSpeech": "noun",
+    "current_sentence": "The operator answered the call."
+  },
+  {
+    "word": "outpatient",
+    "file": "high.json",
+    "definition": "a person who goes to a doctor's office or hospital for treatment but who does not spend the night there—often used before another noun",
+    "partOfSpeech": "noun",
+    "current_sentence": "He is an outpatient."
+  },
+  {
+    "word": "overcrowd",
+    "file": "high.json",
+    "definition": "to cause to be too crowded",
+    "partOfSpeech": "動詞",
+    "current_sentence": "Don't overcrowd the room."
+  },
+  {
+    "word": "pamphlet",
+    "file": "high.json",
+    "definition": "a small, thin book with no cover or only a paper cover that has information about a particular subject",
+    "partOfSpeech": "noun",
+    "current_sentence": "Read the pamphlet."
+  },
+  {
+    "word": "parsley",
+    "file": "high.json",
+    "definition": "a plant with small green leaves that are used to season or decorate food",
+    "partOfSpeech": "noun",
+    "current_sentence": "Add parsley for flavor."
+  },
+  {
+    "word": "participation",
+    "file": "high.json",
+    "definition": "the act of participating",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Participation is mandatory."
+  },
+  {
+    "word": "persecution",
+    "file": "high.json",
+    "definition": "the act or practice of persecuting especially those who differ in origin, religion, or social outlook",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Religious persecution drove them away."
+  },
+  {
+    "word": "Persian",
+    "file": "high.json",
+    "definition": "a type of cat that has a round head and long, soft fur",
+    "partOfSpeech": "noun",
+    "current_sentence": "Persian rugs are beautiful."
+  },
+  {
+    "word": "petroleum",
+    "file": "high.json",
+    "definition": "a kind of oil that comes from below the ground and that is the source of gasoline and other products",
+    "partOfSpeech": "noun",
+    "current_sentence": "Petroleum is used for fuel."
+  },
+  {
+    "word": "pianist",
+    "file": "high.json",
+    "definition": "a person who plays the piano",
+    "partOfSpeech": "noun",
+    "current_sentence": "The pianist played beautifully."
+  },
+  {
+    "word": "piano",
+    "file": "high.json",
+    "definition": "a large musical instrument with a keyboard that you play by pressing black and white keys and that produces sound when small hammers inside the piano hit steel wires",
+    "partOfSpeech": "noun",
+    "current_sentence": "Do you play the piano?"
+  },
+  {
+    "word": "pier",
+    "file": "high.json",
+    "definition": "a structure that goes out from a shore into the water",
+    "partOfSpeech": "noun",
+    "current_sentence": "We walked along the pier."
+  },
+  {
+    "word": "pineapple",
+    "file": "high.json",
+    "definition": "a large fruit that grows on a tropical tree and that has thick skin and very sweet, juicy, yellow flesh",
+    "partOfSpeech": "noun",
+    "current_sentence": "a can of chopped pineapple"
+  },
+  {
+    "word": "pirate",
+    "file": "high.json",
+    "definition": "someone who attacks and steals from a ship at sea —often used before another noun",
+    "partOfSpeech": "noun",
+    "current_sentence": "the famous pirate Jean Lafitte"
+  },
+  {
+    "word": "pistol",
+    "file": "high.json",
+    "definition": "a small gun made to be aimed and fired with one hand",
+    "partOfSpeech": "noun",
+    "current_sentence": "The officer carried a pistol."
+  },
+  {
+    "word": "podcast",
+    "file": "high.json",
+    "definition": "a program (such as a music or news program) that is like a radio or television show but that is downloaded over the Internet",
+    "partOfSpeech": "noun",
+    "current_sentence": "I listen to podcasts."
+  },
+  {
+    "word": "polo",
+    "file": "high.json",
+    "definition": "a game played by two teams of four players who ride horses while using long mallets to hit a wooden ball into a goal",
+    "partOfSpeech": "noun",
+    "current_sentence": "Polo is played on horseback."
+  },
+  {
+    "word": "porridge",
+    "file": "high.json",
+    "definition": "oatmeal",
+    "partOfSpeech": "noun",
+    "current_sentence": "I eat porridge for breakfast."
+  },
+  {
+    "word": "portfolio",
+    "file": "high.json",
+    "definition": "a flat case for carrying documents or drawings",
+    "partOfSpeech": "noun",
+    "current_sentence": "Show me your portfolio."
+  },
+  {
+    "word": "portrayal",
+    "file": "high.json",
+    "definition": "the act of showing or describing someone or something especially in a painting, book, etc.—often + of",
+    "partOfSpeech": "noun",
+    "current_sentence": "The portrayal house is big."
+  },
+  {
+    "word": "postwar",
+    "file": "high.json",
+    "definition": "happening, existing, or made after a war; especially : happening, existing, or made after World War II",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The postwar era brought change."
+  },
+  {
+    "word": "precede",
+    "file": "high.json",
+    "definition": "to happen, go, or come before (something or someone)",
+    "partOfSpeech": "verb",
+    "current_sentence": "Riots preceded the civil war."
+  },
+  {
+    "word": "preferable",
+    "file": "high.json",
+    "definition": "better or more desirable —often + to",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Walking is preferable to driving."
+  },
+  {
+    "word": "prepaid",
+    "file": "high.json",
+    "definition": "a person, place, thing, or concept",
+    "partOfSpeech": "noun",
+    "current_sentence": "I have a prepaid phone."
+  },
+  {
+    "word": "preschool",
+    "file": "high.json",
+    "definition": "a school for very young children —called also nursery school",
+    "partOfSpeech": "noun",
+    "current_sentence": "My daughter attends preschool."
+  },
+  {
+    "word": "presidency",
+    "file": "high.json",
+    "definition": "the job of a president or the period of time when a person is president—usually singular",
+    "partOfSpeech": "noun",
+    "current_sentence": "He won the presidency."
+  },
+  {
+    "word": "prestigious",
+    "file": "high.json",
+    "definition": "having prestige : honored",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was very prestigious."
+  },
+  {
+    "word": "primate",
+    "file": "high.json",
+    "definition": "any member of the group of animals that includes human beings, apes, and monkeys",
+    "partOfSpeech": "noun",
+    "current_sentence": "He will primate soon."
+  },
+  {
+    "word": "procurement",
+    "file": "high.json",
+    "definition": "the act or process of procuring; especially : the obtaining of military supplies by a government",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Government procurement follows strict rules."
+  },
+  {
+    "word": "profitable",
+    "file": "high.json",
+    "definition": "making money",
+    "partOfSpeech": "adjective",
+    "current_sentence": "a profitable business"
+  },
+  {
+    "word": "prohibit",
+    "file": "high.json",
+    "definition": "to forbid by authority : enjoin",
+    "partOfSpeech": "動詞",
+    "current_sentence": "The laws prohibit smoking here."
+  },
+  {
+    "word": "projector",
+    "file": "high.json",
+    "definition": "a machine that projects a movie or picture onto a screen",
+    "partOfSpeech": "noun",
+    "current_sentence": "Turn on the projector."
+  },
+  {
+    "word": "prologue",
+    "file": "high.json",
+    "definition": "an introduction to a book, play, etc. —often used figuratively",
+    "partOfSpeech": "noun",
+    "current_sentence": "The book has a prologue."
+  },
+  {
+    "word": "propagation",
+    "file": "high.json",
+    "definition": "the act or action of propagating: such as",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Propagation of plants is easy."
+  },
+  {
+    "word": "prosecutor",
+    "file": "high.json",
+    "definition": "a lawyer who represents the side in a court case that accuses a person of a crime and who tries to prove that the person is guilty",
+    "partOfSpeech": "noun",
+    "current_sentence": "The prosecutor presented evidence."
+  },
+  {
+    "word": "proverb",
+    "file": "high.json",
+    "definition": "a brief popular saying (such as \"Too many cooks spoil the broth\") that gives advice about how people should live or that expresses a belief that is generally thought to be true",
+    "partOfSpeech": "noun",
+    "current_sentence": "The proverb teaches wisdom."
+  },
+  {
+    "word": "psychiatric",
+    "file": "high.json",
+    "definition": "a branch of medicine that deals with mental or emotional disorders",
+    "partOfSpeech": "noun",
+    "current_sentence": "The psychiatric house is big."
+  },
+  {
+    "word": "psychiatrist",
+    "file": "high.json",
+    "definition": "a doctor who treats mental or emotional disorders : a doctor of psychiatry",
+    "partOfSpeech": "noun",
+    "current_sentence": "Understanding psychiatrist requires careful thought."
+  },
+  {
+    "word": "psychic",
+    "file": "high.json",
+    "definition": "—used to describe strange mental powers and abilities (such as the ability to predict the future, to know what other people are thinking, or to receive messages from dead people) that cannot be explained by natural laws",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The weather is psychic today."
+  },
+  {
+    "word": "punctual",
+    "file": "high.json",
+    "definition": "arriving or doing something at the expected or planned time",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The trains were punctual."
+  },
+  {
+    "word": "punctuation",
+    "file": "high.json",
+    "definition": "the marks (such as periods and commas) in a piece of writing that make its meaning clear and that separate it into sentences, clauses, etc.",
+    "partOfSpeech": "noun",
+    "current_sentence": "grammar, punctuation, and spelling"
+  },
+  {
+    "word": "quake",
+    "file": "high.json",
+    "definition": "to shake because of fear, anger, etc. : tremble",
+    "partOfSpeech": "verb",
+    "current_sentence": "He quaked with fear."
+  },
+  {
+    "word": "quotation",
+    "file": "high.json",
+    "definition": "something that a person says or writes that is repeated or used by someone else in another piece of writing or a speech",
+    "partOfSpeech": "noun",
+    "current_sentence": "literary/illustrative quotations [=quotes]"
+  },
+  {
+    "word": "rabbi",
+    "file": "high.json",
+    "definition": "a person who is trained to make decisions about what is lawful in Judaism, to perform Jewish ceremonies, or to lead a Jewish congregation",
+    "partOfSpeech": "noun",
+    "current_sentence": "He is a rabbi."
+  },
+  {
+    "word": "racket",
+    "file": "high.json",
+    "definition": "a piece of sports equipment that is used to hit a ball or other object in games like tennis, badminton, squash, etc.",
+    "partOfSpeech": "noun",
+    "current_sentence": "a tennis racket"
+  },
+  {
+    "word": "raincoat",
+    "file": "high.json",
+    "definition": "a coat that you wear when it rains in order to stay dry",
+    "partOfSpeech": "noun",
+    "current_sentence": "Wear a raincoat today."
+  },
+  {
+    "word": "rancher",
+    "file": "high.json",
+    "definition": "a person who lives or works on a ranch",
+    "partOfSpeech": "noun",
+    "current_sentence": "The rancher raised cattle."
+  },
+  {
+    "word": "rapidly",
+    "file": "high.json",
+    "definition": "happening in a short amount of time : happening quickly",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Technology changes rapidly."
+  },
+  {
+    "word": "raspberry",
+    "file": "high.json",
+    "definition": "a soft, red berry that is sweet and juicy",
+    "partOfSpeech": "noun",
+    "current_sentence": "I like raspberry jam."
+  },
+  {
+    "word": "recruitment",
+    "file": "high.json",
+    "definition": "the action or process of recruiting",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Recruitment begins next month."
+  },
+  {
+    "word": "rectangle",
+    "file": "high.json",
+    "definition": "a four-sided shape that is made up of two pairs of parallel lines and that has four right angles; especially : a shape in which one pair of lines is longer than the other pair",
+    "partOfSpeech": "noun",
+    "current_sentence": "A rectangle has four sides."
+  },
+  {
+    "word": "redevelopment",
+    "file": "high.json",
+    "definition": "the act or process of redeveloping; especially : renovation of a blighted area",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Urban redevelopment transformed the area."
+  },
+  {
+    "word": "reelection",
+    "file": "high.json",
+    "definition": "to elect for another term in office",
+    "partOfSpeech": "動詞",
+    "current_sentence": "His reelection was expected."
+  },
+  {
+    "word": "reentry",
+    "file": "high.json",
+    "definition": "a retaking possession; especially : entry by a lessor on leased premises on the tenant's failure to perform the conditions of the lease",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Spacecraft reentry is dangerous."
+  },
+  {
+    "word": "referee",
+    "file": "high.json",
+    "definition": "a person who makes sure that players act according to the rules of a game or sport",
+    "partOfSpeech": "noun",
+    "current_sentence": "The referee made a call."
+  },
+  {
+    "word": "reformist",
+    "file": "high.json",
+    "definition": "wanting to change and improve a society, government, etc.",
+    "partOfSpeech": "adjective",
+    "current_sentence": "He had reformist ideas."
+  },
+  {
+    "word": "regionally",
+    "file": "high.json",
+    "definition": "a part of a country, of the world, etc., that is different or separate from other parts in some way —often + of",
+    "partOfSpeech": "noun",
+    "current_sentence": "The product is sold regionally."
+  },
+  {
+    "word": "regularity",
+    "file": "high.json",
+    "definition": "the quality of being regular: such as",
+    "partOfSpeech": "noun",
+    "current_sentence": "Exercise with regularity."
+  },
+  {
+    "word": "reindeer",
+    "file": "high.json",
+    "definition": "a large type of deer that lives in northern parts of the world : caribou",
+    "partOfSpeech": "noun",
+    "current_sentence": "Reindeer live in cold climates."
+  },
+  {
+    "word": "relativity",
+    "file": "high.json",
+    "definition": "a theory developed by Albert Einstein which says that the way that anything except light moves through time and space depends on the position and movement of someone who is watching",
+    "partOfSpeech": "noun",
+    "current_sentence": "Einstein developed relativity."
+  },
+  {
+    "word": "reliably",
+    "file": "high.json",
+    "definition": "able to be trusted to do or provide what is needed : able to be relied on",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The car runs reliably."
+  },
+  {
+    "word": "reliant",
+    "file": "high.json",
+    "definition": "needing someone or something for help, support, etc. : dependent—usually + on or upon",
+    "partOfSpeech": "adjective",
+    "current_sentence": "She is self-reliant."
+  },
+  {
+    "word": "relocation",
+    "file": "high.json",
+    "definition": "to locate again : establish or lay out in a new place",
+    "partOfSpeech": "動詞",
+    "current_sentence": "Job relocation requires careful planning."
+  },
+  {
+    "word": "reorganization",
+    "file": "high.json",
+    "definition": "the act or process of reorganizing : the state of being reorganized; especially : the financial reconstruction of a business concern",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Company reorganization affected everyone."
+  },
+  {
+    "word": "repeatedly",
+    "file": "high.json",
+    "definition": "said, done, or happening again and again",
+    "partOfSpeech": "adjective",
+    "current_sentence": "He asked repeatedly."
+  },
+  {
+    "word": "rescuer",
+    "file": "high.json",
+    "definition": "to free from confinement, danger, or evil : save, deliver : such as",
+    "partOfSpeech": "動詞",
+    "current_sentence": "The rescuer saved three people."
+  },
+  {
+    "word": "respectful",
+    "file": "high.json",
+    "definition": "showing or having respect —often + of",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Be respectful to elders."
+  },
+  {
+    "word": "restive",
+    "file": "high.json",
+    "definition": "stubbornly resisting control : balky",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly restive."
+  },
+  {
+    "word": "reusable",
+    "file": "high.json",
+    "definition": "capable of being used again or repeatedly",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "Bring a reusable shopping bag."
+  },
+  {
+    "word": "revengeful",
+    "file": "high.json",
+    "definition": "the act of doing something to hurt someone because that person did something that hurt you",
+    "partOfSpeech": "noun",
+    "current_sentence": "He felt revengeful."
+  },
+  {
+    "word": "revolver",
+    "file": "high.json",
+    "definition": "a small gun with a container for bullets that turns after the gun is fired and puts another bullet into position to be fired next",
+    "partOfSpeech": "noun",
+    "current_sentence": "The cowboy had a revolver."
+  },
+  {
+    "word": "rewire",
+    "file": "high.json",
+    "definition": "to put new electrical wires in (a building, machine, etc.)",
+    "partOfSpeech": "verb",
+    "current_sentence": "He rewired the entire house."
+  },
+  {
+    "word": "rhinoceros",
+    "file": "high.json",
+    "definition": "a large, heavy animal of Africa and Asia that has thick skin and either one or two large horns on its nose",
+    "partOfSpeech": "noun",
+    "current_sentence": "These rhinoceros are important."
+  },
+  {
+    "word": "rhythmical",
+    "file": "high.json",
+    "definition": "having a regular repeated pattern of sounds or movements",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The dance was rhythmical."
+  },
+  {
+    "word": "rightist",
+    "file": "high.json",
+    "definition": "a person who belongs to or supports the political Right",
+    "partOfSpeech": "noun",
+    "current_sentence": "He has rightist views."
+  },
+  {
+    "word": "rink",
+    "file": "high.json",
+    "definition": "an often enclosed area that has a special surface of ice, smooth pavement, etc., and that is used for skating",
+    "partOfSpeech": "noun",
+    "current_sentence": "an ice-skating/roller-skating rink"
+  },
+  {
+    "word": "riverside",
+    "file": "high.json",
+    "definition": "the land that is next to a river —often used before another noun",
+    "partOfSpeech": "noun",
+    "current_sentence": "We walked along the riverside."
+  },
+  {
+    "word": "robbery",
+    "file": "high.json",
+    "definition": "the crime of stealing money or property : the crime of robbing a person or place",
+    "partOfSpeech": "noun",
+    "current_sentence": "The robbery was reported."
+  },
+  {
+    "word": "robotics",
+    "file": "high.json",
+    "definition": "technology that is used to design, build, and operate robots",
+    "partOfSpeech": "noun",
+    "current_sentence": "These robotics are important."
+  },
+  {
+    "word": "router",
+    "file": "high.json",
+    "definition": "a machine used for cutting a groove into the surface of wood or metal",
+    "partOfSpeech": "noun",
+    "current_sentence": "Restart the wifi router."
+  },
+  {
+    "word": "rover",
+    "file": "high.json",
+    "definition": "a person who wanders to different places",
+    "partOfSpeech": "noun",
+    "current_sentence": "an aimless rover"
+  },
+  {
+    "word": "sand",
+    "file": "high.json",
+    "definition": "a loose granular material that results from the disintegration of rocks, consists of particles smaller than gravel but coarser than silt, and is used in mortar, glass, abrasives, and foundry molds",
+    "partOfSpeech": "名詞",
+    "current_sentence": "We built a sand castle."
+  },
+  {
+    "word": "sidewalk",
+    "file": "high.json",
+    "definition": "a usually paved walk for pedestrians at the side of a street",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "sir",
+    "file": "high.json",
+    "definition": "a man entitled to be addressed as sir —used as a title before the given name of a knight or baronet and formerly sometimes before the given name of a priest",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "stereotype",
+    "file": "high.json",
+    "definition": "to make a stereotype from",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They stereotype every day."
+  },
+  {
+    "word": "tenable",
+    "file": "high.json",
+    "definition": "capable of being held, maintained, or defended : defensible, reasonable",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her tenable manner impressed everyone."
+  },
+  {
+    "word": "tennis",
+    "file": "high.json",
+    "definition": "an indoor or outdoor game that is played with rackets and a light elastic ball by two players or pairs of players on a level court (as of clay or grass) divided by a low net",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "transparent",
+    "file": "high.json",
+    "definition": "having the property of transmitting light without appreciable scattering so that bodies lying beyond are seen clearly : pellucid",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was very transparent."
+  },
+  {
+    "word": "unanimous",
+    "file": "high.json",
+    "definition": "formed with or indicating unanimity : having the agreement and consent of all",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was very unanimous."
+  },
+  {
+    "word": "visitor",
+    "file": "high.json",
+    "definition": "one that visits; especially : one that makes formal visits of inspection",
+    "partOfSpeech": "名詞",
+    "current_sentence": "We have a visitor."
+  },
+  {
+    "word": "wary",
+    "file": "high.json",
+    "definition": "marked by keen caution, cunning, and watchfulness especially in detecting and escaping danger",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her wary manner impressed everyone."
+  },
+  {
+    "word": "waterfall",
+    "file": "high.json",
+    "definition": "a perpendicular or very steep descent of the water of a stream",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The waterfall was beautiful."
+  },
+  {
+    "word": "agoraphobia",
+    "file": "university.json",
+    "definition": "abnormal fear of being helpless in a situation from which escape may be difficult or embarrassing that is characterized initially often by panic or anticipatory anxiety and finally by the avoidance of open or public places",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The agoraphobia is remarkable."
+  },
+  {
+    "word": "analogical",
+    "file": "university.json",
+    "definition": "of, relating to, or based on analogy",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite analogical."
+  },
+  {
+    "word": "arbitration",
+    "file": "university.json",
+    "definition": "the action of arbitrating; especially : the hearing and determination of a disputed case by an arbiter",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The arbitration is remarkable."
+  },
+  {
+    "word": "basilica",
+    "file": "university.json",
+    "definition": "an oblong building ending in a semicircular apse used in ancient Rome especially for a court of justice and place of public assembly",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The basilica is remarkable."
+  },
+  {
+    "word": "carcinogen",
+    "file": "university.json",
+    "definition": "a substance or agent causing cancer",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The carcinogen is remarkable."
+  },
+  {
+    "word": "carouse",
+    "file": "university.json",
+    "definition": "to drink liquor freely or excessively",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They carouse regularly."
+  },
+  {
+    "word": "cartography",
+    "file": "university.json",
+    "definition": "the science or art of making maps",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The cartography is remarkable."
+  },
+  {
+    "word": "cataclysm",
+    "file": "university.json",
+    "definition": "flood, deluge",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The cataclysm is remarkable."
+  },
+  {
+    "word": "chrysalis",
+    "file": "university.json",
+    "definition": "a pupa of a butterfly; broadly : an insect pupa",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The chrysalis is remarkable."
+  },
+  {
+    "word": "commander",
+    "file": "university.json",
+    "definition": "a person who is in charge of a group of people —often used as a title",
+    "partOfSpeech": "noun",
+    "current_sentence": "The commander led the troops."
+  },
+  {
+    "word": "condolence",
+    "file": "university.json",
+    "definition": "sympathy with another in sorrow",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The condolence is remarkable."
+  },
+  {
+    "word": "confederation",
+    "file": "university.json",
+    "definition": "an act of confederating : a state of being confederated : alliance",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The confederation is remarkable."
+  },
+  {
+    "word": "congregation",
+    "file": "university.json",
+    "definition": "an assembly of persons : gathering; especially : an assembly of persons met for worship and religious instruction",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The congregation is remarkable."
+  },
+  {
+    "word": "contemptuous",
+    "file": "university.json",
+    "definition": "manifesting, feeling, or expressing deep hatred or disapproval : feeling or showing contempt",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite contemptuous."
+  },
+  {
+    "word": "dexterity",
+    "file": "university.json",
+    "definition": "readiness and grace in physical activity; especially : skill and ease in using the hands",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The dexterity is remarkable."
+  },
+  {
+    "word": "discrepancy",
+    "file": "university.json",
+    "definition": "the quality or state of disagreeing or being at variance",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The discrepancy is interesting."
+  },
+  {
+    "word": "dissertation",
+    "file": "university.json",
+    "definition": "an extended usually written treatment of a subject; specifically : one submitted for a doctorate",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The dissertation is remarkable."
+  },
+  {
+    "word": "earthquake",
+    "file": "university.json",
+    "definition": "a shaking of a part of the Earth's surface that often causes great damage —called also quake",
+    "partOfSpeech": "noun",
+    "current_sentence": "a devastating earthquake"
+  },
+  {
+    "word": "emancipate",
+    "file": "university.json",
+    "definition": "to free from restraint, control, or the power of another; especially : to free from bondage",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They emancipate every day."
+  },
+  {
+    "word": "empiricism",
+    "file": "university.json",
+    "definition": "a former school of medical practice founded on experience without the aid of science or theory",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The empiricism is remarkable."
+  },
+  {
+    "word": "epilogue",
+    "file": "university.json",
+    "definition": "a concluding section that rounds out the design of a literary work",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The epilogue is remarkable."
+  },
+  {
+    "word": "epithet",
+    "file": "university.json",
+    "definition": "a characterizing word or phrase accompanying or occurring in place of the name of a person or thing",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The epithet is remarkable."
+  },
+  {
+    "word": "exorcism",
+    "file": "university.json",
+    "definition": "the act or practice of exorcising",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The exorcism is remarkable."
+  },
+  {
+    "word": "firearms",
+    "file": "university.json",
+    "definition": "a small gun",
+    "partOfSpeech": "noun",
+    "current_sentence": "revolvers, rifles, and other firearms"
+  },
+  {
+    "word": "garrison",
+    "file": "university.json",
+    "definition": "a military camp, fort, or base",
+    "partOfSpeech": "noun",
+    "current_sentence": "troops defending the garrison"
+  },
+  {
+    "word": "iterate",
+    "file": "university.json",
+    "definition": "to say or do again or again and again : reiterate",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They iterate regularly."
+  },
+  {
+    "word": "laconic",
+    "file": "university.json",
+    "definition": "using or involving the use of a minimum of words : concise to the point of seeming rude or mysterious",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her laconic manner impressed everyone."
+  },
+  {
+    "word": "magistrate",
+    "file": "university.json",
+    "definition": "a local official who has some of the powers of a judge",
+    "partOfSpeech": "noun",
+    "current_sentence": "The magistrate heard the case."
+  },
+  {
+    "word": "ministerial",
+    "file": "university.json",
+    "definition": "of or relating to a government minister",
+    "partOfSpeech": "adjective",
+    "current_sentence": "She holds a ministerial office."
+  },
+  {
+    "word": "nationalization",
+    "file": "university.json",
+    "definition": "to give a national character to",
+    "partOfSpeech": "動詞",
+    "current_sentence": "Nationalization of the industry occurred."
+  },
+  {
+    "word": "neuron",
+    "file": "university.json",
+    "definition": "a cell that carries messages between the brain and other parts of the body and that is the basic unit of the nervous system : nerve cell",
+    "partOfSpeech": "noun",
+    "current_sentence": "A neuron transmits signals."
+  },
+  {
+    "word": "neutron",
+    "file": "university.json",
+    "definition": "a very small particle of matter that has no electrical charge and is part of the nucleus of all atoms except hydrogen atoms",
+    "partOfSpeech": "noun",
+    "current_sentence": "A neutron has no charge."
+  },
+  {
+    "word": "pacemaker",
+    "file": "university.json",
+    "definition": "a small electrical machine put inside a person to make the heart beat evenly",
+    "partOfSpeech": "noun",
+    "current_sentence": "He has a pacemaker."
+  },
+  {
+    "word": "pedagogy",
+    "file": "university.json",
+    "definition": "the art, science, or profession of teaching; especially : the field of study that deals mainly with methods of teaching and learning in schools : education",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The pedagogy is interesting."
+  },
+  {
+    "word": "permanence",
+    "file": "university.json",
+    "definition": "lasting or continuing for a very long time or forever : not temporary or changing",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Nothing has permanence."
+  },
+  {
+    "word": "permissible",
+    "file": "university.json",
+    "definition": "allowed or permitted by laws or rules —often + to",
+    "partOfSpeech": "adjective",
+    "current_sentence": "permissible levels of noise"
+  },
+  {
+    "word": "persevere",
+    "file": "university.json",
+    "definition": "to persist in a state, enterprise, or undertaking in spite of counterinfluences, opposition, or discouragement",
+    "partOfSpeech": "verb",
+    "current_sentence": "It is important to persevere before making decisions."
+  },
+  {
+    "word": "physique",
+    "file": "university.json",
+    "definition": "the size and shape of a person's body : build—usually singular",
+    "partOfSpeech": "noun",
+    "current_sentence": "He has an athletic physique."
+  },
+  {
+    "word": "picturesque",
+    "file": "university.json",
+    "definition": "very pretty or charming : like a painted picture",
+    "partOfSpeech": "adjective",
+    "current_sentence": "a picturesque village/setting"
+  },
+  {
+    "word": "polymer",
+    "file": "university.json",
+    "definition": "a chemical compound that is made of small molecules that are arranged in a simple repeating structure to form a larger molecule",
+    "partOfSpeech": "noun",
+    "current_sentence": "Plastic is a polymer."
+  },
+  {
+    "word": "precinct",
+    "file": "university.json",
+    "definition": "any one of the sections that a town or city is divided into when people vote in an election",
+    "partOfSpeech": "noun",
+    "current_sentence": "Go to the police precinct."
+  },
+  {
+    "word": "predominate",
+    "file": "university.json",
+    "definition": "to be more successful or powerful than other people or things—often + over",
+    "partOfSpeech": "verb",
+    "current_sentence": "We need to predominate carefully."
+  },
+  {
+    "word": "profitably",
+    "file": "university.json",
+    "definition": "making money",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The company operates profitably."
+  },
+  {
+    "word": "proliferation",
+    "file": "university.json",
+    "definition": "to grow by rapid production of new parts, cells, buds, or offspring",
+    "partOfSpeech": "動詞",
+    "current_sentence": "Nuclear proliferation is a concern."
+  },
+  {
+    "word": "proponent",
+    "file": "university.json",
+    "definition": "a person who argues for or supports something : advocate —often + of",
+    "partOfSpeech": "noun",
+    "current_sentence": "a civil rights proponent"
+  },
+  {
+    "word": "prospectus",
+    "file": "university.json",
+    "definition": "a printed statement that describes something (such as a new business or investment) and that is sent to people who may want to be involved in it or invest in it",
+    "partOfSpeech": "noun",
+    "current_sentence": "These prospectus are important."
+  },
+  {
+    "word": "prudence",
+    "file": "university.json",
+    "definition": "careful good judgment that allows someone to avoid danger or risks",
+    "partOfSpeech": "noun",
+    "current_sentence": "Act with prudence."
+  },
+  {
+    "word": "psalm",
+    "file": "university.json",
+    "definition": "a song or poem used in worship and especially one from the Bible",
+    "partOfSpeech": "noun",
+    "current_sentence": "The choir sang a psalm."
+  },
+  {
+    "word": "psychiatry",
+    "file": "university.json",
+    "definition": "a branch of medicine that deals with mental or emotional disorders",
+    "partOfSpeech": "noun",
+    "current_sentence": "Understanding psychiatry requires careful thought."
+  },
+  {
+    "word": "pureblood",
+    "file": "university.json",
+    "definition": "full-blooded",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The horse is a pureblood."
+  },
+  {
+    "word": "puritan",
+    "file": "university.json",
+    "definition": "a member of a Protestant group in England and New England in the 16th and 17th centuries that opposed many customs of the Church of England",
+    "partOfSpeech": "noun",
+    "current_sentence": "The Puritans settled in America."
+  },
+  {
+    "word": "rampage",
+    "file": "university.json",
+    "definition": "an occurrence of wild and usually destructive behavior",
+    "partOfSpeech": "noun",
+    "current_sentence": "a murderous rampage"
+  },
+  {
+    "word": "ravine",
+    "file": "university.json",
+    "definition": "a small, deep, narrow valley",
+    "partOfSpeech": "noun",
+    "current_sentence": "The ravine was deep."
+  },
+  {
+    "word": "reconsideration",
+    "file": "university.json",
+    "definition": "to consider again especially with a view to changing or reversing",
+    "partOfSpeech": "動詞",
+    "current_sentence": "The decision needs reconsideration."
+  },
+  {
+    "word": "rector",
+    "file": "university.json",
+    "definition": "a priest or minister who is in charge of a church or parish",
+    "partOfSpeech": "noun",
+    "current_sentence": "The rector led the church."
+  },
+  {
+    "word": "redact",
+    "file": "university.json",
+    "definition": "to put in writing : frame",
+    "partOfSpeech": "verb",
+    "current_sentence": "It is important to redact before making decisions."
+  },
+  {
+    "word": "redistribution",
+    "file": "university.json",
+    "definition": "to alter the distribution of : reallocate",
+    "partOfSpeech": "動詞",
+    "current_sentence": "Wealth redistribution is debated."
+  },
+  {
+    "word": "redneck",
+    "file": "university.json",
+    "definition": "a white person who lives in a small town or in the country especially in the southern U.S., who typically has a working-class job, and who is seen by others as being uneducated and having opinions and attitudes that are offensive",
+    "partOfSpeech": "noun",
+    "current_sentence": "The term redneck is informal."
+  },
+  {
+    "word": "redundancy",
+    "file": "university.json",
+    "definition": "the act of using a word, phrase, etc., that repeats something else and is therefore unnecessary",
+    "partOfSpeech": "noun",
+    "current_sentence": "Avoid redundancy in your writing."
+  },
+  {
+    "word": "refectory",
+    "file": "university.json",
+    "definition": "a large room where meals are served at a place (such as a seminary or monastery) where many people live",
+    "partOfSpeech": "noun",
+    "current_sentence": "Students eat in the refectory."
+  },
+  {
+    "word": "refrigeration",
+    "file": "university.json",
+    "definition": "to make or keep cold or cool; specifically : to freeze or chill for preservation",
+    "partOfSpeech": "動詞",
+    "current_sentence": "Refrigeration preserves food."
+  },
+  {
+    "word": "refurbishment",
+    "file": "university.json",
+    "definition": "to brighten or freshen up : renovate",
+    "partOfSpeech": "動詞",
+    "current_sentence": "The building needs refurbishment."
+  },
+  {
+    "word": "regency",
+    "file": "university.json",
+    "definition": "a government or period of time in which a person (called a regent) rules in place of a king or queen",
+    "partOfSpeech": "noun",
+    "current_sentence": "The people supported the regency."
+  },
+  {
+    "word": "regenerate",
+    "file": "university.json",
+    "definition": "to grow again after being lost, damaged, etc.",
+    "partOfSpeech": "verb",
+    "current_sentence": "The lizard's tail can regenerate."
+  },
+  {
+    "word": "regeneration",
+    "file": "university.json",
+    "definition": "an act or the process of regenerating : the state of being regenerated",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Cell regeneration occurs naturally."
+  },
+  {
+    "word": "regent",
+    "file": "university.json",
+    "definition": "a person who rules a kingdom when the king or queen is not able to rule because he or she is sick, too young, etc.",
+    "partOfSpeech": "noun",
+    "current_sentence": "The regent ruled temporarily."
+  },
+  {
+    "word": "registrar",
+    "file": "university.json",
+    "definition": "someone who is in charge of keeping records especially of births, marriages, and deaths",
+    "partOfSpeech": "noun",
+    "current_sentence": "Contact the registrar."
+  },
+  {
+    "word": "reinstatement",
+    "file": "university.json",
+    "definition": "to place again (as in possession or in a former position)",
+    "partOfSpeech": "動詞",
+    "current_sentence": "His reinstatement was approved."
+  },
+  {
+    "word": "repentance",
+    "file": "university.json",
+    "definition": "the action or process of repenting especially for misdeeds or moral shortcomings",
+    "partOfSpeech": "名詞",
+    "current_sentence": "He showed genuine repentance."
+  },
+  {
+    "word": "repentant",
+    "file": "university.json",
+    "definition": "experiencing repentance : penitent",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "He seemed genuinely repentant."
+  },
+  {
+    "word": "reprimand",
+    "file": "university.json",
+    "definition": "to speak in an angry and critical way to (someone who has done something wrong, disobeyed an order, etc.) —often + for",
+    "partOfSpeech": "verb",
+    "current_sentence": "The soldiers were severely reprimanded."
+  },
+  {
+    "word": "resin",
+    "file": "university.json",
+    "definition": "a yellow or brown sticky substance that comes from some trees and that is used to make various products",
+    "partOfSpeech": "noun",
+    "current_sentence": "The tree produces resin."
+  },
+  {
+    "word": "reverend",
+    "file": "university.json",
+    "definition": "a priest or minister in the Christian church",
+    "partOfSpeech": "noun",
+    "current_sentence": "The Reverend led the service."
+  },
+  {
+    "word": "revue",
+    "file": "university.json",
+    "definition": "a show in a theater that includes funny songs, dances, short plays, etc., usually about recent events",
+    "partOfSpeech": "noun",
+    "current_sentence": "The musical revue was entertaining."
+  },
+  {
+    "word": "rigorously",
+    "file": "university.json",
+    "definition": "very strict and demanding",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The study was conducted rigorously."
+  },
+  {
+    "word": "rosary",
+    "file": "university.json",
+    "definition": "a string of beads that are used by Roman Catholics for counting prayers",
+    "partOfSpeech": "noun",
+    "current_sentence": "She prayed with her rosary."
+  },
+  {
+    "word": "roundtable",
+    "file": "university.json",
+    "definition": "a meeting at which people discuss something and everyone has an equal chance to express an opinion—often used before another noun",
+    "partOfSpeech": "noun",
+    "current_sentence": "She looks roundtable today."
+  },
+  {
+    "word": "rowdy",
+    "file": "university.json",
+    "definition": "rough or noisy",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The crowd became rowdy."
+  },
+  {
+    "word": "rudder",
+    "file": "university.json",
+    "definition": "a flat, movable piece usually of wood or metal that is attached to a ship, boat, airplane, etc., and is used in steering",
+    "partOfSpeech": "noun",
+    "current_sentence": "The boat has a rudder."
+  },
+  {
+    "word": "ruffian",
+    "file": "university.json",
+    "definition": "a strong and violent person (especially a man) who threatens and hurts other people",
+    "partOfSpeech": "noun",
+    "current_sentence": "a gang of ruffians"
+  },
+  {
+    "word": "rump",
+    "file": "university.json",
+    "definition": "the back part of an animal's body where the thighs join the hips",
+    "partOfSpeech": "noun",
+    "current_sentence": "a horse's/cow's rump"
+  },
+  {
+    "word": "sectarian",
+    "file": "university.json",
+    "definition": "of, relating to, or characteristic of a sect or sectarian",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her sectarian manner impressed everyone."
+  },
+  {
+    "word": "sinuous",
+    "file": "university.json",
+    "definition": "of a serpentine or wavy form : winding",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her sinuous manner impressed everyone."
+  },
+  {
+    "word": "soliloquy",
+    "file": "university.json",
+    "definition": "the act of talking to oneself",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The soliloquy is interesting."
+  },
+  {
+    "word": "vindictive",
+    "file": "university.json",
+    "definition": "disposed to seek revenge : vengeful",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her vindictive manner impressed everyone."
+  },
+  {
+    "word": "vivacious",
+    "file": "university.json",
+    "definition": "lively in temper, conduct, or spirit : sprightly",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her vivacious manner impressed everyone."
+  },
+  {
+    "word": "vociferous",
+    "file": "university.json",
+    "definition": "marked by or given to vehement insistent outcry",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her vociferous manner impressed everyone."
+  },
+  {
+    "word": "whimsical",
+    "file": "university.json",
+    "definition": "resulting from or characterized by whim or caprice; especially : lightly fanciful",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her whimsical manner impressed everyone."
+  },
+  {
+    "word": "abortifacient",
+    "file": "expert.json",
+    "definition": "an agent (such as a drug) that induces abortion",
+    "partOfSpeech": "noun",
+    "current_sentence": "The drug has abortifacient properties."
+  },
+  {
+    "word": "abyssal",
+    "file": "expert.json",
+    "definition": "unfathomable",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The weather is abyssal today."
+  },
+  {
+    "word": "acephalous",
+    "file": "expert.json",
+    "definition": "lacking a head or having the head reduced",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite acephalous."
+  },
+  {
+    "word": "afflatus",
+    "file": "expert.json",
+    "definition": "a divine imparting of knowledge or power : inspiration",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The afflatus is remarkable."
+  },
+  {
+    "word": "agglomerate",
+    "file": "expert.json",
+    "definition": "to gather into a ball, mass, or cluster",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They agglomerate regularly."
+  },
+  {
+    "word": "aggrieve",
+    "file": "expert.json",
+    "definition": "to give pain or trouble to : distress",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They aggrieve regularly."
+  },
+  {
+    "word": "alliteration",
+    "file": "expert.json",
+    "definition": "the repetition of usually initial consonant sounds in two or more neighboring words or syllables (such as wild and woolly, thrifty and thriving) —called also head rhyme, initial rhyme",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The alliteration is remarkable."
+  },
+  {
+    "word": "allotrope",
+    "file": "expert.json",
+    "definition": "a form showing allotropy",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The allotrope is remarkable."
+  },
+  {
+    "word": "alopecia",
+    "file": "expert.json",
+    "definition": "loss of hair, wool, or feathers",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The alopecia is remarkable."
+  },
+  {
+    "word": "amalgamate",
+    "file": "expert.json",
+    "definition": "to unite in or as if in an amalgam; especially : to merge into a single body",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They amalgamate every day."
+  },
+  {
+    "word": "amaranthine",
+    "file": "expert.json",
+    "definition": "of or relating to an amaranth",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite amaranthine."
+  },
+  {
+    "word": "anacoluthon",
+    "file": "expert.json",
+    "definition": "syntactical inconsistency or incoherence within a sentence; especially : a shift in an unfinished sentence from one syntactic construction to another (as in \"you really ought—well, do it your own way\")",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The anacoluthon is remarkable."
+  },
+  {
+    "word": "anagnorisis",
+    "file": "expert.json",
+    "definition": "the point in the plot especially of a tragedy when the protagonist recognizes a character's true identity or when the protagonist discovers the true nature of their own situation",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The anagnorisis is remarkable."
+  },
+  {
+    "word": "anfractuous",
+    "file": "expert.json",
+    "definition": "full of windings and intricate turnings : tortuous",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite anfractuous."
+  },
+  {
+    "word": "animadversion",
+    "file": "expert.json",
+    "definition": "a critical and usually censorious remark —often used with on",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The animadversion is remarkable."
+  },
+  {
+    "word": "animosity",
+    "file": "expert.json",
+    "definition": "a strong feeling of dislike or hatred : ill will or resentment tending toward active hostility : an antagonistic attitude",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The animosity is remarkable."
+  },
+  {
+    "word": "antipode",
+    "file": "expert.json",
+    "definition": "the parts of the earth diametrically opposite —usually used in plural—often used of Australia and New Zealand as contrasted to the western hemisphere",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The antipode is remarkable."
+  },
+  {
+    "word": "apocope",
+    "file": "expert.json",
+    "definition": "the loss of one or more sounds or letters at the end of a word (as in sing from Old English singan)",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The apocope is remarkable."
+  },
+  {
+    "word": "aporia",
+    "file": "expert.json",
+    "definition": "an expression of real or pretended doubt or uncertainty especially for rhetorical effect",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The aporia is remarkable."
+  },
+  {
+    "word": "apostasy",
+    "file": "expert.json",
+    "definition": "an act of refusing to continue to follow, obey, or recognize a religious faith",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The apostasy is remarkable."
+  },
+  {
+    "word": "arcanum",
+    "file": "expert.json",
+    "definition": "mysterious or specialized knowledge, language, or information accessible or possessed only by the initiate —usually used in plural",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The arcanum is remarkable."
+  },
+  {
+    "word": "assonance",
+    "file": "expert.json",
+    "definition": "relatively close juxtaposition of similar sounds especially of vowels (as in \"rise high in the bright sky\")",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The assonance is remarkable."
+  },
+  {
+    "word": "atelier",
+    "file": "expert.json",
+    "definition": "an artist's or designer's studio or workroom",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The atelier is remarkable."
+  },
+  {
+    "word": "badinage",
+    "file": "expert.json",
+    "definition": "playful repartee : banter",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The badinage is remarkable."
+  },
+  {
+    "word": "balustrade",
+    "file": "expert.json",
+    "definition": "a row of balusters topped by a rail",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The balustrade is remarkable."
+  },
+  {
+    "word": "bathos",
+    "file": "expert.json",
+    "definition": "the sudden appearance of the commonplace in otherwise elevated matter or style",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The bathos is remarkable."
+  },
+  {
+    "word": "beatitude",
+    "file": "expert.json",
+    "definition": "a state of utmost bliss",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The beatitude is remarkable."
+  },
+  {
+    "word": "bedizen",
+    "file": "expert.json",
+    "definition": "to dress or adorn gaudily",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They bedizen regularly."
+  },
+  {
+    "word": "bellwether",
+    "file": "expert.json",
+    "definition": "one that takes the lead or initiative : leader; also : an indicator of trends",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The bellwether is remarkable."
+  },
+  {
+    "word": "betoken",
+    "file": "expert.json",
+    "definition": "to typify beforehand : presage",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They betoken regularly."
+  },
+  {
+    "word": "bibliophile",
+    "file": "expert.json",
+    "definition": "a lover of books especially for qualities of format; also : a book collector",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The bibliophile is remarkable."
+  },
+  {
+    "word": "blatherskite",
+    "file": "expert.json",
+    "definition": "a person who blathers a lot",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The blatherskite is remarkable."
+  },
+  {
+    "word": "bric-a-brac",
+    "file": "expert.json",
+    "definition": "a miscellaneous collection of small articles commonly of ornamental or sentimental value : curios",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The bric-a-brac is remarkable."
+  },
+  {
+    "word": "bromide",
+    "file": "expert.json",
+    "definition": "a binary compound of bromine with another element or a radical including some (such as potassium bromide) used as sedatives",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The bromide is remarkable."
+  },
+  {
+    "word": "bucolic",
+    "file": "expert.json",
+    "definition": "of or relating to shepherds or herdsmen : pastoral",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite bucolic."
+  },
+  {
+    "word": "caduceus",
+    "file": "expert.json",
+    "definition": "the symbolic staff of a herald; specifically : a representation of a staff with two entwined snakes and two wings at the top",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The caduceus is remarkable."
+  },
+  {
+    "word": "callipygian",
+    "file": "expert.json",
+    "definition": "having shapely buttocks",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was very callipygian."
+  },
+  {
+    "word": "calumniate",
+    "file": "expert.json",
+    "definition": "to utter maliciously false statements, charges, or imputations about",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They calumniate regularly."
+  },
+  {
+    "word": "catharsis",
+    "file": "expert.json",
+    "definition": "purification or purgation of the emotions (such as pity and fear) primarily through art",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The catharsis is interesting."
+  },
+  {
+    "word": "clerihew",
+    "file": "expert.json",
+    "definition": "a light verse quatrain rhyming aabb and usually dealing with a person named in the initial rhyme",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The clerihew is remarkable."
+  },
+  {
+    "word": "codicil",
+    "file": "expert.json",
+    "definition": "a legal instrument made to modify an earlier will",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The codicil is remarkable."
+  },
+  {
+    "word": "cognomen",
+    "file": "expert.json",
+    "definition": "surname; especially : the third of the usually three names of an ancient Roman",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The cognomen is remarkable."
+  },
+  {
+    "word": "colophon",
+    "file": "expert.json",
+    "definition": "an inscription at the end of a book or manuscript usually with facts about its production",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The colophon is remarkable."
+  },
+  {
+    "word": "comestible",
+    "file": "expert.json",
+    "definition": "edible",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite comestible."
+  },
+  {
+    "word": "commination",
+    "file": "expert.json",
+    "definition": "denunciation",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The commination is remarkable."
+  },
+  {
+    "word": "concomitant",
+    "file": "expert.json",
+    "definition": "accompanying especially in a subordinate or incidental way",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite concomitant."
+  },
+  {
+    "word": "concupiscence",
+    "file": "expert.json",
+    "definition": "strong desire; especially : sexual desire",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The concupiscence is remarkable."
+  },
+  {
+    "word": "congeries",
+    "file": "expert.json",
+    "definition": "aggregation, collection",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The congeries is remarkable."
+  },
+  {
+    "word": "connivance",
+    "file": "expert.json",
+    "definition": "the act of conniving; especially : knowledge of and active or passive consent to wrongdoing",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The connivance is remarkable."
+  },
+  {
+    "word": "contumely",
+    "file": "expert.json",
+    "definition": "harsh language or treatment arising from haughtiness and contempt; also : an instance of such language or treatment",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The contumely is remarkable."
+  },
+  {
+    "word": "conversant",
+    "file": "expert.json",
+    "definition": "having knowledge or experience —used with with",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite conversant."
+  },
+  {
+    "word": "cormorant",
+    "file": "expert.json",
+    "definition": "any of various dark-colored web-footed waterbirds (family Phalacrocoracidae, especially genus Phalacrocorax) that have a long neck, hooked bill, and distensible throat pouch",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The cormorant is remarkable."
+  },
+  {
+    "word": "coruscate",
+    "file": "expert.json",
+    "definition": "to give off or reflect light in bright beams or flashes : sparkle",
+    "partOfSpeech": "verb",
+    "current_sentence": "It is important to coruscate before making decisions."
+  },
+  {
+    "word": "countervail",
+    "file": "expert.json",
+    "definition": "to compensate for",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They countervail regularly."
+  },
+  {
+    "word": "declivity",
+    "file": "expert.json",
+    "definition": "downward inclination",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The declivity is remarkable."
+  },
+  {
+    "word": "decrepitude",
+    "file": "expert.json",
+    "definition": "the quality or state of being decrepit",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The decrepitude is remarkable."
+  },
+  {
+    "word": "deliquesce",
+    "file": "expert.json",
+    "definition": "to dissolve or melt away",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They deliquesce regularly."
+  },
+  {
+    "word": "deracinate",
+    "file": "expert.json",
+    "definition": "uproot",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They deracinate regularly."
+  },
+  {
+    "word": "descant",
+    "file": "expert.json",
+    "definition": "a melody or counterpoint sung above the plainsong of the tenor",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The descant is remarkable."
+  },
+  {
+    "word": "desuetude",
+    "file": "expert.json",
+    "definition": "discontinuance from use or exercise : disuse",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The desuetude is remarkable."
+  },
+  {
+    "word": "diablerie",
+    "file": "expert.json",
+    "definition": "black magic : sorcery",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The diablerie is remarkable."
+  },
+  {
+    "word": "diffident",
+    "file": "expert.json",
+    "definition": "hesitant in acting or speaking through lack of self-confidence",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her diffident manner impressed everyone."
+  },
+  {
+    "word": "disingenuous",
+    "file": "expert.json",
+    "definition": "lacking in candor; also : giving a false appearance of simple frankness : calculating",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite disingenuous."
+  },
+  {
+    "word": "disquisition",
+    "file": "expert.json",
+    "definition": "a formal inquiry into or discussion of a subject : discourse",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The disquisition is remarkable."
+  },
+  {
+    "word": "distrait",
+    "file": "expert.json",
+    "definition": "apprehensively divided or withdrawn in attention : distracted",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite distrait."
+  },
+  {
+    "word": "divagate",
+    "file": "expert.json",
+    "definition": "to wander or stray from a course or subject : diverge, digress",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They divagate regularly."
+  },
+  {
+    "word": "ebullience",
+    "file": "expert.json",
+    "definition": "the quality of lively or enthusiastic expression of thoughts or feelings : exuberance",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The ebullience is interesting."
+  },
+  {
+    "word": "ecclesiastical",
+    "file": "expert.json",
+    "definition": "of or relating to a church especially as an established institution",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite ecclesiastical."
+  },
+  {
+    "word": "edacious",
+    "file": "expert.json",
+    "definition": "of or relating to eating",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite edacious."
+  },
+  {
+    "word": "effulgence",
+    "file": "expert.json",
+    "definition": "radiant splendor : brilliance",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The effulgence is remarkable."
+  },
+  {
+    "word": "elision",
+    "file": "expert.json",
+    "definition": "the use of a speech form that lacks a final or initial sound which a variant speech form has (such as 's instead of is in there's)",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The elision is remarkable."
+  },
+  {
+    "word": "emendation",
+    "file": "expert.json",
+    "definition": "the act or practice of emending",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The emendation is remarkable."
+  },
+  {
+    "word": "emolument",
+    "file": "expert.json",
+    "definition": "the returns arising from office or employment usually in the form of compensation or perquisites",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The emolument is remarkable."
+  },
+  {
+    "word": "encomium",
+    "file": "expert.json",
+    "definition": "glowing and warmly enthusiastic praise; also : an expression of this",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The encomium is interesting."
+  },
+  {
+    "word": "epicene",
+    "file": "expert.json",
+    "definition": "having but one form to indicate either sex",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite epicene."
+  },
+  {
+    "word": "epicurean",
+    "file": "expert.json",
+    "definition": "of or relating to Epicurus or Epicureanism",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite epicurean."
+  },
+  {
+    "word": "epigram",
+    "file": "expert.json",
+    "definition": "a concise poem dealing pointedly and often satirically with a single thought or event and often ending with an ingenious turn of thought",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The epigram is remarkable."
+  },
+  {
+    "word": "equipoise",
+    "file": "expert.json",
+    "definition": "a state of equilibrium",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The equipoise is remarkable."
+  },
+  {
+    "word": "eremite",
+    "file": "expert.json",
+    "definition": "hermit; especially : a religious recluse",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The eremite is remarkable."
+  },
+  {
+    "word": "eschatology",
+    "file": "expert.json",
+    "definition": "a branch of theology concerned with the final events in the history of the world or of humankind",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The eschatology is remarkable."
+  },
+  {
+    "word": "escutcheon",
+    "file": "expert.json",
+    "definition": "a defined area on which armorial bearings are displayed and which usually consists of a shield",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The escutcheon is remarkable."
+  },
+  {
+    "word": "esprit",
+    "file": "expert.json",
+    "definition": "vivacious cleverness or wit",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The esprit is remarkable."
+  },
+  {
+    "word": "etymology",
+    "file": "expert.json",
+    "definition": "the history of a linguistic form (such as a word) shown by tracing its development since its earliest recorded occurrence in the language where it is found, by tracing its transmission from one language to another, by analyzing it into its component parts, by identifying its cognates in other languages, or by tracing it and its cognates to a common ancestral form in an ancestral language",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The etymology is remarkable."
+  },
+  {
+    "word": "euphony",
+    "file": "expert.json",
+    "definition": "pleasing or sweet sound; especially : the acoustic effect produced by words so formed or combined as to please the ear",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The euphony is remarkable."
+  },
+  {
+    "word": "exculpate",
+    "file": "expert.json",
+    "definition": "to clear from alleged fault or guilt",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They exculpate regularly."
+  },
+  {
+    "word": "expatiate",
+    "file": "expert.json",
+    "definition": "to move about freely or at will : wander",
+    "partOfSpeech": "verb",
+    "current_sentence": "It is important to expatiate before making decisions."
+  },
+  {
+    "word": "expedient",
+    "file": "expert.json",
+    "definition": "suitable for achieving a particular end in a given circumstance",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly expedient."
+  },
+  {
+    "word": "expostulate",
+    "file": "expert.json",
+    "definition": "discuss, examine",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They expostulate regularly."
+  },
+  {
+    "word": "extricate",
+    "file": "expert.json",
+    "definition": "to free or remove from an entanglement or difficulty",
+    "partOfSpeech": "verb",
+    "current_sentence": "It is important to extricate before making decisions."
+  },
+  {
+    "word": "fickle",
+    "file": "expert.json",
+    "definition": "marked by lack of steadfastness, constancy, or stability : given to erratic changeableness",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her fickle manner impressed everyone."
+  },
+  {
+    "word": "flagitious",
+    "file": "expert.json",
+    "definition": "marked by scandalous crime or vice : villainous",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite flagitious."
+  },
+  {
+    "word": "flibbertigibbet",
+    "file": "expert.json",
+    "definition": "a silly flighty person",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The flibbertigibbet is remarkable."
+  },
+  {
+    "word": "folderol",
+    "file": "expert.json",
+    "definition": "a useless ornament or accessory : trifle",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The folderol is remarkable."
+  },
+  {
+    "word": "frangible",
+    "file": "expert.json",
+    "definition": "readily or easily broken",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite frangible."
+  },
+  {
+    "word": "fratricide",
+    "file": "expert.json",
+    "definition": "the act of murdering or killing one's own brother or sister or an individual (as a countryman) having a relationship like that of a brother or sister",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The fratricide is remarkable."
+  },
+  {
+    "word": "froward",
+    "file": "expert.json",
+    "definition": "habitually disposed to disobedience and opposition",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite froward."
+  },
+  {
+    "word": "frugal",
+    "file": "expert.json",
+    "definition": "characterized by or reflecting thrift and efficiency in the use of resources",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her frugal manner impressed everyone."
+  },
+  {
+    "word": "fugacious",
+    "file": "expert.json",
+    "definition": "lasting a short time : evanescent",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly fugacious."
+  },
+  {
+    "word": "funereal",
+    "file": "expert.json",
+    "definition": "of or relating to a funeral",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite funereal."
+  },
+  {
+    "word": "gasconade",
+    "file": "expert.json",
+    "definition": "bravado, boasting",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The gasconade is remarkable."
+  },
+  {
+    "word": "glabrous",
+    "file": "expert.json",
+    "definition": "smooth; especially : having a surface without hairs or projections",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite glabrous."
+  },
+  {
+    "word": "gustatory",
+    "file": "expert.json",
+    "definition": "relating to or associated with eating or the sense of taste",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly gustatory."
+  },
+  {
+    "word": "heliocentric",
+    "file": "expert.json",
+    "definition": "referred to or measured from the sun's center or appearing as if seen from it",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite heliocentric."
+  },
+  {
+    "word": "hemophilia",
+    "file": "expert.json",
+    "definition": "a hereditary, sex-linked blood defect occurring almost exclusively in males that is marked by delayed clotting of the blood with prolonged or excessive internal or external bleeding after injury or surgery and in severe cases spontaneous bleeding into joints and muscles and that is caused by a deficiency of clotting factors",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The hemophilia is remarkable."
+  },
+  {
+    "word": "husbandry",
+    "file": "expert.json",
+    "definition": "the cultivation or production of plants or animals : agriculture",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The husbandry is remarkable."
+  },
+  {
+    "word": "implementation",
+    "file": "expert.json",
+    "definition": "an act or instance of implementing something : the process of making something active or effective",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The implementation took several months."
+  },
+  {
+    "word": "imprecation",
+    "file": "expert.json",
+    "definition": "curse",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The imprecation is remarkable."
+  },
+  {
+    "word": "incantation",
+    "file": "expert.json",
+    "definition": "a use of spells or verbal charms spoken or sung as a part of a ritual of magic; also : a written or recited formula of words designed to produce a particular effect",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The incantation is remarkable."
+  },
+  {
+    "word": "incognito",
+    "file": "expert.json",
+    "definition": "with one's identity concealed",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The incognito is remarkable."
+  },
+  {
+    "word": "incubus",
+    "file": "expert.json",
+    "definition": "an evil spirit that lies on persons in their sleep; especially : one that has sexual intercourse with women while they are sleeping",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The incubus is remarkable."
+  },
+  {
+    "word": "indigent",
+    "file": "expert.json",
+    "definition": "suffering from extreme poverty : impoverished",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite indigent."
+  },
+  {
+    "word": "indubitable",
+    "file": "expert.json",
+    "definition": "too evident to be doubted : unquestionable",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly indubitable."
+  },
+  {
+    "word": "inordinate",
+    "file": "expert.json",
+    "definition": "exceeding reasonable limits : immoderate",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite inordinate."
+  },
+  {
+    "word": "insurgent",
+    "file": "expert.json",
+    "definition": "a person who revolts against civil authority or an established government; especially : a rebel not recognized as a belligerent",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The insurgent is remarkable."
+  },
+  {
+    "word": "intercession",
+    "file": "expert.json",
+    "definition": "the act of interceding",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The intercession is remarkable."
+  },
+  {
+    "word": "interlocutor",
+    "file": "expert.json",
+    "definition": "one who takes part in dialogue or conversation",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The interlocutor is remarkable."
+  },
+  {
+    "word": "interminable",
+    "file": "expert.json",
+    "definition": "having or seeming to have no end; especially : wearisomely protracted",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite interminable."
+  },
+  {
+    "word": "introspection",
+    "file": "expert.json",
+    "definition": "a reflective looking inward : an examination of one's own thoughts and feelings",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The introspection is remarkable."
+  },
+  {
+    "word": "irascible",
+    "file": "expert.json",
+    "definition": "marked by hot temper and easily provoked anger",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her irascible manner impressed everyone."
+  },
+  {
+    "word": "iridescent",
+    "file": "expert.json",
+    "definition": "having or exhibiting iridescence",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was quite iridescent."
+  },
+  {
+    "word": "licentious",
+    "file": "expert.json",
+    "definition": "lacking legal or moral restraints; especially : disregarding sexual restraints",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her licentious manner impressed everyone."
+  },
+  {
+    "word": "magisterial",
+    "file": "expert.json",
+    "definition": "of, relating to, or having the characteristics of a master or teacher : authoritative",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly magisterial."
+  },
+  {
+    "word": "misanthrope",
+    "file": "expert.json",
+    "definition": "a person who hates or distrusts humankind",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The misanthrope is interesting."
+  },
+  {
+    "word": "numinous",
+    "file": "expert.json",
+    "definition": "supernatural, mysterious",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly numinous."
+  },
+  {
+    "word": "occidental",
+    "file": "expert.json",
+    "definition": "of, relating to, or situated in the Occident : western",
+    "partOfSpeech": "adjective",
+    "current_sentence": "It is very occidental."
+  },
+  {
+    "word": "parsimonious",
+    "file": "expert.json",
+    "definition": "exhibiting or marked by parsimony; especially : frugal to the point of stinginess",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her parsimonious manner impressed everyone."
+  },
+  {
+    "word": "pejorative",
+    "file": "expert.json",
+    "definition": "a word or phrase that has negative connotations or that is intended to disparage or belittle : a pejorative word or phrase",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The pejorative is interesting."
+  },
+  {
+    "word": "penitent",
+    "file": "expert.json",
+    "definition": "feeling or expressing humble or regretful pain or sorrow for sins or offenses : repentant",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly penitent."
+  },
+  {
+    "word": "perfidious",
+    "file": "expert.json",
+    "definition": "of, relating to, or characterized by perfidy",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was very perfidious."
+  },
+  {
+    "word": "peripatetic",
+    "file": "expert.json",
+    "definition": "of, relating to, or given to walking",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her peripatetic manner impressed everyone."
+  },
+  {
+    "word": "perspicacious",
+    "file": "expert.json",
+    "definition": "of acute mental vision or discernment : keen",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly perspicacious."
+  },
+  {
+    "word": "pertinacious",
+    "file": "expert.json",
+    "definition": "adhering resolutely to an opinion, purpose, or design",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was very pertinacious."
+  },
+  {
+    "word": "placate",
+    "file": "expert.json",
+    "definition": "to soothe or mollify especially by concessions : appease",
+    "partOfSpeech": "verb",
+    "current_sentence": "It is important to placate before making decisions."
+  },
+  {
+    "word": "polemical",
+    "file": "expert.json",
+    "definition": "a strong written or spoken attack against someone else's opinions, beliefs, practices, etc.",
+    "partOfSpeech": "noun",
+    "current_sentence": "The article was polemical."
+  },
+  {
+    "word": "pontiff",
+    "file": "expert.json",
+    "definition": "pope",
+    "partOfSpeech": "noun",
+    "current_sentence": "The pontiff gave a blessing."
+  },
+  {
+    "word": "populace",
+    "file": "expert.json",
+    "definition": "the people who live in a country or area",
+    "partOfSpeech": "noun",
+    "current_sentence": "The populace has suffered greatly."
+  },
+  {
+    "word": "prestidigitation",
+    "file": "expert.json",
+    "definition": "sleight of hand, legerdemain",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The prestidigitation is interesting."
+  },
+  {
+    "word": "prevaricate",
+    "file": "expert.json",
+    "definition": "to deviate from the truth : equivocate",
+    "partOfSpeech": "verb",
+    "current_sentence": "It is important to prevaricate before making decisions."
+  },
+  {
+    "word": "prodigious",
+    "file": "expert.json",
+    "definition": "amazing or wonderful : very impressive",
+    "partOfSpeech": "adjective",
+    "current_sentence": "a prodigious achievement/effort/talent"
+  },
+  {
+    "word": "prognosticate",
+    "file": "expert.json",
+    "definition": "to foretell from signs or symptoms : predict",
+    "partOfSpeech": "verb",
+    "current_sentence": "It is important to prognosticate before making decisions."
+  },
+  {
+    "word": "prolixity",
+    "file": "expert.json",
+    "definition": "unduly prolonged or drawn out : too long",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her prolixity manner impressed everyone."
+  },
+  {
+    "word": "propinquity",
+    "file": "expert.json",
+    "definition": "nearness of blood : kinship",
+    "partOfSpeech": "名詞",
+    "current_sentence": "The propinquity is interesting."
+  },
+  {
+    "word": "propriety",
+    "file": "expert.json",
+    "definition": "behavior that is accepted as socially or morally correct and proper",
+    "partOfSpeech": "noun",
+    "current_sentence": "She acted with propriety."
+  },
+  {
+    "word": "psychoanalysis",
+    "file": "expert.json",
+    "definition": "a method of explaining and treating mental and emotional problems by having the patient talk about dreams, feelings, memories, etc.",
+    "partOfSpeech": "noun",
+    "current_sentence": "The doctor recommended psychoanalysis."
+  },
+  {
+    "word": "pugnacious",
+    "file": "expert.json",
+    "definition": "having a quarrelsome or combative nature : truculent",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her pugnacious manner impressed everyone."
+  },
+  {
+    "word": "punctilious",
+    "file": "expert.json",
+    "definition": "marked by or concerned about precise accordance with the details of codes or conventions",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her punctilious manner impressed everyone."
+  },
+  {
+    "word": "purveyor",
+    "file": "expert.json",
+    "definition": "a person or business that sells or provides something",
+    "partOfSpeech": "noun",
+    "current_sentence": "a purveyor of kitchen supplies"
+  },
+  {
+    "word": "pusillanimous",
+    "file": "expert.json",
+    "definition": "lacking courage and resolution : marked by contemptible timidity",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly pusillanimous."
+  },
+  {
+    "word": "quibble",
+    "file": "expert.json",
+    "definition": "to evade the point of an argument by caviling about words",
+    "partOfSpeech": "動詞",
+    "current_sentence": "Don't quibble over minor details."
+  },
+  {
+    "word": "rebuff",
+    "file": "expert.json",
+    "definition": "to refuse (something, such as an offer or suggestion) in a rude way",
+    "partOfSpeech": "verb",
+    "current_sentence": "Our suggestion was immediately rebuffed."
+  },
+  {
+    "word": "rebuttal",
+    "file": "expert.json",
+    "definition": "the act of rebutting especially in a legal suit; also : argument or proof that rebuts",
+    "partOfSpeech": "名詞",
+    "current_sentence": "His rebuttal was convincing."
+  },
+  {
+    "word": "reclamation",
+    "file": "expert.json",
+    "definition": "the act or process of reclaiming: such as",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Land reclamation created new areas."
+  },
+  {
+    "word": "redoubtable",
+    "file": "expert.json",
+    "definition": "causing fear or alarm : formidable",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly redoubtable."
+  },
+  {
+    "word": "refutation",
+    "file": "expert.json",
+    "definition": "the act or process of refuting",
+    "partOfSpeech": "名詞",
+    "current_sentence": "His refutation was compelling."
+  },
+  {
+    "word": "relegate",
+    "file": "expert.json",
+    "definition": "to put (someone or something) in a lower or less important position, rank, etc.—usually used as (be) relegated—usually + to",
+    "partOfSpeech": "verb",
+    "current_sentence": "I will relegate tomorrow."
+  },
+  {
+    "word": "remorseless",
+    "file": "expert.json",
+    "definition": "very cruel and showing no pity or sympathy for other people : merciless",
+    "partOfSpeech": "adjective",
+    "current_sentence": "a remorseless murderer"
+  },
+  {
+    "word": "renegade",
+    "file": "expert.json",
+    "definition": "a person who leaves one group, religion, etc., and joins another that opposes it —usually used before another noun",
+    "partOfSpeech": "noun",
+    "current_sentence": "renegades from the Republican/Democratic Party"
+  },
+  {
+    "word": "repast",
+    "file": "expert.json",
+    "definition": "meal",
+    "partOfSpeech": "noun",
+    "current_sentence": "our traditional Thanksgiving repast"
+  },
+  {
+    "word": "requiem",
+    "file": "expert.json",
+    "definition": "a Christian religious ceremony for a dead person —called also Requiem Mass",
+    "partOfSpeech": "noun",
+    "current_sentence": "They played a requiem."
+  },
+  {
+    "word": "restorative",
+    "file": "expert.json",
+    "definition": "having the ability to make a person feel strong or healthy again",
+    "partOfSpeech": "adjective",
+    "current_sentence": "the restorative powers of rest"
+  },
+  {
+    "word": "resurgent",
+    "file": "expert.json",
+    "definition": "becoming popular, active, or successful again after a period of being less popular, active, or successful",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The economy is resurgent."
+  },
+  {
+    "word": "retch",
+    "file": "expert.json",
+    "definition": "to vomit or feel as if you are about to vomit",
+    "partOfSpeech": "verb",
+    "current_sentence": "I nearly retched."
+  },
+  {
+    "word": "retinue",
+    "file": "expert.json",
+    "definition": "a group of helpers, supporters, or followers",
+    "partOfSpeech": "noun",
+    "current_sentence": "the king and his retinue"
+  },
+  {
+    "word": "retrenchment",
+    "file": "expert.json",
+    "definition": "reduction, curtailment; specifically : a cutting of expenses",
+    "partOfSpeech": "名詞",
+    "current_sentence": "Economic retrenchment affected jobs."
+  },
+  {
+    "word": "revelatory",
+    "file": "expert.json",
+    "definition": "making something known : revealing something in usually a surprising way",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The book was revelatory."
+  },
+  {
+    "word": "revelry",
+    "file": "expert.json",
+    "definition": "a wild and noisy celebration",
+    "partOfSpeech": "noun",
+    "current_sentence": "The revelry lasted all night."
+  },
+  {
+    "word": "reverberation",
+    "file": "expert.json",
+    "definition": "a sound that echoes",
+    "partOfSpeech": "noun",
+    "current_sentence": "the reverberations of her voice"
+  },
+  {
+    "word": "reverent",
+    "file": "expert.json",
+    "definition": "expressing or characterized by reverence : worshipful",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her reverent manner impressed everyone."
+  },
+  {
+    "word": "rostrum",
+    "file": "expert.json",
+    "definition": "a small raised platform on a stage",
+    "partOfSpeech": "noun",
+    "current_sentence": "He spoke from the rostrum."
+  },
+  {
+    "word": "rudiment",
+    "file": "expert.json",
+    "definition": "a basic principle or element or a fundamental skill —usually used in plural",
+    "partOfSpeech": "noun",
+    "current_sentence": "The rudiment was successful."
+  },
+  {
+    "word": "russet",
+    "file": "expert.json",
+    "definition": "a reddish-brown color",
+    "partOfSpeech": "noun",
+    "current_sentence": "The leaves turned russet."
+  },
+  {
+    "word": "sapient",
+    "file": "expert.json",
+    "definition": "possessing or expressing great sagacity",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her sapient manner impressed everyone."
+  },
+  {
+    "word": "sententious",
+    "file": "expert.json",
+    "definition": "given to or abounding in aphoristic expression",
+    "partOfSpeech": "adjective",
+    "current_sentence": "Her sententious manner impressed everyone."
+  },
+  {
+    "word": "stolid",
+    "file": "expert.json",
+    "definition": "having or expressing little or no sensibility : unemotional",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly stolid."
+  },
+  {
+    "word": "striated",
+    "file": "expert.json",
+    "definition": "marked with striations or striae",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly striated."
+  },
+  {
+    "word": "stultify",
+    "file": "expert.json",
+    "definition": "to have a dulling or inhibiting effect on",
+    "partOfSpeech": "verb",
+    "current_sentence": "It is important to stultify before making decisions."
+  },
+  {
+    "word": "supplant",
+    "file": "expert.json",
+    "definition": "to supersede (another) especially by force or treachery",
+    "partOfSpeech": "verb",
+    "current_sentence": "It is important to supplant before making decisions."
+  },
+  {
+    "word": "taciturn",
+    "file": "expert.json",
+    "definition": "temperamentally disinclined to talk",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly taciturn."
+  },
+  {
+    "word": "tautological",
+    "file": "expert.json",
+    "definition": "involving or containing rhetorical tautology : redundant",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The results were surprisingly tautological."
+  },
+  {
+    "word": "tergiversate",
+    "file": "expert.json",
+    "definition": "to engage in tergiversation",
+    "partOfSpeech": "動詞",
+    "current_sentence": "They tergiversate every day."
+  },
+  {
+    "word": "vainglorious",
+    "file": "expert.json",
+    "definition": "marked by vainglory : boastful",
+    "partOfSpeech": "形容詞",
+    "current_sentence": "It was very vainglorious."
+  }
+]

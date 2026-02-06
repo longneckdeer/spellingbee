@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google TTS Test - 超級拼字王</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    h1 {
+      color: #1a73e8;
+      border-bottom: 3px solid #1a73e8;
+      padding-bottom: 10px;
+    }
+    h2 {
+      color: #5f6368;
+      margin-top: 30px;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+    }
+    .voice-info {
+      background: #e8f0fe;
+      padding: 10px;
+      border-radius: 4px;
+      margin: 10px 0;
+      font-family: monospace;
+      font-size: 14px;
+    }
+    .voice-list {
+      max-height: 300px;
+      overflow-y: auto;
+      border: 1px solid #e0e0e0;
+      padding: 10px;
+      border-radius: 4px;
+    }
+    .voice-item {
+      padding: 8px;
+      margin: 4px 0;
+      background: #f8f9fa;
+      border-radius: 4px;
+      font-size: 13px;
+    }
+    .voice-item.google {
+      background: #e8f0fe;
+      font-weight: 500;
+    }
+    button {
+      background: #1a73e8;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 500;
+      margin: 5px;
+    }
+    button:hover {
+      background: #1557b0;
+    }
+    button:disabled {
+      background: #ccc;
+      cursor: not-allowed;
+    }
+    .test-word {
+      background: #f8f9fa;
+      padding: 15px;
+      border-radius: 8px;
+      margin: 15px 0;
+      border-left: 4px solid #1a73e8;
+    }
+    .status {
+      padding: 10px;
+      border-radius: 4px;
+      margin: 10px 0;
+      font-weight: 500;
+    }
+    .status.playing {
+      background: #fef7e0;
+      color: #856404;
+    }
+    .status.ready {
+      background: #e8f5e9;
+      color: #2e7d32;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎯 Google TTS 測試 - 超級拼字王</h1>
+
+  <div class="card">
+    <h2>📊 系統資訊</h2>
+    <div id="systemInfo" class="voice-info">Loading...</div>
+    <div id="status" class="status ready">Ready</div>
+  </div>
+
+  <div class="card">
+    <h2>🎤 可用的 Google 語音</h2>
+    <div id="googleVoices" class="voice-list">Loading voices...</div>
+  </div>
+
+  <div class="card">
+    <h2>🔊 測試完整拼字播放</h2>
+    <div class="test-word">
+      <strong>Word:</strong> beautiful<br>
+      <strong>Part of Speech:</strong> adjective<br>
+      <strong>Definition:</strong> pleasing the senses or mind aesthetically<br>
+      <strong>Sentence:</strong> The sunset was beautiful tonight.
+    </div>
+    <button onclick="testFullWord()">🎯 播放完整單字 (Spelling Bee Format)</button>
+    <button onclick="testWordOnly()">🔊 只播放單字</button>
+    <button onclick="testSentence()">📝 只播放例句</button>
+    <button onclick="stopSpeaking()">⏹️ 停止</button>
+  </div>
+
+  <div class="card">
+    <h2>📋 所有可用語音 (全部)</h2>
+    <div id="allVoices" class="voice-list">Loading voices...</div>
+  </div>
+
+  <script>
+    const synth = window.speechSynthesis;
+    let currentVoice = null;
+
+    const testWord = {
+      word: 'beautiful',
+      partOfSpeech: '形容詞',
+      definition: 'pleasing the senses or mind aesthetically',
+      sentence: 'The sunset was beautiful tonight.'
+    };
+
+    function setStatus(message, type = 'ready') {
+      const status = document.getElementById('status');
+      status.textContent = message;
+      status.className = `status ${type}`;
+    }
+
+    function loadVoices() {
+      const voices = synth.getVoices();
+
+      // System info
+      const googleVoices = voices.filter(v => v.name.toLowerCase().includes('google'));
+      const enUSVoices = voices.filter(v => v.lang === 'en-US');
+      const enUSGoogleVoices = voices.filter(v =>
+        v.lang === 'en-US' && v.name.toLowerCase().includes('google')
+      );
+
+      document.getElementById('systemInfo').innerHTML = `
+        Total voices available: ${voices.length}<br>
+        Google voices: ${googleVoices.length}<br>
+        en-US voices: ${enUSVoices.length}<br>
+        en-US Google voices: ${enUSGoogleVoices.length}<br>
+        <br>
+        <strong>Selected voice:</strong> ${getGoogleVoice()?.name || 'None'}
+      `;
+
+      // Google voices
+      const googleList = document.getElementById('googleVoices');
+      if (googleVoices.length === 0) {
+        googleList.innerHTML = '<div style="color: #d32f2f; padding: 10px;">⚠️ No Google voices found. You may need to use Chrome browser.</div>';
+      } else {
+        googleList.innerHTML = googleVoices.map(v => `
+          <div class="voice-item google">
+            <strong>${v.name}</strong> (${v.lang})
+            ${v.default ? '<span style="color: #1a73e8;">★ Default</span>' : ''}
+          </div>
+        `).join('');
+      }
+
+      // All voices
+      const allList = document.getElementById('allVoices');
+      allList.innerHTML = voices.map(v => `
+        <div class="voice-item ${v.name.toLowerCase().includes('google') ? 'google' : ''}">
+          ${v.name} (${v.lang}) ${v.default ? '★' : ''}
+        </div>
+      `).join('');
+    }
+
+    function getGoogleVoice() {
+      const voices = synth.getVoices();
+
+      // Priority 1: Google en-US
+      let voice = voices.find(v =>
+        v.name.toLowerCase().includes('google') && v.lang === 'en-US'
+      );
+
+      // Priority 2: Any Google English
+      if (!voice) {
+        voice = voices.find(v =>
+          v.name.toLowerCase().includes('google') && v.lang.startsWith('en')
+        );
+      }
+
+      // Priority 3: Any en-US
+      if (!voice) {
+        voice = voices.find(v => v.lang === 'en-US');
+      }
+
+      // Priority 4: First voice
+      if (!voice) {
+        voice = voices[0];
+      }
+
+      currentVoice = voice;
+      return voice;
+    }
+
+    function speak(text, rate = 0.9) {
+      return new Promise((resolve, reject) => {
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.voice = getGoogleVoice();
+        utterance.lang = 'en-US';
+        utterance.rate = rate;
+        utterance.pitch = 1;
+
+        utterance.onend = () => resolve();
+        utterance.onerror = (e) => reject(e);
+
+        synth.speak(utterance);
+      });
+    }
+
+    async function testFullWord() {
+      setStatus('Playing full word...', 'playing');
+      synth.cancel();
+
+      try {
+        // 1. Word (slow, twice)
+        await speak(testWord.word, 0.6);
+        await new Promise(r => setTimeout(r, 800));
+        await speak(testWord.word, 0.6);
+        await new Promise(r => setTimeout(r, 1200));
+
+        // 2. Part of speech
+        const posMap = {
+          '名詞': 'noun',
+          '動詞': 'verb',
+          '形容詞': 'adjective',
+          '副詞': 'adverb'
+        };
+        const englishPos = posMap[testWord.partOfSpeech] || testWord.partOfSpeech;
+        await speak(englishPos, 0.85);
+        await new Promise(r => setTimeout(r, 800));
+
+        // 3. Definition
+        if (testWord.definition) {
+          await speak(testWord.definition, 0.85);
+          await new Promise(r => setTimeout(r, 1200));
+        }
+
+        // 4. Sentence
+        await speak(testWord.sentence, 0.85);
+        await new Promise(r => setTimeout(r, 1500));
+
+        // 5. Word again (slow)
+        await speak(testWord.word, 0.6);
+
+        setStatus('Playback complete!', 'ready');
+      } catch (err) {
+        console.error('TTS error:', err);
+        setStatus('Error: ' + err.message, 'ready');
+      }
+    }
+
+    async function testWordOnly() {
+      setStatus('Playing word only...', 'playing');
+      synth.cancel();
+
+      try {
+        await speak(testWord.word, 0.6);
+        setStatus('Complete!', 'ready');
+      } catch (err) {
+        console.error('TTS error:', err);
+        setStatus('Error: ' + err.message, 'ready');
+      }
+    }
+
+    async function testSentence() {
+      setStatus('Playing sentence...', 'playing');
+      synth.cancel();
+
+      try {
+        await speak(testWord.sentence, 0.8);
+        setStatus('Complete!', 'ready');
+      } catch (err) {
+        console.error('TTS error:', err);
+        setStatus('Error: ' + err.message, 'ready');
+      }
+    }
+
+    function stopSpeaking() {
+      synth.cancel();
+      setStatus('Stopped', 'ready');
+    }
+
+    // Load voices on page load
+    if (synth.getVoices().length > 0) {
+      loadVoices();
+    }
+
+    synth.addEventListener('voiceschanged', loadVoices);
+  </script>
+</body>
+</html>

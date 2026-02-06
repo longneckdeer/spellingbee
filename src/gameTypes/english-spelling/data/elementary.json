@@ -1,0 +1,3341 @@
+[
+  {
+    "word": "about",
+    "definition": "concerning",
+    "difficulty": 1,
+    "sentence": "I read a story about a brave little mouse.",
+    "partOfSpeech": "preposition",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "after",
+    "definition": "following in time",
+    "difficulty": 1,
+    "sentence": "We can play outside after we finish our homework.",
+    "partOfSpeech": "preposition",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "ant",
+    "definition": "any of a family (Formicidae) of colonial hymenopterous insects with a complex social organization and various castes performing special duties",
+    "difficulty": 1,
+    "sentence": "The ant is carrying food to its nest.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "ask",
+    "definition": "to say or write something to someone as a way of gaining information : to request an answer to a question —often + about —often + if or whether —often + why, what, etc. —often + about",
+    "difficulty": 1,
+    "sentence": "I need to ask a question.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bag",
+    "definition": "a usually flexible container that may be closed for holding, storing, or carrying something: such as",
+    "difficulty": 1,
+    "sentence": "I packed my lunch in a brown paper bag this morning.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "be",
+    "definition": "exist",
+    "difficulty": 1,
+    "sentence": "To be or not to be.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bed",
+    "definition": "a piece of furniture on or in which to lie and sleep",
+    "difficulty": 1,
+    "sentence": "I make my bed every morning before going to school.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "boy",
+    "definition": "a male child",
+    "difficulty": 2,
+    "sentence": "The boy kicked the soccer ball across the field during recess.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bug",
+    "definition": "any of an order (Hemiptera and especially its suborder Heteroptera) of insects (such as an assassin bug or chinch bug) that have sucking mouthparts, forewings thickened at the base, and incomplete metamorphosis and are often economic pests —called also true bug",
+    "difficulty": 2,
+    "sentence": "A tiny bug crawled across the sidewalk near the playground.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bun",
+    "definition": "a sweet or plain small bread; especially : a round roll",
+    "difficulty": 2,
+    "sentence": "Rumor has it, she has a bun in the oven.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "buy",
+    "definition": "to get (something) by paying money for it : purchase",
+    "difficulty": 2,
+    "sentence": "We need to buy groceries for the week.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cap",
+    "definition": "a head covering especially with a visor and no brim",
+    "difficulty": 2,
+    "sentence": "Went cap in hand to the governor to seek more funds for education.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "China",
+    "definition": "porcelain; also : vitreous porcelain wares (such as dishes, vases, or ornaments) for domestic use",
+    "difficulty": 2,
+    "sentence": "Pandas come from the forests of China.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "act",
+    "definition": "the doing of a thing : deed",
+    "difficulty": 2,
+    "sentence": "Please learn the new rules and act accordingly.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "age",
+    "definition": "the amount of time during which a person or animal has lived —often used before another noun",
+    "difficulty": 2,
+    "sentence": "My grandmother is eighty years of age and still very active.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "ago",
+    "definition": "earlier than the present time",
+    "difficulty": 2,
+    "sentence": "I learned to ride a bike two years ago.",
+    "partOfSpeech": "adjective or adverb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "air",
+    "definition": "the invisible mixture of gases (such as nitrogen and oxygen) that surrounds the Earth and that people and animals breathe",
+    "difficulty": 2,
+    "sentence": "The air is fresh in the mountains.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "along",
+    "definition": "in a line matching the length or direction of; also : at a point or points on",
+    "difficulty": 2,
+    "sentence": "As we waited, I chatted with lawmakers … who were along for the ride.",
+    "partOfSpeech": "preposition",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "any",
+    "definition": "one or more",
+    "difficulty": 2,
+    "sentence": "Do you have any crayons I can borrow?",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "arm",
+    "definition": "a human upper limb; especially : the part between the shoulder and the wrist",
+    "difficulty": 2,
+    "sentence": "She hurt her arm playing tennis.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "art",
+    "definition": "something that is created with imagination and skill and that is beautiful or that expresses important ideas or feelings",
+    "difficulty": 3,
+    "sentence": "The art proved to be very useful.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "back",
+    "definition": "the rear part of the body : the part of the body that is opposite to the stomach and chest and that goes from the neck to the top of the legs",
+    "difficulty": 3,
+    "sentence": "She was carrying her little daughter on her back.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bad",
+    "definition": "low or poor in quality",
+    "difficulty": 3,
+    "sentence": "The storm caused bad damage to the roof.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bake",
+    "definition": "to cook by dry heat especially in an oven",
+    "difficulty": 3,
+    "sentence": "Mom and I will bake chocolate chip cookies for the school party.",
+    "partOfSpeech": "verb",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "car",
+    "definition": "a vehicle that has four wheels and an engine and that is used for carrying passengers on roads —often used before another noun —called also (US) automobile",
+    "difficulty": 3,
+    "sentence": "Traveled to Boston by car.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cat",
+    "definition": "a carnivorous mammal (Felis catus) long domesticated as a pet and for catching rats and mice",
+    "difficulty": 3,
+    "sentence": "Some young … cat asked me to go drinking with him ….",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cow",
+    "definition": "the mature female of cattle (genus Bos)",
+    "difficulty": 3,
+    "sentence": "The cow produced fresh milk for the local dairy.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dad",
+    "definition": "a male parent : father —often used as a name",
+    "difficulty": 3,
+    "sentence": "My mom swam and played soccer, my dad surfed, and my brother played basketball.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "day",
+    "definition": "a period of 24 hours beginning at midnight : one of the seven time periods that make up a week",
+    "difficulty": 3,
+    "sentence": "We're open seven days a week, 365 days a year.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dog",
+    "definition": "a type of animal that is often kept as a pet or trained to work for people by guarding buildings, hunting, etc. —often used before another noun",
+    "difficulty": 3,
+    "sentence": "The dog wagged its tail happily.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "ear",
+    "definition": "the part of the body that you hear with",
+    "difficulty": 3,
+    "sentence": "He was whispering something in her ear.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "eat",
+    "definition": "consume food",
+    "difficulty": 3,
+    "sentence": "We eat lunch together in the cafeteria at twelve o'clock.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "egg",
+    "definition": "the hard-shelled reproductive body produced by a bird and especially by the common domestic chicken; also : its contents used as food",
+    "difficulty": 3,
+    "sentence": "She cracked an egg into the mixing bowl very carefully.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "end",
+    "definition": "a point that marks the limit of something : the point at which something no longer continues to happen or exist",
+    "difficulty": 4,
+    "sentence": "The end proved to be very useful.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "eve",
+    "definition": "evening",
+    "difficulty": 4,
+    "sentence": "Christmas eve is a magical time for all families.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fly",
+    "definition": "move through air",
+    "difficulty": 4,
+    "sentence": "Birds can fly high in the sky with their strong wings.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fox",
+    "definition": "any of various carnivorous mammals (especially genus Vulpes) of the dog family related to but smaller than wolves with shorter legs, more pointed muzzle, large erect ears, and long bushy tail",
+    "difficulty": 4,
+    "sentence": "The fox lives in the forest.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "because",
+    "definition": "for the reason that",
+    "difficulty": 4,
+    "sentence": "But the Conservatives voted against the amendment—because politics. And so did the Liberals.",
+    "partOfSpeech": "conjunction",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "beef",
+    "definition": "the flesh of an adult domestic bovine (such as a steer or cow) used as food",
+    "difficulty": 4,
+    "sentence": "Security around the city will be beefed up during the event.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "before",
+    "definition": "earlier than",
+    "difficulty": 4,
+    "sentence": "Please wash your hands before you eat dinner.",
+    "partOfSpeech": "preposition",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bench",
+    "definition": "a long and usually hard seat for two or more people",
+    "difficulty": 4,
+    "sentence": "We sat on the park bench.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "big",
+    "definition": "large in size",
+    "difficulty": 4,
+    "sentence": "We live in a big house with five bedrooms.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bike",
+    "definition": "bicycle",
+    "difficulty": 4,
+    "sentence": "I ride my bike to the park with my friends on Saturdays.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bird",
+    "definition": "an animal that has wings and is covered with feathers",
+    "difficulty": 4,
+    "sentence": "The bird sang a beautiful song at dawn.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "book",
+    "definition": "a set of printed sheets of paper that are held together inside a cover : a long written work —sometimes used figuratively",
+    "difficulty": 4,
+    "sentence": "Tried to make reservations, but they were all booked up.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "box",
+    "definition": "a rigid typically rectangular container with or without a cover : such as",
+    "difficulty": 4,
+    "sentence": "For something a bit more suited to everyday, you can also pull your box braids into a high ponytail.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bus",
+    "definition": "a large motor vehicle designed to carry passengers usually along a fixed route according to a schedule",
+    "difficulty": 5,
+    "sentence": "The yellow school bus picks me up at eight o'clock each morning.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cake",
+    "definition": "a sweet baked food made from a mixture of flour, sugar, and other ingredients (such as eggs and butter) —often used before another noun",
+    "difficulty": 5,
+    "sentence": "I made/baked three cakes for the party.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "chair",
+    "definition": "a seat for one person that has a back and usually four legs",
+    "difficulty": 5,
+    "sentence": "Please sit in your chair and finish your homework.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cheat",
+    "definition": "to break a rule or law usually to gain an advantage at something —often + on or at",
+    "difficulty": 5,
+    "sentence": "The players were accused of cheating.",
+    "partOfSpeech": "verb",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cheer",
+    "definition": "a shout of applause or encouragement",
+    "difficulty": 5,
+    "sentence": "With autumn approaching, evenings at Stringham Pitcher Park are again alive with the sounds of football and cheer.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "child",
+    "definition": "a young person —often used before another noun.",
+    "difficulty": 5,
+    "sentence": "The child learned to ride a bicycle.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "city",
+    "definition": "a place where people live that is larger or more important than a town : an area where many people live and work",
+    "difficulty": 5,
+    "sentence": "New York is a big city.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "close",
+    "definition": "to move so as to bar passage through something",
+    "difficulty": 5,
+    "sentence": "Please close the door when you leave the classroom.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "come",
+    "definition": "to move toward someone or something",
+    "difficulty": 5,
+    "sentence": "Please come here for a minute. I want to show you something.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cook",
+    "definition": "someone who prepares and cooks food for eating at home, in a restaurant, etc.",
+    "difficulty": 5,
+    "sentence": "My dad is a great cook who makes delicious pasta every Sunday.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "couch",
+    "definition": "to lay (oneself) down for rest or sleep",
+    "difficulty": 5,
+    "sentence": "The tiger couches in the thick grass, watching its prey move closer.",
+    "partOfSpeech": "verb",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cry",
+    "definition": "to utter loudly : shout",
+    "difficulty": 5,
+    "sentence": "You made a mistake, but there's no use crying over spilled milk.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cup",
+    "definition": "a small round container that often has a handle and that is used for drinking liquids (such as tea and coffee)",
+    "difficulty": 5,
+    "sentence": "Please give me a cup of water.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cut",
+    "definition": "to use a sharp tool (such as a knife) to open or divide (something, such as paper or wood) —sometimes used figuratively",
+    "difficulty": 6,
+    "sentence": "Cut the paper along/on the dotted line (with a pair of scissors).",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dance",
+    "definition": "to move your body in a way that goes with the rhythm and style of music that is being played",
+    "difficulty": 6,
+    "sentence": "He never learned how to dance.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dig",
+    "definition": "to break up, turn, or loosen (earth) with an implement",
+    "difficulty": 6,
+    "sentence": "My dog likes to dig holes in the backyard to hide his bones.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "April",
+    "definition": "the fourth month of the Gregorian calendar",
+    "difficulty": 6,
+    "sentence": "My birthday is in April, right after spring starts.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "draw",
+    "definition": "make pictures",
+    "difficulty": 6,
+    "sentence": "I like to draw pictures of my family and pets with crayons.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "drink",
+    "definition": "consume liquid",
+    "difficulty": 6,
+    "sentence": "Remember to drink water after playing outside in the sun.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "drum",
+    "definition": "a musical instrument that is made with a thin layer of skin or plastic stretched over the end of a round frame and that is played by hitting the skin or plastic with sticks or with your hands",
+    "difficulty": 6,
+    "sentence": "A child beating on a drum.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "duck",
+    "definition": "any one of many different kinds of birds that swim and have a flat beak, a short neck, a heavy body, short legs, and webbed feet—often used before another noun",
+    "difficulty": 6,
+    "sentence": "The duck paddled across the pond.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "enjoy",
+    "definition": "to take pleasure in (something)",
+    "difficulty": 6,
+    "sentence": "Did you enjoy the movie?",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "face",
+    "definition": "the front part of the head that has the eyes, nose, and mouth on it",
+    "difficulty": 6,
+    "sentence": "Wash your face with soap and water before bedtime.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fan",
+    "definition": "any of various devices for winnowing grain",
+    "difficulty": 6,
+    "sentence": "I am a big fan of the school basketball team.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "far",
+    "definition": "at or to a great distance in space or time",
+    "difficulty": 6,
+    "sentence": "The dog wandered far from home.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "farm",
+    "definition": "a sum or due fixed in amount and payable at fixed intervals",
+    "difficulty": 6,
+    "sentence": "There was a trend of people farming likes on TikTok to get their significant others to buy them the game.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "feel",
+    "definition": "to be aware of (something that affects you physically, such as pain, heat, or an object touching your body)",
+    "difficulty": 7,
+    "sentence": "I feel much better after a good night's sleep.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fifty",
+    "definition": "a number equal to five times 10",
+    "difficulty": 7,
+    "sentence": "There are fifty states in the United States of America.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "find",
+    "definition": "to discover (something or someone) without planning or trying to : to discover (something or someone) by chance",
+    "difficulty": 7,
+    "sentence": "The artist loses himself in his experience and finds himself in it again.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fish",
+    "definition": "a cold-blooded animal that lives in water, breathes with gills, and usually has fins and scales",
+    "difficulty": 7,
+    "sentence": "The fish swam gracefully through the clear water.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fix",
+    "definition": "to make something whole or able to work properly again : repair, mend",
+    "difficulty": 7,
+    "sentence": "It was obvious early in the game that the fix was in.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "food",
+    "definition": "the things that people and animals eat",
+    "difficulty": 7,
+    "sentence": "A farmer who grows his own food.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "foot",
+    "definition": "the part of the leg on which an animal or person stands and moves : the part of the leg below the ankle —often used before another noun",
+    "difficulty": 7,
+    "sentence": "The foot is a fascinating creature to observe.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fork",
+    "definition": "an implement with two or more prongs used especially for taking up (as in eating), pitching, or digging",
+    "difficulty": 7,
+    "sentence": "Use your fork to eat the salad and your spoon for soup.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "forty",
+    "definition": "a number equal to four times 10",
+    "difficulty": 7,
+    "sentence": "Kelvin finished his forty in seven or eight long gulps. Tossed the bottle in the median carpeted with brown grass.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "four",
+    "definition": "the number 4",
+    "difficulty": 7,
+    "sentence": "A square has four sides and a table has four legs.",
+    "partOfSpeech": "numeral",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "America",
+    "definition": "either continent (North America or South America) of the western hemisphere",
+    "difficulty": 7,
+    "sentence": "The Statue of Liberty is in America.",
+    "partOfSpeech": "geographical name",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "Chinese",
+    "definition": "a native or inhabitant of China",
+    "difficulty": 7,
+    "sentence": "My friend is teaching me some Chinese words.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "Easter",
+    "definition": "a feast that commemorates Christ's resurrection and is observed with variations of date due to different calendars on the first Sunday after the paschal full moon",
+    "difficulty": 7,
+    "sentence": "We hunt for colorful eggs on Easter Sunday morning.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "Friday",
+    "definition": "the day of the week between Thursday and Saturday —abbr. Fri.",
+    "difficulty": 8,
+    "sentence": "We have art class every Friday afternoon after lunch.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "actor",
+    "definition": "one that acts : doer",
+    "difficulty": 8,
+    "sentence": "My favorite actor played a superhero in the new movie.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "agree",
+    "definition": "to concur in (something, such as an opinion) : admit, concede",
+    "difficulty": 8,
+    "sentence": "He likes golf and his wife likes tennis, so when it comes to sports, they have agreed to disagree.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "also",
+    "definition": "in addition",
+    "difficulty": 8,
+    "sentence": "I like pizza, and my sister also likes it.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "animal",
+    "definition": "a living thing that is not a human being or plant —often used to refer specifically to mammals as distinguished from other living things (such as fish and birds)",
+    "difficulty": 8,
+    "sentence": "The bay was home to clams, fish, dolphins, and other aquatic animals.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "answer",
+    "definition": "something you say or write when someone asks you a question",
+    "difficulty": 8,
+    "sentence": "The answer proved to be very useful.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "apple",
+    "definition": "a round fruit with red, yellow, or green skin and firm white flesh —often used before another noun",
+    "difficulty": 8,
+    "sentence": "Is the epitome of apple-pie wholesomeness.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "area",
+    "definition": "a part or section within a larger place : region",
+    "difficulty": 8,
+    "sentence": "This question falls outside my area of expertise.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "aunt",
+    "definition": "the sister of one's father or mother",
+    "difficulty": 8,
+    "sentence": "My aunt visited us from overseas last weekend for a week.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "baby",
+    "definition": "a very young child —often used before another noun",
+    "difficulty": 8,
+    "sentence": "She had the baby yesterday.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bakery",
+    "definition": "a place for baking or selling baked goods",
+    "difficulty": 8,
+    "sentence": "The bakery sells fresh bread and pastries every day.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "balcony",
+    "definition": "a platform that projects from the wall of a building and is enclosed by a parapet or railing",
+    "difficulty": 8,
+    "sentence": "We watched the beautiful sunset from the balcony of the hotel.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "clerk",
+    "definition": "cleric",
+    "difficulty": 8,
+    "sentence": "Landed a job as a law clerk at the Supreme Court straight out of law school.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "color",
+    "definition": "the property of objects that produce sensations on the eye",
+    "difficulty": 9,
+    "sentence": "The color of the sky is blue.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "daddy",
+    "definition": "father",
+    "difficulty": 9,
+    "sentence": "He's the Big Daddy of Spanish filmmakers ….",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "die",
+    "definition": "to stop living",
+    "difficulty": 9,
+    "sentence": "She claims she's not afraid to die.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "doll",
+    "definition": "a small-scale figure of a human being used especially as a child's plaything",
+    "difficulty": 9,
+    "sentence": "Generic, blue-eyed, blonde Barbie dolls with orthodontically perfect teeth ….",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dress",
+    "definition": "to put clothes on (yourself or someone else)",
+    "difficulty": 9,
+    "sentence": "They dressed themselves in a hurry.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "drive",
+    "definition": "to frighten or prod (game, cattle, etc.) into moving in a desired direction",
+    "difficulty": 9,
+    "sentence": "The school held a food drive.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "five",
+    "definition": "the number 5",
+    "difficulty": 9,
+    "sentence": "I have five fingers on each hand and five toes on each foot.",
+    "partOfSpeech": "numeral",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "banana",
+    "definition": "an elongated usually tapering tropical fruit with soft pulpy flesh enclosed in a soft usually yellow rind",
+    "difficulty": 9,
+    "sentence": "I eat a banana with my cereal for breakfast every morning.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "band",
+    "definition": "a usually small group of musicians who play popular music together",
+    "difficulty": 9,
+    "sentence": "The band's drummer is also the lead singer.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bank",
+    "definition": "a business where people keep their money, borrow money, etc., or the building where such a business operates —often used before another noun",
+    "difficulty": 9,
+    "sentence": "Our paychecks are deposited in/into the bank automatically.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "beach",
+    "definition": "an area covered with sand or small rocks that is next to an ocean or lake",
+    "difficulty": 9,
+    "sentence": "We spent the day at the beach.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bean",
+    "definition": "fava bean",
+    "difficulty": 9,
+    "sentence": "Green bean is my favorite vegetable to eat with dinner.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bear",
+    "definition": "any one of a group of large and heavy animals that have thick hair and sharp claws and that can stand on two legs like a person —sometimes used figuratively to describe a large man",
+    "difficulty": 9,
+    "sentence": "A mother bear and her cubs.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "begin",
+    "definition": "to do the first part of an action : to start doing something",
+    "difficulty": 10,
+    "sentence": "They will begin construction on the new school soon.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "belt",
+    "definition": "a strip of flexible material worn especially around the waist as an item of clothing or a means of carrying something (such as tools)",
+    "difficulty": 10,
+    "sentence": "Dad wears a brown leather belt to keep his pants up.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "between",
+    "definition": "in the space separating two things",
+    "difficulty": 10,
+    "sentence": "The library is between the post office and the bank.",
+    "partOfSpeech": "preposition",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bite",
+    "definition": "to seize especially with teeth or jaws so as to enter, grip, or wound",
+    "difficulty": 10,
+    "sentence": "In seven previous days, the seller didn't get a single bite.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "black",
+    "definition": "having the very dark color of coal or the night sky",
+    "difficulty": 10,
+    "sentence": "My cat has soft black fur and green eyes.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "blanket",
+    "definition": "a covering made of cloth that is used especially on a bed to keep you warm",
+    "difficulty": 10,
+    "sentence": "I snuggle under my warm blanket when I read before bedtime.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "blow",
+    "definition": "to move with speed or force",
+    "difficulty": 10,
+    "sentence": "The wind was blowing earlier but it's not blowing now.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "boat",
+    "definition": "a small vehicle that is used for traveling on water",
+    "difficulty": 10,
+    "sentence": "A lot of people still think Cadillac makes big floaty boats.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "body",
+    "definition": "a person's or animal's whole physical self —often used before another noun",
+    "difficulty": 10,
+    "sentence": "Exercise helps keep your body strong and healthy.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "boil",
+    "definition": "to come to the boiling point",
+    "difficulty": 10,
+    "sentence": "After two hit singles, the band went off the boil and eventually disbanded.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bowl",
+    "definition": "a round container that has tall, curving sides and that is used for preparing or serving foods and liquids",
+    "difficulty": 10,
+    "sentence": "Being bowled over by a base runner.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "break",
+    "definition": "to separate (something) into parts or pieces often in a sudden and forceful or violent way",
+    "difficulty": 10,
+    "sentence": "Be careful not to break the expensive vase.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bring",
+    "definition": "to convey, lead, carry, or cause to come along with one toward the place from which the action is being regarded",
+    "difficulty": 10,
+    "sentence": "This station brings you the news every night.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "brown",
+    "definition": "having the color of wood or chocolate; especially : of the color brown",
+    "difficulty": 11,
+    "sentence": "Their hands and faces were brown from long days in the sun.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "build",
+    "definition": "to make (something) by putting together parts or materials",
+    "difficulty": 11,
+    "sentence": "They plan to build a new house next year.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "burger",
+    "definition": "hamburger",
+    "difficulty": 11,
+    "sentence": "To put the smash in smashburger, I pressed down firmly on my burgers with a spatula.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "burn",
+    "definition": "to consume fuel and give off heat, light, and gases",
+    "difficulty": 11,
+    "sentence": "A small fire burned on the hearth.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "camp",
+    "definition": "a place that is usually far away from cities and that has tents, small houses, etc., that people can live in for a short period of time",
+    "difficulty": 11,
+    "sentence": "Fishing camps are located all along the river.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "candle",
+    "definition": "a usually molded or dipped mass of wax or tallow containing a wick that may be burned (as to give light, heat, or scent or for celebration or votive purposes)",
+    "difficulty": 11,
+    "sentence": "We put candles on the birthday cake and made a wish.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "candy",
+    "definition": "crystallized sugar formed by boiling down sugar syrup",
+    "difficulty": 11,
+    "sentence": "Do not eat too much candy.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "card",
+    "definition": "playing card",
+    "difficulty": 11,
+    "sentence": "I made a card for my mom on Mother's Day.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "care",
+    "definition": "suffering of mind : grief",
+    "difficulty": 11,
+    "sentence": "I care for my puppy by feeding him every morning.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "case",
+    "definition": "a situation or occurrence that is an instance or example of something",
+    "difficulty": 11,
+    "sentence": "That was true in all three cases.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cent",
+    "definition": "a monetary unit equal to 1/100 of a basic unit of value (such as dollar, euro, rand)",
+    "difficulty": 11,
+    "sentence": "A large percent of their income is used to pay rent.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "check",
+    "definition": "to inspect, examine, or look at appraisingly or appreciatively —usually used with out or over",
+    "difficulty": 11,
+    "sentence": "Mom will check my spelling test before I turn it in.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "chicken",
+    "definition": "a bird that is raised by people for its eggs and meat",
+    "difficulty": 11,
+    "sentence": "The chicken laid fresh eggs every morning.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "clean",
+    "definition": "free from dirt, marks, etc. : not dirty",
+    "difficulty": 12,
+    "sentence": "All visitors to the prison are searched to make sure they're clean.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "clock",
+    "definition": "a device that shows what time it is and that is usually placed in a room or attached to a wall —often used before another noun",
+    "difficulty": 12,
+    "sentence": "She looked/glanced at the clock on the wall. It was now 2:30.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cloud",
+    "definition": "a white or gray mass in the sky that is made of many very small drops of water",
+    "difficulty": 12,
+    "sentence": "The sun is shining and there's not a cloud in the sky.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "club",
+    "definition": "a group of people who meet to participate in an activity (such as a sport or hobby)",
+    "difficulty": 12,
+    "sentence": "I joined the art club at school this semester.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "coat",
+    "definition": "an outer piece of clothing that can be long or short and that is worn to keep warm or dry",
+    "difficulty": 12,
+    "sentence": "She put on her coat, hat, and gloves, and then she went outside.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cold",
+    "definition": "having a very low temperature",
+    "difficulty": 12,
+    "sentence": "The water was too cold for swimming.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "comic",
+    "definition": "of, relating to, or marked by comedy",
+    "difficulty": 12,
+    "sentence": "I love reading comic books about superheroes on the weekend.",
+    "partOfSpeech": "adjective",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cool",
+    "definition": "somewhat cold : not warm or hot",
+    "difficulty": 12,
+    "sentence": "A cool breeze made the evening pleasant.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "copy",
+    "definition": "an imitation, transcript, or reproduction of an original work (such as a letter, a painting, a table, or a dress)",
+    "difficulty": 12,
+    "sentence": "The teacher asked us to make a copy of the worksheet.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cost",
+    "definition": "the price of something : the amount of money that is needed to pay for or buy something",
+    "difficulty": 12,
+    "sentence": "The original cost of the house was $200,000.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "count",
+    "definition": "to indicate or name by units or groups so as to find the total number of units involved : number",
+    "difficulty": 12,
+    "sentence": "If you are looking for people to help you clean the house today, count me out.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "country",
+    "definition": "an area of land that is controlled by its own government : nation",
+    "difficulty": 12,
+    "sentence": "She traveled to a foreign country for the first time.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "date",
+    "definition": "a particular day of a month or year",
+    "difficulty": 12,
+    "sentence": "The date of the party is March 1.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "deal",
+    "definition": "to concern oneself or itself",
+    "difficulty": 13,
+    "sentence": "Let's make a deal to share the cookies fairly.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "desk",
+    "definition": "a piece of furniture that is like a table and often has drawers —often used before another noun",
+    "difficulty": 13,
+    "sentence": "She placed her hand on the desk.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dish",
+    "definition": "a shallow container that you cook or serve food in; specifically : a shallow bowl",
+    "difficulty": 13,
+    "sentence": "He can dish it out, but he can't take it when others do the same to him.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "doctor",
+    "definition": "a person who is skilled in the science of medicine : a person who is trained and licensed to treat sick and injured people",
+    "difficulty": 13,
+    "sentence": "I think you should see a doctor.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "down",
+    "definition": "to a lower position",
+    "difficulty": 13,
+    "sentence": "The ball rolled down the hill and into the lake.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dream",
+    "definition": "a series of thoughts, visions, or feelings that happen during sleep",
+    "difficulty": 13,
+    "sentence": "He had a dream about climbing a mountain.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "drop",
+    "definition": "a very small amount of liquid that falls in a rounded shape —often + of",
+    "difficulty": 13,
+    "sentence": "He squeezed the bottle until a few drops came out.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dry",
+    "definition": "free or relatively free from a liquid and especially water",
+    "difficulty": 13,
+    "sentence": "Hang your wet towel outside in the sun to dry.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "during",
+    "definition": "throughout",
+    "difficulty": 13,
+    "sentence": "Was offered a job during a visit to the capital.",
+    "partOfSpeech": "preposition",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "e-mail",
+    "definition": "a means or system for transmitting messages electronically (as between computers on a network)",
+    "difficulty": 13,
+    "sentence": "My teacher sent an e-mail to my parents about the field trip.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "enter",
+    "definition": "to go or come in",
+    "difficulty": 13,
+    "sentence": "He's been faced with many scandals since he entered office.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "eraser",
+    "definition": "one that erases; especially : a device (such as a piece of rubber or a felt pad) used to erase marks (as of ink or chalk)",
+    "difficulty": 13,
+    "sentence": "Use an eraser to fix mistakes.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "example",
+    "definition": "a person or way of behaving that is seen as a model that should be followed",
+    "difficulty": 13,
+    "sentence": "He was inspired by the example of his older brother.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "except",
+    "definition": "not including (someone or something) : other than (something or someone)",
+    "difficulty": 14,
+    "sentence": "The stores will be open daily except Sundays.",
+    "partOfSpeech": "preposition",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fact",
+    "definition": "something that truly exists or happens : something that has actual existence —often used in the phrase the fact that",
+    "difficulty": 14,
+    "sentence": "Rapid electronic communication is now a fact.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fail",
+    "definition": "to lose strength : weaken",
+    "difficulty": 14,
+    "sentence": "Our nation's greatest resource is our youth. … It has … never failed an invincible courage ….",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "family",
+    "definition": "a group of people who are related to each other",
+    "difficulty": 14,
+    "sentence": "The family gathered for Thanksgiving dinner.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fast",
+    "definition": "moving or able to move quickly",
+    "difficulty": 14,
+    "sentence": "The rabbit can run really fast through the grass.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fat",
+    "definition": "notable for having an unusual amount of fat:",
+    "difficulty": 14,
+    "sentence": "The author, a doctoral student therapist, discusses her experience with a clinical supervisor who fat-shamed a client during supervision.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "feed",
+    "definition": "to give food to",
+    "difficulty": 14,
+    "sentence": "I help my mom feed our cat and dog every evening.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fifteen",
+    "definition": "a number that is one more than fourteen",
+    "difficulty": 14,
+    "sentence": "She was fifteen when she first learned to drive.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fine",
+    "definition": "good, acceptable, or satisfactory : ok",
+    "difficulty": 14,
+    "sentence": "There's a fine line between helping and intruding.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "finish",
+    "definition": "to come to an end : terminate",
+    "difficulty": 14,
+    "sentence": "You can play outside after you finish your homework.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fire",
+    "definition": "the light and heat and especially the flame produced by burning",
+    "difficulty": 14,
+    "sentence": "The shack was destroyed by a fire. Police think someone set fire to it.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "first",
+    "definition": "coming before all",
+    "difficulty": 14,
+    "sentence": "Our team won first place in the competition.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "across",
+    "definition": "from one side to the opposite side of : over, through",
+    "difficulty": 14,
+    "sentence": "The restaurant is (just) across from the high school.",
+    "partOfSpeech": "preposition",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "actress",
+    "definition": "a woman or girl who is an actor",
+    "difficulty": 15,
+    "sentence": "The actress wore a beautiful costume on stage during the play.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "allow",
+    "definition": "to permit (something) : to regard or treat (something) as acceptable",
+    "difficulty": 15,
+    "sentence": "My teacher will allow us to play outside after we finish our work.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bell",
+    "definition": "a hollow usually cup-shaped metal object that makes a ringing sound when it is hit",
+    "difficulty": 15,
+    "sentence": "The school bell rings at three o'clock every day.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "blue",
+    "definition": "having the color of the clear sky",
+    "difficulty": 15,
+    "sentence": "The sky was a brilliant blue.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "boss",
+    "definition": "the person whose job is to tell other workers what to do",
+    "difficulty": 15,
+    "sentence": "Why don't you ask your boss for a raise?",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "call",
+    "definition": "to speak in a loud voice",
+    "difficulty": 15,
+    "sentence": "He called to passersby for help.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "carry",
+    "definition": "to move (something) while holding and supporting it —sometimes used figuratively",
+    "difficulty": 15,
+    "sentence": "She helped me carry the boxes out to my car.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "catch",
+    "definition": "to use your hands to stop and hold (an object that is moving through the air)",
+    "difficulty": 15,
+    "sentence": "Catch the ball and throw it to first base.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "chalk",
+    "definition": "a soft white, gray, or buff limestone composed chiefly of the shells of foraminifers",
+    "difficulty": 15,
+    "sentence": "Write with chalk on the board.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "coffee",
+    "definition": "a dark brown drink made from ground coffee beans and boiled water —often used before another noun",
+    "difficulty": 15,
+    "sentence": "My dad drinks a hot cup of coffee every morning before work.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "comb",
+    "definition": "a toothed instrument used especially for adjusting, cleaning, or confining hair",
+    "difficulty": 15,
+    "sentence": "The police are going over the evidence with a fine-tooth comb.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cover",
+    "definition": "to guard from attack",
+    "difficulty": 15,
+    "sentence": "The well rounded menu covers all the bases.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cross",
+    "definition": "a structure consisting of an upright with a transverse beam used especially by the ancient Romans for execution",
+    "difficulty": 15,
+    "sentence": "Please cross the street carefully.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dinner",
+    "definition": "the main meal of the day —often used before another noun",
+    "difficulty": 16,
+    "sentence": "We had many pleasant dinners together.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "driver",
+    "definition": "a person who drives a car, truck, etc.",
+    "difficulty": 16,
+    "sentence": "Who was the driver at the time of the accident?",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "eleven",
+    "definition": "a number that is one more than 10",
+    "difficulty": 16,
+    "sentence": "There are exactly eleven players on a soccer team.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "every",
+    "definition": "all",
+    "difficulty": 16,
+    "sentence": "I brush my teeth every morning and every night before bed.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fall",
+    "definition": "to come or go down quickly from a high place or position",
+    "difficulty": 16,
+    "sentence": "Be careful not to fall on the icy sidewalk.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "American",
+    "definition": "an Indigenous person of North America or South America",
+    "difficulty": 16,
+    "sentence": "We learned about American history in our social studies class today.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "August",
+    "definition": "marked by majestic dignity or grandeur",
+    "difficulty": 16,
+    "sentence": "School vacation ends in August every year.",
+    "partOfSpeech": "adjective",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "December",
+    "definition": "the 12th month of the Gregorian calendar",
+    "difficulty": 16,
+    "sentence": "We celebrate Christmas and New Year in December every year.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "English",
+    "definition": "of, relating to, or characteristic of England, the English people, or the English language",
+    "difficulty": 16,
+    "sentence": "We learn English grammar and reading in school every day.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "February",
+    "definition": "the second month of the Gregorian calendar",
+    "difficulty": 16,
+    "sentence": "February is the shortest month.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fill",
+    "definition": "to put into as much as can be held or conveniently contained",
+    "difficulty": 16,
+    "sentence": "No one will be able to fill your shoes after you retire.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "floor",
+    "definition": "the level base of a room",
+    "difficulty": 16,
+    "sentence": "On the ground floor, design architects removed some walls to create an open floor plan with lots of light ….",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "flower",
+    "definition": "the specialized part of an angiospermous plant that occurs singly or in clusters, possesses whorls of often colorful petals or sepals, and bears the reproductive structures (such as stamens or pistils) involved in the development of seeds and fruit : blossom",
+    "difficulty": 16,
+    "sentence": "A movement that flowered in the early 21st century.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "friend",
+    "definition": "a person who you like and enjoy being with",
+    "difficulty": 17,
+    "sentence": "I'd like you to meet my friend.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "able",
+    "definition": "having the power, skill, money, etc., that is needed to do something —usually followed by to + verb",
+    "difficulty": 17,
+    "sentence": "Hopes to be able to visit soon.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "ahead",
+    "definition": "in or toward the front",
+    "difficulty": 17,
+    "sentence": "The road stretched ahead for many miles.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "airport",
+    "definition": "a place where aircraft land and take off and where there are buildings for passengers to wait in and for aircraft to be sheltered",
+    "difficulty": 17,
+    "sentence": "We arrived at the airport just before closing time.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "always",
+    "definition": "at all times : invariably",
+    "difficulty": 17,
+    "sentence": "You can always try again if it doesn't work this time.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "angry",
+    "definition": "filled with anger : having a strong feeling of being upset or annoyed —often + at or with —often + about or over",
+    "difficulty": 17,
+    "sentence": "I've never seen her look so angry.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "anybody",
+    "definition": "any person : anyone",
+    "difficulty": 17,
+    "sentence": "Can anybody help me carry these books?",
+    "partOfSpeech": "pronoun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "anyone",
+    "definition": "any person at all",
+    "difficulty": 17,
+    "sentence": "Is anyone sitting in this chair?",
+    "partOfSpeech": "pronoun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "autumn",
+    "definition": "the season between summer and winter comprising in the northern hemisphere usually the months of September, October, and November or as reckoned astronomically extending from the September equinox to the December solstice —called also fall",
+    "difficulty": 17,
+    "sentence": "From traditional lion dances to eating mooncake, the Autumn Moon Festival brought families together to celebrate a cherished Chinese tradition.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "away",
+    "definition": "to or at a distance",
+    "difficulty": 17,
+    "sentence": "The park is just two blocks away from our house.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "basket",
+    "definition": "a receptacle made of interwoven material (such as osiers)",
+    "difficulty": 17,
+    "sentence": "We collected apples in a big basket at the farm yesterday.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bat",
+    "definition": "a stout solid stick : club",
+    "difficulty": 17,
+    "sentence": "We need his bat in the lineup.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bath",
+    "definition": "a washing or soaking (as in water or steam) of all or part of the body",
+    "difficulty": 17,
+    "sentence": "My little sister takes a bath with her rubber ducky every night.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "become",
+    "definition": "to begin to be or come to be something specified : to begin to have a specified quality",
+    "difficulty": 18,
+    "sentence": "Although I've known him for years, we didn't become close friends until recently.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bedroom",
+    "definition": "a room furnished with a bed and intended primarily for sleeping",
+    "difficulty": 18,
+    "sentence": "I keep my toys in a big box in my bedroom.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bee",
+    "definition": "any of numerous hymenopterous insects (superfamily Apoidea) that differ from the related wasps especially in the heavier hairier body and in having sucking as well as chewing mouthparts, that feed on pollen and nectar, and that store both and often also honey",
+    "difficulty": 18,
+    "sentence": "A yellow bee flew around the flowers in our garden.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "behind",
+    "definition": "in the place or situation that is being or has been departed from",
+    "difficulty": 18,
+    "sentence": "The cat is hiding behind the couch in the living room.",
+    "partOfSpeech": "adverb or adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "belong",
+    "definition": "—used to say that someone or something should be in a particular place or situation",
+    "difficulty": 18,
+    "sentence": "The house belongs not just to her, but to her husband as well.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bicycle",
+    "definition": "a 2-wheeled vehicle that a person rides by pushing on foot pedals",
+    "difficulty": 18,
+    "sentence": "She rode her bicycle to school.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "born",
+    "definition": "brought forth by or as if by birth",
+    "difficulty": 18,
+    "sentence": "My baby brother was born in the hospital last spring.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bow",
+    "definition": "to cease from competition or resistance : submit, yield; also : to suffer defeat",
+    "difficulty": 18,
+    "sentence": "Whose heavy hand hath bowed you to the grave ….",
+    "partOfSpeech": "verb",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "brother",
+    "definition": "a boy or man who has one or both of the same parents as you",
+    "difficulty": 18,
+    "sentence": "My little brother is learning to read in first grade.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "busy",
+    "definition": "engaged in action : occupied",
+    "difficulty": 18,
+    "sentence": "She has a busy/hectic social life. It seems like there's a party every week.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "camera",
+    "definition": "a device that is used for taking photographs or for making movies, television programs, etc.",
+    "difficulty": 18,
+    "sentence": "The camera proved to be very useful.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "castle",
+    "definition": "a large fortified building or set of buildings",
+    "difficulty": 18,
+    "sentence": "The princess lived in a tall castle with many towers.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "center",
+    "definition": "the middle point or part of something —often used before another noun",
+    "difficulty": 18,
+    "sentence": "The center proved to be very useful.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "chance",
+    "definition": "an opportunity to do something : an amount of time or a situation in which something can be done —often followed by to + verb",
+    "difficulty": 19,
+    "sentence": "I wanted to call you, but I never got/had the chance (to).",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "change",
+    "definition": "to become different",
+    "difficulty": 19,
+    "sentence": "She was wearing a strange smile. … then her smile changed back to the kind one that I recognized ….",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cheap",
+    "definition": "not costing a lot of money",
+    "difficulty": 19,
+    "sentence": "I always buy the cheapest brand of cereal.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cheese",
+    "definition": "a food consisting of the coagulated, compressed, and usually ripened curd of milk separated from the whey",
+    "difficulty": 19,
+    "sentence": "I like cheese on my pizza.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "choice",
+    "definition": "the act of choosing : the act of picking or deciding between two or more possibilities",
+    "difficulty": 19,
+    "sentence": "He knew he had to make a choice.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "choose",
+    "definition": "to decide that a particular person or thing is the one that you want",
+    "difficulty": 19,
+    "sentence": "It's difficult to choose between so many good options.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "church",
+    "definition": "a building that is used for Christian religious services —often used before another noun",
+    "difficulty": 19,
+    "sentence": "The church bells rang every Sunday morning.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cloudy",
+    "definition": "of, relating to, or resembling cloud",
+    "difficulty": 19,
+    "sentence": "It is cloudy today, so we might get some rain.",
+    "partOfSpeech": "adjective",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "corner",
+    "definition": "the point or area where two lines, edges, or sides of something meet",
+    "difficulty": 19,
+    "sentence": "We arrived at the corner just before closing time.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "course",
+    "definition": "the path or direction that something or someone moves along —often used figuratively",
+    "difficulty": 19,
+    "sentence": "We're trying to determine the best course of action at this point.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cousin",
+    "definition": "a child of one's uncle or aunt",
+    "difficulty": 19,
+    "sentence": "Rural children deserve as good an education as their city cousins get.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "crazy",
+    "definition": "not mentally sound : marked by thought or action that lacks reason : insane —not used technically",
+    "difficulty": 19,
+    "sentence": "My little brother is crazy about dinosaurs and toy cars.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cute",
+    "definition": "clever or shrewd often in an underhanded manner",
+    "difficulty": 19,
+    "sentence": "The baby puppies at the pet store are so cute.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dark",
+    "definition": "having very little or no light",
+    "difficulty": 20,
+    "sentence": "She sat in the dark room alone.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dead",
+    "definition": "no longer alive or living : no longer having life",
+    "difficulty": 20,
+    "sentence": "Her husband is dead. He died last year.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dear",
+    "definition": "loved or valued very much —often + to",
+    "difficulty": 20,
+    "sentence": "He's a dear friend of mine.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "death",
+    "definition": "the end of life : the time when someone or something dies",
+    "difficulty": 20,
+    "sentence": "The scary movie made me scream and scared me to death.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "decide",
+    "definition": "to make a choice about (something) : to choose (something) after thinking about it —often followed by to + verb —often + what, where, whether, if, etc.",
+    "difficulty": 20,
+    "sentence": "He decided that dinner would be at 7 o'clock, and asked guests to arrive at 6.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "deep",
+    "definition": "having a large distance to the bottom from the surface or highest point —often used figuratively",
+    "difficulty": 20,
+    "sentence": "We walked in the deep snow.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dentist",
+    "definition": "one who is skilled in and licensed to practice the prevention, diagnosis, and treatment of diseases, injuries, and malformations of the teeth, jaws, and mouth and who makes and inserts false teeth",
+    "difficulty": 20,
+    "sentence": "He goes to the dentist's for a check-up every six months.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dirty",
+    "definition": "not clean",
+    "difficulty": 20,
+    "sentence": "Your hands are dirty, so wash them before eating lunch.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dot",
+    "definition": "a small round mark",
+    "difficulty": 20,
+    "sentence": "Put a dot over the i.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "download",
+    "definition": "an act or instance of transferring something (such as data or files) from a usually large computer to the memory of another device (such as a smaller computer) : an act or instance of downloading something; also : the item downloaded",
+    "difficulty": 20,
+    "sentence": "Download the files onto your computer.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "each",
+    "definition": "every one",
+    "difficulty": 20,
+    "sentence": "The teacher gave each student a pencil and a notebook.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "earth",
+    "definition": "the planet we live on",
+    "difficulty": 20,
+    "sentence": "The new planetary system consists of two planets that are about three times larger than Earth ….",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "east",
+    "definition": "to, toward, or in the east",
+    "difficulty": 20,
+    "sentence": "The sun rises in the east and sets in the west.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "easy",
+    "definition": "not hard to do : not difficult",
+    "difficulty": 21,
+    "sentence": "This puzzle is too easy for older children.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "elephant",
+    "definition": "a thickset, usually extremely large, nearly hairless, herbivorous mammal (family Elephantidae, the elephant family) that has a snout elongated into a muscular trunk and two incisors in the upper jaw developed especially in the male into long ivory tusks:",
+    "difficulty": 21,
+    "sentence": "The elephant is the largest land animal.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "else",
+    "definition": "in a different manner or place or at a different time",
+    "difficulty": 21,
+    "sentence": "I don't like it. Apart from anything else , it's too expensive.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "excuse",
+    "definition": "to forgive someone for making a mistake, doing something wrong, etc.,",
+    "difficulty": 21,
+    "sentence": "Please excuse me for being late to school this morning.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "expect",
+    "definition": "to think that something will probably or certainly happen —often followed by to + verb",
+    "difficulty": 21,
+    "sentence": "We expect (that) the economy will improve.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "explain",
+    "definition": "to make (something) clear or easy to understand",
+    "difficulty": 21,
+    "sentence": "I need a lawyer to explain this contract to me.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "factory",
+    "definition": "a building or group of buildings where products are made —often used before another noun —often used figuratively",
+    "difficulty": 21,
+    "sentence": "We arrived at the factory just before closing time.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "famous",
+    "definition": "known or recognized by very many people : having fame —often + for or as",
+    "difficulty": 21,
+    "sentence": "A restaurant famous for its French cuisine.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "father",
+    "definition": "a male parent",
+    "difficulty": 21,
+    "sentence": "He became a father when he was 30.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "forget",
+    "definition": "to lose the remembrance of : be unable to think of or recall",
+    "difficulty": 21,
+    "sentence": "She's a talented singer and, lest we forget, a fine musician as well.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fourteen",
+    "definition": "a number that is one more than 13",
+    "difficulty": 21,
+    "sentence": "My brother turned fourteen years old this month.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "free",
+    "definition": "not costing any money",
+    "difficulty": 21,
+    "sentence": "They're giving out free tickets to the show.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fresh",
+    "definition": "newly produced, made, gathered, etc. : not preserved by being frozen, canned, etc.",
+    "difficulty": 21,
+    "sentence": "We bought fresh vegetables from the farmers market this morning.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "afraid",
+    "definition": "feeling fear: such as",
+    "difficulty": 22,
+    "sentence": "She's not afraid of hard work.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "airplane",
+    "definition": "a powered heavier-than-air aircraft with fixed wings from which it derives most of its lift",
+    "difficulty": 22,
+    "sentence": "We watched the airplane fly high above the clouds in the sky.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "almost",
+    "definition": "very nearly but not exactly or entirely",
+    "difficulty": 22,
+    "sentence": "I almost jumped out of my skin when I heard her say my name.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "angle",
+    "definition": "the difference between the direction of two lines or surfaces that come together : the space or shape formed when two lines or surfaces meet each other",
+    "difficulty": 22,
+    "sentence": "The two lines form a sharp angle.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "appear",
+    "definition": "to seem to be something : to make someone think that a person or thing has a particular characteristic : look seem —often followed by to + verb",
+    "difficulty": 22,
+    "sentence": "A performer who first appeared on a television variety show.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "borrow",
+    "definition": "to receive with the implied or expressed intention of returning the same or an equivalent",
+    "difficulty": 22,
+    "sentence": "Borrow a book from the library.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bottle",
+    "definition": "a glass or plastic container that has a narrow neck and usually has no handle",
+    "difficulty": 22,
+    "sentence": "Slipped deeper and deeper into the bottle ….",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bottom",
+    "definition": "the lowest part, point, or level of something—usually singular",
+    "difficulty": 22,
+    "sentence": "The treasure is at the bottom of the ocean.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "brave",
+    "definition": "feeling or showing no fear : not afraid",
+    "difficulty": 22,
+    "sentence": "He was a brave soldier.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bridge",
+    "definition": "a structure built over something (such as a river) so that people or vehicles can get across",
+    "difficulty": 22,
+    "sentence": "A bridge connecting the island to the mainland.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "butter",
+    "definition": "a solid emulsion of fat globules, air, and water made by churning milk or cream and used as food",
+    "difficulty": 22,
+    "sentence": "I spread butter on my toast for a yummy breakfast treat.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "button",
+    "definition": "a small, usually round piece of plastic, glass, metal, etc., that is sewn to a piece of clothing and is pushed through a loop or hole to fasten one part of the clothing to another part",
+    "difficulty": 22,
+    "sentence": "The button proved to be very useful.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "circle",
+    "definition": "a perfectly round shape : a line that is curved so that its ends meet and every point on the line is the same distance from the center",
+    "difficulty": 22,
+    "sentence": "She drew a circle around the correct answer.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "clear",
+    "definition": "very obvious : not causing or allowing doubt —sometimes used in spoken phrases that express anger",
+    "difficulty": 23,
+    "sentence": "The show was a clear failure.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "climb",
+    "definition": "to move or go up (something) using your feet and often your hands",
+    "difficulty": 23,
+    "sentence": "We like to climb the big tree in the backyard.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "collect",
+    "definition": "a short prayer comprising an invocation, petition, and conclusion; specifically often Collect : one preceding the eucharistic Epistle and varying with the day",
+    "difficulty": 23,
+    "sentence": "I collected up the dishes and brought them to the kitchen.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "early",
+    "definition": "at or near the beginning of a period of time or a process, activity, series, etc.",
+    "difficulty": 23,
+    "sentence": "Early in his career he moved to the city.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "envelope",
+    "definition": "an enclosing cover for a letter, card, etc.",
+    "difficulty": 23,
+    "sentence": "Put the letter in an envelope.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "even",
+    "definition": "used for emphasis",
+    "difficulty": 23,
+    "sentence": "My little sister can even ride a bike without training wheels.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fight",
+    "definition": "to contend in battle or physical combat; especially : to strive to overcome a person by blows or weapons",
+    "difficulty": 23,
+    "sentence": "He will fight for the heavyweight title next month.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "follow",
+    "definition": "to go or come after or behind (someone or something)",
+    "difficulty": 23,
+    "sentence": "She followed us into the kitchen.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "Christmas",
+    "definition": "a Christian holiday that is celebrated on December 25 in honor of the birth of Jesus Christ or the period of time that comes before and after this holiday —often used before another noun",
+    "difficulty": 23,
+    "sentence": "We're spending Christmas with my parents.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "already",
+    "definition": "prior to a specified or implied past, present, or future time : by this time : previously",
+    "difficulty": 23,
+    "sentence": "He had already left when I called.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "around",
+    "definition": "in a circle or in circumference",
+    "difficulty": 23,
+    "sentence": "The most intelligent of the artists around today.",
+    "partOfSpeech": "adverb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "arrive",
+    "definition": "to come to or reach a place after traveling, being sent, etc.",
+    "difficulty": 23,
+    "sentence": "He arrived home at six o'clock.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "badminton",
+    "definition": "a court game played with light long-handled rackets and a shuttlecock volleyed over a net",
+    "difficulty": 23,
+    "sentence": "We played badminton on the weekends at the park with friends.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "baseball",
+    "definition": "a game played with a bat and ball between two teams of nine players each on a large field having four bases that mark the course a runner must take to score; also : the ball used in this game",
+    "difficulty": 24,
+    "sentence": "We played baseball in the field after school today.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "believe",
+    "definition": "to accept or regard (something) as true",
+    "difficulty": 24,
+    "sentence": "I believe in giving people second chances.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "beside",
+    "definition": "by the side of",
+    "difficulty": 24,
+    "sentence": "A composition that can be ranked beside that of the masters.",
+    "partOfSpeech": "preposition",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "block",
+    "definition": "a solid piece of material (such as rock or wood) that has flat sides and is usually square or rectangular in shape",
+    "difficulty": 24,
+    "sentence": "Walk two blocks to the store.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bookstore",
+    "definition": "a place of business where books are the main item offered for sale —called also bookshop",
+    "difficulty": 24,
+    "sentence": "I bought several interesting novels at the bookstore downtown.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bread",
+    "definition": "a baked food made from a mixture of flour and water —often used before another noun",
+    "difficulty": 24,
+    "sentence": "We buy fresh bread from the bakery every Saturday morning.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "breakfast",
+    "definition": "the first meal of the day especially when taken in the morning",
+    "difficulty": 24,
+    "sentence": "The large kitchen has a long breakfast bar and a sitting area with French doors onto a back deck.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "brush",
+    "definition": "a tool with many stiff hairs, fibers, etc., that is used for cleaning, smoothing, or painting something",
+    "difficulty": 24,
+    "sentence": "Use a wire brush to get the rust off the metal.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "careful",
+    "definition": "using care",
+    "difficulty": 24,
+    "sentence": "Careful of a child's welfare.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "class",
+    "definition": "a group of students who meet regularly to be taught a subject or activity",
+    "difficulty": 24,
+    "sentence": "There are 20 students in the class.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "classmate",
+    "definition": "a member of the same class in a school or college",
+    "difficulty": 24,
+    "sentence": "My classmate helped me with the difficult homework.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "common",
+    "definition": "belonging to or shared by two or more people or groups",
+    "difficulty": 24,
+    "sentence": "Oh hard is the bed they have made him, / And common the blanket and cheap ….",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dollar",
+    "definition": "a basic unit of money in the U.S., Canada, Australia, and other countries that is equal to 100 cents",
+    "difficulty": 24,
+    "sentence": "Inflatable balloons, holiday decorations, toothbrushes and spices are some of the best deals you can buy at the dollar store.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "door",
+    "definition": "a movable piece of wood, glass, or metal that swings or slides open and shut so that people can enter or leave a room, building, vehicle, etc.",
+    "difficulty": 25,
+    "sentence": "Please close the door quietly when you leave the classroom.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dozen",
+    "definition": "a group of 12 people or things",
+    "difficulty": 25,
+    "sentence": "My dad bought a dozen eggs from the grocery store.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "eighty",
+    "definition": "a number that is equal to eight times 10",
+    "difficulty": 25,
+    "sentence": "Sadly, … the heartless bottom-liners on the food committee eighty-sixed the black raspberry for good.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "engineer",
+    "definition": "a member of a military group devoted to engineering work",
+    "difficulty": 25,
+    "sentence": "Corn engineered to resist crop pests.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "excited",
+    "definition": "very enthusiastic and eager about something",
+    "difficulty": 25,
+    "sentence": "They were excited about/over the trip.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "exercise",
+    "definition": "physical activity that is done in order to become stronger and healthier —often used before another noun",
+    "difficulty": 25,
+    "sentence": "Get plenty of fresh air and exercise.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "file",
+    "definition": "a tool usually of hardened steel with cutting ridges for forming or smoothing surfaces especially of metal",
+    "difficulty": 25,
+    "sentence": "The teacher keeps all our art projects in a big blue file.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fool",
+    "definition": "a person lacking in judgment or prudence",
+    "difficulty": 25,
+    "sentence": "On April Fools Day, my brother tried to fool me.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "abroad",
+    "definition": "beyond the boundaries of one's country : in or to a foreign country",
+    "difficulty": 25,
+    "sentence": "A family that came here from abroad.",
+    "partOfSpeech": "adverb or adjective",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "action",
+    "definition": "something that a person or group does —often used with take",
+    "difficulty": 25,
+    "sentence": "As its first official action, the committee elected Ms. Jones as its president.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "afternoon",
+    "definition": "the part of day between noon and sunset",
+    "difficulty": 25,
+    "sentence": "Mom picked me up from school this afternoon.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "another",
+    "definition": "different or distinct from the one first considered",
+    "difficulty": 25,
+    "sentence": "I'm willing to help you, but if you're asking for money, that's another thing/matter/story.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "anything",
+    "definition": "any thing whatever : any such thing",
+    "difficulty": 25,
+    "sentence": "Today, in terms of clothing, almost anything goes, but they recall when the dress code was strictly formal.",
+    "partOfSpeech": "pronoun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bathroom",
+    "definition": "a room containing a bathtub or shower and usually a sink and toilet",
+    "difficulty": 26,
+    "sentence": "Wash your hands in the bathroom.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "birthday",
+    "definition": "the day of a person's birth",
+    "difficulty": 26,
+    "sentence": "I got a new bicycle for my birthday this year.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "blank",
+    "definition": "appearing or causing to appear dazed, confounded, or nonplussed",
+    "difficulty": 26,
+    "sentence": "I tried to remember her name but drew a blank/my mind was a blank.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "blind",
+    "definition": "unable to see",
+    "difficulty": 26,
+    "sentence": "The blind man uses a white cane to help him walk safely.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bored",
+    "definition": "filled with or characterized by boredom",
+    "difficulty": 26,
+    "sentence": "Bobbi slouched back against the cushions doing her best impression of a bored teenager ….",
+    "partOfSpeech": "adjective",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "butterfly",
+    "definition": "any of numerous slender-bodied diurnal lepidopteran insects including one superfamily (Papilionoidea) with broad often brightly colored wings and usually another superfamily comprising the skippers",
+    "difficulty": 26,
+    "sentence": "A beautiful butterfly landed on the flower in our garden.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cellphone",
+    "definition": "a portable usually cordless telephone for use in a cellular system",
+    "difficulty": 26,
+    "sentence": "Mom uses her cellphone to call Dad at work.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "centimeter",
+    "definition": "a unit of length equal to 1/100 meter",
+    "difficulty": 26,
+    "sentence": "One centimeter equals exactly ten millimeters in measurement.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "chopsticks",
+    "definition": "one of a pair of slender sticks (as of wood or plastic) held between the thumb and fingers and used to lift food to the mouth —usually used in plural",
+    "difficulty": 26,
+    "sentence": "I am learning how to eat rice with chopsticks.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "correct",
+    "definition": "true or accurate : agreeing with facts : right",
+    "difficulty": 26,
+    "sentence": "What's the correct answer/response to this question?",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "daughter",
+    "definition": "a female offspring especially of human parents",
+    "difficulty": 26,
+    "sentence": "The United States is a daughter of Great Britain.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "drawer",
+    "definition": "a box that slides into and out of a piece of furniture (such as a desk) and that is used to store things",
+    "difficulty": 26,
+    "sentence": "The top/middle/bottom drawer of the desk/dresser.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "eight",
+    "definition": "the number 8",
+    "difficulty": 26,
+    "sentence": "There are eight crayons in my pencil box right now.",
+    "partOfSpeech": "numeral",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "eighteen",
+    "definition": "a number that is one more than seventeen",
+    "difficulty": 27,
+    "sentence": "He turned eighteen this year and got his license.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "error",
+    "definition": "something that is not correct : a wrong action or statement : mistake",
+    "difficulty": 27,
+    "sentence": "I made an error in my calculations.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "everyone",
+    "definition": "every person : everybody",
+    "difficulty": 27,
+    "sentence": "Everyone in our class is excited about the school picnic.",
+    "partOfSpeech": "pronoun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "festival",
+    "definition": "a special time or event when people gather to celebrate something",
+    "difficulty": 27,
+    "sentence": "Each year, a festival was held to celebrate the harvest.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fever",
+    "definition": "a rise of body temperature above the normal",
+    "difficulty": 27,
+    "sentence": "I stayed home from school because I had a fever.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "foreign",
+    "definition": "located outside a particular place or country and especially outside your own country",
+    "difficulty": 27,
+    "sentence": "This design is not foreign from some people's thoughts ….",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "foreigner",
+    "definition": "a person belonging to or owing allegiance to a foreign country",
+    "difficulty": 27,
+    "sentence": "Our new classmate is a foreigner from Japan who speaks Japanese.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "although",
+    "definition": "in spite of the fact that : even though",
+    "difficulty": 27,
+    "sentence": "They are good friends, although they don't see each other very often.",
+    "partOfSpeech": "conjunction",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "apartment",
+    "definition": "a usually rented room or set of rooms that is part of a building and is used as a place to live",
+    "difficulty": 27,
+    "sentence": "We lived in an apartment for several years before buying a house.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "attack",
+    "definition": "to act violently against (someone or something) : to try to hurt, injure, or destroy (something or someone) —often used as (be) attacked",
+    "difficulty": 27,
+    "sentence": "He attacked the guard with a knife.",
+    "partOfSpeech": "verb",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "basketball",
+    "definition": "a game in which two teams of five players bounce a ball and try to score points by throwing the ball through one of the raised nets at each end of a rectangular court —often used before another noun",
+    "difficulty": 27,
+    "sentence": "My brother plays basketball on the school team.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "beautiful",
+    "definition": "having beauty: such as",
+    "difficulty": 27,
+    "sentence": "The sunset was absolutely beautiful this evening over the ocean.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "blackboard",
+    "definition": "a hard smooth usually dark surface used especially in a classroom for writing or drawing on with chalk",
+    "difficulty": 27,
+    "sentence": "The teacher wrote the important math problem on the blackboard.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "boring",
+    "definition": "causing weariness and restlessness through lack of interest : causing boredom : tiresome",
+    "difficulty": 28,
+    "sentence": "The movie was so boring that I fell asleep.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "bright",
+    "definition": "producing a lot of light : filled with light",
+    "difficulty": 28,
+    "sentence": "She's a bright child with a curious mind.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "business",
+    "definition": "the activity of making, buying, or selling goods or providing services in exchange for money —often used before another noun",
+    "difficulty": 28,
+    "sentence": "Business is doing well this year.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "businessman",
+    "definition": "a man who transacts business; especially : a business executive",
+    "difficulty": 28,
+    "sentence": "The businessman closed an important deal with his partners.",
+    "partOfSpeech": "noun",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "celebrate",
+    "definition": "to recognize a notable event (as a birthday or anniversary) by doing something special or enjoyable",
+    "difficulty": 28,
+    "sentence": "Other elements of the culture, from spiritual practices to natural crafts, maintain and celebrate ties to west Africa.",
+    "partOfSpeech": "verb",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "computer",
+    "definition": "an electronic machine that can store and work with large amounts of information —often used before another noun",
+    "difficulty": 28,
+    "sentence": "He works all day on/with a computer.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dangerous",
+    "definition": "involving possible injury, harm, or death : characterized by danger —often + to",
+    "difficulty": 28,
+    "sentence": "As the conversation turned to politics, I knew we were heading into dangerous territory.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "dictionary",
+    "definition": "a reference source in print or electronic form containing words usually alphabetically arranged along with information about their forms, pronunciations, functions, etymologies, meanings, and syntactic and idiomatic uses",
+    "difficulty": 28,
+    "sentence": "Look it up in the dictionary.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "different",
+    "definition": "not of the same kind : partly or totally unlike —often + from, than, or to",
+    "difficulty": 28,
+    "sentence": "The two brothers could not have been more different.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "difficult",
+    "definition": "not easy : requiring much work or skill to do or make —often followed by to + verb —often + for",
+    "difficulty": 28,
+    "sentence": "Our last test was extremely difficult.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "either",
+    "definition": "being the one and the other of two : each",
+    "difficulty": 28,
+    "sentence": "Flowers blooming on either side of the walk.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "enough",
+    "definition": "occurring in such quantity, quality, or scope as to fully meet demands, needs, or expectations",
+    "difficulty": 28,
+    "sentence": "He just doesn't know when to leave well enough alone.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "everybody",
+    "definition": "everyone",
+    "difficulty": 28,
+    "sentence": "The teacher said everybody should bring a pencil to class tomorrow.",
+    "partOfSpeech": "pronoun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "excellent",
+    "definition": "very good : extremely good",
+    "difficulty": 29,
+    "sentence": "Her new movie has received excellent reviews.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "exciting",
+    "definition": "causing feelings of interest and enthusiasm : causing excitement",
+    "difficulty": 29,
+    "sentence": "Going to the zoo was the most exciting trip of the year.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "eye",
+    "definition": "the part of the body that you see with",
+    "difficulty": 29,
+    "sentence": "Her eyes slowly became accustomed to the dark.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "farmer",
+    "definition": "a person who runs a farm",
+    "difficulty": 29,
+    "sentence": "My uncle has been a farmer for 60 years.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "finger",
+    "definition": "one of the five long parts of the hand that are used for holding things; especially : one of the four that are not the thumb",
+    "difficulty": 29,
+    "sentence": "The finger proved to be very useful.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fridge",
+    "definition": "refrigerator",
+    "difficulty": 29,
+    "sentence": "The fridge keeps food cold and fresh at home.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "friendly",
+    "definition": "acting like a friend : kind and helpful",
+    "difficulty": 29,
+    "sentence": "Our neighbor is very friendly and always waves hello to us.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "chocolate",
+    "definition": "a food that is made from cacao beans and that is eaten as candy or used as a flavoring ingredient in other sweet foods",
+    "difficulty": 29,
+    "sentence": "The tart mousse was served in a dark chocolate cup, topped with meringue, and finished with a crisp wafer.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "clap",
+    "definition": "to strike (two things, such as two flat, hard surfaces) together so as to produce a sharp percussive noise",
+    "difficulty": 29,
+    "sentence": "We all love a good clapback. It's a comeback but with that extra oomph.",
+    "partOfSpeech": "verb",
+    "cefr_level": "C1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "classroom",
+    "definition": "a room where classes are taught in a school, college, or university",
+    "difficulty": 29,
+    "sentence": "We arrived at the classroom just before closing time.",
+    "partOfSpeech": "noun",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "comfortable",
+    "definition": "not causing any physically unpleasant feelings : producing physical comfort",
+    "difficulty": 29,
+    "sentence": "Lamb was comfortable in his ignorance of what he did not choose to know.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "convenient",
+    "definition": "suited to personal comfort or to easy performance",
+    "difficulty": 29,
+    "sentence": "Found it convenient to deal with both problems at the same time.",
+    "partOfSpeech": "adjective",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "cookie",
+    "definition": "a sweet baked food that is usually small, flat, and round and is made from flour and sugar —often used before another noun",
+    "difficulty": 29,
+    "sentence": "This recipe makes about two dozen cookies.",
+    "partOfSpeech": "noun",
+    "cefr_level": "C1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "delicious",
+    "definition": "appealing to one of the bodily senses especially of taste or smell",
+    "difficulty": 30,
+    "sentence": "A delicious bit of gossip.",
+    "partOfSpeech": "adjective",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "earthquake",
+    "definition": "a shaking of a part of the Earth's surface that often causes great damage —called also quake",
+    "difficulty": 30,
+    "sentence": "The earthquake had great importance in our daily lives.",
+    "partOfSpeech": "noun",
+    "cefr_level": "C1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "everything",
+    "definition": "all that exists",
+    "difficulty": 30,
+    "sentence": "Put everything back in your backpack before going home.",
+    "partOfSpeech": "pronoun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "expensive",
+    "definition": "costing a lot of money",
+    "difficulty": 30,
+    "sentence": "That restaurant is too expensive for my budget.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "experience",
+    "definition": "the process of doing and seeing things and of having things happen to you",
+    "difficulty": 30,
+    "sentence": "The best way to learn is by experience.",
+    "partOfSpeech": "noun",
+    "cefr_level": "A2",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "favorite",
+    "definition": "most liked",
+    "difficulty": 30,
+    "sentence": "Red is my favorite color.",
+    "partOfSpeech": "adjective",
+    "cefr_level": "B1",
+    "taiwan_stage": "小學"
+  },
+  {
+    "word": "fisherman",
+    "definition": "one who engages in fishing as an occupation or for pleasure",
+    "difficulty": 30,
+    "sentence": "The fisherman cast his line into the river early morning.",
+    "partOfSpeech": "noun",
+    "cefr_level": "C1",
+    "taiwan_stage": "小學"
+  }
+]

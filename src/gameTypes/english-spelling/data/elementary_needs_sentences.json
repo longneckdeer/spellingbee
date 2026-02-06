@@ -1,0 +1,374 @@
+[
+  {
+    "word": "about",
+    "definition": "concerning",
+    "partOfSpeech": "preposition",
+    "current_sentence": "Stop beating around the bush and tell me what you want."
+  },
+  {
+    "word": "after",
+    "definition": "following in time",
+    "partOfSpeech": "preposition",
+    "current_sentence": "The word 'after' means eat after work."
+  },
+  {
+    "word": "afternoon",
+    "definition": "the part of day between noon and sunset",
+    "partOfSpeech": "noun",
+    "current_sentence": "Since we're going out to dinner anyway, let's make an evening of it and go to a movie afterward."
+  },
+  {
+    "word": "ago",
+    "definition": "earlier than the present time",
+    "partOfSpeech": "adjective or adverb",
+    "current_sentence": "… the echo of my girlfriend's voice comes into my head, saying, \"Whatever happens, just go with it.\""
+  },
+  {
+    "word": "also",
+    "definition": "in addition",
+    "partOfSpeech": "adverb",
+    "current_sentence": "The word 'also' means i also went."
+  },
+  {
+    "word": "America",
+    "definition": "either continent (North America or South America) of the western hemisphere",
+    "partOfSpeech": "geographical name",
+    "current_sentence": ""
+  },
+  {
+    "word": "any",
+    "definition": "one or more",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The word 'any' means any questions."
+  },
+  {
+    "word": "anybody",
+    "definition": "any person : anyone",
+    "partOfSpeech": "pronoun",
+    "current_sentence": "It's anyone's guess what his next book will be about."
+  },
+  {
+    "word": "anyone",
+    "definition": "any person at all",
+    "partOfSpeech": "pronoun",
+    "current_sentence": "… he ranted on in a towering passion of wrath and grief. … He believed himself hardly used indeed."
+  },
+  {
+    "word": "April",
+    "definition": "the fourth month of the Gregorian calendar",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "August",
+    "definition": "marked by majestic dignity or grandeur",
+    "partOfSpeech": "adjective",
+    "current_sentence": "her august lineage"
+  },
+  {
+    "word": "away",
+    "definition": "to or at a distance",
+    "partOfSpeech": "adverb",
+    "current_sentence": "The word 'away' means walk away."
+  },
+  {
+    "word": "baseball",
+    "definition": "a game played with a bat and ball between two teams of nine players each on a large field having four bases that mark the course a runner must take to score; also : the ball used in this game",
+    "partOfSpeech": "noun",
+    "current_sentence": "The draft is the best part of being part of a fantasy league. … You get to choose the players you like and want to watch and help you win."
+  },
+  {
+    "word": "basketball",
+    "definition": "a game in which two teams of five players bounce a ball and try to score points by throwing the ball through one of the raised nets at each end of a rectangular court —often used before another noun",
+    "partOfSpeech": "noun",
+    "current_sentence": "The draft is the best part of being part of a fantasy league. … You get to choose the players you like and want to watch and help you win."
+  },
+  {
+    "word": "bedroom",
+    "definition": "a room furnished with a bed and intended primarily for sleeping",
+    "partOfSpeech": "名詞",
+    "current_sentence": "A fairly large bed-sitting room was vacant at No. 23. I took it, and settled down seriously to make my writing pay."
+  },
+  {
+    "word": "bee",
+    "definition": "any of numerous hymenopterous insects (superfamily Apoidea) that differ from the related wasps especially in the heavier hairier body and in having sucking as well as chewing mouthparts, that feed on pollen and nectar, and that store both and often also honey",
+    "partOfSpeech": "名詞",
+    "current_sentence": "a quilting bee"
+  },
+  {
+    "word": "before",
+    "definition": "earlier than",
+    "partOfSpeech": "preposition",
+    "current_sentence": "The word 'before' means arrive before noon."
+  },
+  {
+    "word": "bell",
+    "definition": "a hollow usually cup-shaped metal object that makes a ringing sound when it is hit",
+    "partOfSpeech": "noun",
+    "current_sentence": "The word 'bell' means ring/sound/toll a bell."
+  },
+  {
+    "word": "between",
+    "definition": "in the space separating two things",
+    "partOfSpeech": "preposition",
+    "current_sentence": "The word 'between' means stand between them."
+  },
+  {
+    "word": "birthday",
+    "definition": "the day of a person's birth",
+    "partOfSpeech": "名詞",
+    "current_sentence": "her 21st birthday"
+  },
+  {
+    "word": "black",
+    "definition": "having the very dark color of coal or the night sky",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The word 'black' means black ink."
+  },
+  {
+    "word": "body",
+    "definition": "a person's or animal's whole physical self —often used before another noun",
+    "partOfSpeech": "noun",
+    "current_sentence": "If Jordan spins past him or bodies him away, Russell won't give up on the play."
+  },
+  {
+    "word": "boring",
+    "definition": "causing weariness and restlessness through lack of interest : causing boredom : tiresome",
+    "partOfSpeech": "adjective",
+    "current_sentence": "use a drill to bore a hole through the board"
+  },
+  {
+    "word": "brother",
+    "definition": "a boy or man who has one or both of the same parents as you",
+    "partOfSpeech": "noun",
+    "current_sentence": "The word 'brother' means my little/younger brother."
+  },
+  {
+    "word": "cellphone",
+    "definition": "a portable usually cordless telephone for use in a cellular system",
+    "partOfSpeech": "noun",
+    "current_sentence": "Use the FREE cell phone lots when picking up passengers. Simply wait in the cell lot until your party calls you after they retrieve their luggage."
+  },
+  {
+    "word": "China",
+    "definition": "porcelain; also : vitreous porcelain wares (such as dishes, vases, or ornaments) for domestic use",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "Chinese",
+    "definition": "a native or inhabitant of China",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "chopsticks",
+    "definition": "one of a pair of slender sticks (as of wood or plastic) held between the thumb and fingers and used to lift food to the mouth —usually used in plural",
+    "partOfSpeech": "noun",
+    "current_sentence": "Never spear food with a chopstick! If you're having trouble picking up your food, a spoon is your plan B."
+  },
+  {
+    "word": "climb",
+    "definition": "to move or go up (something) using your feet and often your hands",
+    "partOfSpeech": "verb",
+    "current_sentence": "The word 'climb' means climb a ladder/tree."
+  },
+  {
+    "word": "cloudy",
+    "definition": "of, relating to, or resembling cloud",
+    "partOfSpeech": "adjective",
+    "current_sentence": "a cloudy mirror"
+  },
+  {
+    "word": "club",
+    "definition": "a group of people who meet to participate in an activity (such as a sport or hobby)",
+    "partOfSpeech": "noun",
+    "current_sentence": "lunch at the club"
+  },
+  {
+    "word": "coffee",
+    "definition": "a dark brown drink made from ground coffee beans and boiled water —often used before another noun",
+    "partOfSpeech": "noun",
+    "current_sentence": "instant coffee"
+  },
+  {
+    "word": "comic",
+    "definition": "of, relating to, or marked by comedy",
+    "partOfSpeech": "adjective",
+    "current_sentence": "the newspaper's comic section"
+  },
+  {
+    "word": "copy",
+    "definition": "an imitation, transcript, or reproduction of an original work (such as a letter, a painting, a table, or a dress)",
+    "partOfSpeech": "noun",
+    "current_sentence": "For players who are holdovers from last year's ballot, I just copied and pasted what I wrote a year ago."
+  },
+  {
+    "word": "December",
+    "definition": "the 12th month of the Gregorian calendar",
+    "partOfSpeech": "noun",
+    "current_sentence": ""
+  },
+  {
+    "word": "dig",
+    "definition": "to break up, turn, or loosen (earth) with an implement",
+    "partOfSpeech": "verb",
+    "current_sentence": "The detectives dug into his past and learned that he had once lived in another country."
+  },
+  {
+    "word": "door",
+    "definition": "a movable piece of wood, glass, or metal that swings or slides open and shut so that people can enter or leave a room, building, vehicle, etc.",
+    "partOfSpeech": "noun",
+    "current_sentence": "The word 'door' means open/shut/slam/lock/bolt the door."
+  },
+  {
+    "word": "down",
+    "definition": "to a lower position",
+    "partOfSpeech": "adverb",
+    "current_sentence": "The word 'down' means sit down."
+  },
+  {
+    "word": "draw",
+    "definition": "make pictures",
+    "partOfSpeech": "verb",
+    "current_sentence": "The word 'draw' means draw a circle."
+  },
+  {
+    "word": "drink",
+    "definition": "consume liquid",
+    "partOfSpeech": "verb",
+    "current_sentence": "The word 'drink' means drink water."
+  },
+  {
+    "word": "e-mail",
+    "definition": "a means or system for transmitting messages electronically (as between computers on a network)",
+    "partOfSpeech": "noun",
+    "current_sentence": "… let's face it, we're all inundated by way too much junk email, and getting off those mailing lists can be a hassle …"
+  },
+  {
+    "word": "each",
+    "definition": "every one",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The word 'each' means each person."
+  },
+  {
+    "word": "east",
+    "definition": "to, toward, or in the east",
+    "partOfSpeech": "adverb",
+    "current_sentence": "an east window"
+  },
+  {
+    "word": "eat",
+    "definition": "consume food",
+    "partOfSpeech": "verb",
+    "current_sentence": "The word 'eat' means i eat rice."
+  },
+  {
+    "word": "eight",
+    "definition": "the number 8",
+    "partOfSpeech": "numeral",
+    "current_sentence": "The word 'eight' means eight arms."
+  },
+  {
+    "word": "English",
+    "definition": "of, relating to, or characteristic of England, the English people, or the English language",
+    "partOfSpeech": "adjective",
+    "current_sentence": ""
+  },
+  {
+    "word": "even",
+    "definition": "used for emphasis",
+    "partOfSpeech": "adverb",
+    "current_sentence": "The word 'even' means even better."
+  },
+  {
+    "word": "every",
+    "definition": "all",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The word 'every' means every day."
+  },
+  {
+    "word": "everybody",
+    "definition": "everyone",
+    "partOfSpeech": "pronoun",
+    "current_sentence": "The celebrity murder trial was on everyone's lips."
+  },
+  {
+    "word": "everyone",
+    "definition": "every person : everybody",
+    "partOfSpeech": "pronoun",
+    "current_sentence": "He says something stupid every time he opens his mouth. =every time he speaks"
+  },
+  {
+    "word": "exciting",
+    "definition": "causing feelings of interest and enthusiasm : causing excitement",
+    "partOfSpeech": "adjective",
+    "current_sentence": "drugs that excite the central nervous system"
+  },
+  {
+    "word": "excuse",
+    "definition": "to forgive someone for making a mistake, doing something wrong, etc.,",
+    "partOfSpeech": "verb",
+    "current_sentence": "Excusing himself, he quickly rose from the table and left the room."
+  },
+  {
+    "word": "feed",
+    "definition": "to give food to",
+    "partOfSpeech": "verb",
+    "current_sentence": "He fed me a line about how he was late because his car broke down."
+  },
+  {
+    "word": "fifty",
+    "definition": "a number equal to five times 10",
+    "partOfSpeech": "noun",
+    "current_sentence": "a fifty-fifty proposition"
+  },
+  {
+    "word": "file",
+    "definition": "a tool usually of hardened steel with cutting ridges for forming or smoothing surfaces especially of metal",
+    "partOfSpeech": "noun",
+    "current_sentence": "soldiers filing past on their way to the mess hall"
+  },
+  {
+    "word": "five",
+    "definition": "the number 5",
+    "partOfSpeech": "numeral",
+    "current_sentence": "The word 'five' means five fingers."
+  },
+  {
+    "word": "fly",
+    "definition": "move through air",
+    "partOfSpeech": "verb",
+    "current_sentence": "The word 'fly' means birds fly."
+  },
+  {
+    "word": "foreigner",
+    "definition": "a person belonging to or owing allegiance to a foreign country",
+    "partOfSpeech": "noun",
+    "current_sentence": "anti-foreigner sentiments"
+  },
+  {
+    "word": "fork",
+    "definition": "an implement with two or more prongs used especially for taking up (as in eating), pitching, or digging",
+    "partOfSpeech": "noun",
+    "current_sentence": "fork-tender filet mignon"
+  },
+  {
+    "word": "four",
+    "definition": "the number 4",
+    "partOfSpeech": "numeral",
+    "current_sentence": "The word 'four' means four legs."
+  },
+  {
+    "word": "Friday",
+    "definition": "the day of the week between Thursday and Saturday —abbr. Fri.",
+    "partOfSpeech": "noun",
+    "current_sentence": "casual employment"
+  },
+  {
+    "word": "friendly",
+    "definition": "acting like a friend : kind and helpful",
+    "partOfSpeech": "adjective",
+    "current_sentence": "The word 'friendly' means friendly neighbors."
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "word": "aboard",
+    "definition": "alongside",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "abortion",
+    "definition": "the termination of a pregnancy after, accompanied by, resulting in, or closely followed by the death of the embryo or fetus: such as",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "abstract",
+    "definition": "relating to or involving general ideas or qualities rather than an actual object, person, etc.",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "academy",
+    "definition": "a school usually above the elementary level; especially : a private high school",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "accent",
+    "definition": "an effort in speech to stress one syllable over adjacent syllables; also : the stress thus given a syllable",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "acceptable",
+    "definition": "capable or worthy of being accepted",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "acceptance",
+    "definition": "the quality or state of being accepted or acceptable",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "accidental",
+    "definition": "occurring unexpectedly or by chance",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "accommodation",
+    "definition": "something supplied for convenience or to satisfy a need: such as",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "accordance",
+    "definition": "agreement, conformity",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "accordingly",
+    "definition": "in accordance : correspondingly",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "accountant",
+    "definition": "one that gives an account or is accountable",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "accounting",
+    "definition": "the system of recording and summarizing business and financial transactions and analyzing, verifying, and reporting the results; also : the principles and procedures of this system",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "accumulation",
+    "definition": "something that has accumulated or has been accumulated",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "accuracy",
+    "definition": "freedom from mistake or error : correctness",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "accusation",
+    "definition": "a charge of wrongdoing",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "accustom",
+    "definition": "to make familiar with something through use or experience",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "ache",
+    "definition": "to suffer a usually dull persistent pain",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "acid",
+    "definition": "a sour substance; specifically : any of various typically water-soluble and sour compounds that in solution are capable of reacting with a base to form a salt, redden litmus, and have a pH less than 7, that are hydrogen-containing molecules or ions able to give up a proton to a base, or that are substances able to accept an unshared pair of electrons from a base",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "acne",
+    "definition": "a disorder of the skin that is marked by blemishes (such as whiteheads, blackheads, or pustules) especially on the face, chest, and shoulders and is caused by inflammation of sebaceous glands and hair follicles; especially : a form found chiefly in adolescents",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "acquaint",
+    "definition": "to cause to know personally",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "acquaintance",
+    "definition": "the state of being acquainted",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "acre",
+    "definition": "a field especially of arable land or pastureland",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "activist",
+    "definition": "one who advocates or practices activism : a person who uses or supports strong actions (such as public protests) in support of or opposition to one side of a controversial issue",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "acute",
+    "definition": "characterized by sharpness or severity of sudden onset",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "addict",
+    "definition": "one exhibiting a compulsive, chronic, physiological or psychological need for a habit-forming substance, behavior, or activity",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "addiction",
+    "definition": "a compulsive, chronic, physiological or psychological need for a habit-forming substance, behavior, or activity having harmful physical, psychological, or social effects and typically causing well-defined symptoms (such as anxiety, irritability, tremors, or nausea) upon withdrawal or abstinence : the state of being addicted",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "administrative",
+    "definition": "of or relating to administration or an administration : relating to the management of a company, school, or other organization",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "administrator",
+    "definition": "a person legally vested with the right of administration of an estate",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "admirable",
+    "definition": "deserving the highest esteem : excellent",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "admiral",
+    "definition": "the commander in chief of a navy",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "admiration",
+    "definition": "a feeling of respect and approval",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "adolescence",
+    "definition": "the period of life when a child develops into an adult : the period from puberty to maturity terminating legally at the age of majority",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "adore",
+    "definition": "to worship or honor as a deity or as divine",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "adverse",
+    "definition": "acting against or in a contrary direction : hostile",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "advisor",
+    "definition": "someone who gives advice",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "advisory",
+    "definition": "having or exercising power to advise",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "affection",
+    "definition": "a feeling of liking and caring for someone or something : tender attachment : fondness",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "affectionate",
+    "definition": "feeling or showing affection or warm regard : loving",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "affiliate",
+    "definition": "to bring or receive into close connection as a member or branch",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "affirm",
+    "definition": "validate, confirm",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "aggression",
+    "definition": "a forceful action or procedure (such as an unprovoked attack) especially when intended to dominate or master",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "agony",
+    "definition": "intense pain of mind or body : anguish, torture",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "agreeable",
+    "definition": "pleasing to the mind or senses especially as according well with one's tastes or needs",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "agriculture",
+    "definition": "the science, art, or practice of cultivating the soil, producing crops, and raising livestock and in varying degrees the preparation and marketing of the resulting products",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "airtight",
+    "definition": "impermeable to air or nearly so",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "airway",
+    "definition": "a passage for a current of air (as in a mine or to the lungs)",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "aisle",
+    "definition": "a passage (as in a theater or railroad passenger car) separating sections of seats",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "alcoholic",
+    "definition": "of, relating to, or caused by alcohol",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "alert",
+    "definition": "watchful and prompt to meet danger or emergency",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "algebra",
+    "definition": "a generalization of arithmetic in which letters representing numbers are combined according to the rules of arithmetic",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "alienate",
+    "definition": "to cause to be estranged : to make unfriendly, hostile, or indifferent especially where attachment formerly existed",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "align",
+    "definition": "to bring into line or alignment",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "allege",
+    "definition": "to assert without proof or before proving",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "allergic",
+    "definition": "of, relating to, affected with, or caused by allergy",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "allergy",
+    "definition": "altered bodily reactivity (such as hypersensitivity) to an antigen in response to a first exposure",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "alley",
+    "definition": "a garden or park walk bordered by trees or bushes",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "alligator",
+    "definition": "either of two large carnivorous, thick-skinned, long-bodied, aquatic, crocodilian reptiles (Alligator mississippiensis of the southeastern U.S. and A. sinensis of China) that have a broad head with a slightly tapered, long, rounded, U-shaped snout and a special pocket in the upper jaw for reception of the enlarged lower fourth tooth; broadly : crocodilian",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "allowance",
+    "definition": "a sum granted as a reimbursement or bounty or for expenses; especially : a sum regularly provided for personal or household expenses",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "ally",
+    "definition": "to unite or form a connection or relation between : associate —usually used with with or to",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "almond",
+    "definition": "the drupaceous fruit of a small tree (Prunus dulcis synonym P. amygdalus) of the rose family with flowers and young fruit resembling those of the peach; especially : its ellipsoidal edible kernel used as a nut",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "alongside",
+    "definition": "along the side : in parallel position",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "alphabet",
+    "definition": "a set of letters or other characters with which one or more languages are written especially if arranged in a customary order",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "alternate",
+    "definition": "occurring or succeeding by turns",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "altitude",
+    "definition": "the vertical elevation of an object above a surface (such as sea level or land) of a planet or natural satellite",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "aluminum",
+    "definition": "a silver-white metallic chemical element with atomic number 13 that has good electrical and thermal conductivity, high reflectivity, and resistance to oxidation —often used before another noun",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "am",
+    "definition": "",
+    "sentence": "",
+    "partOfSpeech": "其他",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "amaze",
+    "definition": "to fill with wonder : astound",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "ambitious",
+    "definition": "having or controlled by ambition : having a desire to be successful, powerful, or famous",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "ambulance",
+    "definition": "a vehicle equipped for transporting the injured or sick",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "amend",
+    "definition": "to put right; especially : to make emendations in (something, such as a text)",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "amid",
+    "definition": "in or into the middle of : surrounded by : among",
+    "sentence": "",
+    "partOfSpeech": "介系詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "amidst",
+    "definition": "in or into the middle of : surrounded by : among",
+    "sentence": "",
+    "partOfSpeech": "介系詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "ample",
+    "definition": "generous or more than adequate in size, scope, or capacity",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "amplify",
+    "definition": "to expand (something, such as a statement) by the use of detail or illustration or by closer analysis",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "amuse",
+    "definition": "to entertain or occupy in a light, playful, or pleasant manner",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "analogy",
+    "definition": "a comparison of two otherwise unlike things based on resemblance of a particular aspect; also : one of the two things being compared",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "analyst",
+    "definition": "a person who analyzes or who is skilled in analysis",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "analytical",
+    "definition": "of or relating to analysis or analytics; especially : separating something into component parts or constituent elements",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "anchor",
+    "definition": "a device usually of metal attached to a ship or boat by a cable and cast overboard to hold it in a particular place by means of a fluke that digs into the bottom",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "angel",
+    "definition": "a spiritual being serving as a divine messenger and intermediary and often as a special protector of an individual or nation; especially : one in the lowest rank in the celestial hierarchy",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "animate",
+    "definition": "possessing or characterized by life : alive",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "annoy",
+    "definition": "to disturb or irritate especially by repeated acts",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "annoyance",
+    "definition": "the act of annoying someone or of being annoyed",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "anthem",
+    "definition": "a song or hymn of praise or gladness",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "antibiotic",
+    "definition": "a substance able to inhibit or kill microorganisms; specifically : an antibacterial substance (such as penicillin, cephalosporin, and ciprofloxacin) that is used to treat or prevent infections by killing or inhibiting the growth of bacteria in or on the body, that is administered orally, topically, or by injection, and that is isolated from cultures of certain microorganisms (such as fungi) or is of semi-synthetic or synthetic origin",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "antique",
+    "definition": "existing since or belonging to earlier times : ancient",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "antonym",
+    "definition": "a word of opposite meaning",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "anxiety",
+    "definition": "apprehensive uneasiness or nervousness usually over an impending or anticipated misfortune : a state of being anxious",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "anyhow",
+    "definition": "in any manner whatever",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "apology",
+    "definition": "an admission of error or discourtesy accompanied by an expression of regret",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "applaud",
+    "definition": "to express approval especially by clapping the hands",
+    "sentence": "",
+    "partOfSpeech": "動詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "applause",
+    "definition": "marked commendation : acclaim",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "appliance",
+    "definition": "an act of applying",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "applicant",
+    "definition": "one who applies",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "apron",
+    "definition": "a garment usually of cloth, plastic, or leather usually tied around the waist and used to protect clothing or adorn a costume",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "apt",
+    "definition": "unusually fitted or qualified : ready",
+    "sentence": "",
+    "partOfSpeech": "形容詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "aquarium",
+    "definition": "a container (such as a glass tank) or an artificial pond in which living aquatic animals or plants are kept",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "arch",
+    "definition": "a typically curved structural member spanning an opening and serving as a support (as for the wall or other weight above the opening)",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  },
+  {
+    "word": "archaeology",
+    "definition": "the scientific study of material remains (such as tools, pottery, jewelry, stone walls, and monuments) of past human life and activities",
+    "sentence": "",
+    "partOfSpeech": "名詞",
+    "difficulty": 50,
+    "cefr_level": "B2",
+    "source": "CEEC"
+  }
+]

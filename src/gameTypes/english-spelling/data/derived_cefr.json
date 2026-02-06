@@ -1,0 +1,2906 @@
+{
+  "abjuration": {
+    "base": "abjure",
+    "cefr": "C2"
+  },
+  "abnegation": {
+    "base": "abnegate",
+    "cefr": "C2"
+  },
+  "abruptly": {
+    "base": "abrupt",
+    "cefr": "C1"
+  },
+  "absolution": {
+    "base": "absolute",
+    "cefr": "B1"
+  },
+  "abstemiously": {
+    "base": "abstemious",
+    "cefr": "C2"
+  },
+  "abstemiousness": {
+    "base": "abstemious",
+    "cefr": "C2"
+  },
+  "absurdism": {
+    "base": "absurd",
+    "cefr": "B2"
+  },
+  "abusive": {
+    "base": "abuse",
+    "cefr": "B1"
+  },
+  "according": {
+    "base": "accord",
+    "cefr": "C1"
+  },
+  "accountable": {
+    "base": "account",
+    "cefr": "B1"
+  },
+  "acidic": {
+    "base": "acid",
+    "cefr": "B1"
+  },
+  "active": {
+    "base": "act",
+    "cefr": "A2"
+  },
+  "affliction": {
+    "base": "afflict",
+    "cefr": "C1"
+  },
+  "afforded": {
+    "base": "afford",
+    "cefr": "B1"
+  },
+  "affording": {
+    "base": "afford",
+    "cefr": "B1"
+  },
+  "affords": {
+    "base": "afford",
+    "cefr": "B1"
+  },
+  "agreement": {
+    "base": "agree",
+    "cefr": "A2"
+  },
+  "alienation": {
+    "base": "alienate",
+    "cefr": "C1"
+  },
+  "allowed": {
+    "base": "allow",
+    "cefr": "A2"
+  },
+  "allowing": {
+    "base": "allow",
+    "cefr": "A2"
+  },
+  "allows": {
+    "base": "allow",
+    "cefr": "A2"
+  },
+  "amalgamation": {
+    "base": "amalgamate",
+    "cefr": "C2"
+  },
+  "amazing": {
+    "base": "amaze",
+    "cefr": "B1"
+  },
+  "anecdotal": {
+    "base": "anecdote",
+    "cefr": "C1"
+  },
+  "annotation": {
+    "base": "annotate",
+    "cefr": "C1"
+  },
+  "appeared": {
+    "base": "appear",
+    "cefr": "A2"
+  },
+  "appearing": {
+    "base": "appear",
+    "cefr": "A2"
+  },
+  "appears": {
+    "base": "appear",
+    "cefr": "A2"
+  },
+  "armed": {
+    "base": "arm",
+    "cefr": "A2"
+  },
+  "arrival": {
+    "base": "arrive",
+    "cefr": "A2"
+  },
+  "artistic": {
+    "base": "artist",
+    "cefr": "A2"
+  },
+  "asceticism": {
+    "base": "ascetic",
+    "cefr": "C2"
+  },
+  "asked": {
+    "base": "ask",
+    "cefr": "A1"
+  },
+  "asking": {
+    "base": "ask",
+    "cefr": "A1"
+  },
+  "asks": {
+    "base": "ask",
+    "cefr": "A1"
+  },
+  "assimilation": {
+    "base": "assimilate",
+    "cefr": "C1"
+  },
+  "athletic": {
+    "base": "athlete",
+    "cefr": "B1"
+  },
+  "becomes": {
+    "base": "become",
+    "cefr": "A2"
+  },
+  "becoming": {
+    "base": "become",
+    "cefr": "A2"
+  },
+  "begins": {
+    "base": "begin",
+    "cefr": "A2"
+  },
+  "believed": {
+    "base": "believe",
+    "cefr": "A2"
+  },
+  "believes": {
+    "base": "believe",
+    "cefr": "A2"
+  },
+  "believing": {
+    "base": "believe",
+    "cefr": "A2"
+  },
+  "bitter": {
+    "base": "bit",
+    "cefr": "A2"
+  },
+  "bother": {
+    "base": "both",
+    "cefr": "A2"
+  },
+  "breaking": {
+    "base": "break",
+    "cefr": "A2"
+  },
+  "breaks": {
+    "base": "break",
+    "cefr": "A2"
+  },
+  "bringing": {
+    "base": "bring",
+    "cefr": "A2"
+  },
+  "brings": {
+    "base": "bring",
+    "cefr": "A2"
+  },
+  "builds": {
+    "base": "build",
+    "cefr": "A2"
+  },
+  "buying": {
+    "base": "buy",
+    "cefr": "A1"
+  },
+  "buys": {
+    "base": "buy",
+    "cefr": "A1"
+  },
+  "calculator": {
+    "base": "calculate",
+    "cefr": "B1"
+  },
+  "called": {
+    "base": "call",
+    "cefr": "A2"
+  },
+  "calling": {
+    "base": "call",
+    "cefr": "A2"
+  },
+  "calls": {
+    "base": "call",
+    "cefr": "A2"
+  },
+  "canal": {
+    "base": "can",
+    "cefr": "A1"
+  },
+  "canonical": {
+    "base": "canon",
+    "cefr": "C1"
+  },
+  "carried": {
+    "base": "carry",
+    "cefr": "A2"
+  },
+  "carries": {
+    "base": "carry",
+    "cefr": "A2"
+  },
+  "carrying": {
+    "base": "carry",
+    "cefr": "A2"
+  },
+  "castigation": {
+    "base": "castigate",
+    "cefr": "C2"
+  },
+  "celebration": {
+    "base": "celebrate",
+    "cefr": "A2"
+  },
+  "changed": {
+    "base": "change",
+    "cefr": "A2"
+  },
+  "changes": {
+    "base": "change",
+    "cefr": "A2"
+  },
+  "changing": {
+    "base": "change",
+    "cefr": "A2"
+  },
+  "choosing": {
+    "base": "choose",
+    "cefr": "A2"
+  },
+  "closely": {
+    "base": "close",
+    "cefr": "A1"
+  },
+  "combination": {
+    "base": "combine",
+    "cefr": "B1"
+  },
+  "comes": {
+    "base": "come",
+    "cefr": "A1"
+  },
+  "coming": {
+    "base": "come",
+    "cefr": "A1"
+  },
+  "communication": {
+    "base": "communicate",
+    "cefr": "A2"
+  },
+  "compelling": {
+    "base": "compel",
+    "cefr": "C1"
+  },
+  "complicated": {
+    "base": "complicate",
+    "cefr": "C1"
+  },
+  "concatenation": {
+    "base": "concatenate",
+    "cefr": "C2"
+  },
+  "condescending": {
+    "base": "condescend",
+    "cefr": "C2"
+  },
+  "confused": {
+    "base": "confuse",
+    "cefr": "A2"
+  },
+  "connected": {
+    "base": "connect",
+    "cefr": "A2"
+  },
+  "connotation": {
+    "base": "connote",
+    "cefr": "C1"
+  },
+  "considered": {
+    "base": "consider",
+    "cefr": "A2"
+  },
+  "considering": {
+    "base": "consider",
+    "cefr": "A2"
+  },
+  "considers": {
+    "base": "consider",
+    "cefr": "A2"
+  },
+  "consistently": {
+    "base": "consistent",
+    "cefr": "B1"
+  },
+  "container": {
+    "base": "contain",
+    "cefr": "A2"
+  },
+  "contamination": {
+    "base": "contaminate",
+    "cefr": "C1"
+  },
+  "contention": {
+    "base": "content",
+    "cefr": "B1"
+  },
+  "continued": {
+    "base": "continue",
+    "cefr": "A2"
+  },
+  "continues": {
+    "base": "continue",
+    "cefr": "A2"
+  },
+  "continuing": {
+    "base": "continue",
+    "cefr": "A2"
+  },
+  "cooking": {
+    "base": "cook",
+    "cefr": "A1"
+  },
+  "cooperation": {
+    "base": "cooperate",
+    "cefr": "B2"
+  },
+  "counselor": {
+    "base": "counsel",
+    "cefr": "C1"
+  },
+  "covetous": {
+    "base": "covet",
+    "cefr": "C2"
+  },
+  "created": {
+    "base": "create",
+    "cefr": "A2"
+  },
+  "creates": {
+    "base": "create",
+    "cefr": "A2"
+  },
+  "creating": {
+    "base": "create",
+    "cefr": "A2"
+  },
+  "crossing": {
+    "base": "cross",
+    "cefr": "A2"
+  },
+  "cultural": {
+    "base": "culture",
+    "cefr": "A2"
+  },
+  "cuts": {
+    "base": "cut",
+    "cefr": "A2"
+  },
+  "cutting": {
+    "base": "cut",
+    "cefr": "A2"
+  },
+  "dancer": {
+    "base": "dance",
+    "cefr": "A1"
+  },
+  "darkness": {
+    "base": "dark",
+    "cefr": "A2"
+  },
+  "deadly": {
+    "base": "dead",
+    "cefr": "A2"
+  },
+  "decided": {
+    "base": "decide",
+    "cefr": "A2"
+  },
+  "decides": {
+    "base": "decide",
+    "cefr": "A2"
+  },
+  "deciding": {
+    "base": "decide",
+    "cefr": "A2"
+  },
+  "declaration": {
+    "base": "declare",
+    "cefr": "B1"
+  },
+  "defender": {
+    "base": "defend",
+    "cefr": "B1"
+  },
+  "defensive": {
+    "base": "defense",
+    "cefr": "B1"
+  },
+  "delineation": {
+    "base": "delineate",
+    "cefr": "C2"
+  },
+  "demanding": {
+    "base": "demand",
+    "cefr": "B1"
+  },
+  "dereliction": {
+    "base": "derelict",
+    "cefr": "C2"
+  },
+  "desperately": {
+    "base": "desperate",
+    "cefr": "B1"
+  },
+  "detailed": {
+    "base": "detail",
+    "cefr": "A2"
+  },
+  "detective": {
+    "base": "detect",
+    "cefr": "B2"
+  },
+  "developed": {
+    "base": "develop",
+    "cefr": "A2"
+  },
+  "developing": {
+    "base": "develop",
+    "cefr": "A2"
+  },
+  "development": {
+    "base": "develop",
+    "cefr": "A2"
+  },
+  "develops": {
+    "base": "develop",
+    "cefr": "A2"
+  },
+  "dialectic": {
+    "base": "dialect",
+    "cefr": "C1"
+  },
+  "died": {
+    "base": "die",
+    "cefr": "A2"
+  },
+  "dies": {
+    "base": "die",
+    "cefr": "A2"
+  },
+  "differently": {
+    "base": "different",
+    "cefr": "A1"
+  },
+  "displacement": {
+    "base": "displace",
+    "cefr": "B2"
+  },
+  "doubtful": {
+    "base": "doubt",
+    "cefr": "A2"
+  },
+  "drawing": {
+    "base": "draw",
+    "cefr": "A1"
+  },
+  "drinking": {
+    "base": "drink",
+    "cefr": "A1"
+  },
+  "driver": {
+    "base": "drive",
+    "cefr": "A1"
+  },
+  "eagerly": {
+    "base": "eager",
+    "cefr": "C1"
+  },
+  "earning": {
+    "base": "earn",
+    "cefr": "A2"
+  },
+  "eating": {
+    "base": "eat",
+    "cefr": "A1"
+  },
+  "efficiently": {
+    "base": "efficient",
+    "cefr": "B1"
+  },
+  "embarrassment": {
+    "base": "embarrass",
+    "cefr": "B1"
+  },
+  "employer": {
+    "base": "employ",
+    "cefr": "A2"
+  },
+  "employment": {
+    "base": "employ",
+    "cefr": "A2"
+  },
+  "encouraging": {
+    "base": "encourage",
+    "cefr": "B1"
+  },
+  "endorsement": {
+    "base": "endorse",
+    "cefr": "B2"
+  },
+  "enormously": {
+    "base": "enormous",
+    "cefr": "B1"
+  },
+  "equally": {
+    "base": "equal",
+    "cefr": "A2"
+  },
+  "erudition": {
+    "base": "erudite",
+    "cefr": "C2"
+  },
+  "exceptional": {
+    "base": "exception",
+    "cefr": "B1"
+  },
+  "exhaustive": {
+    "base": "exhaust",
+    "cefr": "C1"
+  },
+  "existing": {
+    "base": "exist",
+    "cefr": "A2"
+  },
+  "expected": {
+    "base": "expect",
+    "cefr": "A2"
+  },
+  "expecting": {
+    "base": "expect",
+    "cefr": "A2"
+  },
+  "expects": {
+    "base": "expect",
+    "cefr": "A2"
+  },
+  "explained": {
+    "base": "explain",
+    "cefr": "A2"
+  },
+  "explaining": {
+    "base": "explain",
+    "cefr": "A2"
+  },
+  "explains": {
+    "base": "explain",
+    "cefr": "A2"
+  },
+  "fairly": {
+    "base": "fair",
+    "cefr": "A2"
+  },
+  "faithful": {
+    "base": "faith",
+    "cefr": "B1"
+  },
+  "falling": {
+    "base": "fall",
+    "cefr": "A2"
+  },
+  "falls": {
+    "base": "fall",
+    "cefr": "A2"
+  },
+  "fanatical": {
+    "base": "fanatic",
+    "cefr": "C1"
+  },
+  "farming": {
+    "base": "farm",
+    "cefr": "A1"
+  },
+  "fashionable": {
+    "base": "fashion",
+    "cefr": "A2"
+  },
+  "feels": {
+    "base": "feel",
+    "cefr": "A1"
+  },
+  "fewer": {
+    "base": "few",
+    "cefr": "A2"
+  },
+  "fiercely": {
+    "base": "fierce",
+    "cefr": "B2"
+  },
+  "fighter": {
+    "base": "fight",
+    "cefr": "A2"
+  },
+  "fighting": {
+    "base": "fight",
+    "cefr": "A2"
+  },
+  "finds": {
+    "base": "find",
+    "cefr": "A1"
+  },
+  "firearms": {
+    "base": "firearm",
+    "cefr": "C1"
+  },
+  "firmly": {
+    "base": "firm",
+    "cefr": "B1"
+  },
+  "fishing": {
+    "base": "fish",
+    "cefr": "A1"
+  },
+  "fitness": {
+    "base": "fit",
+    "cefr": "A2"
+  },
+  "fitting": {
+    "base": "fit",
+    "cefr": "A2"
+  },
+  "fixed": {
+    "base": "fix",
+    "cefr": "A2"
+  },
+  "flowing": {
+    "base": "flow",
+    "cefr": "A2"
+  },
+  "flying": {
+    "base": "fly",
+    "cefr": "A1"
+  },
+  "followed": {
+    "base": "follow",
+    "cefr": "A2"
+  },
+  "follows": {
+    "base": "follow",
+    "cefr": "A2"
+  },
+  "forgets": {
+    "base": "forget",
+    "cefr": "A2"
+  },
+  "forgetting": {
+    "base": "forget",
+    "cefr": "A2"
+  },
+  "frustrated": {
+    "base": "frustrate",
+    "cefr": "C1"
+  },
+  "frustrating": {
+    "base": "frustrate",
+    "cefr": "C1"
+  },
+  "fulfillment": {
+    "base": "fulfill",
+    "cefr": "B1"
+  },
+  "getting": {
+    "base": "get",
+    "cefr": "A1"
+  },
+  "gifted": {
+    "base": "gift",
+    "cefr": "A2"
+  },
+  "gives": {
+    "base": "give",
+    "cefr": "A1"
+  },
+  "giving": {
+    "base": "give",
+    "cefr": "A1"
+  },
+  "globally": {
+    "base": "global",
+    "cefr": "A2"
+  },
+  "goes": {
+    "base": "go",
+    "cefr": "A1"
+  },
+  "going": {
+    "base": "go",
+    "cefr": "A1"
+  },
+  "goodness": {
+    "base": "good",
+    "cefr": "A1"
+  },
+  "graceful": {
+    "base": "grace",
+    "cefr": "B1"
+  },
+  "greatly": {
+    "base": "great",
+    "cefr": "A1"
+  },
+  "greeting": {
+    "base": "greet",
+    "cefr": "B2"
+  },
+  "grinding": {
+    "base": "grind",
+    "cefr": "B2"
+  },
+  "growing": {
+    "base": "grow",
+    "cefr": "A2"
+  },
+  "grows": {
+    "base": "grow",
+    "cefr": "A2"
+  },
+  "hanging": {
+    "base": "hang",
+    "cefr": "A2"
+  },
+  "happened": {
+    "base": "happen",
+    "cefr": "A2"
+  },
+  "happening": {
+    "base": "happen",
+    "cefr": "A2"
+  },
+  "happens": {
+    "base": "happen",
+    "cefr": "A2"
+  },
+  "happily": {
+    "base": "happy",
+    "cefr": "A1"
+  },
+  "harmful": {
+    "base": "harm",
+    "cefr": "A2"
+  },
+  "healing": {
+    "base": "heal",
+    "cefr": "B1"
+  },
+  "hears": {
+    "base": "hear",
+    "cefr": "A1"
+  },
+  "heated": {
+    "base": "heat",
+    "cefr": "A2"
+  },
+  "heating": {
+    "base": "heat",
+    "cefr": "A2"
+  },
+  "heavenly": {
+    "base": "heaven",
+    "cefr": "A2"
+  },
+  "helped": {
+    "base": "help",
+    "cefr": "A1"
+  },
+  "helping": {
+    "base": "help",
+    "cefr": "A1"
+  },
+  "helpless": {
+    "base": "help",
+    "cefr": "A1"
+  },
+  "helps": {
+    "base": "help",
+    "cefr": "A1"
+  },
+  "heroic": {
+    "base": "hero",
+    "cefr": "B1"
+  },
+  "historically": {
+    "base": "historical",
+    "cefr": "B1"
+  },
+  "homeless": {
+    "base": "home",
+    "cefr": "A1"
+  },
+  "hoped": {
+    "base": "hop",
+    "cefr": "B2"
+  },
+  "hopeless": {
+    "base": "hope",
+    "cefr": "A2"
+  },
+  "hopes": {
+    "base": "hop",
+    "cefr": "B2"
+  },
+  "hoping": {
+    "base": "hop",
+    "cefr": "B2"
+  },
+  "humorous": {
+    "base": "humor",
+    "cefr": "A2"
+  },
+  "hunter": {
+    "base": "hunt",
+    "cefr": "A2"
+  },
+  "illegally": {
+    "base": "illegal",
+    "cefr": "B1"
+  },
+  "immensely": {
+    "base": "immense",
+    "cefr": "B2"
+  },
+  "immunity": {
+    "base": "immune",
+    "cefr": "B2"
+  },
+  "implicitly": {
+    "base": "implicit",
+    "cefr": "C2"
+  },
+  "importantly": {
+    "base": "important",
+    "cefr": "A1"
+  },
+  "improved": {
+    "base": "improve",
+    "cefr": "A2"
+  },
+  "improves": {
+    "base": "improve",
+    "cefr": "A2"
+  },
+  "improving": {
+    "base": "improve",
+    "cefr": "A2"
+  },
+  "included": {
+    "base": "include",
+    "cefr": "A2"
+  },
+  "includes": {
+    "base": "include",
+    "cefr": "A2"
+  },
+  "including": {
+    "base": "include",
+    "cefr": "A2"
+  },
+  "incorporation": {
+    "base": "incorporate",
+    "cefr": "B2"
+  },
+  "increased": {
+    "base": "increase",
+    "cefr": "A2"
+  },
+  "increasing": {
+    "base": "increase",
+    "cefr": "A2"
+  },
+  "individually": {
+    "base": "individual",
+    "cefr": "B1"
+  },
+  "inherently": {
+    "base": "inherent",
+    "cefr": "C2"
+  },
+  "insider": {
+    "base": "inside",
+    "cefr": "A2"
+  },
+  "instantly": {
+    "base": "instant",
+    "cefr": "B1"
+  },
+  "instinctive": {
+    "base": "instinct",
+    "cefr": "B2"
+  },
+  "instrumental": {
+    "base": "instrument",
+    "cefr": "A2"
+  },
+  "intensely": {
+    "base": "intense",
+    "cefr": "B1"
+  },
+  "intentional": {
+    "base": "intention",
+    "cefr": "B1"
+  },
+  "interactive": {
+    "base": "interact",
+    "cefr": "B2"
+  },
+  "ironic": {
+    "base": "iron",
+    "cefr": "B1"
+  },
+  "joined": {
+    "base": "join",
+    "cefr": "A2"
+  },
+  "joining": {
+    "base": "join",
+    "cefr": "A2"
+  },
+  "joins": {
+    "base": "join",
+    "cefr": "A2"
+  },
+  "journalism": {
+    "base": "journal",
+    "cefr": "B1"
+  },
+  "keenly": {
+    "base": "keen",
+    "cefr": "B1"
+  },
+  "kindly": {
+    "base": "kind",
+    "cefr": "A1"
+  },
+  "kindness": {
+    "base": "kind",
+    "cefr": "A1"
+  },
+  "knowing": {
+    "base": "know",
+    "cefr": "A1"
+  },
+  "knowledgeable": {
+    "base": "knowledge",
+    "cefr": "A2"
+  },
+  "knows": {
+    "base": "know",
+    "cefr": "A1"
+  },
+  "landing": {
+    "base": "land",
+    "cefr": "A2"
+  },
+  "lastly": {
+    "base": "last",
+    "cefr": "A1"
+  },
+  "lately": {
+    "base": "late",
+    "cefr": "A1"
+  },
+  "lateral": {
+    "base": "later",
+    "cefr": "A2"
+  },
+  "leads": {
+    "base": "lead",
+    "cefr": "A2"
+  },
+  "learned": {
+    "base": "learn",
+    "cefr": "A1"
+  },
+  "learner": {
+    "base": "learn",
+    "cefr": "A1"
+  },
+  "learns": {
+    "base": "learn",
+    "cefr": "A1"
+  },
+  "leaves": {
+    "base": "leave",
+    "cefr": "A1"
+  },
+  "leaving": {
+    "base": "leave",
+    "cefr": "A1"
+  },
+  "lecturer": {
+    "base": "lecture",
+    "cefr": "A2"
+  },
+  "legal": {
+    "base": "leg",
+    "cefr": "A1"
+  },
+  "lesser": {
+    "base": "less",
+    "cefr": "A2"
+  },
+  "lets": {
+    "base": "let",
+    "cefr": "A1"
+  },
+  "letting": {
+    "base": "let",
+    "cefr": "A1"
+  },
+  "lighting": {
+    "base": "light",
+    "cefr": "A2"
+  },
+  "liked": {
+    "base": "like",
+    "cefr": "A1"
+  },
+  "likely": {
+    "base": "like",
+    "cefr": "A1"
+  },
+  "likes": {
+    "base": "like",
+    "cefr": "A1"
+  },
+  "liking": {
+    "base": "like",
+    "cefr": "A1"
+  },
+  "limited": {
+    "base": "limit",
+    "cefr": "A2"
+  },
+  "lining": {
+    "base": "line",
+    "cefr": "A1"
+  },
+  "listener": {
+    "base": "listen",
+    "cefr": "A1"
+  },
+  "literal": {
+    "base": "liter",
+    "cefr": "B1"
+  },
+  "lived": {
+    "base": "live",
+    "cefr": "A1"
+  },
+  "lives": {
+    "base": "live",
+    "cefr": "A1"
+  },
+  "locality": {
+    "base": "local",
+    "cefr": "A2"
+  },
+  "locally": {
+    "base": "local",
+    "cefr": "A2"
+  },
+  "logically": {
+    "base": "logical",
+    "cefr": "B1"
+  },
+  "longing": {
+    "base": "long",
+    "cefr": "A1"
+  },
+  "loser": {
+    "base": "lose",
+    "cefr": "A2"
+  },
+  "loses": {
+    "base": "lose",
+    "cefr": "A2"
+  },
+  "losing": {
+    "base": "lose",
+    "cefr": "A2"
+  },
+  "loving": {
+    "base": "love",
+    "cefr": "A1"
+  },
+  "madness": {
+    "base": "mad",
+    "cefr": "A2"
+  },
+  "magical": {
+    "base": "magic",
+    "cefr": "A2"
+  },
+  "makes": {
+    "base": "make",
+    "cefr": "A1"
+  },
+  "making": {
+    "base": "make",
+    "cefr": "A1"
+  },
+  "managing": {
+    "base": "manage",
+    "cefr": "A2"
+  },
+  "manually": {
+    "base": "manual",
+    "cefr": "B2"
+  },
+  "marginal": {
+    "base": "margin",
+    "cefr": "B1"
+  },
+  "marker": {
+    "base": "mark",
+    "cefr": "A2"
+  },
+  "matching": {
+    "base": "match",
+    "cefr": "A2"
+  },
+  "maths": {
+    "base": "math",
+    "cefr": "A2"
+  },
+  "mayor": {
+    "base": "may",
+    "cefr": "A1"
+  },
+  "meaningless": {
+    "base": "meaning",
+    "cefr": "A2"
+  },
+  "means": {
+    "base": "mean",
+    "cefr": "A2"
+  },
+  "measurable": {
+    "base": "measure",
+    "cefr": "A2"
+  },
+  "measuring": {
+    "base": "measure",
+    "cefr": "A2"
+  },
+  "mediation": {
+    "base": "mediate",
+    "cefr": "B2"
+  },
+  "meets": {
+    "base": "meet",
+    "cefr": "A1"
+  },
+  "mildly": {
+    "base": "mild",
+    "cefr": "B1"
+  },
+  "miller": {
+    "base": "mill",
+    "cefr": "B1"
+  },
+  "mining": {
+    "base": "mine",
+    "cefr": "B1"
+  },
+  "missive": {
+    "base": "miss",
+    "cefr": "A1"
+  },
+  "mixed": {
+    "base": "mix",
+    "cefr": "A2"
+  },
+  "moderately": {
+    "base": "moderate",
+    "cefr": "B1"
+  },
+  "monthly": {
+    "base": "month",
+    "cefr": "A1"
+  },
+  "monumental": {
+    "base": "monument",
+    "cefr": "B2"
+  },
+  "morality": {
+    "base": "moral",
+    "cefr": "B1"
+  },
+  "morally": {
+    "base": "moral",
+    "cefr": "B1"
+  },
+  "motivated": {
+    "base": "motivate",
+    "cefr": "B1"
+  },
+  "mountainous": {
+    "base": "mountain",
+    "cefr": "A1"
+  },
+  "movable": {
+    "base": "move",
+    "cefr": "A2"
+  },
+  "moved": {
+    "base": "move",
+    "cefr": "A2"
+  },
+  "moves": {
+    "base": "move",
+    "cefr": "A2"
+  },
+  "moving": {
+    "base": "move",
+    "cefr": "A2"
+  },
+  "municipality": {
+    "base": "municipal",
+    "cefr": "B2"
+  },
+  "mutually": {
+    "base": "mutual",
+    "cefr": "B1"
+  },
+  "mythical": {
+    "base": "myth",
+    "cefr": "B1"
+  },
+  "nationality": {
+    "base": "national",
+    "cefr": "A2"
+  },
+  "nationally": {
+    "base": "national",
+    "cefr": "A2"
+  },
+  "neatly": {
+    "base": "neat",
+    "cefr": "A2"
+  },
+  "necessarily": {
+    "base": "necessary",
+    "cefr": "A2"
+  },
+  "needed": {
+    "base": "need",
+    "cefr": "A1"
+  },
+  "needing": {
+    "base": "need",
+    "cefr": "A1"
+  },
+  "needless": {
+    "base": "need",
+    "cefr": "A1"
+  },
+  "needs": {
+    "base": "need",
+    "cefr": "A1"
+  },
+  "negotiator": {
+    "base": "negotiate",
+    "cefr": "B1"
+  },
+  "nesting": {
+    "base": "nest",
+    "cefr": "B1"
+  },
+  "networking": {
+    "base": "network",
+    "cefr": "A2"
+  },
+  "newly": {
+    "base": "new",
+    "cefr": "A1"
+  },
+  "nicely": {
+    "base": "nice",
+    "cefr": "A1"
+  },
+  "notable": {
+    "base": "not",
+    "cefr": "A1"
+  },
+  "notation": {
+    "base": "note",
+    "cefr": "A2"
+  },
+  "noted": {
+    "base": "not",
+    "cefr": "A1"
+  },
+  "noticed": {
+    "base": "notice",
+    "cefr": "A2"
+  },
+  "notices": {
+    "base": "notice",
+    "cefr": "A2"
+  },
+  "noticing": {
+    "base": "notice",
+    "cefr": "A2"
+  },
+  "nursing": {
+    "base": "nurse",
+    "cefr": "B2"
+  },
+  "nutritional": {
+    "base": "nutrition",
+    "cefr": "B1"
+  },
+  "objectively": {
+    "base": "objective",
+    "cefr": "B1"
+  },
+  "objectivity": {
+    "base": "objective",
+    "cefr": "B1"
+  },
+  "obscurity": {
+    "base": "obscure",
+    "cefr": "B2"
+  },
+  "observable": {
+    "base": "observe",
+    "cefr": "B1"
+  },
+  "obtainable": {
+    "base": "obtain",
+    "cefr": "B1"
+  },
+  "occupational": {
+    "base": "occupation",
+    "cefr": "B1"
+  },
+  "oceanic": {
+    "base": "ocean",
+    "cefr": "A2"
+  },
+  "odds": {
+    "base": "odd",
+    "cefr": "B1"
+  },
+  "offered": {
+    "base": "offer",
+    "cefr": "A2"
+  },
+  "offering": {
+    "base": "offer",
+    "cefr": "A2"
+  },
+  "offers": {
+    "base": "offer",
+    "cefr": "A2"
+  },
+  "officially": {
+    "base": "official",
+    "cefr": "A2"
+  },
+  "opened": {
+    "base": "open",
+    "cefr": "A1"
+  },
+  "opens": {
+    "base": "open",
+    "cefr": "A1"
+  },
+  "operating": {
+    "base": "operate",
+    "cefr": "A2"
+  },
+  "operative": {
+    "base": "operate",
+    "cefr": "A2"
+  },
+  "opposing": {
+    "base": "oppose",
+    "cefr": "B1"
+  },
+  "opposition": {
+    "base": "opposite",
+    "cefr": "A2"
+  },
+  "optic": {
+    "base": "opt",
+    "cefr": "B1"
+  },
+  "optical": {
+    "base": "opt",
+    "cefr": "B1"
+  },
+  "ordinarily": {
+    "base": "ordinary",
+    "cefr": "A2"
+  },
+  "organized": {
+    "base": "organize",
+    "cefr": "A2"
+  },
+  "organizer": {
+    "base": "organize",
+    "cefr": "A2"
+  },
+  "organizes": {
+    "base": "organize",
+    "cefr": "A2"
+  },
+  "organizing": {
+    "base": "organize",
+    "cefr": "A2"
+  },
+  "others": {
+    "base": "other",
+    "cefr": "A1"
+  },
+  "outing": {
+    "base": "out",
+    "cefr": "A1"
+  },
+  "outwardly": {
+    "base": "outward",
+    "cefr": "B2"
+  },
+  "overwhelmingly": {
+    "base": "overwhelming",
+    "cefr": "B2"
+  },
+  "packaging": {
+    "base": "package",
+    "cefr": "A2"
+  },
+  "painless": {
+    "base": "pain",
+    "cefr": "A2"
+  },
+  "paradoxical": {
+    "base": "paradox",
+    "cefr": "B2"
+  },
+  "parental": {
+    "base": "parent",
+    "cefr": "A1"
+  },
+  "participating": {
+    "base": "participate",
+    "cefr": "B1"
+  },
+  "passed": {
+    "base": "pass",
+    "cefr": "A2"
+  },
+  "passes": {
+    "base": "pass",
+    "cefr": "A2"
+  },
+  "passing": {
+    "base": "pass",
+    "cefr": "A2"
+  },
+  "pastor": {
+    "base": "past",
+    "cefr": "A2"
+  },
+  "paying": {
+    "base": "pay",
+    "cefr": "A2"
+  },
+  "pays": {
+    "base": "pay",
+    "cefr": "A2"
+  },
+  "peacefully": {
+    "base": "peaceful",
+    "cefr": "A2"
+  },
+  "peculiarly": {
+    "base": "peculiar",
+    "cefr": "B2"
+  },
+  "penetration": {
+    "base": "penetrate",
+    "cefr": "B2"
+  },
+  "perfection": {
+    "base": "perfect",
+    "cefr": "A2"
+  },
+  "permanently": {
+    "base": "permanent",
+    "cefr": "B1"
+  },
+  "persistently": {
+    "base": "persistent",
+    "cefr": "B2"
+  },
+  "petal": {
+    "base": "pet",
+    "cefr": "B1"
+  },
+  "pictured": {
+    "base": "picture",
+    "cefr": "A1"
+  },
+  "pier": {
+    "base": "pie",
+    "cefr": "A2"
+  },
+  "pigment": {
+    "base": "pig",
+    "cefr": "B1"
+  },
+  "pioneering": {
+    "base": "pioneer",
+    "cefr": "B2"
+  },
+  "pious": {
+    "base": "pie",
+    "cefr": "A2"
+  },
+  "pitcher": {
+    "base": "pitch",
+    "cefr": "B1"
+  },
+  "pitching": {
+    "base": "pitch",
+    "cefr": "B1"
+  },
+  "planned": {
+    "base": "plan",
+    "cefr": "A2"
+  },
+  "planner": {
+    "base": "plan",
+    "cefr": "A2"
+  },
+  "planning": {
+    "base": "plan",
+    "cefr": "A2"
+  },
+  "plans": {
+    "base": "plan",
+    "cefr": "A2"
+  },
+  "played": {
+    "base": "play",
+    "cefr": "A1"
+  },
+  "playing": {
+    "base": "play",
+    "cefr": "A1"
+  },
+  "plays": {
+    "base": "play",
+    "cefr": "A1"
+  },
+  "poetic": {
+    "base": "poet",
+    "cefr": "A2"
+  },
+  "pointer": {
+    "base": "point",
+    "cefr": "A2"
+  },
+  "pointless": {
+    "base": "point",
+    "cefr": "A2"
+  },
+  "poisoning": {
+    "base": "poison",
+    "cefr": "A2"
+  },
+  "poisonous": {
+    "base": "poison",
+    "cefr": "A2"
+  },
+  "politely": {
+    "base": "polite",
+    "cefr": "A2"
+  },
+  "ponder": {
+    "base": "pond",
+    "cefr": "B2"
+  },
+  "portable": {
+    "base": "port",
+    "cefr": "A2"
+  },
+  "portal": {
+    "base": "port",
+    "cefr": "A2"
+  },
+  "porter": {
+    "base": "port",
+    "cefr": "A2"
+  },
+  "posing": {
+    "base": "pose",
+    "cefr": "B1"
+  },
+  "positioning": {
+    "base": "position",
+    "cefr": "A2"
+  },
+  "positively": {
+    "base": "positive",
+    "cefr": "A2"
+  },
+  "possessed": {
+    "base": "possess",
+    "cefr": "B1"
+  },
+  "possessing": {
+    "base": "possess",
+    "cefr": "B1"
+  },
+  "possessive": {
+    "base": "possess",
+    "cefr": "B1"
+  },
+  "possessor": {
+    "base": "possess",
+    "cefr": "B1"
+  },
+  "postal": {
+    "base": "post",
+    "cefr": "B1"
+  },
+  "posterity": {
+    "base": "poster",
+    "cefr": "B1"
+  },
+  "potter": {
+    "base": "pot",
+    "cefr": "B1"
+  },
+  "poured": {
+    "base": "pour",
+    "cefr": "A2"
+  },
+  "pouring": {
+    "base": "pour",
+    "cefr": "A2"
+  },
+  "preceding": {
+    "base": "precede",
+    "cefr": "B2"
+  },
+  "predictable": {
+    "base": "predict",
+    "cefr": "B1"
+  },
+  "preferable": {
+    "base": "prefer",
+    "cefr": "A2"
+  },
+  "prepared": {
+    "base": "prepare",
+    "cefr": "A2"
+  },
+  "prepares": {
+    "base": "prepare",
+    "cefr": "A2"
+  },
+  "preparing": {
+    "base": "prepare",
+    "cefr": "A2"
+  },
+  "prescribed": {
+    "base": "prescribe",
+    "cefr": "B1"
+  },
+  "presenter": {
+    "base": "present",
+    "cefr": "A1"
+  },
+  "pricing": {
+    "base": "price",
+    "cefr": "A2"
+  },
+  "primer": {
+    "base": "prime",
+    "cefr": "B1"
+  },
+  "principally": {
+    "base": "principal",
+    "cefr": "B1"
+  },
+  "printing": {
+    "base": "print",
+    "cefr": "A2"
+  },
+  "privately": {
+    "base": "private",
+    "cefr": "A2"
+  },
+  "privation": {
+    "base": "private",
+    "cefr": "A2"
+  },
+  "probation": {
+    "base": "probe",
+    "cefr": "B1"
+  },
+  "probity": {
+    "base": "probe",
+    "cefr": "B1"
+  },
+  "proceeds": {
+    "base": "proceed",
+    "cefr": "B2"
+  },
+  "processing": {
+    "base": "process",
+    "cefr": "A2"
+  },
+  "productive": {
+    "base": "product",
+    "cefr": "A2"
+  },
+  "professionally": {
+    "base": "professional",
+    "cefr": "A2"
+  },
+  "profitable": {
+    "base": "profit",
+    "cefr": "B1"
+  },
+  "profoundly": {
+    "base": "profound",
+    "cefr": "B2"
+  },
+  "programmer": {
+    "base": "program",
+    "cefr": "A2"
+  },
+  "programming": {
+    "base": "program",
+    "cefr": "A2"
+  },
+  "prohibition": {
+    "base": "prohibit",
+    "cefr": "B1"
+  },
+  "prohibitive": {
+    "base": "prohibit",
+    "cefr": "B1"
+  },
+  "projector": {
+    "base": "project",
+    "cefr": "A2"
+  },
+  "prominently": {
+    "base": "prominent",
+    "cefr": "B1"
+  },
+  "promised": {
+    "base": "promise",
+    "cefr": "A2"
+  },
+  "promises": {
+    "base": "promise",
+    "cefr": "A2"
+  },
+  "promotional": {
+    "base": "promotion",
+    "cefr": "B1"
+  },
+  "promptly": {
+    "base": "prompt",
+    "cefr": "B2"
+  },
+  "pronounced": {
+    "base": "pronounce",
+    "cefr": "A2"
+  },
+  "pronouncement": {
+    "base": "pronounce",
+    "cefr": "A2"
+  },
+  "propagation": {
+    "base": "propagate",
+    "cefr": "B2"
+  },
+  "prophetic": {
+    "base": "prophet",
+    "cefr": "B2"
+  },
+  "proportionally": {
+    "base": "proportional",
+    "cefr": "B2"
+  },
+  "proportions": {
+    "base": "proportion",
+    "cefr": "B1"
+  },
+  "protected": {
+    "base": "protect",
+    "cefr": "A2"
+  },
+  "protecting": {
+    "base": "protect",
+    "cefr": "A2"
+  },
+  "protector": {
+    "base": "protect",
+    "cefr": "A2"
+  },
+  "protects": {
+    "base": "protect",
+    "cefr": "A2"
+  },
+  "protester": {
+    "base": "protest",
+    "cefr": "B1"
+  },
+  "proudly": {
+    "base": "proud",
+    "cefr": "B1"
+  },
+  "provable": {
+    "base": "prove",
+    "cefr": "A2"
+  },
+  "provider": {
+    "base": "provide",
+    "cefr": "A2"
+  },
+  "provisional": {
+    "base": "provision",
+    "cefr": "B1"
+  },
+  "publisher": {
+    "base": "publish",
+    "cefr": "A2"
+  },
+  "publishing": {
+    "base": "publish",
+    "cefr": "A2"
+  },
+  "purchaser": {
+    "base": "purchase",
+    "cefr": "B1"
+  },
+  "purely": {
+    "base": "pure",
+    "cefr": "A2"
+  },
+  "purposeful": {
+    "base": "purpose",
+    "cefr": "A2"
+  },
+  "purposely": {
+    "base": "purpose",
+    "cefr": "A2"
+  },
+  "puts": {
+    "base": "put",
+    "cefr": "A1"
+  },
+  "puzzled": {
+    "base": "puzzle",
+    "cefr": "B1"
+  },
+  "qualified": {
+    "base": "qualify",
+    "cefr": "B1"
+  },
+  "questionable": {
+    "base": "question",
+    "cefr": "A1"
+  },
+  "questioner": {
+    "base": "question",
+    "cefr": "A1"
+  },
+  "questioning": {
+    "base": "question",
+    "cefr": "A1"
+  },
+  "quickness": {
+    "base": "quick",
+    "cefr": "A2"
+  },
+  "quotation": {
+    "base": "quote",
+    "cefr": "B1"
+  },
+  "racing": {
+    "base": "race",
+    "cefr": "A2"
+  },
+  "radically": {
+    "base": "radical",
+    "cefr": "B1"
+  },
+  "raging": {
+    "base": "rage",
+    "cefr": "B2"
+  },
+  "railing": {
+    "base": "rail",
+    "cefr": "B1"
+  },
+  "raised": {
+    "base": "raise",
+    "cefr": "A2"
+  },
+  "raises": {
+    "base": "raise",
+    "cefr": "A2"
+  },
+  "raising": {
+    "base": "raise",
+    "cefr": "A2"
+  },
+  "randomly": {
+    "base": "random",
+    "cefr": "B1"
+  },
+  "ranger": {
+    "base": "range",
+    "cefr": "A2"
+  },
+  "ranked": {
+    "base": "rank",
+    "cefr": "B1"
+  },
+  "rapidly": {
+    "base": "rapid",
+    "cefr": "A2"
+  },
+  "rarity": {
+    "base": "rare",
+    "cefr": "A2"
+  },
+  "rating": {
+    "base": "rate",
+    "cefr": "A2"
+  },
+  "rationalism": {
+    "base": "rational",
+    "cefr": "B1"
+  },
+  "rationality": {
+    "base": "rational",
+    "cefr": "B1"
+  },
+  "rationally": {
+    "base": "rational",
+    "cefr": "B1"
+  },
+  "reached": {
+    "base": "reach",
+    "cefr": "A2"
+  },
+  "reaches": {
+    "base": "reach",
+    "cefr": "A2"
+  },
+  "reaching": {
+    "base": "reach",
+    "cefr": "A2"
+  },
+  "reads": {
+    "base": "read",
+    "cefr": "A1"
+  },
+  "realized": {
+    "base": "realize",
+    "cefr": "A2"
+  },
+  "realizes": {
+    "base": "realize",
+    "cefr": "A2"
+  },
+  "realizing": {
+    "base": "realize",
+    "cefr": "A2"
+  },
+  "received": {
+    "base": "receive",
+    "cefr": "A2"
+  },
+  "receives": {
+    "base": "receive",
+    "cefr": "A2"
+  },
+  "receiving": {
+    "base": "receive",
+    "cefr": "A2"
+  },
+  "receptionist": {
+    "base": "reception",
+    "cefr": "B1"
+  },
+  "reckoning": {
+    "base": "reckon",
+    "cefr": "B2"
+  },
+  "recognizable": {
+    "base": "recognize",
+    "cefr": "A2"
+  },
+  "recognized": {
+    "base": "recognize",
+    "cefr": "A2"
+  },
+  "recognizes": {
+    "base": "recognize",
+    "cefr": "A2"
+  },
+  "recognizing": {
+    "base": "recognize",
+    "cefr": "A2"
+  },
+  "recorder": {
+    "base": "record",
+    "cefr": "A2"
+  },
+  "recreational": {
+    "base": "recreation",
+    "cefr": "B1"
+  },
+  "recycling": {
+    "base": "recycle",
+    "cefr": "A2"
+  },
+  "reduced": {
+    "base": "reduce",
+    "cefr": "A2"
+  },
+  "reduces": {
+    "base": "reduce",
+    "cefr": "A2"
+  },
+  "reducing": {
+    "base": "reduce",
+    "cefr": "A2"
+  },
+  "referral": {
+    "base": "refer",
+    "cefr": "A2"
+  },
+  "refinement": {
+    "base": "refine",
+    "cefr": "B2"
+  },
+  "reflective": {
+    "base": "reflect",
+    "cefr": "B1"
+  },
+  "reflector": {
+    "base": "reflect",
+    "cefr": "B1"
+  },
+  "reformer": {
+    "base": "reform",
+    "cefr": "B1"
+  },
+  "reformist": {
+    "base": "reform",
+    "cefr": "B1"
+  },
+  "refusal": {
+    "base": "refuse",
+    "cefr": "A2"
+  },
+  "refused": {
+    "base": "refuse",
+    "cefr": "A2"
+  },
+  "refuses": {
+    "base": "refuse",
+    "cefr": "A2"
+  },
+  "refusing": {
+    "base": "refuse",
+    "cefr": "A2"
+  },
+  "regional": {
+    "base": "region",
+    "cefr": "A2"
+  },
+  "regularity": {
+    "base": "regular",
+    "cefr": "A2"
+  },
+  "reinforcement": {
+    "base": "reinforce",
+    "cefr": "B2"
+  },
+  "relating": {
+    "base": "relate",
+    "cefr": "B1"
+  },
+  "relational": {
+    "base": "relation",
+    "cefr": "B1"
+  },
+  "relativity": {
+    "base": "relative",
+    "cefr": "B1"
+  },
+  "relaxed": {
+    "base": "relax",
+    "cefr": "A2"
+  },
+  "relaxing": {
+    "base": "relax",
+    "cefr": "A2"
+  },
+  "relieved": {
+    "base": "relieve",
+    "cefr": "B2"
+  },
+  "religiously": {
+    "base": "religious",
+    "cefr": "A2"
+  },
+  "reluctantly": {
+    "base": "reluctant",
+    "cefr": "B2"
+  },
+  "remained": {
+    "base": "remain",
+    "cefr": "A2"
+  },
+  "remaining": {
+    "base": "remain",
+    "cefr": "A2"
+  },
+  "remarked": {
+    "base": "remark",
+    "cefr": "A2"
+  },
+  "remembered": {
+    "base": "remember",
+    "cefr": "A1"
+  },
+  "remembering": {
+    "base": "remember",
+    "cefr": "A1"
+  },
+  "remembers": {
+    "base": "remember",
+    "cefr": "A1"
+  },
+  "reminder": {
+    "base": "remind",
+    "cefr": "A2"
+  },
+  "remotely": {
+    "base": "remote",
+    "cefr": "B2"
+  },
+  "remoteness": {
+    "base": "remote",
+    "cefr": "B2"
+  },
+  "removable": {
+    "base": "remove",
+    "cefr": "A2"
+  },
+  "removed": {
+    "base": "remove",
+    "cefr": "A2"
+  },
+  "removes": {
+    "base": "remove",
+    "cefr": "A2"
+  },
+  "removing": {
+    "base": "remove",
+    "cefr": "A2"
+  },
+  "renewable": {
+    "base": "renew",
+    "cefr": "B1"
+  },
+  "renewed": {
+    "base": "renew",
+    "cefr": "B1"
+  },
+  "repeated": {
+    "base": "repeat",
+    "cefr": "A2"
+  },
+  "repeating": {
+    "base": "repeat",
+    "cefr": "A2"
+  },
+  "repeats": {
+    "base": "repeat",
+    "cefr": "A2"
+  },
+  "replaced": {
+    "base": "replace",
+    "cefr": "A2"
+  },
+  "replaces": {
+    "base": "replace",
+    "cefr": "A2"
+  },
+  "replacing": {
+    "base": "replace",
+    "cefr": "A2"
+  },
+  "reported": {
+    "base": "report",
+    "cefr": "A2"
+  },
+  "reporting": {
+    "base": "report",
+    "cefr": "A2"
+  },
+  "reports": {
+    "base": "report",
+    "cefr": "A2"
+  },
+  "representational": {
+    "base": "representation",
+    "cefr": "B1"
+  },
+  "represented": {
+    "base": "represent",
+    "cefr": "B1"
+  },
+  "representing": {
+    "base": "represent",
+    "cefr": "B1"
+  },
+  "represents": {
+    "base": "represent",
+    "cefr": "B1"
+  },
+  "republicanism": {
+    "base": "republican",
+    "cefr": "B1"
+  },
+  "requesting": {
+    "base": "request",
+    "cefr": "A2"
+  },
+  "required": {
+    "base": "require",
+    "cefr": "A2"
+  },
+  "requires": {
+    "base": "require",
+    "cefr": "A2"
+  },
+  "requiring": {
+    "base": "require",
+    "cefr": "A2"
+  },
+  "rescuer": {
+    "base": "rescue",
+    "cefr": "B1"
+  },
+  "reserved": {
+    "base": "reserve",
+    "cefr": "A2"
+  },
+  "resigned": {
+    "base": "resign",
+    "cefr": "B1"
+  },
+  "resisting": {
+    "base": "resist",
+    "cefr": "B1"
+  },
+  "resolved": {
+    "base": "resolve",
+    "cefr": "B1"
+  },
+  "resourceful": {
+    "base": "resource",
+    "cefr": "A2"
+  },
+  "respectable": {
+    "base": "respect",
+    "cefr": "A2"
+  },
+  "respectful": {
+    "base": "respect",
+    "cefr": "A2"
+  },
+  "respects": {
+    "base": "respect",
+    "cefr": "A2"
+  },
+  "responsive": {
+    "base": "response",
+    "cefr": "A2"
+  },
+  "restive": {
+    "base": "rest",
+    "cefr": "A2"
+  },
+  "restrained": {
+    "base": "restrain",
+    "cefr": "B2"
+  },
+  "restraining": {
+    "base": "restrain",
+    "cefr": "B2"
+  },
+  "resulting": {
+    "base": "result",
+    "cefr": "A2"
+  },
+  "retailer": {
+    "base": "retail",
+    "cefr": "B2"
+  },
+  "retired": {
+    "base": "retire",
+    "cefr": "A2"
+  },
+  "retiring": {
+    "base": "retire",
+    "cefr": "A2"
+  },
+  "returned": {
+    "base": "return",
+    "cefr": "A2"
+  },
+  "returning": {
+    "base": "return",
+    "cefr": "A2"
+  },
+  "returns": {
+    "base": "return",
+    "cefr": "A2"
+  },
+  "revealing": {
+    "base": "reveal",
+    "cefr": "B1"
+  },
+  "revengeful": {
+    "base": "revenge",
+    "cefr": "B2"
+  },
+  "reversal": {
+    "base": "reverse",
+    "cefr": "B1"
+  },
+  "reversible": {
+    "base": "reverse",
+    "cefr": "B1"
+  },
+  "reviewer": {
+    "base": "review",
+    "cefr": "A2"
+  },
+  "revisionism": {
+    "base": "revision",
+    "cefr": "B1"
+  },
+  "revisionist": {
+    "base": "revision",
+    "cefr": "B1"
+  },
+  "rewarding": {
+    "base": "reward",
+    "cefr": "A2"
+  },
+  "rhythmic": {
+    "base": "rhythm",
+    "cefr": "B1"
+  },
+  "rhythmical": {
+    "base": "rhythm",
+    "cefr": "B1"
+  },
+  "riches": {
+    "base": "rich",
+    "cefr": "A2"
+  },
+  "richly": {
+    "base": "rich",
+    "cefr": "A2"
+  },
+  "richness": {
+    "base": "rich",
+    "cefr": "A2"
+  },
+  "rider": {
+    "base": "rid",
+    "cefr": "A2"
+  },
+  "ridiculously": {
+    "base": "ridiculous",
+    "cefr": "B1"
+  },
+  "riding": {
+    "base": "rid",
+    "cefr": "A2"
+  },
+  "rightist": {
+    "base": "right",
+    "cefr": "A1"
+  },
+  "rightly": {
+    "base": "right",
+    "cefr": "A1"
+  },
+  "ringing": {
+    "base": "ring",
+    "cefr": "A2"
+  },
+  "rioting": {
+    "base": "riot",
+    "cefr": "B2"
+  },
+  "riotous": {
+    "base": "riot",
+    "cefr": "B2"
+  },
+  "riser": {
+    "base": "rise",
+    "cefr": "A2"
+  },
+  "rising": {
+    "base": "rise",
+    "cefr": "A2"
+  },
+  "ritually": {
+    "base": "ritual",
+    "cefr": "B2"
+  },
+  "robber": {
+    "base": "rob",
+    "cefr": "B1"
+  },
+  "robotic": {
+    "base": "robot",
+    "cefr": "B1"
+  },
+  "roller": {
+    "base": "roll",
+    "cefr": "A2"
+  },
+  "rolling": {
+    "base": "roll",
+    "cefr": "A2"
+  },
+  "romanticism": {
+    "base": "romantic",
+    "cefr": "B1"
+  },
+  "rooted": {
+    "base": "root",
+    "cefr": "B1"
+  },
+  "roughness": {
+    "base": "rough",
+    "cefr": "B1"
+  },
+  "rounded": {
+    "base": "round",
+    "cefr": "B1"
+  },
+  "router": {
+    "base": "route",
+    "cefr": "A2"
+  },
+  "routinely": {
+    "base": "routine",
+    "cefr": "B1"
+  },
+  "routing": {
+    "base": "route",
+    "cefr": "A2"
+  },
+  "rowing": {
+    "base": "row",
+    "cefr": "B1"
+  },
+  "royalist": {
+    "base": "royal",
+    "cefr": "B1"
+  },
+  "rubbing": {
+    "base": "rub",
+    "cefr": "A2"
+  },
+  "rudely": {
+    "base": "rude",
+    "cefr": "A2"
+  },
+  "rudeness": {
+    "base": "rude",
+    "cefr": "A2"
+  },
+  "ruined": {
+    "base": "ruin",
+    "cefr": "B1"
+  },
+  "ruinous": {
+    "base": "ruin",
+    "cefr": "B1"
+  },
+  "rumored": {
+    "base": "rumor",
+    "cefr": "B1"
+  },
+  "runner": {
+    "base": "run",
+    "cefr": "A1"
+  },
+  "running": {
+    "base": "run",
+    "cefr": "A1"
+  },
+  "runs": {
+    "base": "run",
+    "cefr": "A1"
+  },
+  "rushing": {
+    "base": "rush",
+    "cefr": "A2"
+  },
+  "saved": {
+    "base": "save",
+    "cefr": "A2"
+  },
+  "saves": {
+    "base": "save",
+    "cefr": "A2"
+  },
+  "saving": {
+    "base": "save",
+    "cefr": "A2"
+  },
+  "saying": {
+    "base": "say",
+    "cefr": "A1"
+  },
+  "says": {
+    "base": "say",
+    "cefr": "A1"
+  },
+  "seeing": {
+    "base": "see",
+    "cefr": "A1"
+  },
+  "sees": {
+    "base": "see",
+    "cefr": "A1"
+  },
+  "selling": {
+    "base": "sell",
+    "cefr": "A2"
+  },
+  "sells": {
+    "base": "sell",
+    "cefr": "A2"
+  },
+  "sending": {
+    "base": "send",
+    "cefr": "A2"
+  },
+  "sends": {
+    "base": "send",
+    "cefr": "A2"
+  },
+  "served": {
+    "base": "serve",
+    "cefr": "A2"
+  },
+  "serves": {
+    "base": "serve",
+    "cefr": "A2"
+  },
+  "serving": {
+    "base": "serve",
+    "cefr": "A2"
+  },
+  "sets": {
+    "base": "set",
+    "cefr": "A2"
+  },
+  "showed": {
+    "base": "show",
+    "cefr": "A1"
+  },
+  "showing": {
+    "base": "show",
+    "cefr": "A1"
+  },
+  "shows": {
+    "base": "show",
+    "cefr": "A1"
+  },
+  "sits": {
+    "base": "sit",
+    "cefr": "A1"
+  },
+  "sitting": {
+    "base": "sit",
+    "cefr": "A1"
+  },
+  "speaking": {
+    "base": "speak",
+    "cefr": "A1"
+  },
+  "speaks": {
+    "base": "speak",
+    "cefr": "A1"
+  },
+  "spending": {
+    "base": "spend",
+    "cefr": "A2"
+  },
+  "spends": {
+    "base": "spend",
+    "cefr": "A2"
+  },
+  "stands": {
+    "base": "stand",
+    "cefr": "A1"
+  },
+  "started": {
+    "base": "start",
+    "cefr": "A1"
+  },
+  "starting": {
+    "base": "start",
+    "cefr": "A1"
+  },
+  "starts": {
+    "base": "start",
+    "cefr": "A1"
+  },
+  "stayed": {
+    "base": "stay",
+    "cefr": "A1"
+  },
+  "staying": {
+    "base": "stay",
+    "cefr": "A1"
+  },
+  "stays": {
+    "base": "stay",
+    "cefr": "A1"
+  },
+  "stopped": {
+    "base": "stop",
+    "cefr": "A1"
+  },
+  "stopping": {
+    "base": "stop",
+    "cefr": "A1"
+  },
+  "stops": {
+    "base": "stop",
+    "cefr": "A1"
+  },
+  "subjective": {
+    "base": "subject",
+    "cefr": "A2"
+  },
+  "suffered": {
+    "base": "suffer",
+    "cefr": "A2"
+  },
+  "suffering": {
+    "base": "suffer",
+    "cefr": "A2"
+  },
+  "suffers": {
+    "base": "suffer",
+    "cefr": "A2"
+  },
+  "suggested": {
+    "base": "suggest",
+    "cefr": "A2"
+  },
+  "suggesting": {
+    "base": "suggest",
+    "cefr": "A2"
+  },
+  "suggests": {
+    "base": "suggest",
+    "cefr": "A2"
+  },
+  "supported": {
+    "base": "support",
+    "cefr": "A2"
+  },
+  "supporting": {
+    "base": "support",
+    "cefr": "A2"
+  },
+  "supports": {
+    "base": "support",
+    "cefr": "A2"
+  },
+  "supposed": {
+    "base": "suppose",
+    "cefr": "A2"
+  },
+  "supposes": {
+    "base": "suppose",
+    "cefr": "A2"
+  },
+  "supposing": {
+    "base": "suppose",
+    "cefr": "A2"
+  },
+  "takes": {
+    "base": "take",
+    "cefr": "A1"
+  },
+  "taking": {
+    "base": "take",
+    "cefr": "A1"
+  },
+  "talked": {
+    "base": "talk",
+    "cefr": "A1"
+  },
+  "talking": {
+    "base": "talk",
+    "cefr": "A1"
+  },
+  "talks": {
+    "base": "talk",
+    "cefr": "A1"
+  },
+  "teaches": {
+    "base": "teach",
+    "cefr": "A1"
+  },
+  "teaching": {
+    "base": "teach",
+    "cefr": "A1"
+  },
+  "telling": {
+    "base": "tell",
+    "cefr": "A1"
+  },
+  "tells": {
+    "base": "tell",
+    "cefr": "A1"
+  },
+  "tenable": {
+    "base": "ten",
+    "cefr": "A1"
+  },
+  "thinks": {
+    "base": "think",
+    "cefr": "A1"
+  },
+  "tries": {
+    "base": "try",
+    "cefr": "A1"
+  },
+  "trying": {
+    "base": "try",
+    "cefr": "A1"
+  },
+  "turned": {
+    "base": "turn",
+    "cefr": "A1"
+  },
+  "turning": {
+    "base": "turn",
+    "cefr": "A1"
+  },
+  "turns": {
+    "base": "turn",
+    "cefr": "A1"
+  },
+  "understands": {
+    "base": "understand",
+    "cefr": "A1"
+  },
+  "uses": {
+    "base": "us",
+    "cefr": "A1"
+  },
+  "using": {
+    "base": "us",
+    "cefr": "A1"
+  },
+  "visitor": {
+    "base": "visit",
+    "cefr": "A1"
+  },
+  "walked": {
+    "base": "walk",
+    "cefr": "A1"
+  },
+  "walking": {
+    "base": "walk",
+    "cefr": "A1"
+  },
+  "walks": {
+    "base": "walk",
+    "cefr": "A1"
+  },
+  "wanted": {
+    "base": "want",
+    "cefr": "A1"
+  },
+  "wanting": {
+    "base": "want",
+    "cefr": "A1"
+  },
+  "wants": {
+    "base": "want",
+    "cefr": "A1"
+  },
+  "watched": {
+    "base": "watch",
+    "cefr": "A1"
+  },
+  "watches": {
+    "base": "watch",
+    "cefr": "A1"
+  },
+  "watching": {
+    "base": "watch",
+    "cefr": "A1"
+  },
+  "willful": {
+    "base": "will",
+    "cefr": "A1"
+  },
+  "winning": {
+    "base": "win",
+    "cefr": "A1"
+  },
+  "wins": {
+    "base": "win",
+    "cefr": "A1"
+  },
+  "worked": {
+    "base": "work",
+    "cefr": "A1"
+  },
+  "works": {
+    "base": "work",
+    "cefr": "A1"
+  },
+  "writes": {
+    "base": "write",
+    "cefr": "A1"
+  },
+  "younger": {
+    "base": "young",
+    "cefr": "A1"
+  }
+}

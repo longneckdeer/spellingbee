@@ -1,0 +1,1113 @@
+[
+  {
+    "word": "abbreviation",
+    "definition": "a shortened form of a written word or phrase used in place of the whole word or phrase",
+    "difficulty": 111,
+    "sentence": "The abbreviation is very important.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "accommodating",
+    "definition": "helpful, obliging, polite",
+    "sentence": "Though the apartment was not big enough for three people, Arnold, Mark, and Zebulon were all friends and were accommodating to each other.",
+    "partOfSpeech": "adjective",
+    "difficulty": 113
+  },
+  {
+    "word": "anthropology",
+    "definition": "the science of human beings; especially : the study of human beings and their ancestors through time and space and in relation to physical character, environmental and social relations, and culture",
+    "difficulty": 110,
+    "sentence": "She studied anthropology to understand different cultural practices around the world.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "commendation",
+    "definition": "a notice of approval or recognition",
+    "sentence": "Jared received a commendation from Linda, his supervisor, for his stellar performance.",
+    "partOfSpeech": "noun",
+    "difficulty": 111
+  },
+  {
+    "word": "contemporaneous",
+    "definition": "existing during the same time",
+    "sentence": "Though her novels do not feature the themes of Romanticism, Jane Austen’s work was contemporaneous with that of Wordsworth and Byron.",
+    "partOfSpeech": "adjective",
+    "difficulty": 113
+  },
+  {
+    "word": "contumacious",
+    "definition": "stubbornly disobedient : rebellious",
+    "difficulty": 110,
+    "sentence": "Was warned that any contumacious conduct would not be tolerated.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "flabbergasted",
+    "definition": "astounded",
+    "sentence": "Whenever I read an Agatha Christie mystery novel, I am always flabbergasted when I learn the identity of the murderer.",
+    "partOfSpeech": "adjective",
+    "difficulty": 113
+  },
+  {
+    "word": "inarticulate",
+    "definition": "incapable of expressing oneself clearly through speech",
+    "sentence": "Though he spoke for over an hour, the lecturer was completely inarticulate and the students had no idea what he was talking about.",
+    "partOfSpeech": "adjective",
+    "difficulty": 110
+  },
+  {
+    "word": "inextricable",
+    "definition": "hopelessly tangled or entangled",
+    "sentence": "Unless I look at the solution manual, I have no way of solving this inextricable problem.",
+    "partOfSpeech": "adjective",
+    "difficulty": 110
+  },
+  {
+    "word": "installation",
+    "definition": "the act or process of making a machine, a service, etc., ready to be used in a certain place : the act of installing something",
+    "difficulty": 111,
+    "sentence": "The cable company offers lower prices and free installation.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "interruption",
+    "definition": "an act of interrupting something or someone or the state of being interrupted: such as",
+    "difficulty": 110,
+    "sentence": "Our conversation continued without interruption for over an hour.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "irrevocable",
+    "definition": "incapable of being taken back",
+    "sentence": "The Bill of Rights is an irrevocable part of American law.",
+    "partOfSpeech": "adjective",
+    "difficulty": 110
+  },
+  {
+    "word": "juxtaposition",
+    "definition": "the act or an instance of placing two or more things side by side often to compare or contrast or to create an interesting effect; also : the state of being so placed",
+    "difficulty": 112,
+    "sentence": "The juxtaposition of Holly's career with the content of her podcast might leave audience members scratching their heads.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "knowledgeable",
+    "definition": "having information, understanding, or skill that comes from experience or education : having knowledge",
+    "difficulty": 114,
+    "sentence": "The knowledgeable atmosphere made everyone comfortable.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "mathematical",
+    "definition": "of, relating to, or involving mathematics",
+    "difficulty": 110,
+    "sentence": "The mathematical atmosphere made everyone comfortable.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "meretricious",
+    "definition": "tastelessly showy and falsely attractive",
+    "difficulty": 110,
+    "sentence": "Sereni's poetry is quiet, musical, slightly melancholy most of the time, devoid of meretricious ornament.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "methodological",
+    "definition": "of or relating to method or methodology",
+    "difficulty": 112,
+    "sentence": "The researcher used a methodological approach to analyze the data.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "parsimonious",
+    "definition": "exhibiting or marked by parsimony; especially : frugal to the point of stinginess",
+    "difficulty": 110,
+    "sentence": "Despite his wealth, the parsimonious billionaire refused to donate to any charities.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "pathological",
+    "definition": "of or relating to pathology",
+    "difficulty": 110,
+    "sentence": "A pathological examination led to the diagnosis.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "perspicacious",
+    "definition": "of acute mental vision or discernment : keen",
+    "difficulty": 112,
+    "sentence": "The perspicacious detective immediately noticed the subtle clues others had completely missed.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "philanthropic",
+    "definition": "charitable, giving",
+    "sentence": "Many people felt that the billionaire’s decision to donate her fortune to house the homeless was the ultimate philanthropic act.",
+    "partOfSpeech": "adjective",
+    "difficulty": 112
+  },
+  {
+    "word": "predilection",
+    "definition": "a natural liking for something : a tendency to do or to be attracted to something —often + for",
+    "difficulty": 110,
+    "sentence": "She followed her own predilections.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "preoccupation",
+    "definition": "a state in which you give all your attention to something—usually + with",
+    "difficulty": 112,
+    "sentence": "We need better preoccupation in this process.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "prepossessing",
+    "definition": "occupying the mind to the exclusion of other thoughts or feelings",
+    "sentence": "His prepossessing appearance made it impossible for me to think of anything else.",
+    "partOfSpeech": "adjective",
+    "difficulty": 113
+  },
+  {
+    "word": "proclamation",
+    "definition": "the act of saying something in a public, official, or definite way : the act of proclaiming something",
+    "difficulty": 110,
+    "sentence": "No one believed her proclamations of innocence.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "proliferation",
+    "definition": "rapid increase in numbers or amount",
+    "difficulty": 112,
+    "sentence": "The proliferation of smartphones has changed communication.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "psychiatrist",
+    "definition": "a doctor who treats mental or emotional disorders : a doctor of psychiatry",
+    "difficulty": 115,
+    "sentence": "The psychiatrist had great importance in our daily lives.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "psychoanalysis",
+    "definition": "a method of explaining and treating mental and emotional problems by having the patient talk about dreams, feelings, memories, etc.",
+    "difficulty": 117,
+    "sentence": "The psychoanalysis had great importance in our daily lives.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "psychologist",
+    "definition": "a scientist who specializes in the study and treatment of the mind and behavior : a specialist in psychology",
+    "difficulty": 115,
+    "sentence": "The psychologist was the topic of much discussion.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "punctilious",
+    "definition": "marked by or concerned about precise accordance with the details of codes or conventions",
+    "difficulty": 110,
+    "sentence": "The punctilious accountant checked every receipt three times before submitting the expense report.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "quantitative",
+    "definition": "of or relating to how much there is of something : of or relating to the quantity or amount of something",
+    "difficulty": 110,
+    "sentence": "The quantitative atmosphere made everyone comfortable.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "recalcitrant",
+    "definition": "obstinately defiant of authority or restraint : stubbornly uncooperative or disobedient",
+    "difficulty": 110,
+    "sentence": "The touch switches for the heater and the air conditioner can be recalcitrant as well.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "recklessness",
+    "definition": "not showing proper concern about the possible bad results of your actions",
+    "difficulty": 111,
+    "sentence": "The product received recklessness reviews from customers.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "recollection",
+    "definition": "the act of remembering something or the ability to remember something",
+    "difficulty": 111,
+    "sentence": "Her recollection of the accident is very different from mine.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "recommendation",
+    "definition": "the act of saying that someone or something is good and deserves to be chosen",
+    "difficulty": 113,
+    "sentence": "My boss wrote me a glowing letter of recommendation.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "rehabilitation",
+    "definition": "the action, process, or result of rehabilitating or of being rehabilitated: such as",
+    "difficulty": 112,
+    "sentence": "MCL injuries alone rarely necessitate surgery and heal with rest and rehabilitation.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "reincarnation",
+    "definition": "the idea or belief that people are born again with a different body after death",
+    "difficulty": 112,
+    "sentence": "The reincarnation contributed significantly to the community.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "renunciation",
+    "definition": "the act of renouncing something or someone",
+    "difficulty": 110,
+    "sentence": "The king's renunciation of the throne.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "reprehensible",
+    "definition": "very bad : deserving very strong criticism",
+    "difficulty": 112,
+    "sentence": "Such reprehensible acts.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "responsiveness",
+    "definition": "reacting in a desired or positive way",
+    "difficulty": 113,
+    "sentence": "The responsiveness atmosphere made everyone comfortable.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "reverberation",
+    "definition": "a sound that echoes",
+    "difficulty": 112,
+    "sentence": "The reverberation had great importance in our daily lives.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "righteousness",
+    "definition": "morally good : following religious or moral laws",
+    "difficulty": 115,
+    "sentence": "The product received righteousness reviews from customers.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "scintillating",
+    "definition": "brilliantly lively, stimulating, or witty",
+    "difficulty": 113,
+    "sentence": "The scintillating approach proved to be effective.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "speculative",
+    "definition": "not based in fact",
+    "sentence": "Sadly, Tessa was convicted on merely speculative evidence.",
+    "partOfSpeech": "adjective",
+    "difficulty": 110
+  },
+  {
+    "word": "superfluous",
+    "definition": "exceeding what is sufficient or necessary : extra",
+    "difficulty": 110,
+    "sentence": "The superfluous approach proved to be effective.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "tergiversation",
+    "definition": "evasion of straightforward action or clear-cut statement : equivocation",
+    "difficulty": 112,
+    "sentence": "The tergiversation was clearly visible from the window.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "vituperation",
+    "definition": "sustained and bitter railing and condemnation : vituperative utterance",
+    "difficulty": 110,
+    "sentence": "Understanding the vituperation requires careful study.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "chronological",
+    "definition": "of, relating to, or arranged in or according to the order of time; also : reckoned in units of time",
+    "difficulty": 120,
+    "sentence": "His chronological age is five, but his mental age is three—he thinks and behaves like a three-year-old.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "hypothetical",
+    "definition": "supposed or assumed true, but unproven",
+    "sentence": "Even though it has been celebrated by seven major newspapers, that the drug will be a success when tested in humans is still hypothetical.",
+    "partOfSpeech": "adjective",
+    "difficulty": 115
+  },
+  {
+    "word": "multifarious",
+    "definition": "having or occurring in great variety : diverse",
+    "difficulty": 115,
+    "sentence": "Participated in multifarious activities in high school.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "ostentatious",
+    "definition": "attracting or seeking to attract attention, admiration, or envy often by gaudiness or unnecessary show : overly elaborate or conspicuous",
+    "difficulty": 115,
+    "sentence": "The ostentatious = very large and expensive summer homes of rich industrialists.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "pertinacious",
+    "definition": "adhering resolutely to an opinion, purpose, or design",
+    "difficulty": 115,
+    "sentence": "Despite numerous rejections, the pertinacious writer continued submitting her manuscript to publishers.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "philosophical",
+    "definition": "of, relating to, or based on philosophy",
+    "difficulty": 117,
+    "sentence": "They got into a philosophical debate about what it means for something to be natural.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "ruthlessness",
+    "definition": "having no pity : cruel or merciless",
+    "difficulty": 116,
+    "sentence": "The ruthlessness atmosphere made everyone comfortable.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "supercilious",
+    "definition": "coolly and patronizingly haughty",
+    "difficulty": 115,
+    "sentence": "Reacted to their breach of etiquette with a supercilious smile.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "surreptitious",
+    "definition": "done, made, or acquired by stealth : clandestine",
+    "difficulty": 117,
+    "sentence": "The surreptitious approach proved to be effective.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "vainglorious",
+    "definition": "marked by vainglory : boastful",
+    "difficulty": 115,
+    "sentence": "The vainglorious actor constantly boasted about his awards and refused to praise others.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "abacus",
+    "definition": "a counting device with beads or disks",
+    "sentence": "She used an abacus to do math.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abandoned",
+    "definition": "deserted or forsaken",
+    "sentence": "The old house stood in ruins, abandoned and forgotten.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abandonment",
+    "definition": "act of abandoning or being abandoned",
+    "sentence": "The abandonment of the project caused disappointment.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "abash",
+    "definition": "to embarrass or make ashamed",
+    "sentence": "He was abashed by his mistake in front of the entire class.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abatement",
+    "definition": "the act of reducing or lessening",
+    "sentence": "The company received a tax abatement for eco-friendly initiatives.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abattoir",
+    "definition": "a slaughterhouse for animals",
+    "sentence": "The abattoir processed hundreds of cattle every day.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abbey",
+    "definition": "a monastery or convent",
+    "sentence": "The monks gathered in the abbey for their evening prayers.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abbot",
+    "definition": "the superior of an abbey or monastery",
+    "sentence": "The abbot led the monks in their daily rituals.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abdication",
+    "definition": "the act of abdicating or giving up power",
+    "sentence": "The abdication of the queen shocked the nation.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "abdomen",
+    "definition": "the region of the body between the chest and the pelvis",
+    "sentence": "He felt a sharp pain in his abdomen.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abduction",
+    "definition": "the act of kidnapping or taking by force",
+    "sentence": "The police launched a search operation after the abduction.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abhorrence",
+    "definition": "intense disgust or hatred",
+    "sentence": "His abhorrence of violence led him to become a pacifist.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "abhorrent",
+    "definition": "completely opposed or repugnant",
+    "sentence": "His behavior was considered abhorrent by society.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abode",
+    "definition": "a place where one lives or resides",
+    "sentence": "Her abode was a cozy cottage in the countryside.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abrade",
+    "definition": "to scrape or wear away by friction or erosion",
+    "sentence": "The rough surface abraded his skin.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "abscess",
+    "definition": "a localized collection of pus in a body tissue",
+    "sentence": "The dentist had to drain the abscess in his patient's tooth.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "absent",
+    "definition": "not present or in attendance; missing",
+    "sentence": "The teacher marked him absent for failing to come to class.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "absenteeism",
+    "definition": "the habit of regularly being absent from work or school",
+    "sentence": "The company implemented measures to reduce absenteeism.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "absolutism",
+    "definition": "the principle or practice of absolute power or authority",
+    "sentence": "The king ruled with absolutism, making all decisions himself.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "absorption",
+    "definition": "the process of absorbing or being absorbed",
+    "sentence": "The absorption of nutrients occurs in the small intestine.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "accessibility",
+    "definition": "the quality of being easily reached or used",
+    "sentence": "The new shopping mall prided itself on its accessibility.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 115
+  },
+  {
+    "word": "accompaniment",
+    "definition": "music or an instrument that supports or accompanies a soloist",
+    "sentence": "The pianist played a beautiful accompaniment to the singer.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 115
+  },
+  {
+    "word": "accustomed",
+    "definition": "familiar with or used to something; adapted to circumstances",
+    "sentence": "He was accustomed to the cold weather after living in Alaska.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "acquit",
+    "definition": "to declare someone not guilty of a charge",
+    "sentence": "The jury reviewed the evidence and decided to acquit.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "acrid",
+    "definition": "having an irritatingly strong and unpleasant taste or smell",
+    "sentence": "The acrid odor of smoke filled the room.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "acronym",
+    "definition": "an abbreviation formed from the initial letters of other words",
+    "sentence": "NATO is an acronym for the North Atlantic Treaty Organization.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "activate",
+    "definition": "to make something active or operational; to start or initiate",
+    "sentence": "She activated the alarm system before leaving the house.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "activism",
+    "definition": "the policy or action of using vigorous campaigning",
+    "sentence": "She dedicated her life to environmental activism.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "adage",
+    "definition": "a short, wise saying or proverb",
+    "sentence": "A penny saved is a penny earned is a well-known adage.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "adaptive",
+    "definition": "able to adjust or change according to needs",
+    "sentence": "The software was designed with an adaptive interface.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "addictive",
+    "definition": "capable of causing addiction; compelling and difficult to give up",
+    "sentence": "Video games can be highly addictive for some people.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "adduce",
+    "definition": "to cite as evidence or proof of an argument",
+    "sentence": "The lawyer adduced several witness testimonies to support her case.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "adhesive",
+    "definition": "a substance used for sticking objects or materials together",
+    "sentence": "He used adhesive to glue the pieces of the broken vase.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "adjective",
+    "definition": "a word that describes or modifies a noun or pronoun",
+    "sentence": "Beautiful, red, and tall are examples of adjectives.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "admonitory",
+    "definition": "serving as a warning or caution",
+    "sentence": "He gave her an admonitory look, signaling that she was crossing a line.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "adoption",
+    "definition": "the legal process of taking another person's child as one's own",
+    "sentence": "The couple went through the adoption process to expand their family.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "adulthood",
+    "definition": "the stage of life when a person has reached full development",
+    "sentence": "She embraced the responsibilities that come with adulthood.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "adverb",
+    "definition": "a word that modifies or adds information to a verb",
+    "sentence": "Quickly, very, and well are examples of adverbs.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "adversity",
+    "definition": "difficulties or hardships; misfortune",
+    "sentence": "Despite facing numerous adversities, he never lost hope.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "advertising",
+    "definition": "the activity or profession of producing advertisements",
+    "sentence": "He works in advertising and creates campaigns for clients.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "aesthete",
+    "definition": "a person who has a deep appreciation for art",
+    "sentence": "The art gallery attracted many aesthetes.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "affair",
+    "definition": "a matter or situation that is of concern or importance",
+    "sentence": "The financial affairs of the company were being investigated.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "affirmation",
+    "definition": "a positive or emphatic statement or declaration",
+    "sentence": "The coach provided words of affirmation to boost confidence.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "affordable",
+    "definition": "inexpensive or reasonably priced; within one's financial means",
+    "sentence": "They were able to find an affordable apartment in the city.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "aggravate",
+    "definition": "to make a problem, situation, or condition worse",
+    "sentence": "The loud noise aggravated his headache.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "agility",
+    "definition": "the ability to move quickly and easily",
+    "sentence": "The athlete's agility allowed him to navigate obstacles.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "agrarian",
+    "definition": "relating to farming or agricultural activities",
+    "sentence": "The region's economy was primarily agrarian.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "aid",
+    "definition": "assistance or support; help",
+    "sentence": "The organization provides aid to those affected by disasters.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "allegiance",
+    "definition": "loyalty or commitment to a person or cause",
+    "sentence": "The citizens pledged their allegiance to the flag.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "allegory",
+    "definition": "a story or poem with a symbolic meaning",
+    "sentence": "The novel was an allegory for political corruption.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "allotment",
+    "definition": "a portion or share assigned to someone",
+    "sentence": "Each team member received an equal allotment of time.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "allude",
+    "definition": "to suggest or indirectly refer to something",
+    "sentence": "The professor made a clever remark that alluded to history.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "ambivalence",
+    "definition": "the state of having mixed feelings or contradictory ideas",
+    "sentence": "He experienced ambivalence about accepting the job offer.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "amply",
+    "definition": "sufficiently or generously",
+    "sentence": "The hotel staff amply accommodated the needs of guests.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "amuck",
+    "definition": "in a frenzied or uncontrolled manner",
+    "sentence": "The protesters ran amuck through the streets, causing chaos.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "anemic",
+    "definition": "lacking in vitality, strength, or substance",
+    "sentence": "The company's sales were anemic, struggling to generate revenue.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "anesthetic",
+    "definition": "a substance that causes loss of feeling or sensation",
+    "sentence": "The dentist administered an anesthetic before the procedure.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "anthropomorphic",
+    "definition": "attributing human characteristics to non-human things",
+    "sentence": "In children's literature, anthropomorphic animals play main roles.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 120
+  },
+  {
+    "word": "antic",
+    "definition": "playful or silly act or gesture; clownish behavior",
+    "sentence": "The comedian's antic had the audience laughing uncontrollably.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "antithetical",
+    "definition": "directly opposed or contrasted; mutually incompatible",
+    "sentence": "His actions were antithetical to the values he claimed.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 115
+  },
+  {
+    "word": "apex",
+    "definition": "highest point; culmination or climax",
+    "sentence": "The team's victory was the apex of their season.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "aplomb",
+    "definition": "self-assurance or confidence in poise",
+    "sentence": "Despite facing a challenge, the leader handled it with aplomb.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "apostate",
+    "definition": "a person who renounces a belief or cause",
+    "sentence": "He was labeled an apostate after publicly renouncing his affiliation.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "apothegm",
+    "definition": "short, concise, and witty saying",
+    "sentence": "The elder shared an apothegm that had been passed down.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "apparition",
+    "definition": "a ghostly figure or supernatural appearance",
+    "sentence": "She claimed to have seen an apparition in the old haunted house.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "appreciable",
+    "definition": "noticeable or significant amount",
+    "sentence": "There has been an appreciable increase in tourists since airport.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "approbatory",
+    "definition": "expressing approval or praise",
+    "sentence": "The teacher gave an approbatory smile to the hardworking student.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "appurtenant",
+    "definition": "related or belonging to something as an accessory",
+    "sentence": "The document contained an appurtenant appendix.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "arbitrate",
+    "definition": "to settle a dispute or conflict as an arbitrator",
+    "sentence": "The judge was appointed to arbitrate the labor dispute.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "aristocratic",
+    "definition": "belonging to or characteristic of the aristocracy",
+    "sentence": "The elegant mansion reflected the aristocratic status.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 115
+  },
+  {
+    "word": "armistice",
+    "definition": "a formal agreement to cease fighting or war",
+    "sentence": "The armistice marked the end of hostilities.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "arrant",
+    "definition": "complete or utter; notorious or egregious",
+    "sentence": "The politician's arrant disregard for ethics brought outrage.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "arriviste",
+    "definition": "ambitious and ruthless social climber",
+    "sentence": "The arriviste businessman was willing to do whatever it took.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "artful",
+    "definition": "clever or cunning, especially in a deceitful way",
+    "sentence": "The artful politician knew how to manipulate the crowd.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "ascendancy",
+    "definition": "dominance or control; a position of power or influence",
+    "sentence": "The company's ascendancy in the market was evident.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "askance",
+    "definition": "with suspicion or disapproval",
+    "sentence": "She looked askance at his extravagant purchase.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "assent",
+    "definition": "to express agreement or approval",
+    "sentence": "The committee members assented to the proposed changes.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "astounding",
+    "definition": "amazing or astonishing in a surprising way",
+    "sentence": "Her performance was astounding, leaving audience in awe.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "atrocious",
+    "definition": "extremely cruel, brutal, or wicked",
+    "sentence": "The prisoners were subjected to atrocious treatment.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "attest",
+    "definition": "to provide evidence or testify to the truth of",
+    "sentence": "Several witnesses attested to the defendant's innocence.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "attire",
+    "definition": "clothing or apparel",
+    "sentence": "The guests were expected to dress in formal attire.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "attribution",
+    "definition": "the act of attributing or ascribing something",
+    "sentence": "The journalist failed to provide proper attribution.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "augur",
+    "definition": "to predict or foreshadow something",
+    "sentence": "The dark clouds augur an approaching storm.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "austerity",
+    "definition": "strictness or severity, especially in terms of living",
+    "sentence": "The country imposed austerity measures to combat crisis.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "authoritative",
+    "definition": "having the power or right to give orders",
+    "sentence": "The professor's authoritative voice commanded attention.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 115
+  },
+  {
+    "word": "autocratic",
+    "definition": "exercising complete or absolute control; dictatorial",
+    "sentence": "The autocratic leader made all decisions without consulting.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 113
+  },
+  {
+    "word": "autonomously",
+    "definition": "acting or functioning independently, without control",
+    "sentence": "The self-driving car operates autonomously.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 115
+  },
+  {
+    "word": "avid",
+    "definition": "eager or enthusiastic about something",
+    "sentence": "He was an avid reader, devouring books of all genres.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  },
+  {
+    "word": "avow",
+    "definition": "to assert or confess openly",
+    "sentence": "He avowed his love for her in front of everyone.",
+    "partOfSpeech": "noun",
+    "source": "GRE",
+    "difficulty": 112
+  }
+]

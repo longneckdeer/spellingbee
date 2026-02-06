@@ -1,0 +1,2658 @@
+[
+  {
+    "word": "cursory",
+    "definition": "lacking effort; without care",
+    "partOfSpeech": "形容詞",
+    "sentence": "Only a cursory inspection of the building's electrical wiring was done.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "daunting",
+    "definition": "scary or frightening; seeming impossible",
+    "partOfSpeech": "形容詞",
+    "sentence": "The daunting task of reorganizing the entire library took several months to complete.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "deify",
+    "definition": "look up to someone or something as a god",
+    "partOfSpeech": "動詞",
+    "sentence": "Ancient civilizations would often deify their rulers, worshipping them as gods.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "humdrum",
+    "definition": "boring; unlikely to excite",
+    "partOfSpeech": "形容詞",
+    "sentence": "She liked the movie, but I thought it was humdrum.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "misanthropic",
+    "definition": "having a distaste for humans and society",
+    "partOfSpeech": "形容詞",
+    "cefr_level": "C2",
+    "difficulty": 92,
+    "sentence": "The misanthropic writer avoided all social gatherings."
+  },
+  {
+    "word": "misnomer",
+    "definition": "a misleading or inaccurate name",
+    "partOfSpeech": "名詞",
+    "sentence": "{ldquo}International Airport{rdquo} is something of a misnomer, since almost all the arriving and departing flights are local.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "spendthrift",
+    "definition": "someone who spends money recklessly",
+    "partOfSpeech": "名詞",
+    "cefr_level": "C1",
+    "difficulty": 82,
+    "sentence": "The spendthrift heir squandered his entire inheritance within a year."
+  },
+  {
+    "word": "brazen",
+    "definition": "shameless and excessively forward",
+    "partOfSpeech": "形容詞",
+    "sentence": "He exhibited a brazen disregard for other people's feelings.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "construe",
+    "definition": "understand something subjectively",
+    "partOfSpeech": "動詞",
+    "sentence": "The way the court construes various words has changed over time.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "covet",
+    "definition": "strongly desire; yearn for",
+    "partOfSpeech": "動詞",
+    "sentence": "She did not covet her neighbor's possessions, being content with what she had.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "deft",
+    "definition": "highly proficient; skilled",
+    "partOfSpeech": "形容詞",
+    "sentence": "The surgeon's deft hands moved with precision during the delicate operation.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "abate",
+    "definition": "decrease in intensity; lessen",
+    "partOfSpeech": "動詞",
+    "sentence": "We waited for the wind/storm to abate.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "anomalous",
+    "definition": "differing from what is normal; atypical",
+    "partOfSpeech": "形容詞",
+    "sentence": "Researchers could not explain the anomalous test results.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "artless",
+    "definition": "naive; inexperienced; plain and simple",
+    "partOfSpeech": "形容詞",
+    "sentence": "Her artless charm made everyone feel comfortable in her presence.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "cacophonous",
+    "definition": "extremely noisy; grating",
+    "partOfSpeech": "形容詞",
+    "sentence": "The cacophonous noise from the construction site made it impossible to concentrate.",
+    "cefr_level": "C2",
+    "difficulty": 93
+  },
+  {
+    "word": "canonize",
+    "definition": "treat like a god; deeply venerate",
+    "partOfSpeech": "動詞",
+    "sentence": "She died 100 years ago and was canonized in Rome last year.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "incendiary",
+    "definition": "provocative; causing conflict",
+    "partOfSpeech": "形容詞",
+    "sentence": "The fire was started by an incendiary bomb/device.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "invigorate",
+    "definition": "provide energy or vitality to",
+    "partOfSpeech": "動詞",
+    "sentence": "A brisk walk in the cool morning air always invigorates me.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "paradigmatic",
+    "definition": "representing the standard example",
+    "partOfSpeech": "形容詞",
+    "sentence": "Einstein's theory of relativity is paradigmatic of revolutionary scientific thinking.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "profundity",
+    "definition": "great wisdom or intelligence",
+    "partOfSpeech": "名詞",
+    "sentence": "The profundity of the philosopher's writings continues to influence modern thought.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "aloof",
+    "definition": "not warm or friendly; impersonal",
+    "partOfSpeech": "形容詞",
+    "sentence": "He remained aloof from office politics, preferring to focus on his work.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "clangor",
+    "definition": "a disturbingly loud noise",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "partOfSpeech": "形容詞",
+    "sentence": "The clangor of the factory machinery made conversation impossible."
+  },
+  {
+    "word": "debunk",
+    "definition": "prove a belief or idea false",
+    "partOfSpeech": "動詞",
+    "sentence": "The article debunks the notion that life exists on Mars.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "diminutive",
+    "definition": "exceptionally small in size or stature",
+    "partOfSpeech": "形容詞",
+    "sentence": "The diminutive cottage looked like something from a fairy tale.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "discernible",
+    "definition": "able to be recognized or understood",
+    "partOfSpeech": "動詞",
+    "sentence": "There was no discernible difference between the two paintings.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "estranged",
+    "definition": "emotionally distanced from someone",
+    "partOfSpeech": "動詞",
+    "cefr_level": "C1",
+    "difficulty": 79,
+    "sentence": "He became estranged from his family after the bitter dispute over the will."
+  },
+  {
+    "word": "extravagant",
+    "definition": "excessive, especially in terms of cost",
+    "partOfSpeech": "形容詞",
+    "sentence": "The wedding was an extravagant affair with hundreds of guests and elaborate decorations.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "fanciful",
+    "definition": "highly imaginative; unrealistic",
+    "partOfSpeech": "形容詞",
+    "sentence": "The artist was known for her fanciful illustrations of imaginary creatures.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "invasive",
+    "definition": "infringing on others privacy; spreading rapidly",
+    "partOfSpeech": "形容詞",
+    "sentence": "Invasive species can devastate native ecosystems.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "lax",
+    "definition": "not diligent or careful; casual",
+    "partOfSpeech": "形容詞",
+    "sentence": "The company's lax security policies led to a major data breach.",
+    "cefr_level": "C1",
+    "difficulty": 72
+  },
+  {
+    "word": "marginalize",
+    "definition": "treat someone or something as insignificant",
+    "partOfSpeech": "動詞",
+    "sentence": "The new policies threatened to marginalize small business owners.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "panache",
+    "definition": "a stylish and confident manner",
+    "partOfSpeech": "名詞",
+    "sentence": "She played the role of hostess with great panache.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "plodding",
+    "definition": "moving slowly or laboriously",
+    "partOfSpeech": "動詞",
+    "sentence": "The plodding pace of the bureaucracy frustrated everyone involved.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "stigmatize",
+    "definition": "label or mark as disgraceful",
+    "partOfSpeech": "動詞",
+    "sentence": "Society stigmatizes welfare recipients.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "zealous",
+    "definition": "intensely passionate",
+    "partOfSpeech": "形容詞",
+    "sentence": "The zealous advocate fought tirelessly for environmental protection.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "chauvinistic",
+    "definition": "excessively patriotic or biased in favor of a group",
+    "partOfSpeech": "形容詞",
+    "sentence": "His chauvinistic attitudes made him unpopular among his colleagues.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "dogged",
+    "definition": "demonstrating tenacity and unwillingness to give up",
+    "partOfSpeech": "形容詞",
+    "sentence": "Her dogged efforts eventually paid off.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "dupe",
+    "definition": "trick or fool someone",
+    "partOfSpeech": "動詞",
+    "sentence": "The con artist tried to dupe unsuspecting tourists with fake tickets.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "presumptuous",
+    "definition": "overstepping boundaries, often in an overconfident way",
+    "partOfSpeech": "形容詞",
+    "sentence": "It would be presumptuous (of me) to tell the manager how to do things.",
+    "cefr_level": "C1",
+    "difficulty": 84
+  },
+  {
+    "word": "subvert",
+    "definition": "undermine or weaken, typically an authority",
+    "partOfSpeech": "動詞",
+    "sentence": "They conspired to subvert the government.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "clamorous",
+    "definition": "characterized by extremely loud noise",
+    "partOfSpeech": "動詞",
+    "sentence": "The clamorous crowd demanded answers from the officials.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "explicable",
+    "definition": "able to be explained or understood",
+    "partOfSpeech": "形容詞",
+    "sentence": "The strange phenomenon was perfectly explicable once the scientists examined the data.",
+    "cefr_level": "C1",
+    "difficulty": 81
+  },
+  {
+    "word": "insular",
+    "definition": "limited in outlook or experience; narrow",
+    "partOfSpeech": "形容詞",
+    "sentence": "The insular community had little contact with the outside world.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "irreverent",
+    "definition": "lacking proper respect or seriousness",
+    "partOfSpeech": "形容詞",
+    "sentence": "He has a delightfully irreverent sense of humor.",
+    "cefr_level": "C1",
+    "difficulty": 81
+  },
+  {
+    "word": "loathe",
+    "definition": "dislike greatly, often with disgust",
+    "partOfSpeech": "動詞",
+    "sentence": "I loathe having to wake up early on weekends.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "malign",
+    "definition": "evil and harmful; speak about someone in a bitter manner",
+    "partOfSpeech": "動詞",
+    "sentence": "Her supporters say she is being unfairly maligned in the press.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "stern",
+    "definition": "hard, harsh, or severe in manner",
+    "partOfSpeech": "形容詞",
+    "sentence": "The stern professor rarely smiled during lectures.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "conjectural",
+    "definition": "pertaining to a guess or inference made with limited data",
+    "partOfSpeech": "形容詞",
+    "sentence": "The theory remains conjectural until more evidence is gathered.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "flamboyant",
+    "definition": "characterized by a showy, confident, or audacious display",
+    "partOfSpeech": "形容詞",
+    "sentence": "The flamboyant entertainer captivated audiences with his colorful costumes.",
+    "cefr_level": "C1",
+    "difficulty": 81
+  },
+  {
+    "word": "galvanize",
+    "definition": "inspire or stir up to action or heightened activity",
+    "partOfSpeech": "動詞",
+    "sentence": "The tragic event helped galvanize the community into action.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "indiscriminate",
+    "definition": "lacking selectivity or judgment",
+    "partOfSpeech": "形容詞",
+    "sentence": "They participated in the indiscriminate slaughter of countless innocent victims.",
+    "cefr_level": "C1",
+    "difficulty": 85
+  },
+  {
+    "word": "nettlesome",
+    "definition": "causing irritation or annoyance",
+    "cefr_level": "C1",
+    "difficulty": 81,
+    "partOfSpeech": "形容詞",
+    "sentence": "The nettlesome regulations created headaches for small business owners."
+  },
+  {
+    "word": "nullify",
+    "definition": "render ineffective, cancel out or invalidate",
+    "partOfSpeech": "動詞",
+    "sentence": "The court's decision could nullify the entire agreement.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "omnipresent",
+    "definition": "existing or seeming to exist everywhere at once",
+    "partOfSpeech": "形容詞",
+    "sentence": "The problem is omnipresent and unavoidable.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "oust",
+    "definition": "displace or eject from a position or place",
+    "partOfSpeech": "動詞",
+    "sentence": "The rebels ousted the dictator from power.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "palpable",
+    "definition": "able to be touched or felt; obvious",
+    "partOfSpeech": "形容詞",
+    "sentence": "I felt a palpable sense of relief.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "scant",
+    "definition": "hardly sufficient, meager, or minimal",
+    "partOfSpeech": "形容詞",
+    "sentence": "There was scant evidence to support the prosecutor's claims.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "skullduggery",
+    "definition": "sneaky or dishonest actions",
+    "partOfSpeech": "名詞",
+    "sentence": "The investigation uncovered widespread skullduggery in the organization.",
+    "cefr_level": "C2",
+    "difficulty": 93
+  },
+  {
+    "word": "comity",
+    "definition": "a courteous harmony or mutual respect toward others",
+    "cefr_level": "C1",
+    "difficulty": 75,
+    "partOfSpeech": "名詞",
+    "sentence": "The two nations maintained comity despite their historical differences."
+  },
+  {
+    "word": "cordial",
+    "definition": "characterized by warmth and sincerity",
+    "partOfSpeech": "形容詞",
+    "sentence": "We received a cordial greeting from our hostess at the party.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "forbear",
+    "definition": "refrain or abstain from doing something",
+    "partOfSpeech": "動詞",
+    "sentence": "She had to forbear from commenting on his ridiculous outfit.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "haphazard",
+    "definition": "lacking clear planning, order, or direction",
+    "partOfSpeech": "形容詞",
+    "sentence": "We were given a haphazard tour of the city.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "hodgepodge",
+    "definition": "a mixture or assortment of different things",
+    "partOfSpeech": "名詞",
+    "sentence": "The museum's collection was a hodgepodge of artifacts from different eras.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "impede",
+    "definition": "obstruct or hinder progress",
+    "partOfSpeech": "動詞",
+    "sentence": "He claims that economic growth is being impeded by government regulations.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "mercenary",
+    "definition": "motivated primarily by desire for monetary gain",
+    "partOfSpeech": "名詞",
+    "sentence": "Critics accused the company of having mercenary motives for its charity work.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "outstrip",
+    "definition": "surpass or do better than",
+    "partOfSpeech": "動詞",
+    "sentence": "Demand for the product began to outstrip supply within weeks.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "tact",
+    "definition": "skill in handling difficult situations without offense",
+    "partOfSpeech": "名詞",
+    "sentence": "The peace talks required great tact on the part of both leaders.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "trifling",
+    "definition": "lacking significance or importance",
+    "partOfSpeech": "形容詞",
+    "sentence": "The trifling amount of money was hardly worth arguing about.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "acumen",
+    "definition": "quickness and keenness in understanding and judgment",
+    "partOfSpeech": "名詞",
+    "sentence": "Her political acumen won her the election.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "ascribe",
+    "definition": "attribute or credit something to a particular cause",
+    "partOfSpeech": "動詞",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "sentence": "Historians ascribe the fall of the empire to a combination of internal corruption and external pressures."
+  },
+  {
+    "word": "befuddled",
+    "definition": "confused, bewildered, or perplexed",
+    "partOfSpeech": "形容詞",
+    "sentence": "Many people are totally befuddled by the tax code.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "evasive",
+    "definition": "indirect or not straightforward; avoiding confrontation",
+    "partOfSpeech": "形容詞",
+    "sentence": "The politician gave evasive answers to the journalist's questions.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "myopic",
+    "definition": "short-sighted; lacking creativity",
+    "partOfSpeech": "形容詞",
+    "sentence": "The company's myopic focus on short-term profits hurt its long-term growth.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "nonchalant",
+    "definition": "appearing casually calm or indifferent",
+    "partOfSpeech": "形容詞",
+    "sentence": "He was surprisingly nonchalant about winning the award.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "pensive",
+    "definition": "deep in thought",
+    "partOfSpeech": "形容詞",
+    "sentence": "The child sat by himself, looking pensive.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "portend",
+    "definition": "indicate or warn that something unpleasant is going to happen",
+    "partOfSpeech": "動詞",
+    "sentence": "The distant thunder portended a storm.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "sever",
+    "definition": "cut off or put an end to",
+    "partOfSpeech": "動詞",
+    "sentence": "He severed the lowest tree limbs.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "supersede",
+    "definition": "replace or take the place of",
+    "partOfSpeech": "動詞",
+    "sentence": "This edition supersedes the previous one.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "tout",
+    "definition": "promote or praise energetically",
+    "partOfSpeech": "動詞",
+    "sentence": "The company is running advertisements touting the drug's effectiveness.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "wane",
+    "definition": "decrease in power, size, or intensity",
+    "partOfSpeech": "動詞",
+    "sentence": "The moon waxes and then wanes.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "boisterous",
+    "definition": "energetic, noisy, and lively",
+    "partOfSpeech": "形容詞",
+    "sentence": "A large and boisterous crowd attended the concert.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "chivalrous",
+    "definition": "honorable and polite",
+    "partOfSpeech": "形容詞",
+    "sentence": "The chivalrous gentleman held the door open for everyone entering the building.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "debilitating",
+    "definition": "weakening or impairing strength",
+    "partOfSpeech": "動詞",
+    "sentence": "The debilitating illness confined her to bed for several weeks.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "droll",
+    "definition": "amusing in a quirky or unusual way",
+    "partOfSpeech": "形容詞",
+    "sentence": "His droll sense of humor kept everyone entertained.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "mawkish",
+    "definition": "overly sentimental in an exaggerated or insincere way",
+    "partOfSpeech": "形容詞",
+    "sentence": "The film's mawkish sentimentality failed to move critics.",
+    "cefr_level": "C2",
+    "difficulty": 90
+  },
+  {
+    "word": "obeisance",
+    "definition": "reverence for an individual",
+    "partOfSpeech": "名詞",
+    "sentence": "The courtiers made their obeisance before the king.",
+    "cefr_level": "C2",
+    "difficulty": 92
+  },
+  {
+    "word": "perilous",
+    "definition": "risky and hazardous",
+    "partOfSpeech": "形容詞",
+    "sentence": "The perilous journey across the mountains took several days.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "satirical",
+    "definition": "using humor or irony to criticize or mock",
+    "partOfSpeech": "形容詞",
+    "sentence": "The satirical cartoon mocked political leaders.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "sham",
+    "definition": "fake; not genuine",
+    "partOfSpeech": "名詞",
+    "sentence": "He claims that the trial was a sham.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "sluggish",
+    "definition": "lacking energy; slow and listless",
+    "partOfSpeech": "形容詞",
+    "sentence": "The sluggish economy showed few signs of recovery.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "spartan",
+    "definition": "marked by simplicity, frugality, and avoidance of luxury",
+    "partOfSpeech": "形容詞",
+    "sentence": "They lived in spartan conditions.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "beneficent",
+    "definition": "kind and charitable, producing good results",
+    "partOfSpeech": "形容詞",
+    "sentence": "The beneficent donor funded numerous scholarships.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "canny",
+    "definition": "shrewd and cautious",
+    "partOfSpeech": "形容詞",
+    "sentence": "The canny investor anticipated the market downturn.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "distressed",
+    "definition": "experiencing nervousness, irritation, or sadness",
+    "partOfSpeech": "形容詞",
+    "sentence": "The distressed homeowner faced foreclosure.",
+    "cefr_level": "C1",
+    "difficulty": 81
+  },
+  {
+    "word": "dwindling",
+    "definition": "decreasing steadily in size or quantity",
+    "partOfSpeech": "動詞",
+    "sentence": "The dwindling resources forced the company to cut costs.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "encyclopedic",
+    "definition": "thorough; comprehensive in scope",
+    "partOfSpeech": "形容詞",
+    "sentence": "She published an encyclopedic study of ancient Egypt.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "exasperated",
+    "definition": "severely irritated or angry",
+    "partOfSpeech": "動詞",
+    "sentence": "The exasperated teacher repeated the instructions for the fifth time.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "fungible",
+    "definition": "interchangeable for another item of a similar type",
+    "cefr_level": "C1",
+    "difficulty": 78,
+    "partOfSpeech": "形容詞",
+    "sentence": "Money is fungible, but sentimental items are not."
+  },
+  {
+    "word": "interchangeable",
+    "definition": "capable of being used in place of each other",
+    "partOfSpeech": "形容詞",
+    "sentence": "These words have similar meanings but they're not (freely) interchangeable (with each other).",
+    "cefr_level": "C1",
+    "difficulty": 87
+  },
+  {
+    "word": "tempestuous",
+    "definition": "unrestrained and turbulent; extremely stormy",
+    "partOfSpeech": "形容詞",
+    "sentence": "Their tempestuous relationship was marked by frequent arguments.",
+    "cefr_level": "C2",
+    "difficulty": 93
+  },
+  {
+    "word": "transgression",
+    "definition": "a violation of a law, rule, or social norm",
+    "partOfSpeech": "動詞",
+    "sentence": "Minor transgressions were overlooked, but serious ones were punished.",
+    "cefr_level": "C2",
+    "difficulty": 93
+  },
+  {
+    "word": "affinity",
+    "definition": "a natural liking or connection to a person, thing, or idea",
+    "partOfSpeech": "名詞",
+    "sentence": "They had much in common and felt a close affinity (for/to/with each other).",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "altruistic",
+    "definition": "showing generosity and concern for welfare of others",
+    "partOfSpeech": "形容詞",
+    "sentence": "Her altruistic efforts to help the homeless inspired the community.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "baroque",
+    "definition": "overly detailed or ornamental",
+    "partOfSpeech": "形容詞",
+    "sentence": "The baroque architecture featured elaborate ornamentation.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "covert",
+    "definition": "hidden or concealed; not openly practiced",
+    "partOfSpeech": "形容詞",
+    "sentence": "The agency conducted covert operations in foreign countries.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "exhilarating",
+    "definition": "intensely exciting",
+    "partOfSpeech": "動詞",
+    "cefr_level": "C1",
+    "difficulty": 83,
+    "sentence": "The roller coaster ride was exhilarating, leaving everyone breathless and laughing."
+  },
+  {
+    "word": "fervor",
+    "definition": "intense enthusiasm toward something",
+    "partOfSpeech": "名詞",
+    "sentence": "The fervor surrounding her campaign continued right through election day.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "illusory",
+    "definition": "unreal or based on illusion",
+    "partOfSpeech": "形容詞",
+    "sentence": "The apparent savings turned out to be illusory.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "metaphorical",
+    "definition": "symbolic rather than literal",
+    "partOfSpeech": "形容詞",
+    "sentence": "The author used metaphorical language to describe emotions.",
+    "cefr_level": "C1",
+    "difficulty": 84
+  },
+  {
+    "word": "scathing",
+    "definition": "harshly or bitterly critical; vitriolic",
+    "partOfSpeech": "形容詞",
+    "sentence": "The critic wrote a scathing review of the performance.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "animus",
+    "definition": "strong dislike or enmity; hostile attitude",
+    "partOfSpeech": "名詞",
+    "sentence": "There was clear animus between the two rival factions.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "apologist",
+    "definition": "a person who defends something being criticized",
+    "partOfSpeech": "名詞",
+    "sentence": "Critics dismissed him as an apologist for the regime.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "astringent",
+    "definition": "sharp or harsh in demeanor or style",
+    "partOfSpeech": "形容詞",
+    "sentence": "Her astringent criticism left no room for excuses.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "correlate",
+    "definition": "show a mutual relationship or connection",
+    "partOfSpeech": "動詞",
+    "sentence": "Researchers tried to correlate diet with health outcomes.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "divorced",
+    "definition": "separate from something previously connected",
+    "partOfSpeech": "動詞",
+    "sentence": "His academic theories seemed divorced from practical reality.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "elitist",
+    "definition": "believing oneself or a group to be superior to others",
+    "partOfSpeech": "形容詞",
+    "sentence": "Some accused the club of being elitist in its membership policies.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "exacting",
+    "definition": "requiring a lot of care, effort, or attention",
+    "partOfSpeech": "形容詞",
+    "sentence": "The exacting standards of the competition eliminated most applicants.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "flummoxed",
+    "definition": "completely unable to understand; bewildered",
+    "cefr_level": "C1",
+    "difficulty": 80,
+    "partOfSpeech": "形容詞",
+    "sentence": "The complex puzzle completely flummoxed even the most experienced solvers."
+  },
+  {
+    "word": "fruitful",
+    "definition": "producing good or abundant results",
+    "partOfSpeech": "形容詞",
+    "sentence": "We had a fruitful discussion about the problems with the schedule.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "inborn",
+    "definition": "present from birth; innate",
+    "partOfSpeech": "形容詞",
+    "sentence": "She seemed to have an inborn talent for music.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "polymath",
+    "definition": "a person with broad and comprehensive knowledge",
+    "partOfSpeech": "名詞",
+    "cefr_level": "C1",
+    "difficulty": 77,
+    "sentence": "Leonardo da Vinci was perhaps the greatest polymath in history."
+  },
+  {
+    "word": "subservient",
+    "definition": "obedient to an authority or other people",
+    "partOfSpeech": "形容詞",
+    "sentence": "He refused to be subservient to anyone.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "tantalizing",
+    "definition": "arousing desire or interest without fulfillment",
+    "partOfSpeech": "動詞",
+    "sentence": "The tantalizing aroma of freshly baked bread filled the kitchen.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "torpor",
+    "definition": "a state of apathy or lethargy",
+    "partOfSpeech": "名詞",
+    "sentence": "The news aroused him from his torpor.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "wayward",
+    "definition": "obstinate, contrary and unpredictable",
+    "partOfSpeech": "形容詞",
+    "sentence": "The wayward teenager eventually found his path in life.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "apropos",
+    "definition": "appropriate or relevant to the situation",
+    "partOfSpeech": "形容詞",
+    "sentence": "The ceremony concluded with the reading of an apropos poem.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "cloak",
+    "definition": "conceal or disguise",
+    "partOfSpeech": "名詞",
+    "sentence": "The soldiers began their attack under (the) cloak of darkness.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "elated",
+    "definition": "very happy or proud",
+    "partOfSpeech": "形容詞",
+    "sentence": "She was elated at/about/over the news.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "enchant",
+    "definition": "capture the attention or to charm",
+    "partOfSpeech": "動詞",
+    "sentence": "The book has enchanted children for almost a century.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "entrenched",
+    "definition": "firmly ingrained and unlikely to change",
+    "partOfSpeech": "動詞",
+    "sentence": "Entrenched interests blocked attempts at reform.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "exploitative",
+    "definition": "taking unfair advantage of a person or situation",
+    "cefr_level": "C1",
+    "difficulty": 83,
+    "partOfSpeech": "形容詞",
+    "sentence": "Labor activists condemned the exploitative working conditions."
+  },
+  {
+    "word": "foreseeable",
+    "definition": "able to be predicted or expected",
+    "partOfSpeech": "動詞",
+    "sentence": "No changes are expected in the foreseeable future.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "gratify",
+    "definition": "please or satisfy; make content",
+    "partOfSpeech": "動詞",
+    "sentence": "A guilty verdict would gratify the victim's relatives.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "heed",
+    "definition": "mind or regard with care; pay attention",
+    "partOfSpeech": "動詞",
+    "sentence": "She failed to heed the warnings.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "sensational",
+    "definition": "exaggerated for effect, often sacrificing accuracy",
+    "partOfSpeech": "形容詞",
+    "sentence": "The sensational headlines exaggerated the actual events.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "strife",
+    "definition": "conflict or struggle",
+    "partOfSpeech": "名詞",
+    "sentence": "Years of civil strife had devastated the country.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "understated",
+    "definition": "expressed in a subtle, restrained, or low-key manner",
+    "partOfSpeech": "形容詞",
+    "sentence": "The understated elegance of her outfit impressed everyone.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "antedate",
+    "definition": "occur before something in time",
+    "partOfSpeech": "動詞",
+    "sentence": "These cave paintings antedate the pyramids by thousands of years.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "banish",
+    "definition": "expel from a place, especially as punishment",
+    "partOfSpeech": "動詞",
+    "sentence": "The king decided to banish the traitor from the kingdom.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "bridle",
+    "definition": "control or restrain",
+    "partOfSpeech": "名詞",
+    "cefr_level": "C1",
+    "difficulty": 75,
+    "sentence": "She had to bridle her anger during the frustrating meeting."
+  },
+  {
+    "word": "crestfallen",
+    "definition": "disappointed, dispirited, or depressed",
+    "partOfSpeech": "形容詞",
+    "sentence": "The crestfallen team trudged off the field after their defeat.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "evade",
+    "definition": "avoid or escape from, typically in a cunning way",
+    "partOfSpeech": "動詞",
+    "sentence": "The criminals have so far managed to evade the police.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "fester",
+    "definition": "worsen, especially due to lack of attention",
+    "partOfSpeech": "動詞",
+    "sentence": "His wounds festered for days before he got medical attention.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "iconoclastic",
+    "definition": "challenging or overthrowing tradition or beliefs",
+    "partOfSpeech": "形容詞",
+    "cefr_level": "C2",
+    "difficulty": 92,
+    "sentence": "Her iconoclastic views challenged traditional assumptions."
+  },
+  {
+    "word": "immure",
+    "definition": "imprison or isolate",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "partOfSpeech": "形容詞",
+    "sentence": "The dictator immured his political opponents in remote prisons."
+  },
+  {
+    "word": "improvise",
+    "definition": "create something spontaneously without preparation",
+    "partOfSpeech": "動詞",
+    "sentence": "If you forget any of your lines, try to improvise.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "lionize",
+    "definition": "treat someone as a celebrity or hero",
+    "partOfSpeech": "動詞",
+    "sentence": "She was lionized everywhere after her novel won the Pulitzer Prize.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "premeditate",
+    "definition": "consider or plan beforehand",
+    "cefr_level": "C1",
+    "difficulty": 82,
+    "partOfSpeech": "動詞",
+    "sentence": "The prosecution argued that the defendant had time to premeditate the crime."
+  },
+  {
+    "word": "skittish",
+    "definition": "easily scared or startled; timid",
+    "partOfSpeech": "形容詞",
+    "sentence": "The skittish horse spooked at every sudden noise.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "synoptic",
+    "definition": "providing a general overview or summary",
+    "partOfSpeech": "形容詞",
+    "sentence": "The report provided a synoptic overview of the industry.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "visionary",
+    "definition": "showing foresight or imagination",
+    "partOfSpeech": "形容詞",
+    "sentence": "She is known as a visionary leader.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "assertive",
+    "definition": "confident and direct in claiming one's rights",
+    "partOfSpeech": "形容詞",
+    "sentence": "She became more assertive after taking the leadership course.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "bogus",
+    "definition": "fake or fraudulent",
+    "partOfSpeech": "形容詞",
+    "sentence": "The police discovered that the documents were bogus.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "cataclysmic",
+    "definition": "causing great disruption or upheaval",
+    "partOfSpeech": "形容詞",
+    "sentence": "The asteroid impact had cataclysmic consequences for life on Earth.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "complementary",
+    "definition": "enhancing or perfecting when combined with something else",
+    "partOfSpeech": "形容詞",
+    "sentence": "She wore a new outfit with a complementary scarf.",
+    "cefr_level": "C1",
+    "difficulty": 84
+  },
+  {
+    "word": "divulge",
+    "definition": "disclose or reveal information",
+    "partOfSpeech": "動詞",
+    "sentence": "The spy refused to divulge any classified information.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "foolhardy",
+    "definition": "recklessly daring; careless",
+    "partOfSpeech": "形容詞",
+    "sentence": "Climbing without proper equipment was foolhardy.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "hinder",
+    "definition": "obstruct or delay progress",
+    "partOfSpeech": "動詞",
+    "sentence": "Lack of funding could hinder progress on the project.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "impair",
+    "definition": "weaken or affect negatively",
+    "partOfSpeech": "動詞",
+    "sentence": "Smoking can impair your health.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "incessant",
+    "definition": "constant or unending, of something bad",
+    "partOfSpeech": "形容詞",
+    "cefr_level": "C1",
+    "difficulty": 80,
+    "sentence": "The incessant noise from the construction site drove neighbors to complain."
+  },
+  {
+    "word": "miserly",
+    "definition": "reluctant to spend or share; greedy",
+    "partOfSpeech": "形容詞",
+    "sentence": "The miserly landlord refused to fix the broken heater.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "pliant",
+    "definition": "flexible or easily influenced",
+    "partOfSpeech": "形容詞",
+    "sentence": "The pliant material could be molded into any shape.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "sanctimonious",
+    "definition": "giving the impression that one is morally superior",
+    "partOfSpeech": "形容詞",
+    "sentence": "His sanctimonious lectures about morality annoyed everyone.",
+    "cefr_level": "C1",
+    "difficulty": 85
+  },
+  {
+    "word": "tarnish",
+    "definition": "compromise, damage, or sully",
+    "partOfSpeech": "動詞",
+    "sentence": "The scandal threatened to tarnish her reputation.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "tepid",
+    "definition": "exhibiting little passion or eagerness; lukewarm",
+    "partOfSpeech": "形容詞",
+    "sentence": "The proposal received only tepid support from committee members.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "upbraid",
+    "definition": "criticize or scold severely",
+    "partOfSpeech": "動詞",
+    "sentence": "The coach began to upbraid the players for their poor performance.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "vexation",
+    "definition": "the state of being irritated or incensed",
+    "partOfSpeech": "名詞",
+    "sentence": "She expressed her vexation at the constant delays.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "abet",
+    "definition": "assist or encourage, usually in wrongdoing",
+    "partOfSpeech": "動詞",
+    "sentence": "She abetted the thief in his getaway.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "acquisitive",
+    "definition": "eager to acquire and possess things",
+    "partOfSpeech": "形容詞",
+    "sentence": "The acquisitive collector sought rare artifacts worldwide.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "blithe",
+    "definition": "showing indifference",
+    "partOfSpeech": "形容詞",
+    "sentence": "He showed blithe disregard for the rights of others.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "dawdle",
+    "definition": "move slowly and without purpose",
+    "partOfSpeech": "動詞",
+    "sentence": "Hurry up! There's no time to dawdle.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "deflect",
+    "definition": "change the direction or course of something",
+    "partOfSpeech": "動詞",
+    "sentence": "He tried to deflect attention from his own mistakes.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "dissident",
+    "definition": "one who disagrees or opposes authority",
+    "partOfSpeech": "形容詞",
+    "sentence": "Many political dissidents were arrested.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "erratic",
+    "definition": "unpredictable and inconsistent",
+    "partOfSpeech": "形容詞",
+    "sentence": "The erratic behavior of the stock market worried investors.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "irksome",
+    "definition": "causing annoyance or irritation",
+    "partOfSpeech": "形容詞",
+    "sentence": "The irksome regulations created headaches for everyone.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "manacle",
+    "definition": "restrain, limit, or secure something",
+    "partOfSpeech": "名詞",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "sentence": "Debt can manacle a person's financial freedom for decades."
+  },
+  {
+    "word": "prolix",
+    "definition": "using an excessive amount of words; long-winded",
+    "partOfSpeech": "形容詞",
+    "sentence": "The speech was unnecessarily prolix.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "unseemly",
+    "definition": "not proper or in good taste",
+    "partOfSpeech": "形容詞",
+    "sentence": "Such unseemly behavior has no place in professional settings.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "veritable",
+    "definition": "true; genuine",
+    "partOfSpeech": "形容詞",
+    "cefr_level": "C1",
+    "difficulty": 80,
+    "sentence": "The old attic was a veritable treasure trove of family heirlooms."
+  },
+  {
+    "word": "acolyte",
+    "definition": "a person who assists or follows another person or cause",
+    "partOfSpeech": "名詞",
+    "sentence": "The young acolyte assisted the priest during the ceremony.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "anoint",
+    "definition": "appoint or designate for a particular role or purpose",
+    "partOfSpeech": "動詞",
+    "sentence": "The priest anointed them (with oil).",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "distill",
+    "definition": "extract the most important information from something",
+    "partOfSpeech": "動詞",
+    "sentence": "The report aimed to distill complex information into simple terms.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "fallible",
+    "definition": "capable of making an error",
+    "partOfSpeech": "形容詞",
+    "sentence": "Even experts are fallible and can make mistakes.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "gawky",
+    "definition": "awkward or clumsy",
+    "partOfSpeech": "形容詞",
+    "sentence": "The gawky teenager eventually grew into a graceful adult.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "jettison",
+    "definition": "abandon or discard something that is no longer needed",
+    "partOfSpeech": "動詞",
+    "sentence": "The captain gave orders to jettison the cargo.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "recrudescent",
+    "definition": "breaking out again; reviving",
+    "cefr_level": "C2",
+    "difficulty": 92,
+    "partOfSpeech": "形容詞",
+    "sentence": "Recrudescent nationalism threatened regional stability."
+  },
+  {
+    "word": "transitory",
+    "definition": "not permanent; temporary",
+    "partOfSpeech": "形容詞",
+    "sentence": "Fame can be transitory in the entertainment industry.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "abreast",
+    "definition": "informed or familiar about a particular topic",
+    "partOfSpeech": "副詞",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "sentence": "She kept abreast of developments in her field."
+  },
+  {
+    "word": "duplicitous",
+    "definition": "deceptive in speech or action",
+    "partOfSpeech": "形容詞",
+    "sentence": "The duplicitous advisor was secretly working for the competition.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "glum",
+    "definition": "appearing or feeling sad or despondent",
+    "partOfSpeech": "形容詞",
+    "sentence": "There's no need to look so glum—things will get better soon.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "perennial",
+    "definition": "lasting or remaining active throughout the year",
+    "partOfSpeech": "形容詞",
+    "sentence": "Water shortage remains a perennial problem in the region.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "providential",
+    "definition": "happening at a fortunate or opportune time",
+    "partOfSpeech": "形容詞",
+    "sentence": "We had made a providential escape.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "slander",
+    "definition": "baselessly speak ill of someone or something",
+    "partOfSpeech": "名詞",
+    "sentence": "She is being sued for slander.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "stalwart",
+    "definition": "determined; staunch",
+    "partOfSpeech": "形容詞",
+    "sentence": "The stalwart defender of human rights never wavered.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "vanquish",
+    "definition": "defeat completely",
+    "partOfSpeech": "動詞",
+    "sentence": "They were vanquished in battle.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "woeful",
+    "definition": "very sad; very bad; awful",
+    "partOfSpeech": "形容詞",
+    "sentence": "The team's woeful performance disappointed their fans.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "aver",
+    "definition": "assert with confidence",
+    "partOfSpeech": "動詞",
+    "sentence": "He averred that he was innocent.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "barrage",
+    "definition": "an overwhelming concentration of something hostile",
+    "partOfSpeech": "名詞",
+    "sentence": "The enemy laid down a barrage of machine-gun fire as our platoon approached the bridge.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "cathartic",
+    "definition": "that which releases emotional tension",
+    "partOfSpeech": "形容詞",
+    "sentence": "Writing in her journal proved cathartic after the difficult experience.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "decipher",
+    "definition": "decode or determine the meaning of something difficult",
+    "partOfSpeech": "動詞",
+    "sentence": "Experts worked to decipher the ancient inscriptions.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "delusion",
+    "definition": "a belief that is not true or founded on false premises",
+    "partOfSpeech": "名詞",
+    "sentence": "He has delusions about how much money he can make at that job.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "enthrall",
+    "definition": "captivate or charm",
+    "partOfSpeech": "動詞",
+    "sentence": "The storyteller's tales continued to enthrall audiences.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "goad",
+    "definition": "incite or provoke",
+    "partOfSpeech": "動詞",
+    "sentence": "He was goaded (on) by a sense of duty.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "itinerant",
+    "definition": "habitually traveling from place to place",
+    "partOfSpeech": "形容詞",
+    "sentence": "Itinerant musicians traveled from town to town.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "meritorious",
+    "definition": "deserving of merit or commendation",
+    "partOfSpeech": "形容詞",
+    "sentence": "She was given an award for meritorious service.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "mutiny",
+    "definition": "a rebellion against authority; violent strife",
+    "partOfSpeech": "名詞",
+    "sentence": "The mutiny was led by the ship's cook.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "supple",
+    "definition": "pliant, flexible, or easy to bend",
+    "partOfSpeech": "形容詞",
+    "sentence": "The dancer's supple movements captivated the audience.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "valor",
+    "definition": "strength of mind in the face of danger; bravery",
+    "partOfSpeech": "名詞",
+    "sentence": "The soldiers received the nation's highest award for valor.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "arresting",
+    "definition": "attracting attention or striking",
+    "partOfSpeech": "動詞",
+    "sentence": "The arresting image on the cover drew many readers.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "euphoric",
+    "definition": "intensely happy or excited",
+    "partOfSpeech": "形容詞",
+    "sentence": "The team was euphoric after winning the championship.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "gaffe",
+    "definition": "a foolish and embarrassing error, especially public",
+    "partOfSpeech": "名詞",
+    "sentence": "He realized that he had committed/made an awful/embarrassing gaffe when he mispronounced her name.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "inviolate",
+    "definition": "not violated; free from hurt of any kind",
+    "partOfSpeech": "形容詞",
+    "sentence": "These rights must remain inviolate.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "painstaking",
+    "definition": "done with careful attention to detail",
+    "partOfSpeech": "形容詞",
+    "sentence": "The book describes the election process in painstaking detail.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "qualm",
+    "definition": "a feeling of apprehension or doubt",
+    "partOfSpeech": "名詞",
+    "sentence": "He accepted their offer without a qualm.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "stint",
+    "definition": "supply an insufficient amount of something",
+    "partOfSpeech": "名詞",
+    "sentence": "He had a brief stint as a mail carrier.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "allusive",
+    "definition": "making indirect references or hints",
+    "partOfSpeech": "形容詞",
+    "sentence": "The poem's allusive references required extensive knowledge to understand.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "convalescent",
+    "definition": "recovering from illness or treatment",
+    "partOfSpeech": "形容詞",
+    "sentence": "The convalescent patient gradually regained her strength.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "decry",
+    "definition": "publicly criticize or condemn",
+    "partOfSpeech": "動詞",
+    "sentence": "Critics continued to decry the proposed changes.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "duress",
+    "definition": "compulsion by threat or force",
+    "partOfSpeech": "名詞",
+    "sentence": "He gave the information {phrase}under duress{/phrase}.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "fret",
+    "definition": "be constantly or visibly worried or anxious",
+    "partOfSpeech": "動詞",
+    "sentence": "I was sure we wouldn't get there in time, but she told me not to fret.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "headstrong",
+    "definition": "determined to have one's own way; stubborn",
+    "partOfSpeech": "形容詞",
+    "sentence": "The headstrong child refused to listen to advice.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "intermittent",
+    "definition": "occurring at irregular intervals; not continuous",
+    "partOfSpeech": "形容詞",
+    "sentence": "The patient was having intermittent pains in his side.",
+    "cefr_level": "C1",
+    "difficulty": 84
+  },
+  {
+    "word": "ire",
+    "definition": "anger or wrath",
+    "partOfSpeech": "名詞",
+    "sentence": "He directed his ire at the coworkers who reported the incident.",
+    "cefr_level": "C1",
+    "difficulty": 72
+  },
+  {
+    "word": "languid",
+    "definition": "casual and relaxed; weak from disease or weariness",
+    "partOfSpeech": "形容詞",
+    "sentence": "The languid summer afternoon invited a long nap.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "lull",
+    "definition": "a brief pause or delay in activity",
+    "partOfSpeech": "動詞",
+    "sentence": "The music lulled him to sleep.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "mettlesome",
+    "definition": "spirited and brave",
+    "cefr_level": "C1",
+    "difficulty": 81,
+    "partOfSpeech": "形容詞",
+    "sentence": "The mettlesome horse proved difficult to train."
+  },
+  {
+    "word": "buoyant",
+    "definition": "lighthearted and lively; having a cheerful attitude",
+    "partOfSpeech": "形容詞",
+    "sentence": "Despite setbacks, she maintained a buoyant optimism.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "despotic",
+    "definition": "of a ruler with absolute power; tyrannical",
+    "partOfSpeech": "形容詞",
+    "sentence": "The despotic ruler tolerated no opposition.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "deviate",
+    "definition": "go off course from; stray from some norm",
+    "partOfSpeech": "動詞",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "sentence": "The pilot had to deviate from the original flight path due to severe weather."
+  },
+  {
+    "word": "exorcize",
+    "definition": "drive out an evil spirit from a person, place, or thing",
+    "partOfSpeech": "動詞",
+    "sentence": "The therapy helped her exorcize the demons of her past.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "finicky",
+    "definition": "fussy or hard to please",
+    "partOfSpeech": "形容詞",
+    "sentence": "The finicky eater refused anything but plain pasta.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "foil",
+    "definition": "prevent something from being accomplished",
+    "partOfSpeech": "動詞",
+    "sentence": "Police managed to foil the burglars.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "intertwined",
+    "definition": "twisted or linked closely together",
+    "partOfSpeech": "動詞",
+    "sentence": "The fates of the two families were deeply intertwined.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "ironclad",
+    "definition": "unbreakable or extremely strong",
+    "partOfSpeech": "形容詞",
+    "sentence": "The company has an ironclad policy/rule against revealing secrets to competitors.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "oblivious",
+    "definition": "not aware of or not noticing something",
+    "partOfSpeech": "形容詞",
+    "sentence": "She seemed oblivious to the chaos around her.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "subside",
+    "definition": "become lower; decrease; become less intense",
+    "partOfSpeech": "動詞",
+    "sentence": "The pain/swelling will subside in a couple of hours.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "adept",
+    "definition": "well skilled; completely versed",
+    "partOfSpeech": "形容詞",
+    "sentence": "He's adept in several languages.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "bereft",
+    "definition": "lacking or mourning something or someone",
+    "partOfSpeech": "形容詞",
+    "sentence": "The family was bereft after the sudden loss.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "conclusive",
+    "definition": "without doubt",
+    "partOfSpeech": "形容詞",
+    "sentence": "The investigation failed to produce conclusive evidence.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "conspire",
+    "definition": "secretly work together for something bad",
+    "partOfSpeech": "動詞",
+    "cefr_level": "C1",
+    "difficulty": 77,
+    "sentence": "The conspirators met secretly to conspire against the government."
+  },
+  {
+    "word": "disentangle",
+    "definition": "free from entanglement or confusion; make clear",
+    "partOfSpeech": "動詞",
+    "sentence": "It took hours to disentangle the complex financial records.",
+    "cefr_level": "C1",
+    "difficulty": 82
+  },
+  {
+    "word": "frailty",
+    "definition": "quality or state of being weak; weakness",
+    "partOfSpeech": "名詞",
+    "sentence": "Human frailty is a recurring theme in literature.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "grievance",
+    "definition": "an issue or problem",
+    "partOfSpeech": "名詞",
+    "sentence": "He has a deep sense of grievance against his former employer.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "ploy",
+    "definition": "a strategy or tactic used to gain an advantage",
+    "partOfSpeech": "名詞",
+    "sentence": "Her story about being sick is only a ploy to get you to give her money.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "poise",
+    "definition": "a state of balance, equilibrium or stability",
+    "partOfSpeech": "名詞",
+    "sentence": "She kept her poise even when under attack.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "pomposity",
+    "definition": "the quality of being pompous; self-importance",
+    "partOfSpeech": "形容詞",
+    "sentence": "His pomposity made him difficult to work with.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "sparse",
+    "definition": "not dense and meager; having widely spaced intervals",
+    "partOfSpeech": "形容詞",
+    "sentence": "Vegetation was sparse in the desert landscape.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "steadfast",
+    "definition": "fixed or unchanging; steady",
+    "partOfSpeech": "形容詞",
+    "sentence": "She remained steadfast in her support despite criticism.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "ardent",
+    "definition": "full of passion and enthusiasm",
+    "partOfSpeech": "形容詞",
+    "sentence": "The ardent fans waited for hours to see their favorite band.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "corporeal",
+    "definition": "associated with the physical body, not the spirit",
+    "partOfSpeech": "形容詞",
+    "sentence": "The artist explored the relationship between corporeal and spiritual existence.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "doctrinaire",
+    "definition": "rigidly sticking to theoretical ideas rather than practical",
+    "partOfSpeech": "形容詞",
+    "cefr_level": "C2",
+    "difficulty": 92,
+    "sentence": "His doctrinaire approach ignored practical realities."
+  },
+  {
+    "word": "exorbitant",
+    "definition": "going far beyond what is fair, reasonable, or expected",
+    "partOfSpeech": "形容詞",
+    "sentence": "The exorbitant prices kept many customers away.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "figurative",
+    "definition": "symbolic rather than literal",
+    "partOfSpeech": "形容詞",
+    "sentence": "The expression should be understood in a figurative sense.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "flustered",
+    "definition": "agitated or confused",
+    "partOfSpeech": "形容詞",
+    "sentence": "She seemed flustered when he asked about her past.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "idiosyncratic",
+    "definition": "peculiar to an individual or group; unique",
+    "partOfSpeech": "形容詞",
+    "sentence": "Each artist had an idiosyncratic approach to the medium.",
+    "cefr_level": "C1",
+    "difficulty": 84
+  },
+  {
+    "word": "incidental",
+    "definition": "secondary or non-essential part of something",
+    "partOfSpeech": "形容詞",
+    "sentence": "You may incur some incidental expenses on the trip.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "ingrained",
+    "definition": "deeply rooted or established",
+    "partOfSpeech": "形容詞",
+    "sentence": "Such habits become ingrained over many years.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "macabre",
+    "definition": "having a quality of horror or grimness",
+    "partOfSpeech": "形容詞",
+    "sentence": "The artist was known for his macabre sense of humor.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "ramification",
+    "definition": "a consequence or resulting action of a previous event",
+    "partOfSpeech": "名詞",
+    "cefr_level": "C1",
+    "difficulty": 83,
+    "sentence": "The decision had ramifications that lasted for decades."
+  },
+  {
+    "word": "treatise",
+    "definition": "a written work that provides systematic examination of a subject",
+    "partOfSpeech": "名詞",
+    "cefr_level": "C1",
+    "difficulty": 77,
+    "sentence": "The scholar wrote an influential treatise on ethics."
+  },
+  {
+    "word": "antagonize",
+    "definition": "act in opposition to or provoke hostility from",
+    "partOfSpeech": "動詞",
+    "sentence": "He didn't mean to antagonize you.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "chary",
+    "definition": "being wary or cautiously reluctant",
+    "partOfSpeech": "形容詞",
+    "cefr_level": "C1",
+    "difficulty": 74,
+    "sentence": "Investors were chary of risky ventures after the crash."
+  },
+  {
+    "word": "heady",
+    "definition": "intoxicating or stupefying",
+    "partOfSpeech": "形容詞",
+    "sentence": "The heady days of success eventually gave way to reality.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "lambaste",
+    "definition": "scold, reprimand, or criticize harshly",
+    "partOfSpeech": "動詞",
+    "sentence": "The coach lambasted the team for its poor play.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "miscreant",
+    "definition": "one who has behaved badly, or illegally",
+    "partOfSpeech": "形容詞",
+    "sentence": "He supports tough penalties against corporate miscreants.",
+    "cefr_level": "C1",
+    "difficulty": 79
+  },
+  {
+    "word": "peccadillo",
+    "definition": "a small flaw or sin",
+    "partOfSpeech": "名詞",
+    "sentence": "The minor peccadillo was quickly forgotten.",
+    "cefr_level": "C2",
+    "difficulty": 92
+  },
+  {
+    "word": "swindle",
+    "definition": "obtain money by fraudulent or deceitful methods",
+    "partOfSpeech": "動詞",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "sentence": "The scheme was designed to swindle investors out of millions."
+  },
+  {
+    "word": "tangible",
+    "definition": "capable of being touched; real or actual",
+    "partOfSpeech": "形容詞",
+    "sentence": "The project produced tangible results within months.",
+    "cefr_level": "C1",
+    "difficulty": 78
+  },
+  {
+    "word": "undercut",
+    "definition": "undermine; weaken",
+    "partOfSpeech": "動詞",
+    "sentence": "They undercut the competing store by 10 percent.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "wheedle",
+    "definition": "attempt to persuade by flattery",
+    "partOfSpeech": "動詞",
+    "sentence": "He wheedled quite a bit of money from her.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "xenophobic",
+    "definition": "showing a fear or hatred of strangers or foreigners",
+    "partOfSpeech": "形容詞",
+    "cefr_level": "C1",
+    "difficulty": 81,
+    "sentence": "Xenophobic attitudes can lead to discrimination against immigrants."
+  },
+  {
+    "word": "affront",
+    "definition": "an open or intentional offense, slight, or insult",
+    "partOfSpeech": "名詞",
+    "sentence": "He regarded her rude behavior as a personal affront.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "agitate",
+    "definition": "make someone disturbed or excited",
+    "partOfSpeech": "動詞",
+    "sentence": "If I talk about the problem with him it just agitates him even more.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "burnish",
+    "definition": "improve or enhance",
+    "partOfSpeech": "動詞",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "sentence": "The campaign was designed to burnish the company's image."
+  },
+  {
+    "word": "coy",
+    "definition": "being bashful, shy, or retiring",
+    "partOfSpeech": "形容詞",
+    "sentence": "She gave a coy smile when asked about her plans.",
+    "cefr_level": "C1",
+    "difficulty": 72
+  },
+  {
+    "word": "enmity",
+    "definition": "the quality of being an enemy; hostility",
+    "partOfSpeech": "名詞",
+    "sentence": "There's a long history of enmity between them.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "hysterical",
+    "definition": "wildly emotional or exaggerated in reaction",
+    "partOfSpeech": "形容詞",
+    "sentence": "The hysterical reaction was completely out of proportion.",
+    "cefr_level": "C1",
+    "difficulty": 80
+  },
+  {
+    "word": "shrill",
+    "definition": "high-pitched and piercing in sound quality",
+    "partOfSpeech": "形容詞",
+    "sentence": "The shrill whistle signaled the start of the game.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "wily",
+    "definition": "sly, cunning, full of tricks",
+    "partOfSpeech": "形容詞",
+    "sentence": "She turned out to be a wily negotiator.",
+    "cefr_level": "C1",
+    "difficulty": 73
+  },
+  {
+    "word": "bawdy",
+    "definition": "humorously dealing with sexual subjects; risque",
+    "partOfSpeech": "形容詞",
+    "sentence": "The comedian's bawdy jokes made some audience members uncomfortable.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "collude",
+    "definition": "secretly cooperate for deceitful or fraudulent purposes",
+    "partOfSpeech": "動詞",
+    "sentence": "The two companies had colluded to fix prices.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "contretemps",
+    "definition": "a small disagreement or mishap",
+    "partOfSpeech": "名詞",
+    "sentence": "The senator dismissed his disagreement with the President as a minor contretemps.",
+    "cefr_level": "C1",
+    "difficulty": 83
+  },
+  {
+    "word": "croon",
+    "definition": "sing softly, typically in a sentimental manner",
+    "partOfSpeech": "動詞",
+    "sentence": "The singer began to croon a romantic ballad.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "depose",
+    "definition": "forcibly remove someone from office or power",
+    "partOfSpeech": "動詞",
+    "sentence": "The military moved to depose the corrupt leader.",
+    "cefr_level": "C1",
+    "difficulty": 75
+  },
+  {
+    "word": "detente",
+    "definition": "a period of improved relations between countries",
+    "partOfSpeech": "名詞",
+    "sentence": "The era of detente eased tensions between the superpowers.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "dowdy",
+    "definition": "lacking style or elegance; out of fashion",
+    "partOfSpeech": "形容詞",
+    "sentence": "She played a dowdy old woman in the film.",
+    "cefr_level": "C1",
+    "difficulty": 74
+  },
+  {
+    "word": "echelon",
+    "definition": "a level or tier within a system or organization",
+    "partOfSpeech": "名詞",
+    "sentence": "Only the upper echelons of management knew the full plan.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "fraught",
+    "definition": "filled with tension, stress, or negative emotions",
+    "partOfSpeech": "形容詞",
+    "sentence": "The negotiations were fraught with difficulties.",
+    "cefr_level": "C1",
+    "difficulty": 77
+  },
+  {
+    "word": "jocund",
+    "definition": "merry and in high spirits; exhibiting happiness",
+    "cefr_level": "C1",
+    "difficulty": 75,
+    "partOfSpeech": "形容詞",
+    "sentence": "His jocund spirit lifted everyone's mood."
+  },
+  {
+    "word": "languish",
+    "definition": "become weak or feeble, often from neglect",
+    "partOfSpeech": "動詞",
+    "cefr_level": "C1",
+    "difficulty": 77,
+    "sentence": "The bill continued to languish in committee."
+  },
+  {
+    "word": "nimble",
+    "definition": "quick and agile in movement or thinking",
+    "partOfSpeech": "形容詞",
+    "sentence": "The nimble gymnast performed a flawless routine.",
+    "cefr_level": "C1",
+    "difficulty": 76
+  },
+  {
+    "word": "outlandish",
+    "definition": "strange, unusual, or bizarre in appearance or style",
+    "cefr_level": "C1",
+    "difficulty": 80,
+    "partOfSpeech": "形容詞",
+    "sentence": "The outlandish costume drew stares from passersby."
+  },
+  {
+    "word": "prurient",
+    "definition": "displaying or prompting undue interest in sexual matters",
+    "cefr_level": "C1",
+    "difficulty": 77,
+    "partOfSpeech": "形容詞",
+    "sentence": "The tabloid catered to prurient interests."
+  },
+  {
+    "word": "sadistic",
+    "definition": "taking pleasure in causing pain or suffering",
+    "cefr_level": "C1",
+    "difficulty": 77,
+    "partOfSpeech": "形容詞",
+    "sentence": "The sadistic treatment of prisoners shocked the world."
+  },
+  {
+    "word": "callow",
+    "definition": "young and inexperienced; immature",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "partOfSpeech": "形容詞",
+    "sentence": "The callow youth had much to learn about the world."
+  },
+  {
+    "word": "deportment",
+    "definition": "behavior or manners",
+    "cefr_level": "C1",
+    "difficulty": 80,
+    "partOfSpeech": "形容詞",
+    "sentence": "The school emphasized proper deportment."
+  },
+  {
+    "word": "extemporize",
+    "definition": "improvise, especially in speech or performance",
+    "cefr_level": "C1",
+    "difficulty": 82,
+    "partOfSpeech": "動詞",
+    "sentence": "The musician was able to extemporize brilliantly."
+  },
+  {
+    "word": "factious",
+    "definition": "causing division or disagreement",
+    "cefr_level": "C1",
+    "difficulty": 79,
+    "partOfSpeech": "形容詞",
+    "sentence": "Factious infighting weakened the party."
+  },
+  {
+    "word": "fallow",
+    "definition": "not cultivated; barren; inactive",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "partOfSpeech": "形容詞",
+    "sentence": "The farmer let the field lie fallow for a season."
+  },
+  {
+    "word": "feint",
+    "definition": "a deceptive movement or action",
+    "cefr_level": "C1",
+    "difficulty": 74,
+    "partOfSpeech": "形容詞",
+    "sentence": "The boxer's feint fooled his opponent."
+  },
+  {
+    "word": "grovel",
+    "definition": "show submission or fear; beg for favor",
+    "cefr_level": "C1",
+    "difficulty": 75,
+    "partOfSpeech": "動詞",
+    "sentence": "He refused to grovel before his critics."
+  },
+  {
+    "word": "indecorous",
+    "definition": "not in good taste; inappropriate or unseemly",
+    "cefr_level": "C1",
+    "difficulty": 80,
+    "partOfSpeech": "形容詞",
+    "sentence": "Such indecorous behavior was frowned upon at court."
+  },
+  {
+    "word": "plucky",
+    "definition": "showing courage or determination",
+    "cefr_level": "C1",
+    "difficulty": 75,
+    "partOfSpeech": "形容詞",
+    "sentence": "The plucky underdog won the hearts of fans."
+  },
+  {
+    "word": "slovenly",
+    "definition": "untidy, especially in personal appearance",
+    "cefr_level": "C1",
+    "difficulty": 77,
+    "partOfSpeech": "副詞",
+    "sentence": "His slovenly appearance made a poor impression."
+  },
+  {
+    "word": "spurn",
+    "definition": "reject or refuse disdainfully",
+    "cefr_level": "C1",
+    "difficulty": 74,
+    "partOfSpeech": "形容詞",
+    "sentence": "She spurned all offers of assistance."
+  },
+  {
+    "word": "verve",
+    "definition": "energy, enthusiasm, or vigor",
+    "cefr_level": "C1",
+    "difficulty": 74,
+    "partOfSpeech": "形容詞",
+    "sentence": "She approached the project with characteristic verve."
+  },
+  {
+    "word": "aghast",
+    "definition": "shocked or horrified; struck with amazement",
+    "cefr_level": "C1",
+    "difficulty": 75,
+    "partOfSpeech": "形容詞",
+    "sentence": "She was aghast at the state of the neglected garden."
+  },
+  {
+    "word": "apprise",
+    "definition": "inform, notify, or advise",
+    "cefr_level": "C1",
+    "difficulty": 77,
+    "partOfSpeech": "形容詞",
+    "sentence": "Please apprise me of any developments."
+  },
+  {
+    "word": "boon",
+    "definition": "a good thing; a blessing or a benefit",
+    "cefr_level": "C1",
+    "difficulty": 73,
+    "partOfSpeech": "形容詞",
+    "sentence": "The new highway was a boon for local businesses."
+  },
+  {
+    "word": "callous",
+    "definition": "emotionally unfeeling or insensitive",
+    "cefr_level": "C1",
+    "difficulty": 77,
+    "partOfSpeech": "形容詞",
+    "sentence": "His callous indifference to suffering appalled us."
+  },
+  {
+    "word": "coddle",
+    "definition": "pamper or treat with excessive care",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "partOfSpeech": "形容詞",
+    "sentence": "The teacher refused to coddle students who didn't try."
+  },
+  {
+    "word": "crescendo",
+    "definition": "the loudest or highest point of something",
+    "cefr_level": "C1",
+    "difficulty": 79,
+    "partOfSpeech": "形容詞",
+    "sentence": "The music built to a powerful crescendo."
+  },
+  {
+    "word": "extenuating",
+    "definition": "lessening the seriousness by providing excuses",
+    "cefr_level": "C1",
+    "difficulty": 82,
+    "partOfSpeech": "形容詞",
+    "sentence": "The judge considered the extenuating circumstances before passing sentence."
+  },
+  {
+    "word": "fringe",
+    "definition": "unconventional, extreme, or marginal",
+    "cefr_level": "C1",
+    "difficulty": 75,
+    "partOfSpeech": "形容詞",
+    "sentence": "Fringe theories gained mainstream attention."
+  },
+  {
+    "word": "immaculate",
+    "definition": "spotlessly clean or free from errors",
+    "cefr_level": "C1",
+    "difficulty": 81,
+    "partOfSpeech": "形容詞",
+    "sentence": "The hotel room was immaculate, without a speck of dust anywhere."
+  },
+  {
+    "word": "ponderous",
+    "definition": "heavy or slow-moving, often due to weight; extremely dull",
+    "cefr_level": "C1",
+    "difficulty": 79,
+    "partOfSpeech": "形容詞",
+    "sentence": "The ponderous bureaucracy moved slowly."
+  },
+  {
+    "word": "rhapsody",
+    "definition": "an ecstatic expression of feeling or enthusiasm",
+    "cefr_level": "C1",
+    "difficulty": 79,
+    "partOfSpeech": "形容詞",
+    "sentence": "The critic's rhapsody about the film seemed excessive."
+  },
+  {
+    "word": "shirk",
+    "definition": "avoid or neglect a responsibility or duty",
+    "cefr_level": "C1",
+    "difficulty": 74,
+    "partOfSpeech": "形容詞",
+    "sentence": "She never shirked her responsibilities."
+  },
+  {
+    "word": "sordid",
+    "definition": "involving ignoble actions and motives",
+    "cefr_level": "C1",
+    "difficulty": 75,
+    "partOfSpeech": "形容詞",
+    "sentence": "The investigation revealed sordid details about corruption."
+  },
+  {
+    "word": "stanch",
+    "definition": "stop or reduce the flow of",
+    "cefr_level": "C1",
+    "difficulty": 75,
+    "partOfSpeech": "形容詞",
+    "sentence": "Medics worked frantically to stanch the bleeding."
+  },
+  {
+    "word": "auxiliary",
+    "definition": "supplementary or additional, often in support",
+    "cefr_level": "C1",
+    "difficulty": 79,
+    "partOfSpeech": "形容詞",
+    "sentence": "The hospital called in auxiliary staff during the crisis."
+  },
+  {
+    "word": "caricature",
+    "definition": "exaggerate features for comedic or satirical effect",
+    "cefr_level": "C1",
+    "difficulty": 80,
+    "partOfSpeech": "形容詞",
+    "sentence": "The artist drew caricatures of tourists."
+  },
+  {
+    "word": "depravity",
+    "definition": "the state or condition of being morally corrupted",
+    "cefr_level": "C1",
+    "difficulty": 79,
+    "partOfSpeech": "名詞",
+    "sentence": "The extent of their depravity shocked investigators."
+  },
+  {
+    "word": "encroach",
+    "definition": "intrude or trespass, especially on another's territory",
+    "cefr_level": "C1",
+    "difficulty": 77,
+    "partOfSpeech": "形容詞",
+    "sentence": "Development continued to encroach on the wetlands."
+  },
+  {
+    "word": "endow",
+    "definition": "enrich or furnish with some faculty or quality",
+    "cefr_level": "C1",
+    "difficulty": 74,
+    "partOfSpeech": "形容詞",
+    "sentence": "Nature had endowed her with exceptional talent."
+  },
+  {
+    "word": "entreat",
+    "definition": "ask earnestly or anxiously; beg",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "partOfSpeech": "形容詞",
+    "sentence": "He entreated the judge for mercy."
+  },
+  {
+    "word": "indictment",
+    "definition": "an official formal accusation for a criminal offense",
+    "cefr_level": "C1",
+    "difficulty": 80,
+    "partOfSpeech": "形容詞",
+    "sentence": "The grand jury returned an indictment on all charges."
+  },
+  {
+    "word": "inquisitive",
+    "definition": "curious or eager to acquire knowledge",
+    "cefr_level": "C1",
+    "difficulty": 82,
+    "partOfSpeech": "形容詞",
+    "sentence": "The inquisitive child asked endless questions."
+  },
+  {
+    "word": "malevolent",
+    "definition": "showing ill will or wishing harm to others",
+    "cefr_level": "C1",
+    "difficulty": 80,
+    "partOfSpeech": "形容詞",
+    "sentence": "The malevolent glare suggested trouble ahead."
+  },
+  {
+    "word": "pacify",
+    "definition": "bring peace to or calm someone down",
+    "cefr_level": "C1",
+    "difficulty": 75,
+    "partOfSpeech": "動詞",
+    "sentence": "Officials struggled to pacify the angry crowd."
+  },
+  {
+    "word": "patronize",
+    "definition": "treat with condescending kindness; be a regular customer",
+    "cefr_level": "C1",
+    "difficulty": 79,
+    "partOfSpeech": "動詞",
+    "sentence": "Don't patronize me—I understand the situation perfectly."
+  },
+  {
+    "word": "piquant",
+    "definition": "stimulating to the senses; engaging; charming",
+    "cefr_level": "C1",
+    "difficulty": 76,
+    "partOfSpeech": "形容詞",
+    "sentence": "The sauce had a piquant flavor."
+  }
+]
