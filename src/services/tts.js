@@ -331,7 +331,7 @@ class TTSService {
   // Words where MW audio is wrong (returns base word audio instead of derived form)
   // These words will use TTS instead for correct pronunciation
   badMWAudioWords = new Set([
-    'enjoyable', 'offender', 'harassment', 'enforcement', 'refurbishment',
+    'august', 'enjoyable', 'offender', 'harassment', 'enforcement', 'refurbishment',
     'recklessness', 'retailer', 'roughness', 'righteousness', 'reconsideration',
     'richness', 'dealer', 'quickness', 'repressive', 'enrollment',
     'ruthlessness', 'obtainable', 'responsiveness', 'reproachful', 'remoteness',

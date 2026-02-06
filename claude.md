@@ -122,7 +122,7 @@ export default {
 - `definition`: English definition for TTS compatibility
 - `sentence`: Complete, contextual example sentence
 - `partOfSpeech`: English (noun/verb/adjective/adverb/preposition/conjunction/pronoun/interjection)
-- `difficulty`: 0-100, calculated using hierarchical approach: Taiwan MOE (priority for elementary/junior high), CEFR (for high school/university), + AI assessment (spelling complexity, frequency, context)
+- `difficulty`: 1-120, calculated using hierarchical approach: Taiwan MOE (priority for elementary/junior high), CEFR (for high school/university), SAT/GRE (for expert), + AI assessment (spelling complexity, frequency, context)
 - `cefr_level`: **(OPTIONAL)** A1, A2, B1, B2, C1, or C2 - only include if verified from reference sources
 - `taiwan_stage`: **ONLY for MOE words** (from taiwan_moe_1200.txt)
   - 小學 (first 400 words in MOE list)
@@ -340,11 +340,11 @@ The dictionaries are organized by **Taiwan's official MOE (Ministry of Education
 
 | File | Taiwan Level | Description | Word Count |
 |------|--------------|-------------|------------|
-| `elementary.json` | 小學 | MOE basic words (grades 1-6) | ~450 |
-| `middle.json` | 國中 | MOE remaining words (grades 7-9) | ~680 |
-| `high.json` | 高中 | Beyond MOE 1200 (grades 10-12) | ~3,200 |
-| `university.json` | 大學 | C1 level academic words | ~930 |
-| `expert.json` | 英文高手 | C2 level advanced words | ~1,150 |
+| `elementary.json` | 小學 | MOE first 400 content words (grades 1-6) | ~378 |
+| `middle.json` | 國中 | MOE remaining + CEFR supplement (grades 7-9) | ~1,018 |
+| `high.json` | 高中 | Beyond MOE 1200 (grades 10-12) | ~4,624 |
+| `university.json` | 大學 | C1 level academic words | ~3,003 |
+| `expert.json` | 英文高手 | SAT/GRE advanced words | ~146 (staging: +1,316) |
 
 **IMPORTANT**:
 - `taiwan_stage` field may differ from `cefr_level` - this is INTENTIONAL
@@ -374,7 +374,7 @@ The dictionaries are organized by **Taiwan's official MOE (Ministry of Education
 3. **Word Length is NOT the Primary Factor** ⚠️
    - `because` (7 letters) = A1 difficulty 8 (very common)
    - `philosophy` (10 letters) = C1 difficulty 62 (academic)
-   - `sesquipedalian` (14 letters) = GRE difficulty 96 (graduate-level)
+   - `sesquipedalian` (14 letters) = GRE difficulty 115 (graduate-level)
 
 ### Required Fields
 
@@ -494,17 +494,17 @@ When there's a mismatch between audio and word definition:
 
 ### Difficulty Calculation Policy
 
-**IMPORTANT:** Difficulty scoring (0-100) uses a hierarchical approach combining Taiwan MOE curriculum, CEFR levels, standardized test vocabulary (SAT/GRE/GMAT), and AI-assisted individual assessment.
+**IMPORTANT:** Difficulty scoring (1-120) uses a hierarchical approach combining Taiwan MOE curriculum, CEFR levels, standardized test vocabulary (SAT/GRE/GMAT), and AI-assisted individual assessment.
 
 #### Difficulty Ranges Overview
 
 | Range | Game Level | Description |
 |-------|------------|-------------|
-| 0-30 | 小學 | Basic vocabulary with simple spelling |
-| 31-50 | 中學 | Intermediate vocabulary |
-| 51-70 | 高中 | Upper intermediate, some complex patterns |
+| 1-30 | 小學 | MOE first 400 content words, basic spelling |
+| 31-50 | 中學 | MOE remaining + CEFR supplement, intermediate |
+| 51-70 | 高中 | Beyond MOE 1200, upper intermediate patterns |
 | 71-90 | 大學 | Advanced academic vocabulary |
-| 91-100 | 英文高手 | Expert/GRE level, complex spelling |
+| 91-120 | 英文高手 | SAT/GRE level, complex spelling |
 
 **Key design principles:**
 - Difficulty adjusted for **Taiwanese students** (not US native speakers)
@@ -516,11 +516,11 @@ When there's a mismatch between audio and word definition:
 
 | File | Difficulty Range | Words | Primary Source |
 |------|-----------------|-------|----------------|
-| `elementary.json` | 0-30 | ~1,100 | Taiwan MOE + basic vocabulary |
-| `middle.json` | 31-50 | ~3,100 | Intermediate vocabulary |
-| `high.json` | 51-70 | ~3,100 | Upper intermediate vocabulary |
-| `university.json` | 71-90 | ~1,200 | Advanced academic vocabulary |
-| `expert.json` | 91-100 | ~650 | Expert/GRE vocabulary |
+| `elementary.json` | 1-30 | 378 | Taiwan MOE 小學 (first 400 content words) |
+| `middle.json` | 31-50 | 1,018 | Taiwan MOE 中學 + CEFR A2/B1 supplement |
+| `high.json` | 51-70 | 4,624 | CEFR B2 + CEEC high school |
+| `university.json` | 71-90 | 3,003 | CEFR C1-C2 academic vocabulary |
+| `expert.json` | 91-120 | 146 (+1,316 staging) | SAT/GRE vocabulary |
 
 **Difficulty factors for Taiwanese students:**
 - Phonetic difficulty (th, v sounds - hard for Chinese speakers)
@@ -533,8 +533,8 @@ When there's a mismatch between audio and word definition:
 
 | File | Status | Purpose |
 |------|--------|---------|
-| `sat_vocabulary.json` | Staging | ~984 SAT words (to be merged into expert.json) |
-| `gregmat_vocab.json` | Staging | ~332 GRE/GMAT words (to be merged into expert.json) |
+| `sat_vocabulary.json` | Staging | 984 SAT words (target difficulty 91-100, to be merged) |
+| `gregmat_vocab.json` | Staging | 332 GRE/GMAT words (target difficulty 101-120, to be merged) |
 
 #### 1. Taiwan MOE Curriculum (Highest Priority)
 
@@ -543,27 +543,27 @@ When there's a mismatch between audio and word definition:
 - Remaining 828 words → 中學 (taiwan_stage = "中學")
 
 **小學 (Elementary) - EXCLUSIVE:**
-- ✅ IF word is in Taiwan MOE 小學 (first 400) → MUST be in 小學 difficulty range (0-25)
-- ❌ ONLY MOE 小學 words can be in this range
+- ✅ IF word is in Taiwan MOE 小學 (first 400) → MUST be in 小學 difficulty range (1-30)
+- ❌ ONLY MOE 小學 content words can be in this range (function words excluded)
 - ❌ No other words allowed in elementary.json without MOE 小學 tag
 - This ensures Taiwan elementary curriculum alignment
 
 **中學 (Junior High) - MOE Priority + CEFR Supplement:**
-- ✅ MOE 中學 words (positions 401+) → MUST be in 中學 difficulty range (25-40)
+- ✅ MOE 中學 words (positions 401+) → MUST be in 中學 difficulty range (31-50)
 - ✅ CEFR A2/B1 words can supplement IF they fit the difficulty level
 - MOE words take priority; CEFR words fill gaps
 
-**高中 (Senior High) - MOE Priority + CEFR Supplement:**
+**高中 (Senior High) - CEFR + CEEC:**
 - ✅ Beyond MOE 1200 vocabulary
 - ✅ CEFR B2 words as primary source
 - ✅ CEEC (大學入學考試中心) high school word lists
-- Difficulty range: 40-55
+- Difficulty range: 51-70
 
-#### 2. CEFR Levels (Primary for University/Expert)
+#### 2. CEFR Levels (Primary for University)
 
 **大學 (University):**
 - CEFR C1-C2 academic vocabulary
-- Difficulty range: 55-80
+- Difficulty range: 71-90
 - Consider additional factors:
   - **Spelling complexity**: Silent letters, irregular patterns, consonant clusters
   - **Word frequency**: Common vs rare usage (use Claude Sonnet to assess)
@@ -571,13 +571,13 @@ When there's a mismatch between audio and word definition:
 
 #### 3. Standardized Test Vocabulary (SAT/GRE/GMAT)
 
-**SAT Vocabulary (80-90):**
+**SAT Vocabulary (91-100):**
 - Target audience: US high school students (ages 16-18)
 - Words educated adults should know but don't use daily
 - Found in academic texts, literature, formal writing
 - Examples: abrogate, ameliorate, ebullient, perfunctory
 
-**GRE/GMAT Vocabulary (90-100):**
+**GRE/GMAT Vocabulary (101-120):**
 - Target audience: College graduates applying to graduate school
 - More obscure, specialized, or archaic words
 - Highest difficulty tier in the game
@@ -589,16 +589,16 @@ When there's a mismatch between audio and word definition:
 
 For precise difficulty scores within ranges, use **Claude Sonnet (claude-sonnet-4-5)** to assess:
 
-1. **Spelling Complexity** (0-10 points):
+1. **Spelling Complexity** (adjusts within range):
    - Phonetic consistency vs irregularity
    - Silent letters, double consonants, unusual letter combinations
    - Length relative to pronunciation
 
-2. **Word Frequency** (0-10 points):
+2. **Word Frequency** (adjusts within range):
    - Common everyday usage vs specialized/rare
    - Corpus frequency data when available
 
-3. **Contextual Difficulty** (0-10 points):
+3. **Contextual Difficulty** (adjusts within range):
    - Multiple meanings or irregular usage
    - Common collocations and typical contexts
    - Confusion with similar words
@@ -613,18 +613,18 @@ Word: "beautiful"
 → Final difficulty: 23 (upper A2)
 
 Word: "ameliorate"
-- Category: SAT (base range 80-90)
+- Category: SAT (base range 91-100)
 - Spelling complexity: 6/10 (phonetic but long)
 - Frequency: 7/10 (rarely used in speech)
 - Contextual: 5/10 (formal register)
-→ Final difficulty: 84 (mid SAT)
+→ Final difficulty: 95 (mid SAT)
 
 Word: "perspicacious"
-- Category: GRE (base range 90-100)
+- Category: GRE (base range 101-120)
 - Spelling complexity: 8/10 (many syllables, uncommon pattern)
 - Frequency: 9/10 (very rare)
 - Contextual: 8/10 (easily confused with "perspicuous")
-→ Final difficulty: 96 (high GRE)
+→ Final difficulty: 115 (high GRE)
 ```
 
 #### Resources
