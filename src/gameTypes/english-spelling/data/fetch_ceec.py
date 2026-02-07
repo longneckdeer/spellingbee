@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 import json
-import os
 import requests
 import time
 import sys
 
-MW_KEY = os.environ.get("MW_COLLEGIATE_KEY", "")
+MW_KEY = 'cfc2a612-6202-4231-a810-d613df83c908'
 
 with open('ceec_new_words.txt', 'r') as f:
     words = [w.strip() for w in f.readlines() if w.strip()]

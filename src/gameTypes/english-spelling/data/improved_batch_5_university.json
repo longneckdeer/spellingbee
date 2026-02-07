@@ -1,0 +1,107 @@
+{
+  "source_file": "university.json",
+  "improvements": [
+    {
+      "word": "renovation",
+      "old_sentence": "the church was {it}renovated{/it} by a new ecumenical spirit",
+      "new_sentence": "The study aims to {wi}renovation{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "replication",
+      "old_sentence": "{wi}replication{/wi} of DNA",
+      "new_sentence": "The concept of {wi}replication{/wi} is widely discussed in academic circles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "entertaining",
+      "old_sentence": "an {wi}entertaining{/wi} book",
+      "new_sentence": "The {wi}entertaining{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "gesticulate",
+      "old_sentence": "arguing and {it}gesticulating{/it} wildly",
+      "new_sentence": "The study aims to {wi}gesticulate{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "overwhelming",
+      "old_sentence": "{wi}overwhelming{/wi} force",
+      "new_sentence": "The {wi}overwhelming{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "autobiography",
+      "old_sentence": "celebrity {wi}autobiographies{/wi}",
+      "new_sentence": "The {wi}autobiography{/wi} contributed significantly to the project.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "compassionate",
+      "old_sentence": "a {wi}compassionate{/wi} friend",
+      "new_sentence": "The {wi}compassionate{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "transcendent",
+      "old_sentence": "… the antislavery movement … recognized the {wi}transcendent{/wi} importance of liberty …",
+      "new_sentence": "The {wi}transcendent{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "reimbursement",
+      "old_sentence": "{wi}reimburse{/wi} travel expenses",
+      "new_sentence": "The study aims to {wi}reimbursement{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "reinforcement",
+      "old_sentence": "a bridge in need of steel {wi}reinforcements{/wi}",
+      "new_sentence": "The {wi}reinforcement{/wi} contributed significantly to the project.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "geographical",
+      "old_sentence": "the {wi}geographic{/wi} features of Ohio",
+      "new_sentence": "The {wi}geographical{/wi} has become increasingly important in recent years.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "regimentation",
+      "old_sentence": "{wi}regiment{/wi} an entire country",
+      "new_sentence": "The study aims to {wi}regimentation{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "resettlement",
+      "old_sentence": "The family {wi}resettled{/wi} in the United States.",
+      "new_sentence": "The study aims to {wi}resettlement{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "beneficiary",
+      "old_sentence": "the main {it}beneficiaries{/it} of these economic reforms",
+      "new_sentence": "The {wi}beneficiary{/wi} contributed significantly to the project.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "embody",
+      "old_sentence": "… men who greatly {it}embodied{/it} the idealism of American life …",
+      "new_sentence": "The study aims to {wi}embody{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "irrigate",
+      "old_sentence": "{wi}irrigating{/wi} the cotton plants",
+      "new_sentence": "The study aims to {wi}irrigate{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "mockery",
+      "old_sentence": "… laying himself open to the jeers and {it}mockeries{/it} of his rebellious subjects …",
+      "new_sentence": "The concept of {wi}mockery{/wi} is widely discussed in academic circles.",
+      "reason": "Auto-generated natural sentence"
+    }
+  ]
+}

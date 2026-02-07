@@ -10,7 +10,7 @@
           @click="refocusInput"
         >
           <SoundButtonsBar
-                        :has-definition="!!gameStore.game.currentQuestion.definition"
+            :has-definition="!!displayDefinition"
             @play-word="playWord"
             @play-sentence="playSentence"
             @play-part-of-speech="playPartOfSpeech"
@@ -18,7 +18,18 @@
           />
         </div>
 
+        <!-- Eliminated player sees the answer immediately (like observer) -->
+        <div v-if="isEliminated && gameStore.game.phase === 'playing'" class="spelling-area__eliminated-view">
+          <div class="spelling-area__eliminated-label">已淘汰 - 觀看其他玩家作答中</div>
+          <div class="spelling-area__observer">
+            <span class="spelling-area__label">答案</span>
+            <span class="spelling-area__answer">{{ correctAnswer }}</span>
+          </div>
+        </div>
+
+        <!-- Active player or reviewing/gameEnd phase shows SpellingBoard -->
         <SpellingBoard
+          v-else
           ref="spellingBoardRef"
           v-model="answer"
           :correct-answer="correctAnswer"
@@ -31,10 +42,10 @@
 
         <!-- Show definition during review phase -->
         <div
-          v-if="showResult && (gameStore.game.currentQuestion?.chinese || gameStore.game.currentQuestion?.definition)"
+          v-if="showResult && displayDefinition"
           class="spelling-area__definition"
         >
-          {{ gameStore.game.currentQuestion.chinese || gameStore.game.currentQuestion.definition }}
+          {{ displayDefinition }}
         </div>
 
         <!-- Hint to encourage submission -->
@@ -73,6 +84,7 @@
             ✓ 已確認，等待下一場
           </div>
           <button
+            v-if="canLeaveSeat"
             class="spelling-area__btn"
             @click="leaveSeat"
             @mousedown.prevent
@@ -90,7 +102,7 @@
           class="spelling-area__info"
         >
           <SoundButtonsBar
-                        :has-definition="!!gameStore.game.currentQuestion.definition"
+            :has-definition="!!displayDefinition"
             @play-word="playWord"
             @play-sentence="playSentence"
             @play-part-of-speech="playPartOfSpeech"
@@ -157,6 +169,9 @@ const correctAnswer = computed(() => {
 async function playWord() {
   if (!gameStore.game.currentQuestion) return
 
+  // Stop any currently playing audio before starting new playback
+  tts.stopAll()
+
   if (gameStore.gameType?.tts) {
     tts.setLanguage(gameStore.gameType.tts.language)
   }
@@ -167,12 +182,18 @@ async function playWord() {
 async function playPartOfSpeech() {
   if (!gameStore.game.currentQuestion) return
 
+  // Stop any currently playing audio before starting new playback
+  tts.stopAll()
+
   // Use MW audio for part of speech
   tts.speakPartOfSpeech(gameStore.game.currentQuestion.partOfSpeech)
 }
 
 async function playSentence() {
   if (!gameStore.game.currentQuestion) return
+
+  // Stop any currently playing audio before starting new playback
+  tts.stopAll()
 
   if (gameStore.gameType?.tts) {
     tts.setLanguage(gameStore.gameType.tts.language)
@@ -184,12 +205,45 @@ async function playSentence() {
 async function playDefinition() {
   if (!gameStore.game.currentQuestion) return
 
-  if (gameStore.gameType?.tts) {
-    tts.setLanguage(gameStore.gameType.tts.language)
+  // Stop any currently playing audio before starting new playback
+  tts.stopAll()
+
+  const question = gameStore.game.currentQuestion
+  const useChineseDef = shouldUseChineseDefinition()
+
+  if (useChineseDef && question.chinese_definition) {
+    // Speak Chinese definition using Taiwan Mandarin
+    await tts.speakChinese(question.chinese_definition, 0.9)
+  } else if (question.definition) {
+    // Speak English definition
+    if (gameStore.gameType?.tts) {
+      tts.setLanguage(gameStore.gameType.tts.language)
+    }
+    tts.setRate(0.85)
+    await tts.speak(question.definition)
   }
-  tts.setRate(0.85)
-  tts.speak(gameStore.game.currentQuestion.definition || '')
 }
+
+// Determine if Chinese definition should be used based on current room level
+function shouldUseChineseDefinition() {
+  const level = gameStore.currentRoom?.level
+  // Levels 1-3 (elementary, middle, high) use Chinese
+  // Levels 4-5 (university, expert) use English
+  return level && level <= 3
+}
+
+// Get the appropriate definition to display based on level
+const displayDefinition = computed(() => {
+  const question = gameStore.game.currentQuestion
+  if (!question) return ''
+
+  const useChineseDef = shouldUseChineseDefinition()
+
+  if (useChineseDef && question.chinese_definition) {
+    return question.chinese_definition
+  }
+  return question.definition || ''
+})
 
 function refocusInput() {
   if (spellingBoardRef.value && canType.value) {
@@ -290,6 +344,11 @@ const canToggleReady = computed(() => {
   // During waiting or reviewing, only non-eliminated players can ready
   if (isEliminated.value) return false
   return phase === 'waiting' || phase === 'reviewing'
+})
+
+// Any seated player can leave their seat at any time (including eliminated players during game)
+const canLeaveSeat = computed(() => {
+  return isSeatedPlayer.value
 })
 
 const readyButtonText = computed(() => {
@@ -635,6 +694,23 @@ watch(answer, (newAnswer, oldAnswer) => {
   font-weight: 500;
   color: #1e8e3e;
   font-family: var(--font-mono);
+}
+
+.spelling-area__eliminated-view {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  background: #fef7e0;
+  border: 1px solid #f9ab00;
+  border-radius: 8px;
+}
+
+.spelling-area__eliminated-label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #e37400;
 }
 
 @media (max-width: 600px) {

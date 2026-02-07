@@ -1,0 +1,37 @@
+{
+  "elementary.json": [],
+  "middle.json": [
+    {
+      "word": "say",
+      "sentence": "'Hello,' she {wi}said{/wi} with a warm smile."
+    },
+    {
+      "word": "win",
+      "sentence": "Our team {wi}won{/wi} the championship game."
+    },
+    {
+      "word": "lie",
+      "sentence": "She was {wi}lying{/wi} when she said she didn't break the vase."
+    },
+    {
+      "word": "tooth",
+      "sentence": "I brush my {it}teeth{/it} twice a day."
+    }
+  ],
+  "high.json": [],
+  "university.json": [],
+  "expert.json": [
+    {
+      "word": "cat-o'-nine-tails",
+      "sentence": "The sailors feared the {wi}cat-o'-nine-tails{/wi}, a whip used for punishment."
+    },
+    {
+      "word": "death's-head",
+      "sentence": "The pirate flag featured a {wi}death's-head{/wi} symbol."
+    },
+    {
+      "word": "e.g.",
+      "sentence": "Use abbreviations like {wi}e.g.{/wi} to provide examples in formal writing."
+    }
+  ]
+}

@@ -358,6 +358,14 @@ export class GameRoom {
     if (tableIndex < 0 || tableIndex >= this.tables.length) return
     if (this.tables[tableIndex].playerId !== null) return
 
+    // Check if player is already sitting at another table
+    const currentTable = this.tables.find(t => t.playerId === playerId)
+    if (currentTable) {
+      // Player is already sitting somewhere - not allowed to sit at multiple tables
+      console.log(`Player ${playerId} is already seated at table ${currentTable.index}, cannot sit at table ${tableIndex}`)
+      return
+    }
+
     const session = this.sessions.get(playerId)
     if (session) {
       session.tableIndex = tableIndex
@@ -869,11 +877,27 @@ export class GameRoom {
 
     console.log('Rankings:', JSON.stringify(rankings))
 
-    this.lastGameRanking = rankings.map((r, index) => ({
-      nickname: r.nickname,
-      roundsSurvived: r.roundsSurvived,
-      rank: index + 1
-    }))
+    // Assign ranks, handling ties properly (same score = same rank)
+    this.lastGameRanking = []
+    let currentRank = 1
+    let previousScore = null
+
+    for (let i = 0; i < rankings.length; i++) {
+      const player = rankings[i]
+
+      // If score is different from previous, update rank to current position
+      if (previousScore !== null && player.roundsSurvived !== previousScore) {
+        currentRank = i + 1
+      }
+
+      this.lastGameRanking.push({
+        nickname: player.nickname,
+        roundsSurvived: player.roundsSurvived,
+        rank: currentRank
+      })
+
+      previousScore = player.roundsSurvived
+    }
 
     // Update global high scores
     await this.updateHighScores(rankings)

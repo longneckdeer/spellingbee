@@ -1,0 +1,305 @@
+{
+  "source_file": "expert.json",
+  "improvements": [
+    {
+      "word": "adversity",
+      "old_sentence": "Despite facing numerous adversities, he never lost hope.",
+      "new_sentence": "The {wi}adversity{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "acetic acid",
+      "old_sentence": "The acetic acid is important.",
+      "new_sentence": "The {wi}acetic acid{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "actuality",
+      "old_sentence": "… possible risks which have been seized upon as actualities …",
+      "new_sentence": "The {wi}actuality{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "aeon",
+      "old_sentence": "I haven't seen him in {wi}eons{/wi}.",
+      "new_sentence": "The {wi}aeon{/wi} marked an important transition.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "amble",
+      "old_sentence": "spent the day ambling through the park",
+      "new_sentence": "The methodology seeks to {wi}amble{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "at one",
+      "old_sentence": "The at one is important.",
+      "new_sentence": "The {wi}at one{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "atrocity",
+      "old_sentence": "the atrocities of war",
+      "new_sentence": "The {wi}atrocity{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "attorney general",
+      "old_sentence": "The attorney general is important.",
+      "new_sentence": "The {wi}attorney general{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "bandy",
+      "old_sentence": "Names of potential running mates have been bandied about.",
+      "new_sentence": "The methodology seeks to {wi}bandy{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "beatify",
+      "old_sentence": "She was beatified six years after her death.",
+      "new_sentence": "The methodology seeks to {wi}beatify{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "bete noire",
+      "old_sentence": "The word bete noire is used in advanced contexts.",
+      "new_sentence": "The {wi}bete noire{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "blare",
+      "old_sentence": "radios blaring",
+      "new_sentence": "The methodology seeks to {wi}blare{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "blaspheme",
+      "old_sentence": "blaspheming against God",
+      "new_sentence": "The methodology seeks to {wi}blaspheme{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "botanize",
+      "old_sentence": "She was preparing to go {wi}botanizing{/wi} with Conservation International's Robin Foster in the scientifically unexplored depths of the reserve.",
+      "new_sentence": "The methodology seeks to {wi}botanize{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "caldron",
+      "old_sentence": "a {wi}cauldron{/wi} of intense emotions",
+      "new_sentence": "The {wi}caldron{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "carte blanche",
+      "old_sentence": "The word carte blanche is used in advanced contexts.",
+      "new_sentence": "The {wi}carte blanche{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "cat-o'-nine-tails",
+      "old_sentence": "The cat-o'-nine-tails is important.",
+      "new_sentence": "The {wi}cat-o'-nine-tails{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "cetera desunt",
+      "old_sentence": "The cetera desunt is important.",
+      "new_sentence": "The {wi}cetera desunt{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "civility",
+      "old_sentence": "… lacked the little civilities and hypocrisies of political society …",
+      "new_sentence": "The {wi}civility{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "codify",
+      "old_sentence": "The convention {wi}codified{/wi} the rules of war.",
+      "new_sentence": "The methodology seeks to {wi}codify{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "common sense",
+      "old_sentence": "So far, I've had the {wi}common sense{/wi} not to tweet anything ghastly.",
+      "new_sentence": "The {wi}common sense{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "conciliate",
+      "old_sentence": "… urgently counseled {wi}conciliating{/wi} the peasants …",
+      "new_sentence": "The methodology seeks to {wi}conciliate{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "convalesce",
+      "old_sentence": "He is convalescing from influenza.",
+      "new_sentence": "The methodology seeks to {wi}convalesce{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "convalesce",
+      "old_sentence": "He is convalescing from influenza.",
+      "new_sentence": "The methodology seeks to {wi}convalesce{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "convalesce",
+      "old_sentence": "He is convalescing from influenza.",
+      "new_sentence": "The methodology seeks to {wi}convalesce{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "crinkle",
+      "old_sentence": "crinkling silks",
+      "new_sentence": "The methodology seeks to {wi}crinkle{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "cul de sac",
+      "old_sentence": "The word cul de sac is used in advanced contexts.",
+      "new_sentence": "The {wi}cul de sac{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "dead heat",
+      "old_sentence": "The dead heat is important.",
+      "new_sentence": "The {wi}dead heat{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "death's-head",
+      "old_sentence": "The death's-head is important.",
+      "new_sentence": "The {wi}death's-head{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "deity",
+      "old_sentence": "the deities of ancient Greece",
+      "new_sentence": "The {wi}deity{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "descry",
+      "old_sentence": "… I descried a sail …",
+      "new_sentence": "The methodology seeks to {wi}descry{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "die hard",
+      "old_sentence": "Such rumors {wi}die hard{/wi}.",
+      "new_sentence": "The {wi}die hard{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "diverge",
+      "old_sentence": "diverging roads",
+      "new_sentence": "The methodology seeks to {wi}diverge{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "dowse",
+      "old_sentence": "Blanch the green beans then {wi}douse{/wi} them in a bath of ice water.",
+      "new_sentence": "The methodology seeks to {wi}dowse{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "e.g.",
+      "old_sentence": "various herbs, {wi}e.g.{/wi}, basil, thyme, and cilantro",
+      "new_sentence": "The {wi}e.g.{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "emanate",
+      "old_sentence": "a sweet scent emanating from the blossoms",
+      "new_sentence": "The methodology seeks to {wi}emanate{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "ensue",
+      "old_sentence": "I wander, seeking peace, and ensuing it.",
+      "new_sentence": "The methodology seeks to {wi}ensue{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "esprit de corps",
+      "old_sentence": "The word esprit de corps is used in advanced contexts.",
+      "new_sentence": "The {wi}esprit de corps{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "espy",
+      "old_sentence": "… among the several horses … she espied the white mustang …",
+      "new_sentence": "The methodology seeks to {wi}espy{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "faux pas",
+      "old_sentence": "The word faux pas is used in advanced contexts.",
+      "new_sentence": "The {wi}faux pas{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "felicity",
+      "old_sentence": "… the small felicities and absurdities of real life manage to peek through the gloom.",
+      "new_sentence": "The {wi}felicity{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "flag officer",
+      "old_sentence": "The flag officer is important.",
+      "new_sentence": "The {wi}flag officer{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "forego",
+      "old_sentence": "The story of his mishap forewent him.",
+      "new_sentence": "The methodology seeks to {wi}forego{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "forgo",
+      "old_sentence": "… never forwent an opportunity of honest profit …",
+      "new_sentence": "The methodology seeks to {wi}forgo{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "gloss over",
+      "old_sentence": "The word gloss over is used in advanced contexts.",
+      "new_sentence": "The {wi}gloss over{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "gloss over",
+      "old_sentence": "He glossed over the accident.",
+      "new_sentence": "The {wi}gloss over{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "goose bumps",
+      "old_sentence": "The goose bumps is important.",
+      "new_sentence": "The {wi}goose bumps{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "ground crew",
+      "old_sentence": "The word ground crew is used in advanced contexts.",
+      "new_sentence": "The {wi}ground crew{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "hamstring",
+      "old_sentence": "The hamstring is important.",
+      "new_sentence": "The {wi}hamstring{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "hamstring",
+      "old_sentence": "hamstrung by guilt",
+      "new_sentence": "The methodology seeks to {wi}hamstring{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    }
+  ]
+}

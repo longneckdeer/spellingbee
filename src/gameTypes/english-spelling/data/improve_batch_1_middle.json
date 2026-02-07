@@ -1,0 +1,215 @@
+{
+  "source_file": "middle.json",
+  "entries": [
+    {
+      "word": "empty",
+      "sentence": "{wi}empty{/wi} shelves",
+      "definition": "containing nothing",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "final",
+      "sentence": "All sales are {wi}final{/wi}.",
+      "definition": "happening or coming at the end",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "gay",
+      "sentence": "{wi}gay{/wi} people/men/women",
+      "definition": "sexually attracted to someone who is the same sex : homosexual",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "operate",
+      "sentence": "factors {it}operating{/it} against our success",
+      "definition": "to perform a function : exert power or influence",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "TV",
+      "sentence": "I for one am rooting for anything that stems the rising tide of reality on television.",
+      "definition": "television",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "say",
+      "sentence": "'Hello,' she said with a warm smile.",
+      "definition": "to use your voice to express (something) with words",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "she",
+      "sentence": "{wi}she{/wi} is my wife",
+      "definition": "a female person",
+      "partOfSpeech": "pronoun"
+    },
+    {
+      "word": "sky",
+      "sentence": "… temperate English {it}skies{/it} …",
+      "definition": "the upper atmosphere or expanse of space that constitutes an apparent great vault or arch over the earth",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "win",
+      "sentence": "Our team won the championship game.",
+      "definition": "to achieve victory in a fight, contest, game, etc.",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "have",
+      "sentence": "{wi}have{/wi} a car",
+      "definition": "possess",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "lie",
+      "sentence": "She was lying when she said she didn't break the vase.",
+      "definition": "to be or to stay at rest in a horizontal position : be prostrate : rest, recline",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "make",
+      "sentence": "When he lost his driver's license, he made a virtue of necessity and got in shape by riding his bike to work.",
+      "definition": "to build, create, or produce (something) by work or effort —often followed by with to describe the things that are used to produce something —often followed by of to describe the material that forms something —often followed by from to describe the source of a product",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "rice",
+      "sentence": "Ricing the spuds with the butter and cream, rather than mashing them, makes them light and airy, and gives you a completely different experience.",
+      "definition": "small white or brown grains that come from a southeast Asian plant and that are used for food",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "swim",
+      "sentence": "a cloud {it}swam{/it} slowly across the moon",
+      "definition": "to propel oneself in water by natural means (such as movements of the limbs, fins, or tail)",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "USA",
+      "sentence": "Maybe Cowell can give him a bell towards the end of his marathon broadcast—that would certainly wake him up.",
+      "definition": "United States Army",
+      "partOfSpeech": "abbreviation"
+    },
+    {
+      "word": "ring",
+      "sentence": "a key {wi}ring{/wi}",
+      "definition": "a circular band for holding, connecting, hanging, pulling, packing, or sealing",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "rise",
+      "sentence": "a belief that the dead will {wi}rise{/wi} again",
+      "definition": "to assume an upright position especially from lying, kneeling, or sitting",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "shout",
+      "sentence": "… a quality that {wi}shouts{/wi} from good novels …",
+      "definition": "to utter a sudden loud cry",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "sister",
+      "sentence": "{wi}sister{/wi} cities",
+      "definition": "a female who has one or both parents in common with another",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "smoke",
+      "sentence": "If a guy's going to hit you … he certainly isn't going to throw a spitter—he gives you {wi}smoke{/wi}.",
+      "definition": "the gaseous products of burning materials especially of organic origin made visible by the presence of small particles of carbon",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "spend",
+      "sentence": "the hurricane gradually {it}spent{/it} itself",
+      "definition": "to use (money) to pay for something",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "tooth",
+      "sentence": "drug laws with {it}teeth{/it}",
+      "definition": "one of the hard bony appendages that are borne on the jaws or in many of the lower vertebrates on other bones in the walls of the mouth or pharynx and serve especially for the prehension and mastication of food and as weapons of offense and defense",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "twenty",
+      "sentence": "With 20/20 hindsight we now see where our strategy went wrong.",
+      "definition": "a number equal to two times 10",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "socks",
+      "sentence": "Ready to sock it to somebody … that they were mad as hell about.",
+      "definition": "a low shoe or slipper",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "someone",
+      "sentence": "I'm sorry you lost. I guess it just wasn't your day.",
+      "definition": "some person : somebody",
+      "partOfSpeech": "pronoun"
+    },
+    {
+      "word": "happen",
+      "sentence": "Mistakes will {wi}happen{/wi}.",
+      "definition": "to take place especially without being planned : occur",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "leader",
+      "sentence": "The tour {wi}leader{/wi} recommended several restaurants in the area.",
+      "definition": "a person or animal who leads : such as",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "string",
+      "sentence": "garnished with potato {wi}strings{/wi}",
+      "definition": "a cord usually used to bind, fasten, or tie —often used before another noun",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "throw",
+      "sentence": "{wi}throw{/wi} a baseball",
+      "definition": "to propel through the air by a forward motion of the hand and arm",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "tidy",
+      "sentence": "a {wi}tidy{/wi} mind",
+      "definition": "neat and orderly in appearance or habits : well ordered and cared for",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "scared",
+      "sentence": "{wi}scared{/wi} of snakes",
+      "definition": "afraid of something : nervous or frightened —often + of",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "shorts",
+      "sentence": "The electrical system also received upgrades: Most rooms had only three or fewer outlets, and plugging in multiple devices usually shorted the circuit.",
+      "definition": "the sum and substance : upshot",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "puppy",
+      "sentence": "a computer that is one fast {wi}puppy{/wi}",
+      "definition": "a young dog",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "well",
+      "sentence": "a potential {wi}well{/wi}",
+      "definition": "an issue of water from the earth : a pool fed by a spring",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "seldom",
+      "sentence": "Such radical opinions have rarely, if ever, been heard here before.",
+      "definition": "in few instances : rarely, infrequently",
+      "partOfSpeech": "adverb"
+    }
+  ]
+}

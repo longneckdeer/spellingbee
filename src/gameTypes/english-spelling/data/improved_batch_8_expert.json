@@ -1,0 +1,71 @@
+{
+  "source_file": "expert.json",
+  "improvements": [
+    {
+      "word": "sling",
+      "old_sentence": "slung the sack over my shoulder",
+      "new_sentence": "The methodology seeks to {wi}sling{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "south america",
+      "old_sentence": "The word south america is used in advanced contexts.",
+      "new_sentence": "The {wi}south america{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "status quo",
+      "old_sentence": "The word status quo is used in advanced contexts.",
+      "new_sentence": "The {wi}status quo{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "strike",
+      "old_sentence": "struck off through the brush",
+      "new_sentence": "The methodology seeks to {wi}strike{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "sub rosa",
+      "old_sentence": "The word sub rosa is used in advanced contexts.",
+      "new_sentence": "The {wi}sub rosa{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "suckle",
+      "old_sentence": "a mother suckling her child",
+      "new_sentence": "The methodology seeks to {wi}suckle{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "swear word",
+      "old_sentence": "The swear word is important.",
+      "new_sentence": "The {wi}swear word{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "traverse",
+      "old_sentence": "light rays traversing a crystal",
+      "new_sentence": "The methodology seeks to {wi}traverse{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "typify",
+      "old_sentence": "In Boston, the highly recognizable Brahmin accent … {wi}typifies{/wi} the speech of New England gentry …",
+      "new_sentence": "The methodology seeks to {wi}typify{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "underlie",
+      "old_sentence": "ideas underlying the revolution",
+      "new_sentence": "The methodology seeks to {wi}underlie{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "waylay",
+      "old_sentence": "… he had been {wi}waylaid{/wi}, bound hand and foot, and thrown into a marsh. But he got out again, somehow, to cause a great deal of trouble yet.",
+      "new_sentence": "The methodology seeks to {wi}waylay{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    }
+  ]
+}

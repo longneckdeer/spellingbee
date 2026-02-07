@@ -198,7 +198,7 @@ def find_inflected_forms(words_data, filename):
     return issues
 
 def main():
-    data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'src', 'gameTypes', 'english-spelling', 'data')
+    data_dir = '/Users/jeffkuo/My Drive/AIProjects/spellingbee/src/gameTypes/english-spelling/data'
     files = ['elementary.json', 'middle.json', 'high.json', 'university.json', 'expert.json']
 
     all_issues = []

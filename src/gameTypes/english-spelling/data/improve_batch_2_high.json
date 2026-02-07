@@ -1,0 +1,305 @@
+{
+  "source_file": "high.json",
+  "entries": [
+    {
+      "word": "dies",
+      "sentence": "My grandfather died of old age. =because he was old.",
+      "definition": "a small cube marked on each face with from one to six spots and used usually in pairs in various games and in gambling by being shaken and thrown to come to rest at random on a flat surface —often used figuratively in expressions concerning chance or the irrevocability of a course of action",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "lives",
+      "sentence": "Her experience cooking for crews of men on the railroads in the West had prepared her for life in the Yukon.",
+      "definition": "a person, place, thing, or concept",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "poppy",
+      "sentence": "Heart Clicks, the first single and poppiest song on the album, came together overnight as Usher grappled with writer's block.",
+      "definition": "a type of plant that has bright red or orange flowers and that is the source of opium; also : its flower",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "bunch",
+      "sentence": "a {wi}bunch{/wi} of grapes",
+      "definition": "a group of things of the same kind that are held or tied together or that grow together",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "exchange",
+      "sentence": "an {wi}exchange{/wi} of prisoners",
+      "definition": "an occurrence in which people give things of similar value to each other : the act of giving or taking one thing in return for another thing",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "tongue",
+      "sentence": "she has a clever {wi}tongue{/wi}",
+      "definition": "a fleshy movable muscular process of the floor of the mouths of most vertebrates that bears sensory end organs and small glands and functions especially in taking and swallowing food and in humans as a speech organ",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "flash",
+      "sentence": "cameras {wi}flashing{/wi}",
+      "definition": "to shine or give off bright light suddenly or in repeated bursts",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "instead",
+      "sentence": "was going to write but called {wi}instead{/wi}",
+      "definition": "—used to say that one thing is done or that one thing or person is chosen when another is not chosen, cannot be done, etc. —often + of",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "word": "needs",
+      "sentence": "must {wi}needs{/wi} be recognized",
+      "definition": "of necessity : necessarily",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "word": "online",
+      "sentence": "bringing the new factory {wi}on line{/wi}",
+      "definition": "connected to a computer, a computer network, or the Internet",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "opera",
+      "sentence": "At present he is planning the Pumpkins' next release, a double-album opus that is bound to delight the fans who snatched up his band's last release ….",
+      "definition": "a kind of performance in which actors sing all or most of the words of a play with music performed by an orchestra —often used before another noun",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "payment",
+      "sentence": "Employees currently have a 10% copay for prescriptions, whether they are purchased at the in-house pharmacy or a network pharmacy.",
+      "definition": "the act of giving money for something : the act of paying",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "practise",
+      "sentence": "{wi}practice{/wi} what you preach",
+      "definition": "carry out, apply",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "quote",
+      "sentence": "{it}quoting{/it} the motifs of past artists",
+      "definition": "to speak or write (a passage) from another usually with credit acknowledgment",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "working",
+      "sentence": "If even some of his plans work, this might be the most important book of the year.",
+      "definition": "having a job",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "spelling",
+      "sentence": "These negative reviews aren't the end of the world, but they can spell disaster for your business unless you know how to properly respond.",
+      "definition": "the forming of words from letters according to accepted usage : orthography",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "hearing",
+      "sentence": "was out of/within {wi}hearing{/wi}",
+      "definition": "the sense through which a person or animal is aware of sound : the ability to hear",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "beginning",
+      "sentence": "It was clear from the {wi}beginning{/wi} that she would win.",
+      "definition": "the point or time at which something begins : a starting point—usually singular",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "differ",
+      "sentence": "The law of one state {wi}differs{/wi} from that of another.",
+      "definition": "to be different —often + from",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "occupy",
+      "sentence": "They {it}occupied{/it} themselves with video games.",
+      "definition": "to engage the attention or energies of",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "vehicle",
+      "sentence": "an investment {wi}vehicle{/wi}",
+      "definition": "a means of carrying or transporting something : such as",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "bind",
+      "sentence": "His hands were {it}bound{/it} with rope.",
+      "definition": "to make secure by tying",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "compete",
+      "sentence": "{it}competing{/it} teams",
+      "definition": "to strive consciously or unconsciously for an objective (such as position, profit, or a prize) : be in a state of rivalry",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "cuisine",
+      "sentence": "a cooking method used in French {wi}cuisine{/wi}",
+      "definition": "a style of cooking",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "farming",
+      "sentence": "Auras can last from a few seconds to several minutes. They take many forms, from particular tastes or odors to eerie sensations of tingling ….",
+      "definition": "the job or business of running a farm",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "forgot",
+      "sentence": "I {wi}forget{/wi} his name.",
+      "definition": "a person, place, thing, or concept",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "humanity",
+      "sentence": "… bespeaking {wi}humanity{/wi} for the enemy in the midst of a bloody struggle.",
+      "definition": "the quality or state of being human",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "injure",
+      "sentence": "{it}injured{/it} her health",
+      "definition": "to harm or damage (someone or something)",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "joining",
+      "sentence": "When we were on the plane we came up with a plan to join the mile high club. I went to the toilet first and told her to follow later and knock. ….",
+      "definition": "the act or an instance of joining one thing to another : juncture",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "mining",
+      "sentence": "image/video {wi}mining{/wi}",
+      "definition": "the process or business of digging in mines to obtain minerals, metals, jewels, etc.",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "pickup",
+      "sentence": "Is your order for {wi}pickup{/wi} or delivery?",
+      "definition": "a small truck that has an open back with low sides —called also pickup truck",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "producer",
+      "sentence": "Since Japan would coproduce these weapons under license to U.S. companies, it would need permission from Washington to export them.",
+      "definition": "someone who is in charge of making and usually providing the money for a play, movie, record, etc.",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "recede",
+      "sentence": "a {it}receding{/it} hairline",
+      "definition": "to move away gradually",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "rushing",
+      "sentence": "Reporters rushed out the story for the morning edition of the newspaper.",
+      "definition": "the act of advancing a football by running plays : the use of running plays; also : yardage gained by running plays",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "leaves",
+      "sentence": "Imposed … without so much as a by-your-leave.",
+      "definition": "a person, place, thing, or concept",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "walking",
+      "sentence": "the {wi}walking{/wi} is slippery",
+      "definition": "the activity of walking for exercise",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "offence",
+      "sentence": "His conduct is an {wi}offense{/wi} to public decency.",
+      "definition": "something that causes a person to be hurt, angry, or upset",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "passing",
+      "sentence": "Waited till the soldiers and wounded were all passed over ….",
+      "definition": "the act of moving toward and beyond something—usually + of",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "various",
+      "sentence": "stop at {wi}various{/wi} towns",
+      "definition": "—used to refer to several different or many different things, people, etc.",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "choke",
+      "sentence": "The unwary guard was {it}choked{/it} to death by a prisoner.",
+      "definition": "to check or block normal breathing of by compressing or obstructing the trachea or by poisoning or adulterating available air",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "fairy",
+      "sentence": "The children loved stories about fairies and magic.",
+      "definition": "a mythical being of folklore and romance usually having diminutive human form and magic powers",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "ally",
+      "sentence": "… in 1774 when the colonies formally {wi}allied{/wi} themselves against British power …",
+      "definition": "to unite or form a connection or relation between : associate —usually used with with or to",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "antinomy",
+      "sentence": "… {it}antinomies{/it} of beauty and evil, freedom and slavery …",
+      "definition": "a contradiction between two apparently equally valid principles or between inferences correctly drawn from such principles",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "casualty",
+      "sentence": "The army sustained heavy {it}casualties{/it}.",
+      "definition": "a military person lost through death, wounds, injury, sickness, internment, or capture or through being missing in action",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "cogitate",
+      "sentence": "{wi}cogitating{/wi} the possible consequences of my decision",
+      "definition": "to ponder or meditate on usually intently",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "dramatic",
+      "sentence": "a {wi}dramatic{/wi} actor",
+      "definition": "sudden and extreme",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "emphasize",
+      "sentence": "{it}emphasized{/it} the need for reform",
+      "definition": "to place emphasis on : stress",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "existence",
+      "sentence": "the {wi}existence{/wi} of other worlds",
+      "definition": "the state of existing: such as",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "gifted",
+      "sentence": "{wi}gifted{/wi} children",
+      "definition": "having great natural ability : talented",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "heading",
+      "sentence": "After fourteen years as cohead of Sotheby's American paintings department, Meilman left in 1984 ….",
+      "definition": "the direction in which a ship or aircraft points",
+      "partOfSpeech": "noun"
+    }
+  ]
+}

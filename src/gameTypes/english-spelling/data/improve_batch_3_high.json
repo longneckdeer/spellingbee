@@ -1,0 +1,167 @@
+{
+  "source_file": "high.json",
+  "entries": [
+    {
+      "word": "indoor",
+      "sentence": "an {wi}indoor{/wi} sport",
+      "definition": "done, living, located, or used inside a building",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "meantime",
+      "sentence": "The new computers won't arrive until next week, but we can continue to use the old ones in the {wi}meantime{/wi}.",
+      "definition": "a person, place, thing, or concept",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "protrude",
+      "sentence": "a handkerchief {it}protruding{/it} from his breast pocket",
+      "definition": "to stick out",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "reformer",
+      "sentence": "The counterreform … seems bent upon a return to a more traditional curriculum.",
+      "definition": "a person who works to change and improve a society, government, etc.",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "retired",
+      "sentence": "a {wi}retired{/wi} village",
+      "definition": "not working anymore : having ended your working or professional career",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "roaring",
+      "sentence": "{wi}roaring{/wi} applause",
+      "definition": "very loud, active, or strong",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "rounded",
+      "sentence": "a countertop with {wi}round{/wi} edges",
+      "definition": "having a round or curving shape",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "situation",
+      "sentence": "The people Americans have chosen to take charge in times of crisis ….",
+      "definition": "the way in which something is placed in relation to its surroundings",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "stimulate",
+      "sentence": "The donors were fertile women who underwent controlled ovarian hyperstimulation and … ultrasound-directed aspiration of oocytes for the sole purpose of donation.",
+      "definition": "to excite to activity or growth or to greater activity : animate, arouse",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "collapse",
+      "sentence": "a blood vessel that {wi}collapsed{/wi}",
+      "definition": "to break apart and fall down suddenly",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "crossing",
+      "sentence": "The boy made a funny face and crossed his eyes.",
+      "definition": "a place where two things (such as a street and a railroad track) cross each other",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "worked",
+      "sentence": "a newly {wi}worked{/wi} field",
+      "definition": "that has been subjected to some process of development, treatment, or manufacture",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "learned",
+      "sentence": "a {wi}learned{/wi} scholar",
+      "definition": "having or showing a lot of learning, education, or knowledge",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "loving",
+      "sentence": "There was the self-love of those conceited blockheads who … were convinced that they themselves were superior to anything the age could produce.",
+      "definition": "feeling or showing love : affectionate",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "risque",
+      "sentence": "a {wi}risqué{/wi} joke",
+      "definition": "referring to sex in a rude and slightly shocking way",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "rumbling",
+      "sentence": "The debate rumbled on through newspaper articles.",
+      "definition": "a low, heavy, continuous sound or series of sounds —usually singular",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "scissors",
+      "sentence": "Scissored the paper into strips.",
+      "definition": "a cutting instrument having two blades whose cutting edges slide past each other",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "deciding",
+      "sentence": "drove in the {wi}deciding{/wi} run",
+      "definition": "that decides : decisive",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "fighting",
+      "sentence": "a {wi}fighting{/wi} ship",
+      "definition": "designed, intended, or trained to fight in combat",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "flee",
+      "sentence": "The family {it}fled{/it} from the war-torn zone.",
+      "definition": "to run away often from danger or evil : fly",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "winning",
+      "sentence": "They eventually won him over with some persuasive arguments.",
+      "definition": "relating to or producing a win",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "retiring",
+      "sentence": "The army was forced to retire from the battlefield.",
+      "definition": "quiet and shy",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "pressing",
+      "sentence": "a {wi}pressing{/wi} issue",
+      "definition": "very important and needing immediate attention : urgent",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "riveting",
+      "sentence": "a {wi}riveting{/wi} story",
+      "definition": "very exciting or interesting",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "reasoning",
+      "sentence": "They tried to reason with him, but he wouldn't listen.",
+      "definition": "the process of thinking about something in a logical way in order to form a conclusion or judgment",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "rider",
+      "sentence": "A group of students who have been assigned to do a report where only one student cares, does all the work and the others go along for a free ride ….",
+      "definition": "a person who rides something",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "takes",
+      "sentence": "{it}took{/it} them as prisoners",
+      "definition": "the way that a particular person thinks about or understands something : a distinct point of view—often + on",
+      "partOfSpeech": "noun"
+    }
+  ]
+}

@@ -1,0 +1,852 @@
+[
+  {
+    "word": "cellphone",
+    "dict_file": "elementary.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "USA",
+    "dict_file": "middle.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "jeans",
+    "dict_file": "middle.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "police",
+    "dict_file": "middle.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "shorts",
+    "dict_file": "middle.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "lives",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "online",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "opera",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "mankind",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "fleet",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "indices",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "prefix",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "primate",
+    "dict_file": "high.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "insight",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "leaves",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "am",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "till",
+    "dict_file": "high.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "disc",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "drunk",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "goods",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "miner",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "strait",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "mineral",
+    "dict_file": "high.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "warrior",
+    "dict_file": "high.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "learned",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "lecturer",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "cosmetics",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "whatever",
+    "dict_file": "high.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "plough",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "antibiotic",
+    "dict_file": "high.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "atone",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "discomfort",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "preference",
+    "dict_file": "high.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "researcher",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "whatsoever",
+    "dict_file": "high.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "mound",
+    "dict_file": "high.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "miserable",
+    "dict_file": "university.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "divorced",
+    "dict_file": "university.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "maneuverable",
+    "dict_file": "university.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "achillean",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: Acheulean, Achilles, Acheulian"
+  },
+  {
+    "word": "aeon",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "aldermanship",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: aldermanic, airmanship, alderman"
+  },
+  {
+    "word": "antemeridian",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: ante meridiem, antheridia, anti-American"
+  },
+  {
+    "word": "antemundane",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: antennae, extramundane, antimigraine"
+  },
+  {
+    "word": "anthropomorphous",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: anthropomorphs, anthropomorphisms, anthropomorphists"
+  },
+  {
+    "word": "Antichrist",
+    "dict_file": "expert.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "antilogy",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: antilog, antilogs, anthology"
+  },
+  {
+    "word": "antipathize",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: antipathies, antipathy, antiparticle"
+  },
+  {
+    "word": "apophthegm",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "assonate",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: ozonate, passionate, agnate"
+  },
+  {
+    "word": "belate",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: belated, delate, belaud"
+  },
+  {
+    "word": "bimester",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: banister, rimester, bonesetter"
+  },
+  {
+    "word": "biograph",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: Beograd, biography, Viagra"
+  },
+  {
+    "word": "bruit",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "cabalism",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: cabalist, Cabalist, cabalists"
+  },
+  {
+    "word": "caldron",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "calk",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "calvinize",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: Calvinism, Calvinist, Calvinisms"
+  },
+  {
+    "word": "came",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "carat",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "chequer",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "clad",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "conflagaration",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: conflagration, conflagrations, conflation"
+  },
+  {
+    "word": "day-man",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: Daman, ape-man, Adiyaman"
+  },
+  {
+    "word": "decameron",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: decahedron, Cameron, decahedrons"
+  },
+  {
+    "word": "decourous",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: decorous, decontrols, decorously"
+  },
+  {
+    "word": "derisible",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: dirigible, derisive, dirigibles"
+  },
+  {
+    "word": "detrude",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: detoured, extrude, Detroit"
+  },
+  {
+    "word": "divertible",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: diverticula, digestible, divertingly"
+  },
+  {
+    "word": "dowse",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "drivel",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "dys-",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "e.g.",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "eyrie",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "eyry",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: eery, eyre, eury-"
+  },
+  {
+    "word": "fanciless",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: fancily, fanciness, fenceless"
+  },
+  {
+    "word": "fledgeling",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: fledgling, fledging, fledglings"
+  },
+  {
+    "word": "fluential",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: fluent, influential, fluently"
+  },
+  {
+    "word": "foetid",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "forte",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "frigidarium",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: Frigidaire, Frigidaires, frigidities"
+  },
+  {
+    "word": "fungi",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "habitant",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "hexangular",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: hexanes, rectangular, hexing"
+  },
+  {
+    "word": "ichthyic",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: ichthyosaur, ichthy-, ichthyosaurian"
+  },
+  {
+    "word": "idolatrious",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: idolatrous, idolatries, idolatrously"
+  },
+  {
+    "word": "idolatrize",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: idolatries, bipolarize, idolatrous"
+  },
+  {
+    "word": "ikon",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "imbed",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "imperfectible",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: imperceptible, imperfective, imperceptibly"
+  },
+  {
+    "word": "impersuadable",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: imperturbable, persuadable, imperceivable"
+  },
+  {
+    "word": "implicable",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: implacable, applicable, implacably"
+  },
+  {
+    "word": "inapprehensible",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: inappreciable, apprehensible, impressible"
+  },
+  {
+    "word": "indivertible",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: indefectible, indigestible, indivisible"
+  },
+  {
+    "word": "inerlocutor",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: interlocutor, interlocutors, interlocutory"
+  },
+  {
+    "word": "inexorableinexorablearmy",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: inexorablenesses, inexorableness"
+  },
+  {
+    "word": "inextensible",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: inextricable, extensible, inextinguishable"
+  },
+  {
+    "word": "ingraft",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: engraft, indraft, engrafts"
+  },
+  {
+    "word": "irrefrangible",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: irrefragable, refrangible, irrefragably"
+  },
+  {
+    "word": "irreverential",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: irreverent, reverential, irreverently"
+  },
+  {
+    "word": "irrigant",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: irrigating, irritant, intrigant"
+  },
+  {
+    "word": "irritancy",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: irritant, irritably, irritants"
+  },
+  {
+    "word": "jucture",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: juncture, junctures, puncture"
+  },
+  {
+    "word": "kingling",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: kinglier, jingling, kingliness"
+  },
+  {
+    "word": "liquefacient",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: liquefactions, liquefaction, liquefies"
+  },
+  {
+    "word": "lithotype",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: Linotype, lithophyte, biotype"
+  },
+  {
+    "word": "maleficient",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: maleficent, deficient, maleficence"
+  },
+  {
+    "word": "manoeuver",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: maneuver, maneuvers, manoeuvre"
+  },
+  {
+    "word": "metaphorm",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: metaphor, metaphors, metaphoric"
+  },
+  {
+    "word": "mordacious",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: morticians, bodacious, Mordecai"
+  },
+  {
+    "word": "mutablility",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: mutability, cutability, mutabilities"
+  },
+  {
+    "word": "neo-darwinsim",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: neo-Darwinism, neo-Darwinian, neo-Darwinisms"
+  },
+  {
+    "word": "neocracy",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: Democracy, democracy, theocracy"
+  },
+  {
+    "word": "neology",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: nolos, geology, cetology"
+  },
+  {
+    "word": "nomic",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: nomes, anomic, gnomish"
+  },
+  {
+    "word": "novellette",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: novelette, novelettes, novelettish"
+  },
+  {
+    "word": "obvert",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: overt, convert, overate"
+  },
+  {
+    "word": "pantoscope",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: pantograph, gastroscope, pantos"
+  },
+  {
+    "word": "peccable",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: peaceable, impeccable, pay cable"
+  },
+  {
+    "word": "perquisiteperquisiteright",
+    "dict_file": "expert.json",
+    "reason": "No data returned"
+  },
+  {
+    "word": "petrograph",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: Petrograd, petrography, petrographer"
+  },
+  {
+    "word": "pettifog",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: pettifogger, petting, pettifoggers"
+  },
+  {
+    "word": "philogynist",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: phylogenies, misogynist, phylogeny"
+  },
+  {
+    "word": "physiocracy",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: physiocrat, Physiocrat, physiocrats"
+  },
+  {
+    "word": "plebian",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: plebeian, plebeians, Polabian"
+  },
+  {
+    "word": "pledgeor",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: pledger, pledgor, pledge"
+  },
+  {
+    "word": "polyarchy",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: Polaris, dyarchy, polarise"
+  },
+  {
+    "word": "polycracy",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: polychromy, Polycrates, Polycarp"
+  },
+  {
+    "word": "precedential",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: presidential, preferential, precedencies"
+  },
+  {
+    "word": "preengage",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: prehensile, greengage, pre-make"
+  },
+  {
+    "word": "prehensible",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: prehensile, apprehensible, prehension"
+  },
+  {
+    "word": "prescriptible",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: prescriptive, prescriptively, prescription"
+  },
+  {
+    "word": "protuberate",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: protuberance, protuberant, protuberances"
+  },
+  {
+    "word": "pseudapostle",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: pseudopodal, apostle, pseudopod"
+  },
+  {
+    "word": "rationlize",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: rationalize, rationalized, rationalizer"
+  },
+  {
+    "word": "reclusory",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: reclusions, delusory, recluse"
+  },
+  {
+    "word": "recure",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: recur, recurve, recurred"
+  },
+  {
+    "word": "redundance",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: redundancy, redundancies, redundant"
+  },
+  {
+    "word": "reflectible",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: reflective, deflectable, reflectively"
+  },
+  {
+    "word": "reflexible",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: reflexive, flexible, reflexively"
+  },
+  {
+    "word": "refragable",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: refractile, irrefragable, reproachable"
+  },
+  {
+    "word": "refringency",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: refrainments, birefringence, refrainment"
+  },
+  {
+    "word": "refringent",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: refrainment, birefringent, refrainments"
+  },
+  {
+    "word": "ripplet",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: ripple, rippled, rippler"
+  },
+  {
+    "word": "rolling",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "sapiential",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: sapient, sciential, sapiently"
+  },
+  {
+    "word": "solicitious",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: solicitous, solicitors, solicitations"
+  },
+  {
+    "word": "statcraft",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: statecraft, stagecraft, statical"
+  },
+  {
+    "word": "supramundane",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: superannuate, superabundance, superannuated"
+  },
+  {
+    "word": "technography",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: technocracy, ethnography, technocrat"
+  },
+  {
+    "word": "thearchy",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: the rich, triarchy, theurgy"
+  },
+  {
+    "word": "theocrasy",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: theocracy, theocrat, the crease"
+  },
+  {
+    "word": "ubiquitious",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: ubiquitous, ubiquities, ubiquitously"
+  },
+  {
+    "word": "ultramundane",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: ultramontane, extramundane, Ultramontane"
+  },
+  {
+    "word": "unassured",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: unmeasured, unassuaged, uncured"
+  },
+  {
+    "word": "uncouch",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: uncos, uncouth, uncoy"
+  },
+  {
+    "word": "underman",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: underran, undermine, underhand"
+  },
+  {
+    "word": "undertaker",
+    "dict_file": "expert.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "undulous",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: undulates, pendulous, undulations"
+  },
+  {
+    "word": "unintimating",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: unintimidating, intimating, unintimidatingly"
+  },
+  {
+    "word": "unisonant",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: unison, assonant, unisons"
+  },
+  {
+    "word": "univalence",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: univalent, univalents, unbalance"
+  },
+  {
+    "word": "vendition",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: vendetta, rendition, vendettas"
+  },
+  {
+    "word": "vindicatory",
+    "dict_file": "expert.json",
+    "reason": "No pronunciation data"
+  },
+  {
+    "word": "vinery",
+    "dict_file": "expert.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "vituperable",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: vituperate, vituperative, vituperated"
+  },
+  {
+    "word": "vociferance",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: vociferant, vociferate, vociferated"
+  },
+  {
+    "word": "well-doer",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: weldor, well-done, welder"
+  },
+  {
+    "word": "wilt",
+    "dict_file": "expert.json",
+    "reason": "No audio filename"
+  },
+  {
+    "word": "wizen-faced",
+    "dict_file": "expert.json",
+    "reason": "Word not found, suggestions: brazen-faced, open-faced, pie-faced"
+  }
+]

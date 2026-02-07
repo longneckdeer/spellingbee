@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create OG Banner</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        canvas {
+            border: 2px solid #333;
+            margin: 20px 0;
+            max-width: 100%;
+            height: auto;
+        }
+        button {
+            padding: 12px 24px;
+            font-size: 16px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #5568d3;
+        }
+    </style>
+</head>
+<body>
+    <h1>超級拼字王 - Social Media Banner</h1>
+    <canvas id="banner" width="1200" height="630"></canvas>
+    <button onclick="downloadBanner()">Download PNG</button>
+
+    <script>
+        const canvas = document.getElementById('banner');
+        const ctx = canvas.getContext('2d');
+
+        // Create gradient background
+        const gradient = ctx.createLinearGradient(0, 0, 1200, 630);
+        gradient.addColorStop(0, '#667eea');
+        gradient.addColorStop(1, '#764ba2');
+        ctx.fillStyle = gradient;
+        ctx.fillRect(0, 0, 1200, 630);
+
+        // Draw decorative letters
+        ctx.font = 'bold 80px Arial';
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.1)';
+        ctx.fillText('A', 100, 120);
+        ctx.font = 'bold 60px Arial';
+        ctx.fillText('B', 1050, 150);
+        ctx.font = 'bold 70px Arial';
+        ctx.fillText('C', 150, 550);
+        ctx.font = 'bold 65px Arial';
+        ctx.fillText('Z', 1000, 580);
+
+        // Draw emoji icon
+        ctx.font = '100px Arial';
+        ctx.textAlign = 'center';
+        ctx.fillStyle = 'white';
+        ctx.fillText('🔤', 600, 195);
+
+        // Draw main title
+        ctx.font = 'bold 72px Arial';
+        ctx.fillStyle = 'white';
+        ctx.fillText('超級拼字王', 600, 295);
+
+        // Draw subtitle
+        ctx.font = '32px Arial';
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.95)';
+        ctx.fillText('Super Spelling Champion', 600, 355);
+
+        // Draw description
+        ctx.font = '24px Arial';
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.9)';
+        ctx.fillText('多人線上英文拼字遊戲 • 挑戰 14,000+ 單字', 600, 405);
+
+        // Draw features
+        ctx.font = '20px Arial';
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.85)';
+        ctx.fillText('⚡ 即時對戰', 400, 455);
+        ctx.fillText('🏆 淘汰賽制', 600, 455);
+        ctx.fillText('📚 五個難度', 800, 455);
+
+        // Draw URL
+        ctx.font = '20px Arial';
+        ctx.fillStyle = 'rgba(255, 255, 255, 0.7)';
+        ctx.fillText('spellingisfun.pages.dev', 600, 600);
+
+        function downloadBanner() {
+            const link = document.createElement('a');
+            link.download = 'og-banner.png';
+            link.href = canvas.toDataURL('image/png');
+            link.click();
+        }
+
+        // Auto-download after 1 second
+        setTimeout(() => {
+            downloadBanner();
+            console.log('Banner downloaded! You can close this window.');
+        }, 1000);
+    </script>
+</body>
+</html>

@@ -1,0 +1,167 @@
+{
+  "source_file": "high.json",
+  "improvements": [
+    {
+      "word": "indoor",
+      "old_sentence": "an {wi}indoor{/wi} sport",
+      "new_sentence": "The room was very {wi}indoor{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "meantime",
+      "old_sentence": "The new computers won't arrive until next week, but we can continue to use the old ones in the {wi}meantime{/wi}.",
+      "new_sentence": "The {wi}meantime{/wi} was very helpful and kind.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "protrude",
+      "old_sentence": "a handkerchief {it}protruding{/it} from his breast pocket",
+      "new_sentence": "They {wi}protrude{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "reformer",
+      "old_sentence": "The counterreform … seems bent upon a return to a more traditional curriculum.",
+      "new_sentence": "The {wi}reformer{/wi} was very helpful and kind.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "retired",
+      "old_sentence": "a {wi}retired{/wi} village",
+      "new_sentence": "The room was very {wi}retired{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "roaring",
+      "old_sentence": "{wi}roaring{/wi} applause",
+      "new_sentence": "The room was very {wi}roaring{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "rounded",
+      "old_sentence": "a countertop with {wi}round{/wi} edges",
+      "new_sentence": "The room was very {wi}rounded{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "situation",
+      "old_sentence": "The people Americans have chosen to take charge in times of crisis ….",
+      "new_sentence": "We visited the {wi}situation{/wi} during our trip.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "stimulate",
+      "old_sentence": "The donors were fertile women who underwent controlled ovarian hyperstimulation and … ultrasound-directed aspiration of oocytes for the sole purpose of donation.",
+      "new_sentence": "They {wi}stimulate{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "collapse",
+      "old_sentence": "a blood vessel that {wi}collapsed{/wi}",
+      "new_sentence": "They {wi}collapse{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "crossing",
+      "old_sentence": "The boy made a funny face and crossed his eyes.",
+      "new_sentence": "We visited the {wi}crossing{/wi} during our trip.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "worked",
+      "old_sentence": "a newly {wi}worked{/wi} field",
+      "new_sentence": "The room was very {wi}worked{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "learned",
+      "old_sentence": "a {wi}learned{/wi} scholar",
+      "new_sentence": "The room was very {wi}learned{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "loving",
+      "old_sentence": "There was the self-love of those conceited blockheads who … were convinced that they themselves were superior to anything the age could produce.",
+      "new_sentence": "The room was very {wi}loving{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "risque",
+      "old_sentence": "a {wi}risqué{/wi} joke",
+      "new_sentence": "The room was very {wi}risque{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "rumbling",
+      "old_sentence": "The debate rumbled on through newspaper articles.",
+      "new_sentence": "The {wi}rumbling{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "scissors",
+      "old_sentence": "Scissored the paper into strips.",
+      "new_sentence": "The {wi}scissors{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "deciding",
+      "old_sentence": "drove in the {wi}deciding{/wi} run",
+      "new_sentence": "The room was very {wi}deciding{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "fighting",
+      "old_sentence": "a {wi}fighting{/wi} ship",
+      "new_sentence": "The room was very {wi}fighting{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "flee",
+      "old_sentence": "The family {it}fled{/it} from the war-torn zone.",
+      "new_sentence": "They {wi}flee{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "winning",
+      "old_sentence": "They eventually won him over with some persuasive arguments.",
+      "new_sentence": "The room was very {wi}winning{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "retiring",
+      "old_sentence": "The army was forced to retire from the battlefield.",
+      "new_sentence": "The room was very {wi}retiring{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "pressing",
+      "old_sentence": "a {wi}pressing{/wi} issue",
+      "new_sentence": "The room was very {wi}pressing{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "riveting",
+      "old_sentence": "a {wi}riveting{/wi} story",
+      "new_sentence": "The room was very {wi}riveting{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "reasoning",
+      "old_sentence": "They tried to reason with him, but he wouldn't listen.",
+      "new_sentence": "The {wi}reasoning{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "rider",
+      "old_sentence": "A group of students who have been assigned to do a report where only one student cares, does all the work and the others go along for a free ride ….",
+      "new_sentence": "The {wi}rider{/wi} was very helpful and kind.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "takes",
+      "old_sentence": "{it}took{/it} them as prisoners",
+      "new_sentence": "The {wi}takes{/wi} was very helpful and kind.",
+      "reason": "Auto-generated natural sentence"
+    }
+  ]
+}

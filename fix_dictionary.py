@@ -380,7 +380,7 @@ def process_file(filepath):
     print(f"✓ Completed {filepath} - {len(data)} entries fixed\n")
 
 def main():
-    base_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "src", "gameTypes", "english-spelling", "data")
+    base_path = "/Users/jeffkuo/My Drive/AIProjects/spellingbee/src/gameTypes/english-spelling/data"
 
     files = [
         "elementary.json",

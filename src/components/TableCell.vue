@@ -89,12 +89,15 @@ const showIncorrectX = computed(() => {
 
 const typingStyle = computed(() => {
   const len = displayTyping.value.length
-  // Base font size 13px, scale down for longer words
-  if (len <= 10) return {}
-  const scale = Math.max(0.55, 10 / len)
+  // Base font size 18px, scale down for longer words
+  const baseFontSize = 18
+  if (len <= 8) return { fontSize: `${baseFontSize}px` }
+
+  // More aggressive scaling for better space usage
+  const scale = Math.max(0.5, 8 / len)
   return {
-    fontSize: `${Math.round(13 * scale)}px`,
-    letterSpacing: len > 14 ? '0px' : '1px'
+    fontSize: `${Math.round(baseFontSize * scale)}px`,
+    letterSpacing: len > 12 ? '0px' : '0.5px'
   }
 })
 
@@ -155,7 +158,7 @@ function handleClick() {
   position: absolute;
   top: 0;
   left: 2px;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 500;
   color: #5f6368;
   white-space: nowrap;
@@ -169,7 +172,7 @@ function handleClick() {
   background: #fff;
   border: 2px solid #dadce0;
   border-radius: 6px;
-  height: var(--table-height, 44px);
+  height: var(--table-height, 50px);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -227,14 +230,16 @@ function handleClick() {
 }
 
 .table-cell__typing {
-  font-size: 14px;
+  font-size: 18px;
   color: #202124;
   font-family: var(--font-mono);
   font-weight: 500;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  padding: 0 6px;
+  padding: 0 8px;
+  line-height: 1.2;
+  max-width: 100%;
 }
 
 .table-cell__typing--submitted {
@@ -245,13 +250,21 @@ function handleClick() {
 .table-cell__correct-check {
   color: #1e8e3e;
   font-weight: bold;
+  font-size: 18px;
   margin-right: 4px;
+  display: inline-block;
+  line-height: 1;
+  vertical-align: middle;
 }
 
 .table-cell__incorrect-x {
   color: #d93025;
   font-weight: bold;
+  font-size: 18px;
   margin-right: 4px;
+  display: inline-block;
+  line-height: 1;
+  vertical-align: middle;
 }
 
 .table-cell__eliminated {
@@ -265,9 +278,9 @@ function handleClick() {
 }
 
 .table-cell__eliminated-word {
-  font-size: 10px;
+  font-size: 12px;
   color: #202124;
-  font-weight: 400;
+  font-weight: 500;
   font-family: var(--font-mono);
   white-space: nowrap;
   overflow: hidden;
@@ -276,9 +289,9 @@ function handleClick() {
 }
 
 .table-cell__eliminated-answer {
-  font-size: 10px;
+  font-size: 12px;
   color: #d93025;
-  font-weight: 400;
+  font-weight: 500;
   font-family: var(--font-mono);
   white-space: nowrap;
   overflow: hidden;
@@ -326,8 +339,12 @@ function handleClick() {
   }
 
   .table-cell__typing {
-    font-size: 12px;
-    min-height: 18px;
+    font-size: 15px;
+    min-height: 20px;
+  }
+
+  .table-cell__desk {
+    height: var(--table-height, 46px);
   }
 
   .table-cell__indicator {
@@ -346,8 +363,14 @@ function handleClick() {
     right: 3px;
   }
 
+  .table-cell__eliminated-word,
   .table-cell__eliminated-answer {
-    font-size: 9px;
+    font-size: 11px;
+  }
+
+  .table-cell__correct-check,
+  .table-cell__incorrect-x {
+    font-size: 15px;
   }
 }
 </style>

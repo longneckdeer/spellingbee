@@ -14,7 +14,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
 
 # MW API Configuration
-MW_API_KEY = os.environ.get("MW_COLLEGIATE_KEY", "")
+MW_API_KEY = "cfc2a612-6202-4231-a810-d613df83c908"
 MW_API_URL = "https://www.dictionaryapi.com/api/v3/references/collegiate/json"
 MW_AUDIO_BASE = "https://media.merriam-webster.com/audio/prons/en/us/mp3"
 

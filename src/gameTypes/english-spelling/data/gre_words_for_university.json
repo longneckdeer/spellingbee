@@ -1,0 +1,2074 @@
+[
+  {
+    "word": "abdominal",
+    "definition": "of, relating to, or involving the abdomen",
+    "sentence": "{wi}abdominal{/wi} pain/cramps/bloating",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "alloy",
+    "definition": "the degree of mixture with base metals : fineness",
+    "sentence": "an ethnic {wi}alloy{/wi} of many peoples",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "aristocrat",
+    "definition": "a member of an aristocracy; especially : noble",
+    "sentence": "… broadcloth, the {wi}aristocrat{/wi} of clothing …",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "assassin",
+    "definition": "a person who commits murder; especially : one who murders a politically prominent person either for money or from fanatical adherence to a cause",
+    "sentence": "For a third of a century, no enemy of the {wi}Assassins{/wi} had ever managed to elude them.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "attentive",
+    "definition": "mindful, observant",
+    "sentence": "{wi}attentive{/wi} to what he is doing",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "backward",
+    "definition": "toward the back or rear",
+    "sentence": "She glanced {wi}backward{/wi} over her shoulder.",
+    "partOfSpeech": "副詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "beneficiary",
+    "definition": "a person or thing that receives help or an advantage from something : one that benefits from something",
+    "sentence": "the main beneficiaries of these economic reforms",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "bewilder",
+    "definition": "to cause to lose one's bearings",
+    "sentence": "{wi}bewildered{/wi} by the city's maze of roads",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "bleak",
+    "definition": "exposed and barren and often windswept",
+    "sentence": "a {wi}bleak{/wi} landscape",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "blunder",
+    "definition": "to move unsteadily or confusedly",
+    "sentence": "In their exhaustion they often {wi}blundered{/wi} against each other …",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "bracket",
+    "definition": "an overhanging member that projects from a structure (such as a wall) and is usually designed to support a vertical load or to strengthen an angle",
+    "sentence": "The bracket is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "breach",
+    "definition": "infraction or violation of a law, obligation, tie, or standard",
+    "sentence": "a {wi}breach{/wi} of trust",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "brisk",
+    "definition": "keenly alert : lively",
+    "sentence": "… a {wi}brisk{/wi} old lady with no nonsense about her …",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "brittle",
+    "definition": "easily broken, cracked, or snapped",
+    "sentence": "{wi}brittle{/wi} clay",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "brood",
+    "definition": "the young of an animal or a family of young; especially : the young (as of a bird or insect) hatched or cared for at one time",
+    "sentence": "… the entire {wi}brood{/wi} of chronicle plays.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "buffer",
+    "definition": "any of various devices or pieces of material for reducing shock or damage due to contact",
+    "sentence": "The buffer is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "bulge",
+    "definition": "to jut out : swell",
+    "sentence": "… a pair of arresting pale blue eyes that tend to {wi}bulge{/wi} maniacally …",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "cereal",
+    "definition": "relating to grain or to the plants that produce it; also : made of grain",
+    "sentence": "It was very cereal.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "cohesive",
+    "definition": "exhibiting or producing cohesion or coherence",
+    "sentence": "a {wi}cohesive{/wi} social unit",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "coin",
+    "definition": "corner, cornerstone, quoin",
+    "sentence": "These products allow investors to gain exposure to Bitcoin without owning the actual {wi}coins{/wi}.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "coincide",
+    "definition": "to occupy the same place in space or time",
+    "sentence": "The base of the triangle {wi}coincides{/wi} with one side of the square.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "commence",
+    "definition": "to enter upon : begin",
+    "sentence": "{wi}commence{/wi} proceedings",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "commend",
+    "definition": "to entrust for care or preservation",
+    "sentence": "\"To Thee I do {wi}commend{/wi} my watchful soul / Ere I let fall the windows of mine eyes.\"",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "commend",
+    "definition": "to entrust for care or preservation",
+    "sentence": "\"To Thee I do {wi}commend{/wi} my watchful soul / Ere I let fall the windows of mine eyes.\"",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "commercial",
+    "definition": "occupied with or engaged in commerce or work intended for commerce",
+    "sentence": "a {wi}commercial{/wi} success",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "compartment",
+    "definition": "a separate division or section",
+    "sentence": "The compartment is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "compulsion",
+    "definition": "an act of compelling : the state of being compelled",
+    "sentence": "tried to get them to cooperate without using {wi}compulsion{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "crouch",
+    "definition": "to lower the body stance especially by bending the legs",
+    "sentence": "The sprinter {wi}crouched{/wi} and was ready to go.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "deceit",
+    "definition": "the act of causing someone to accept as true or valid what is false or invalid : the act or practice of deceiving : deception",
+    "sentence": "achieving one's goals through a web of {wi}deceit{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "decimal",
+    "definition": "numbered or proceeding by tens:",
+    "sentence": "{wi}decimal{/wi} coinage",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "decree",
+    "definition": "an order usually having the force of law",
+    "sentence": "a judicial {wi}decree{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "deduce",
+    "definition": "to determine by reasoning or deduction; specifically, philosophy : to infer from a general principle",
+    "sentence": "{wi}deduce{/wi} the age of ancient artifacts",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "deduce",
+    "definition": "to determine by reasoning or deduction; specifically, philosophy : to infer from a general principle",
+    "sentence": "{wi}deduce{/wi} the age of ancient artifacts",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "defiant",
+    "definition": "full of or showing a disposition to challenge, resist, or fight : full of or showing defiance : bold, impudent",
+    "sentence": "{wi}defiant{/wi} rebels",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "deficient",
+    "definition": "lacking in some necessary quality or element",
+    "sentence": "{wi}deficient{/wi} in judgment",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "degenerate",
+    "definition": "having declined or become less specialized (as in nature, character, structure, or function) from an ancestral or former state",
+    "sentence": "… the last {wi}degenerate{/wi} member of a noble family …",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "degrade",
+    "definition": "to lower in grade, rank, or status : demote",
+    "sentence": "{wi}degrade{/wi} the image quality",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "delta",
+    "definition": "the 4th letter of the Greek alphabet",
+    "sentence": "During deep sleep, the brain operates in delta wave frequency. But it's difficult to go from beta to theta then {wi}delta{/wi} without first switching down to a relaxed alpha state.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "demonstrator",
+    "definition": "one that demonstrates:",
+    "sentence": "The demonstrator is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "denote",
+    "definition": "to serve as an indication of : betoken",
+    "sentence": "But as yet, no floating bough, no tern … to {wi}denote{/wi} our proximity to land.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "designate",
+    "definition": "to indicate and set apart for a specific purpose, office, or duty",
+    "sentence": "{wi}designate{/wi} someone to plan the party",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "detest",
+    "definition": "to feel intense and often violent antipathy toward : loathe",
+    "sentence": "{wi}detests{/wi} politics",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "devoted",
+    "definition": "characterized by loyalty and devotion",
+    "sentence": "a {wi}devoted{/wi} fan",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "devout",
+    "definition": "committed or devoted to religion or to religious duties or exercises",
+    "sentence": "a {wi}devout{/wi} Catholic",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "differential",
+    "definition": "of, relating to, or constituting a difference : distinguishing",
+    "sentence": "{wi}differential{/wi} characteristics",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "digit",
+    "definition": "any of the Arabic numerals 1 to 9 and usually the symbol 0",
+    "sentence": "At the end of the meal, the pair discussed wanting to see the Dupont Underground art exhibit, and that's when Scott smoothly asked for her {wi}digits{/wi} and said they should go.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "dilute",
+    "definition": "attenuate",
+    "sentence": "{wi}dilute{/wi} the power of the mayoralty",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "disagree",
+    "definition": "to fail to agree",
+    "sentence": "the two accounts {wi}disagree{/wi}",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "disarm",
+    "definition": "to deprive of means, reason, or disposition to be hostile",
+    "sentence": "{wi}disarmed{/wi} criticism by admitting her errors",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "discredit",
+    "definition": "to refuse to accept as true or accurate : disbelieve",
+    "sentence": "{wi}discredit{/wi} a rumor",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "discrete",
+    "definition": "constituting a separate entity or item : individually distinct",
+    "sentence": "… breakups are not a {wi}discrete{/wi} event but a series of stages.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "discussion",
+    "definition": "consideration of a question in open and usually informal debate",
+    "sentence": "a heated political {wi}discussion{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "disillusion",
+    "definition": "the condition of being disenchanted : the condition of being dissatisfied or defeated in expectation or hope",
+    "sentence": "suffered romantic {wi}disillusions{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "dismissal",
+    "definition": "the act of dismissing : the fact or state of being dismissed",
+    "sentence": "The dismissal is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "disregard",
+    "definition": "to pay no attention to : treat as unworthy of regard or notice",
+    "sentence": "Please {wi}disregard{/wi} what I said in my last email.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "dissatisfy",
+    "definition": "to fail to satisfy : displease",
+    "sentence": "They dissatisfy regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "distrust",
+    "definition": "the lack or absence of trust",
+    "sentence": "The distrust is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "drainage",
+    "definition": "the act, process, or mode of draining; also : something drained off",
+    "sentence": "The drainage is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "dreary",
+    "definition": "feeling, displaying, or reflecting listlessness or discouragement",
+    "sentence": "… cheer a {wi}dreary{/wi} mind …",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "drench",
+    "definition": "to wet thoroughly (as by soaking or immersing in liquid)",
+    "sentence": "… was {wi}drenched{/wi} in furs and diamonds …",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "dwindle",
+    "definition": "to become steadily less : shrink",
+    "sentence": "Their savings dwindled to nothing.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "dwindle",
+    "definition": "to become steadily less : shrink",
+    "sentence": "Their savings dwindled to nothing.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "earn",
+    "definition": "to receive as return for effort and especially for work done or services rendered",
+    "sentence": "bonds {wi}earning{/wi} 10 percent interest",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "effect",
+    "definition": "something that inevitably follows an antecedent (such as a cause or agent) : result, outcome",
+    "sentence": "the environmental {wi}effects{/wi} of the policy",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "effective",
+    "definition": "producing a decided, decisive, or desired effect",
+    "sentence": "an {wi}effective{/wi} policy",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "eject",
+    "definition": "to throw out especially by physical force, authority, or influence",
+    "sentence": "{wi}ejected{/wi} the player from the game",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "elapse",
+    "definition": "pass, go by",
+    "sentence": "four years elapsed before he returned",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "elevation",
+    "definition": "the height to which something is elevated: such as",
+    "sentence": "The elevation is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "embark",
+    "definition": "to go on board a vehicle for transportation",
+    "sentence": "the troops {wi}embarked{/wi} at noon",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "embed",
+    "definition": "to enclose closely in or as if in a matrix",
+    "sentence": "fossils embedded in stone",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "embody",
+    "definition": "to give a body to (a spirit) : incarnate",
+    "sentence": "… men who greatly embodied the idealism of American life …",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "emergent",
+    "definition": "arising unexpectedly",
+    "sentence": "{wi}emergent{/wi} danger",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "emphatic",
+    "definition": "uttered with or marked by emphasis",
+    "sentence": "an {wi}emphatic{/wi} refusal",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "equilibrium",
+    "definition": "a state of intellectual or emotional balance : poise",
+    "sentence": "trying to recover his {wi}equilibrium{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "escalate",
+    "definition": "to increase in extent, volume, number, amount, intensity, or scope",
+    "sentence": "… a little war threatens to {wi}escalate{/wi} into a huge ugly one …",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "evasion",
+    "definition": "a means of evading : dodge",
+    "sentence": "Bankruptcy becomes a kind of {wi}evasion{/wi} when firms, some of them still profitable, attempt to avoid obligations that are merely inconvenient.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "evict",
+    "definition": "to recover (property) from a person by legal process",
+    "sentence": "They evict regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "exertion",
+    "definition": "the act or an instance of exerting; especially : a laborious or perceptible effort",
+    "sentence": "The exertion is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "exhaustion",
+    "definition": "the act or process of exhausting : the state of being exhausted",
+    "sentence": "The exhaustion is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "expel",
+    "definition": "to force out : eject",
+    "sentence": "expelled the smoke from her lungs",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "expend",
+    "definition": "to pay out : spend",
+    "sentence": "… the social services upon which public revenue is {wi}expended{/wi}.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "expense",
+    "definition": "financial burden or outlay : cost",
+    "sentence": "A first-class ticket isn't worth the extra {wi}expense{/wi}.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "exquisite",
+    "definition": "marked by flawless craftsmanship or by beautiful, ingenious, delicate, or elaborate execution",
+    "sentence": "an {wi}exquisite{/wi} vase",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "extinguish",
+    "definition": "to bring to an end : make an end of",
+    "sentence": "{wi}extinguished{/wi} the candles",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "extraction",
+    "definition": "the act or process of extracting something",
+    "sentence": "a family of French {wi}extraction{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "extremity",
+    "definition": "the farthest or most remote part, section, or point",
+    "sentence": "the island's westernmost {wi}extremity{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "feature",
+    "definition": "the structure, form, or appearance especially of a person",
+    "sentence": "a man of large {wi}feature{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "feudal",
+    "definition": "of, relating to, or suggestive of feudalism",
+    "sentence": "{wi}feudal{/wi} law",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "fit",
+    "definition": "acceptable from a particular viewpoint (as of competence or morality) : proper",
+    "sentence": "a movie {wi}fit{/wi} for the whole family",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "fixture",
+    "definition": "the act or process of fixing : the state of being fixed",
+    "sentence": "a plumbing {wi}fixture{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "flicker",
+    "definition": "to move irregularly or unsteadily : flutter",
+    "sentence": "Shadows {wi}flickered{/wi} on the wall.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "flutter",
+    "definition": "to flap the wings rapidly",
+    "sentence": "butterflies {wi}fluttering{/wi} among the flowers",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "forefather",
+    "definition": "ancestor",
+    "sentence": "The forefather is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "foremost",
+    "definition": "first in a series or progression",
+    "sentence": "Safety is their {wi}foremost{/wi} concern.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "foresee",
+    "definition": "to see (something, such as a development) beforehand",
+    "sentence": "He could not have foreseen the consequences of his actions.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "formal",
+    "definition": "following or according with established form, custom, or rule",
+    "sentence": "a {wi}formal{/wi} contract",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "formality",
+    "definition": "compliance with formal or conventional rules : ceremony",
+    "sentence": "The interview was just a {wi}formality{/wi}.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "frail",
+    "definition": "easily broken or destroyed : fragile",
+    "sentence": "… {wi}frail{/wi}, open-cockpit biplanes …",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "fumble",
+    "definition": "to grope for or handle something clumsily or aimlessly",
+    "sentence": "fumbled in his pocket for a coin",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "furnace",
+    "definition": "an enclosed structure in which heat is produced (as for heating a house or for reducing ore)",
+    "sentence": "The furnace is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "further",
+    "definition": "at or to a greater distance or more advanced point",
+    "sentence": "My ponies are tired, and I have {wi}further{/wi} to go …",
+    "partOfSpeech": "副詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "gale",
+    "definition": "a strong current of air; especially, technically : a wind from 32 to 63 miles per hour (about 51 to 102 kilometers per hour)",
+    "sentence": "… having easy {wi}gales{/wi} from the W.S.W. …",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "generally",
+    "definition": "in a general manner: such as",
+    "sentence": "{wi}generally{/wi} speaking",
+    "partOfSpeech": "副詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "geology",
+    "definition": "a science that deals with the history of the earth and its life especially as recorded in rocks",
+    "sentence": "the {wi}geology{/wi} of Arizona",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "groove",
+    "definition": "a long narrow channel or depression",
+    "sentence": "a great talker when he is in the {wi}groove{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "grove",
+    "definition": "a small wood without underbrush",
+    "sentence": "a picnic {wi}grove{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "grudge",
+    "definition": "to be unwilling to give or admit : give or allow reluctantly or resentfully",
+    "sentence": "I don't {wi}grudge{/wi} paying my share.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "gust",
+    "definition": "the sensation of taste",
+    "sentence": "The gust is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "gust",
+    "definition": "a sudden brief rush of wind",
+    "sentence": "a {wi}gust{/wi} of emotion",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "hazardous",
+    "definition": "involving or exposing one to risk (as of loss or harm)",
+    "sentence": "a {wi}hazardous{/wi} occupation",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "hazy",
+    "definition": "made dim or cloudy by or as if by fine dust, smoke, or light vapor in the air : obscured by or as if by haze",
+    "sentence": "{wi}hazy{/wi} weather",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "hereditary",
+    "definition": "genetically transmitted or transmittable from parent to offspring",
+    "sentence": "The disease is {wi}hereditary{/wi}.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "hindrance",
+    "definition": "the state of being interfered with, held back, or slowed down : the state of being hindered",
+    "sentence": "{wi}hindrance{/wi} of speech",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "homely",
+    "definition": "suggestive or characteristic of a place of residence or home",
+    "sentence": "… satisfy themselves with houses, furniture, books and clothes that were worn and {wi}homely{/wi} and friendly to the touch.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "hound",
+    "definition": "dog",
+    "sentence": "The hound is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "hub",
+    "definition": "the central part of a circular object (such as a wheel or propeller)",
+    "sentence": "spokes attached to the {wi}hub{/wi} of the wheel",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "hull",
+    "definition": "the outer covering of a fruit or seed",
+    "sentence": "The hull is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "humane",
+    "definition": "marked by compassion, sympathy, or consideration for humans or animals",
+    "sentence": "{wi}humane{/wi} prison guards",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "humanitarian",
+    "definition": "a person promoting human welfare and social reform : philanthropist",
+    "sentence": "recognized as a great {wi}humanitarian{/wi} for her work to end world hunger",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "humility",
+    "definition": "freedom from pride or arrogance : the quality or state of being humble",
+    "sentence": "accepted the honor with {wi}humility{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "hurl",
+    "definition": "rush, hurtle",
+    "sentence": "They hurl regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "hymn",
+    "definition": "a song of praise to God",
+    "sentence": "sing a {wi}hymn{/wi} of thanksgiving",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "illegitimate",
+    "definition": "not recognized as lawful offspring",
+    "sentence": "an {wi}illegitimate{/wi} government",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "illiterate",
+    "definition": "having little or no education; especially : unable to read or write",
+    "sentence": "musically {wi}illiterate{/wi}",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "illustrious",
+    "definition": "notably or brilliantly outstanding because of dignity or achievements or actions : eminent",
+    "sentence": "an {wi}illustrious{/wi} military leader",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "immature",
+    "definition": "exhibiting less than an expected degree of maturity",
+    "sentence": "emotionally {wi}immature{/wi} adults",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "immoral",
+    "definition": "not moral : morally evil or wrong; broadly : conflicting with generally or traditionally held moral principles",
+    "sentence": "It was very immoral.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "impart",
+    "definition": "to give, convey, or grant from or as if from a store",
+    "sentence": "Her experience {wi}imparted{/wi} authority to her words.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "imposition",
+    "definition": "something imposed: such as",
+    "sentence": "the {wi}imposition{/wi} of a tariff",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "improbable",
+    "definition": "unlikely to be true or to occur; also : unlikely but real or true",
+    "sentence": "an {wi}improbable{/wi} story",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "improper",
+    "definition": "not proper: such as",
+    "sentence": "{wi}improper{/wi} language",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "impulsive",
+    "definition": "arising from an impulse",
+    "sentence": "an {wi}impulsive{/wi} decision",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "inaugurate",
+    "definition": "to induct into an office with suitable ceremonies",
+    "sentence": "{wi}inaugurate{/wi} a new school",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "incidentally",
+    "definition": "in an incidental manner : not intentionally",
+    "sentence": "… the arrant nonsense of some of his statements is {wi}incidentally{/wi} hilarious.",
+    "partOfSpeech": "副詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "inclined",
+    "definition": "having inclination, disposition, or tendency",
+    "sentence": "is always {wi}inclined{/wi} to volunteer",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "incompatible",
+    "definition": "not compatible: such as",
+    "sentence": "{wi}incompatible{/wi} colors",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "incompetent",
+    "definition": "lacking the qualities needed for effective action : lacking necessary ability or skills",
+    "sentence": "{wi}incompetent{/wi} heart valves",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "incomplete",
+    "definition": "not complete : unfinished: such as",
+    "sentence": "spoke in {wi}incomplete{/wi} sentences",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "inconsistent",
+    "definition": "lacking consistency: such as",
+    "sentence": "{wi}inconsistent{/wi} statements",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "indefinite",
+    "definition": "not definite: such as",
+    "sentence": "an {wi}indefinite{/wi} answer",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "indicative",
+    "definition": "serving to indicate",
+    "sentence": "actions {wi}indicative{/wi} of fear",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "indict",
+    "definition": "to formally charge (someone) with a crime by the finding of a jury (such as a grand jury) : to formally accuse (someone) of a crime in an indictment",
+    "sentence": "If either the IRS or the FBI decides a suspect has committed a crime, a lot of hurdles must be leaped before that individual is put in prison. The agents must gather evidence, persuade an independent prosecutor to present the evidence to a grand jury, make sure the evidence is convincing enough so that the grand jury will {wi}indict{/wi} the suspect, and then present the evidence to a regular jury that decides whether the suspect is innocent or guilty.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "inefficient",
+    "definition": "not efficient: such as",
+    "sentence": "{wi}inefficient{/wi} operating procedures",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "inexpensive",
+    "definition": "reasonable in price : cheap",
+    "sentence": "It was very inexpensive.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "inference",
+    "definition": "something that is inferred; especially : a conclusion or opinion that is formed because of known facts or evidence",
+    "sentence": "The inference is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "infinity",
+    "definition": "the quality of being infinite",
+    "sentence": "The view tapers off into {wi}infinity{/wi}.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "inflame",
+    "definition": "to excite to excessive or uncontrollable action or feeling; especially : to make angry",
+    "sentence": "{wi}inflame{/wi} the imagination",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "influence",
+    "definition": "the power or capacity to cause an effect in indirect or intangible ways : sway",
+    "sentence": "an idea gaining {wi}influence{/wi} on Capitol Hill",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "infringe",
+    "definition": "to encroach upon in a way that violates law or the rights of another",
+    "sentence": "{wi}infringe{/wi} a patent",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "infuriate",
+    "definition": "to make furious",
+    "sentence": "They infuriate regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "ingenuity",
+    "definition": "skill or cleverness in devising or combining : inventiveness",
+    "sentence": "The ingenuity is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "inlet",
+    "definition": "a bay or recess in the shore of a sea, lake, or river; also : creek",
+    "sentence": "The inlet is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "inscribe",
+    "definition": "to write, engrave, or print as a lasting record",
+    "sentence": "a regular polygon inscribed in a circle",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "insecure",
+    "definition": "deficient in assurance : beset by fear and anxiety",
+    "sentence": "always felt {wi}insecure{/wi} in a group of strangers",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "insistent",
+    "definition": "disposed to insist : persistent",
+    "sentence": "the {wi}insistent{/wi} pounding of the waves",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "instructive",
+    "definition": "carrying a lesson : enlightening",
+    "sentence": "It was very instructive.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "insulate",
+    "definition": "to place in a detached situation : isolate; especially : to separate from conducting bodies by means of nonconductors so as to prevent transfer of electricity, heat, or sound",
+    "sentence": "They insulate regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "intersect",
+    "definition": "to pierce or divide by passing through or across : cross",
+    "sentence": "a comet {wi}intersecting{/wi} earth's orbit",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "intolerable",
+    "definition": "not tolerable : unbearable",
+    "sentence": "{wi}intolerable{/wi} pain",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "intricate",
+    "definition": "having many complexly interrelating parts or elements : complicated",
+    "sentence": "{wi}intricate{/wi} machinery",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "introductory",
+    "definition": "of, relating to, or being a first step that sets something going or in proper perspective",
+    "sentence": "an {wi}introductory{/wi} course in calculus",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "intrusion",
+    "definition": "the act of intruding or the state of being intruded; especially : the act of wrongfully entering upon, seizing, or taking possession of the property of another",
+    "sentence": "The intrusion is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "inventive",
+    "definition": "adept or prolific at producing inventions : creative",
+    "sentence": "an {wi}inventive{/wi} mind",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "inverse",
+    "definition": "opposite in order, nature, or effect",
+    "sentence": "{wi}inverse{/wi} sine",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "invert",
+    "definition": "to reverse in position, order, or relationship",
+    "sentence": "to divide using fractions, {wi}invert{/wi} the divisor and multiply",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "involved",
+    "definition": "having a part in something : included in something",
+    "sentence": "unable to identify those who were {wi}involved{/wi}",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "irrational",
+    "definition": "not rational: such as",
+    "sentence": "{wi}irrational{/wi} fears",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "irresistible",
+    "definition": "impossible to resist",
+    "sentence": "an {wi}irresistible{/wi} attraction",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "irrigate",
+    "definition": "wet, moisten: such as",
+    "sentence": "{wi}irrigating{/wi} the cotton plants",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "jeopardy",
+    "definition": "exposure to or imminence of loss or injury : danger",
+    "sentence": "placing their lives in {wi}jeopardy{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "jolt",
+    "definition": "an abrupt, sharp, jerky blow or movement",
+    "sentence": "awoke with a {wi}jolt{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "jumble",
+    "definition": "to move in a confused or disordered manner",
+    "sentence": "They jumble regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "laborious",
+    "definition": "involving, requiring, or characterized by hard and sustained effort : arduous",
+    "sentence": "Overland travel was not an adventurous communal leap, but a {wi}laborious{/wi}, individual trek.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "latch",
+    "definition": "to lay hold with or as if with the hands or arms —used with on or onto",
+    "sentence": "They latch regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "later",
+    "definition": "at some time subsequent to a given time : subsequently, afterward —often used with on",
+    "sentence": "one week {wi}later{/wi}",
+    "partOfSpeech": "副詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "lever",
+    "definition": "a bar used for prying or dislodging something",
+    "sentence": "… use food as a political {wi}lever{/wi} …",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "liaison",
+    "definition": "communication for establishing and maintaining mutual understanding and cooperation (as between parts of a business or an armed force)",
+    "sentence": "… people in the political jobs—the ones who do the {wi}liaison{/wi} with Capitol Hill …",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "liken",
+    "definition": "to represent as similar : compare",
+    "sentence": "They liken regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "litigation",
+    "definition": "the act, process, or practice of settling a dispute in a court of law : the act or process of litigating; also : a legal action or proceeding (such as a lawsuit)",
+    "sentence": "an issue that has been in {wi}litigation{/wi} for years",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "livelihood",
+    "definition": "means of support or subsistence",
+    "sentence": "The villagers' main {wi}livelihood{/wi} is fishing.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "louse",
+    "definition": "any of various small wingless usually flattened insects (orders Anoplura and Mallophaga) parasitic on warm-blooded animals",
+    "sentence": "What a beast, what a cad, what a {wi}louse{/wi} he had been!",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "lubricate",
+    "definition": "to make smooth or slippery",
+    "sentence": "They lubricate regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "lurk",
+    "definition": "to lie in wait in a place of concealment especially for an evil purpose",
+    "sentence": "someone out there {wi}lurking{/wi} in the shadows",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "lust",
+    "definition": "usually intense or unbridled sexual desire : lasciviousness",
+    "sentence": "He was motivated more by {wi}lust{/wi} than by love.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "maim",
+    "definition": "to mutilate, disfigure or wound seriously",
+    "sentence": "They maim regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "malaria",
+    "definition": "a human disease that is caused by sporozoan parasites (genus Plasmodium) in the red blood cells, is transmitted by the bite of anopheline mosquitoes, and is characterized by periodic attacks of chills and fever",
+    "sentence": "The malaria is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "malice",
+    "definition": "desire to cause pain, injury, or distress to another",
+    "sentence": "an attack motivated by pure {wi}malice{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mane",
+    "definition": "long and heavy hair growing about the neck and head of some mammals (such as horses and lions)",
+    "sentence": "The mane is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mania",
+    "definition": "excitement manifested by mental and physical hyperactivity, disorganization of behavior, and elevation of mood; specifically : the manic phase of bipolar disorder",
+    "sentence": "a {wi}mania{/wi} for saving things",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "manor",
+    "definition": "the house or hall of an estate : mansion",
+    "sentence": "The manor is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "marked",
+    "definition": "having an identifying mark",
+    "sentence": "{wi}marked{/wi} playing cards",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "marrow",
+    "definition": "bone marrow",
+    "sentence": "… personal liberty is the {wi}marrow{/wi} of the American tradition.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mash",
+    "definition": "to reduce to a soft pulpy state by beating or pressure",
+    "sentence": "{wi}mash{/wi} a finger",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mass",
+    "definition": "the liturgy of the Eucharist especially in accordance with the traditional Latin rite",
+    "sentence": "Sunday {wi}masses{/wi} held at three different hours",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "material",
+    "definition": "relating to, derived from, or consisting of matter; especially : physical",
+    "sentence": "facts {wi}material{/wi} to the investigation",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "materialism",
+    "definition": "a theory that physical matter is the only or fundamental reality and that all being and processes and phenomena can be explained as manifestations or results of matter",
+    "sentence": "scientific {wi}materialism{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mechanics",
+    "definition": "a branch of physical science that deals with energy and forces and their effect on bodies",
+    "sentence": "the {wi}mechanics{/wi} of the brain",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "meddle",
+    "definition": "to interest oneself in what is not one's concern : interfere without right or propriety",
+    "sentence": "… I never {wi}meddle{/wi} in other people's private affairs …",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "melodrama",
+    "definition": "a work (such as a movie or play) characterized by extravagant theatricality and by the predominance of plot and physical action over characterization",
+    "sentence": "an actor with a flair for {wi}melodrama{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "melody",
+    "definition": "a sweet or agreeable succession or arrangement of sounds",
+    "sentence": "… whilst all the winds with {wi}melody{/wi} are ringing.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "memento",
+    "definition": "something that serves to warn or remind; also : souvenir",
+    "sentence": "… a museum filled with war {wi}mementos{/wi}.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "menace",
+    "definition": "a show of intention to inflict harm : threat",
+    "sentence": "… exploding in {wi}menaces{/wi} and threats of vengeance …",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "menial",
+    "definition": "of or relating to servants : lowly",
+    "sentence": "a {wi}menial{/wi} worker",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "merciful",
+    "definition": "full of mercy : compassionate; also : providing relief",
+    "sentence": "a {wi}merciful{/wi} ruler",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "merciless",
+    "definition": "having or showing no mercy : pitiless",
+    "sentence": "the {wi}merciless{/wi} killing of innocent people",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "meritocracy",
+    "definition": "a system, organization, or society in which people are chosen and moved into positions of success, power, and influence on the basis of their demonstrated abilities and merit; also : the people who are moved into such positions",
+    "sentence": "Only the elite, in that new {wi}meritocracy{/wi}, would enjoy the opportunity for self-fulfillment …",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mesh",
+    "definition": "one of the openings between the threads or cords of a net; also : one of the similar spaces in a network —often used to designate screen size as the number of openings per linear inch",
+    "sentence": "in {wi}mesh{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "metal",
+    "definition": "any of various opaque, fusible, ductile, and typically lustrous substances that are good conductors of electricity and heat, form cations by loss of electrons, and yield basic oxides and hydroxides; especially : one that is a chemical element as distinguished from an alloy",
+    "sentence": "The metal is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "methodical",
+    "definition": "arranged, characterized by, or performed with method or order",
+    "sentence": "a {wi}methodical{/wi} treatment of the subject",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "metric",
+    "definition": "a part of prosody that deals with metrical structure",
+    "sentence": "… the analytical study of {wi}metric{/wi} …",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "microscopic",
+    "definition": "resembling a microscope especially in perception",
+    "sentence": "It was very microscopic.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mileage",
+    "definition": "an allowance for traveling expenses at a certain rate per mile",
+    "sentence": "gets good {wi}mileage{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mince",
+    "definition": "to cut or chop into very small pieces",
+    "sentence": "She minced the garlic.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "minority",
+    "definition": "the smaller in number of two groups constituting a whole : a number or percentage equaling less than half of a total",
+    "sentence": "The proposition was opposed by a {wi}minority{/wi} of voters.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mirth",
+    "definition": "gladness or gaiety as shown by or accompanied with laughter",
+    "sentence": "His clumsy attempt at dancing caused much {wi}mirth{/wi}.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "misbehave",
+    "definition": "to conduct (oneself) badly or improperly",
+    "sentence": "students who frequently {wi}misbehave{/wi} themselves in class",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "misconduct",
+    "definition": "mismanagement especially of governmental or military responsibilities",
+    "sentence": "The misconduct is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "miser",
+    "definition": "a mean grasping person; especially : one who is extremely stingy with money",
+    "sentence": "… a {wi}miser{/wi} cackling over unexpected treasure …",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mishap",
+    "definition": "an unfortunate accident",
+    "sentence": "The fire was a tragic {wi}mishap{/wi} that could have been prevented.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "misplace",
+    "definition": "to put in a wrong or inappropriate place",
+    "sentence": "{wi}misplace{/wi} a comma",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mistrust",
+    "definition": "a lack of confidence : distrust",
+    "sentence": "a {wi}mistrust{/wi} in politicians",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mockery",
+    "definition": "insulting or contemptuous action or speech : derision",
+    "sentence": "… laying himself open to the jeers and mockeries of his rebellious subjects …",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "momentous",
+    "definition": "having great or lasting importance : consequential, significant",
+    "sentence": "a {wi}momentous{/wi} decision",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "moor",
+    "definition": "an expanse of open rolling infertile land",
+    "sentence": "The moor is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mortar",
+    "definition": "a sturdy vessel in which material is pounded or rubbed with a pestle",
+    "sentence": "crushed the seeds in a {wi}mortar{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mosaic",
+    "definition": "a surface decoration made by inlaying small pieces of variously colored material to form pictures or patterns; also : the process of making it",
+    "sentence": "… a {wi}mosaic{/wi} of visions and daydreams and memories …",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mouthful",
+    "definition": "as much as a mouth will hold",
+    "sentence": "a {wi}mouthful{/wi} of food/water",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "muster",
+    "definition": "a representative specimen : sample",
+    "sentence": "{wi}musters{/wi} of goods for sale",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mutilate",
+    "definition": "to cut up or alter radically so as to make imperfect",
+    "sentence": "The child mutilated the book with his scissors.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "mystic",
+    "definition": "mystical",
+    "sentence": "a {wi}mystic{/wi} journey",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "naturally",
+    "definition": "by nature : by natural character or ability",
+    "sentence": "{wi}naturally{/wi} timid",
+    "partOfSpeech": "副詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "nausea",
+    "definition": "a stomach distress with distaste for food and an urge to vomit",
+    "sentence": "experienced {wi}nausea{/wi} during the cruise to Bermuda",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "nectar",
+    "definition": "the drink of the Greek and Roman gods",
+    "sentence": "apricot {wi}nectar{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "neglectful",
+    "definition": "given to neglecting : careless, heedless",
+    "sentence": "It was very neglectful.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "negligence",
+    "definition": "the quality or state of being negligent",
+    "sentence": "The injury would not have occurred without the defendant's {wi}negligence{/wi}.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "negligible",
+    "definition": "so small or unimportant or of so little consequence as to warrant little or no attention : trifling",
+    "sentence": "a {wi}negligible{/wi} error",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "nestle",
+    "definition": "nest",
+    "sentence": "They nestle regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "net",
+    "definition": "an open-meshed fabric twisted, knotted, or woven together at regular intervals",
+    "sentence": "caught in the {wi}net{/wi} of suspicious circumstances",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "network",
+    "definition": "a fabric or structure of cords or wires that cross at regular intervals and are knotted or secured at the crossings",
+    "sentence": "… ribbons, lace and embroidery wrought together in a most curious piece of {wi}network{/wi} …",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "neuter",
+    "definition": "of, relating to, or constituting the gender that ordinarily includes most words or grammatical forms referring to things classed as neither masculine nor feminine",
+    "sentence": "It was very neuter.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "notch",
+    "definition": "a V-shaped indentation",
+    "sentence": "The notch is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "nourishment",
+    "definition": "food, nutriment",
+    "sentence": "books for intellectual {wi}nourishment{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "obese",
+    "definition": "having excessive body fat",
+    "sentence": "It was very obese.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "obliging",
+    "definition": "willing to do favors : helpful",
+    "sentence": "It was very obliging.",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "oblivion",
+    "definition": "the fact or condition of not remembering : a state marked by lack of awareness or consciousness",
+    "sentence": "seeking the {wi}oblivion{/wi} of sleep",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "observant",
+    "definition": "paying strict attention : watchful",
+    "sentence": "an {wi}observant{/wi} spectator",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "off",
+    "definition": "from a place or position; specifically : away from land",
+    "sentence": "turned {wi}off{/wi} into a bypath",
+    "partOfSpeech": "副詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "offhand",
+    "definition": "without premeditation or preparation : extempore",
+    "sentence": "couldn't give the figures {wi}offhand{/wi}",
+    "partOfSpeech": "副詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "ointment",
+    "definition": "a salve or unguent for application to the skin",
+    "sentence": "The ointment is important.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "omission",
+    "definition": "something neglected or left undone",
+    "sentence": "There are a few {wi}omissions{/wi} in the list.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "opinion",
+    "definition": "a view, judgment, or appraisal formed in the mind about a particular matter",
+    "sentence": "We asked them for their {wi}opinions{/wi} about the new stadium.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "optimist",
+    "definition": "a person who is inclined to be hopeful and to expect good outcomes : someone who is given to optimism",
+    "sentence": "The {wi}optimists{/wi} have faith that no matter how avaricious the age, literature will endure.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "origin",
+    "definition": "ancestry, parentage",
+    "sentence": "was of humble {wi}origin{/wi}",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "ought",
+    "definition": "—used to express obligation, advisability, natural expectation, or logical consequence",
+    "sentence": "The word ought is useful.",
+    "partOfSpeech": "助動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "outdo",
+    "definition": "to go beyond in action or performance",
+    "sentence": "They outdo regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "outspoken",
+    "definition": "direct and open in speech or expression : frank",
+    "sentence": "… {wi}outspoken{/wi} in his criticism …",
+    "partOfSpeech": "形容詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "overhang",
+    "definition": "to project over",
+    "sentence": "They overhang regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "overpass",
+    "definition": "to pass across, over, or beyond : cross; also : surpass",
+    "sentence": "They overpass regularly.",
+    "partOfSpeech": "動詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  },
+  {
+    "word": "overseer",
+    "definition": "a person who oversees others : a person with supervisory responsibilities",
+    "sentence": "Her insider status was cemented in 1988 with a stint as … {wi}overseer{/wi} of the party's nominating convention.",
+    "partOfSpeech": "名詞",
+    "source": "github-gre-collection",
+    "difficulty": 90
+  }
+]

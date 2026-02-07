@@ -1,0 +1,305 @@
+{
+  "source_file": "high.json",
+  "improvements": [
+    {
+      "word": "dies",
+      "old_sentence": "My grandfather died of old age. =because he was old.",
+      "new_sentence": "The {wi}dies{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "lives",
+      "old_sentence": "Her experience cooking for crews of men on the railroads in the West had prepared her for life in the Yukon.",
+      "new_sentence": "The {wi}lives{/wi} was very helpful and kind.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "poppy",
+      "old_sentence": "Heart Clicks, the first single and poppiest song on the album, came together overnight as Usher grappled with writer's block.",
+      "new_sentence": "The {wi}poppy{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "bunch",
+      "old_sentence": "a {wi}bunch{/wi} of grapes",
+      "new_sentence": "The {wi}bunch{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "exchange",
+      "old_sentence": "an {wi}exchange{/wi} of prisoners",
+      "new_sentence": "The {wi}exchange{/wi} was very helpful and kind.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "tongue",
+      "old_sentence": "she has a clever {wi}tongue{/wi}",
+      "new_sentence": "The {wi}tongue{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "flash",
+      "old_sentence": "cameras {wi}flashing{/wi}",
+      "new_sentence": "They {wi}flash{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "instead",
+      "old_sentence": "was going to write but called {wi}instead{/wi}",
+      "new_sentence": "They {wi}instead{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "needs",
+      "old_sentence": "must {wi}needs{/wi} be recognized",
+      "new_sentence": "They {wi}needs{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "online",
+      "old_sentence": "bringing the new factory {wi}on line{/wi}",
+      "new_sentence": "The room was very {wi}online{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "opera",
+      "old_sentence": "At present he is planning the Pumpkins' next release, a double-album opus that is bound to delight the fans who snatched up his band's last release ….",
+      "new_sentence": "The {wi}opera{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "payment",
+      "old_sentence": "Employees currently have a 10% copay for prescriptions, whether they are purchased at the in-house pharmacy or a network pharmacy.",
+      "new_sentence": "The {wi}payment{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "practise",
+      "old_sentence": "{wi}practice{/wi} what you preach",
+      "new_sentence": "They {wi}practise{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "quote",
+      "old_sentence": "{it}quoting{/it} the motifs of past artists",
+      "new_sentence": "They {wi}quote{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "working",
+      "old_sentence": "If even some of his plans work, this might be the most important book of the year.",
+      "new_sentence": "The room was very {wi}working{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "spelling",
+      "old_sentence": "These negative reviews aren't the end of the world, but they can spell disaster for your business unless you know how to properly respond.",
+      "new_sentence": "The {wi}spelling{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "hearing",
+      "old_sentence": "was out of/within {wi}hearing{/wi}",
+      "new_sentence": "The {wi}hearing{/wi} was very helpful and kind.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "beginning",
+      "old_sentence": "It was clear from the {wi}beginning{/wi} that she would win.",
+      "new_sentence": "The {wi}beginning{/wi} was a significant point in history.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "differ",
+      "old_sentence": "The law of one state {wi}differs{/wi} from that of another.",
+      "new_sentence": "They {wi}differ{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "occupy",
+      "old_sentence": "They {it}occupied{/it} themselves with video games.",
+      "new_sentence": "They {wi}occupy{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "vehicle",
+      "old_sentence": "an investment {wi}vehicle{/wi}",
+      "new_sentence": "The {wi}vehicle{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "bind",
+      "old_sentence": "His hands were {it}bound{/it} with rope.",
+      "new_sentence": "They {wi}bind{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "compete",
+      "old_sentence": "{it}competing{/it} teams",
+      "new_sentence": "They {wi}compete{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "cuisine",
+      "old_sentence": "a cooking method used in French {wi}cuisine{/wi}",
+      "new_sentence": "The {wi}cuisine{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "farming",
+      "old_sentence": "Auras can last from a few seconds to several minutes. They take many forms, from particular tastes or odors to eerie sensations of tingling ….",
+      "new_sentence": "The {wi}farming{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "forgot",
+      "old_sentence": "I {wi}forget{/wi} his name.",
+      "new_sentence": "The {wi}forgot{/wi} was very helpful and kind.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "humanity",
+      "old_sentence": "… bespeaking {wi}humanity{/wi} for the enemy in the midst of a bloody struggle.",
+      "new_sentence": "The {wi}humanity{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "injure",
+      "old_sentence": "{it}injured{/it} her health",
+      "new_sentence": "They {wi}injure{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "joining",
+      "old_sentence": "When we were on the plane we came up with a plan to join the mile high club. I went to the toilet first and told her to follow later and knock. ….",
+      "new_sentence": "The {wi}joining{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "mining",
+      "old_sentence": "image/video {wi}mining{/wi}",
+      "new_sentence": "The {wi}mining{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "pickup",
+      "old_sentence": "Is your order for {wi}pickup{/wi} or delivery?",
+      "new_sentence": "The {wi}pickup{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "producer",
+      "old_sentence": "Since Japan would coproduce these weapons under license to U.S. companies, it would need permission from Washington to export them.",
+      "new_sentence": "The {wi}producer{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "recede",
+      "old_sentence": "a {it}receding{/it} hairline",
+      "new_sentence": "They {wi}recede{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "rushing",
+      "old_sentence": "Reporters rushed out the story for the morning edition of the newspaper.",
+      "new_sentence": "The {wi}rushing{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "leaves",
+      "old_sentence": "Imposed … without so much as a by-your-leave.",
+      "new_sentence": "The {wi}leaves{/wi} was very helpful and kind.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "walking",
+      "old_sentence": "the {wi}walking{/wi} is slippery",
+      "new_sentence": "The {wi}walking{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "offence",
+      "old_sentence": "His conduct is an {wi}offense{/wi} to public decency.",
+      "new_sentence": "The {wi}offence{/wi} was very helpful and kind.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "passing",
+      "old_sentence": "Waited till the soldiers and wounded were all passed over ….",
+      "new_sentence": "The {wi}passing{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "various",
+      "old_sentence": "stop at {wi}various{/wi} towns",
+      "new_sentence": "The room was very {wi}various{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "choke",
+      "old_sentence": "The unwary guard was {it}choked{/it} to death by a prisoner.",
+      "new_sentence": "They {wi}choke{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "fairy",
+      "old_sentence": "The children loved stories about fairies and magic.",
+      "new_sentence": "The {wi}fairy{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "ally",
+      "old_sentence": "… in 1774 when the colonies formally {wi}allied{/wi} themselves against British power …",
+      "new_sentence": "They {wi}ally{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "antinomy",
+      "old_sentence": "… {it}antinomies{/it} of beauty and evil, freedom and slavery …",
+      "new_sentence": "The {wi}antinomy{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "casualty",
+      "old_sentence": "The army sustained heavy {it}casualties{/it}.",
+      "new_sentence": "The {wi}casualty{/wi} was very helpful and kind.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "cogitate",
+      "old_sentence": "{wi}cogitating{/wi} the possible consequences of my decision",
+      "new_sentence": "They {wi}cogitate{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "dramatic",
+      "old_sentence": "a {wi}dramatic{/wi} actor",
+      "new_sentence": "The room was very {wi}dramatic{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "emphasize",
+      "old_sentence": "{it}emphasized{/it} the need for reform",
+      "new_sentence": "They {wi}emphasize{/wi} every day after school.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "existence",
+      "old_sentence": "the {wi}existence{/wi} of other worlds",
+      "new_sentence": "The {wi}existence{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "gifted",
+      "old_sentence": "{wi}gifted{/wi} children",
+      "new_sentence": "The room was very {wi}gifted{/wi} and comfortable.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "heading",
+      "old_sentence": "After fourteen years as cohead of Sotheby's American paintings department, Meilman left in 1984 ….",
+      "new_sentence": "The {wi}heading{/wi} is important in modern society.",
+      "reason": "Auto-generated natural sentence"
+    }
+  ]
+}

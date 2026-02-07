@@ -1,0 +1,71 @@
+{
+  "source_file": "expert.json",
+  "entries": [
+    {
+      "word": "sling",
+      "sentence": "slung the sack over my shoulder",
+      "definition": "to cast with a sudden and usually sweeping or swirling motion",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "south america",
+      "sentence": "The word south america is used in advanced contexts.",
+      "definition": "DEFINITION NOT FOUND",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "status quo",
+      "sentence": "The word status quo is used in advanced contexts.",
+      "definition": "DEFINITION NOT FOUND",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "strike",
+      "sentence": "struck off through the brush",
+      "definition": "to take a course : go",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "sub rosa",
+      "sentence": "The word sub rosa is used in advanced contexts.",
+      "definition": "DEFINITION NOT FOUND",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "suckle",
+      "sentence": "a mother suckling her child",
+      "definition": "to give milk to from the breast or udder",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "swear word",
+      "sentence": "The swear word is important.",
+      "definition": "a profane or obscene oath or word",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "traverse",
+      "sentence": "light rays traversing a crystal",
+      "definition": "to go or travel across or over",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "typify",
+      "sentence": "In Boston, the highly recognizable Brahmin accent … {wi}typifies{/wi} the speech of New England gentry …",
+      "definition": "to represent in typical fashion : to constitute a typical mark or instance of",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "underlie",
+      "sentence": "ideas underlying the revolution",
+      "definition": "to lie or be situated under",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "waylay",
+      "sentence": "… he had been {wi}waylaid{/wi}, bound hand and foot, and thrown into a marsh. But he got out again, somehow, to cause a great deal of trouble yet.",
+      "definition": "to lie in wait for or attack (someone) from ambush",
+      "partOfSpeech": "動詞"
+    }
+  ]
+}

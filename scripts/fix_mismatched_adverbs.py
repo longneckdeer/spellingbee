@@ -10,11 +10,9 @@ import os
 import shutil
 import urllib.request
 
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-PROJECT_DIR = os.path.dirname(SCRIPT_DIR)
-DATA_DIR = os.path.join(PROJECT_DIR, 'src', 'gameTypes', 'english-spelling', 'data')
-AUDIO_DIR = os.path.join(PROJECT_DIR, 'public', 'audio')
-MW_KEY = os.environ.get("MW_COLLEGIATE_KEY", "")
+DATA_DIR = '/Users/jeffkuo/My Drive/AIProjects/spellingbee/src/gameTypes/english-spelling/data'
+AUDIO_DIR = '/Users/jeffkuo/My Drive/AIProjects/spellingbee/public/audio'
+MW_KEY = 'cfc2a612-6202-4231-a810-d613df83c908'
 
 # Adverbs to REMOVE (base word already exists)
 ADVERBS_TO_REMOVE = [

@@ -1,0 +1,305 @@
+{
+  "source_file": "university.json",
+  "entries": [
+    {
+      "word": "overall",
+      "sentence": "the pattern used {wi}overall{/wi}",
+      "definition": "with everyone or everything included",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "word": "overhead",
+      "sentence": "He went over his supervisor's head to complain to the company's president about the policy.",
+      "definition": "above someone's head : in the sky or space above someone",
+      "partOfSpeech": "adverb"
+    },
+    {
+      "word": "amenity",
+      "sentence": "hotels with modern {it}amenities{/it}",
+      "definition": "an item that increases comfort",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "brachiate",
+      "sentence": "a {it}brachiating{/it} gibbon",
+      "definition": "to progress by swinging from hold to hold by the arms",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "deceive",
+      "sentence": "{it}deceiving{/it} customers about the condition of the cars",
+      "definition": "to cause to accept as true or valid what is false or invalid",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "stupefy",
+      "sentence": "Veronica’s audacity and ungratefulness stupefied her best friend, Heather.",
+      "definition": "to astonish, make insensible",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "rearrange",
+      "sentence": "{wi}rearranged{/wi} the flowers on the table",
+      "definition": "to change the position or order of (things)",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "suffering",
+      "sentence": "The eagle suffers little birds to sing ….",
+      "definition": "pain that is caused by injury, illness, loss, etc. : physical, mental, or emotional pain",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "capability",
+      "sentence": "This vacant urban district has great {it}capabilities{/it}.",
+      "definition": "the quality or state of being capable; also : ability",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "cloying",
+      "sentence": "{wi}cloying{/wi} sweetness",
+      "definition": "disgusting or distasteful by reason of excess; also : excessively sweet or sentimental",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "conflate",
+      "sentence": "Even more often, outsiders {wi}conflate{/wi} the couple, and credit them with each other's characteristics.",
+      "definition": "to bring together : blend",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "counseling",
+      "sentence": "career {wi}counseling{/wi} for high schoolers",
+      "definition": "professional guidance of the individual by utilizing psychological methods especially in collecting case history data, using various techniques of the personal interview, and testing interests and aptitudes",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "embezzle",
+      "sentence": "{it}embezzled{/it} thousands of dollars",
+      "definition": "to steal money by falsifying records",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "enjoyable",
+      "sentence": "{wi}enjoyed{/wi} great success",
+      "definition": "to have a good time",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "exemplify",
+      "sentence": "anecdotes {wi}exemplifying{/wi} those virtues",
+      "definition": "to show or illustrate by example",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "fascinating",
+      "sentence": "a {wi}fascinating{/wi} documentary",
+      "definition": "very interesting or appealing",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "headquarters",
+      "sentence": "Separated the players from their wives, headquartering them in a separate hotel ….",
+      "definition": "a place from which something (such as a business or a military action) is controlled or directed",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "precious",
+      "sentence": "{wi}precious{/wi} jewels",
+      "definition": "rare and worth a lot of money",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "ruminate",
+      "sentence": "… {wi}ruminating{/wi} the contents of that last batch of letters …",
+      "definition": "to go over in the mind repeatedly and often casually or slowly",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "wanton",
+      "sentence": "{wi}wanton{/wi} cruelty",
+      "definition": "merciless, inhumane",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "accumulate",
+      "sentence": "{wi}accumulate{/wi} a fortune",
+      "definition": "to gather or pile up especially little by little : amass",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "bloviate",
+      "sentence": "pundits {it}bloviating{/it} on the radio",
+      "definition": "to speak or write verbosely and windily",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "connected",
+      "sentence": "presented a thoroughly {wi}connected{/wi} view of the problem",
+      "definition": "joined or linked together",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "electrical",
+      "sentence": "an {wi}electric{/wi} current",
+      "definition": "of or relating to electricity",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "missionary",
+      "sentence": "Several years ago, when I was working as a reporter based in Haiti, I came upon a group of older Christian {wi}missionaries{/wi} in the mountains above Port-au-Prince … They were there to build a school alongside a Methodist church.",
+      "definition": "a person who is sent to a foreign country to do religious work (such as to convince people to join a religion or to help people who are sick, poor, etc.)",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "establishment",
+      "sentence": "the literary {wi}establishment{/wi}",
+      "definition": "a place or organization where people live or do business",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "impinge",
+      "sentence": "{wi}impinge{/wi} on other people's rights",
+      "definition": "encroach, infringe",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "innovate",
+      "sentence": "The dictates of my father were … not to be altered, {it}innovated{/it}, or even discussed …",
+      "definition": "to do something in an unprecedented way",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "negotiator",
+      "sentence": "Teachers are {it}negotiating{/it} for higher salaries.",
+      "definition": "a person who is involved in formal financial or political discussions in order to try to reach an agreement",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "obtainable",
+      "sentence": "The information was difficult to {wi}obtain{/wi}.",
+      "definition": "to gain or attain usually by planned action or effort",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "removable",
+      "sentence": "{wi}remove{/wi} soldiers to the front",
+      "definition": "able to be removed : made to be detached or taken out",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "revolting",
+      "sentence": "{wi}revolting{/wi} behavior",
+      "definition": "extremely unpleasant or offensive",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "quickness",
+      "sentence": "walked with {wi}quick{/wi} steps",
+      "definition": "done or happening in a short amount of time",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "calamity",
+      "sentence": "{it}calamities{/it} of nature",
+      "definition": "a disastrous event marked by great loss and lasting distress and suffering",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "clemency",
+      "sentence": "The judge ignored the prisoner's pleas for {wi}clemency{/wi}.",
+      "definition": "disposition to be merciful and especially to moderate the severity of punishment due",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "remarriage",
+      "sentence": "{ldquo}… So they got divorced. But they loved each other, so after a break of 10 years, they {wi}remarried{/wi} …{rdquo}",
+      "definition": "to marry again",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "continuing",
+      "sentence": "I appreciate your {wi}continuing{/wi} support.",
+      "definition": "continuous, constant",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "embarrassing",
+      "sentence": "an {wi}embarrassing{/wi} error",
+      "definition": "causing a feeling of self-conscious confusion and distress : causing embarrassment",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "intriguing",
+      "sentence": "an {wi}intriguing{/wi} story",
+      "definition": "extremely interesting : fascinating",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "perpetrator",
+      "sentence": "{wi}perpetrate{/wi} a pun",
+      "definition": "to bring about or carry out (something, such as a crime or deception) : commit",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "resounding",
+      "sentence": "a {wi}resounding{/wi} success",
+      "definition": "producing a loud, deep sound that lasts for a long time",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "programming",
+      "sentence": "Users preprogram their contacts into the app, and with the press of a button, the app will automatically text those contacts.",
+      "definition": "the act or job of creating computer programs",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "rationalism",
+      "sentence": "Anti-rational thinking/behavior.",
+      "definition": "the belief that reason and experience and not emotions or religious beliefs should be the basis for your actions, opinions, etc.",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "reassuring",
+      "sentence": "{wi}reassuring{/wi} news",
+      "definition": "making someone feel less afraid, upset, or doubtful",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "retaliatory",
+      "sentence": "{wi}retaliate{/wi} an injury",
+      "definition": "to return like for like; especially : to get revenge",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "complacent",
+      "sentence": "The American people, so {wi}complacent{/wi} up to then, suddenly buzzed with wild rumors.",
+      "definition": "marked by satisfaction with the status quo especially when accompanied by unawareness of actual dangers or deficiencies : marked by complacency",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "endorsement",
+      "sentence": "went ahead without the {wi}endorsement{/wi} of his boss",
+      "definition": "the act or result of endorsing someone or something: such as",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "chimerical",
+      "sentence": "{wi}chimerical{/wi} dreams of economic stability",
+      "definition": "existing only as the product of unchecked imagination : fantastically visionary or improbable",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "repressive",
+      "sentence": "injustice was {wi}repressed{/wi}",
+      "definition": "controlling people by force",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "recognizable",
+      "sentence": "{wi}recognize{/wi} an act of bravery with the award of a medal",
+      "definition": "to acknowledge formally: such as",
+      "partOfSpeech": "verb"
+    }
+  ]
+}

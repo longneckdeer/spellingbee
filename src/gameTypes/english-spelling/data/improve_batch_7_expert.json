@@ -1,0 +1,305 @@
+{
+  "source_file": "expert.json",
+  "entries": [
+    {
+      "word": "hibernate",
+      "sentence": "bears hibernating in their dens",
+      "definition": "to pass the winter in a torpid or resting state",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "honorarium",
+      "sentence": "donated the honoraria from his speaking engagements",
+      "definition": "a payment for a service (such as making a speech) on which custom or propriety forbids a price to be set",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "hue and cry",
+      "sentence": "The word hue and cry is used in advanced contexts.",
+      "definition": "DEFINITION NOT FOUND",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "humanize",
+      "sentence": "Much as we try, we can't stop {wi}humanizing{/wi} our horses.",
+      "definition": "to represent (something) as human : to attribute human qualities to (something)",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "ikon",
+      "sentence": "a civil rights {wi}icon{/wi}",
+      "definition": "a person or thing widely admired especially for having great influence or significance in a particular sphere",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "illiteracy",
+      "sentence": "misspellings and {wi}illiteracies{/wi}",
+      "definition": "the quality or state of being illiterate; especially : inability to read or write",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "imbed",
+      "sentence": "fossils embedded in stone",
+      "definition": "to enclose closely in or as if in a matrix",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "imbibe",
+      "sentence": "{wi}imbibing{/wi} large amounts of coffee/wine",
+      "definition": "drink",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "impersonate",
+      "sentence": "{wi}impersonating{/wi} a police officer",
+      "definition": "to assume or act the character of : personate",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "impropriety",
+      "sentence": "accused of financial {wi}improprieties{/wi}",
+      "definition": "an improper or indecorous act or remark; especially : an unacceptable use of a word or of language",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "inasmuch as",
+      "sentence": "The word inasmuch as is useful.",
+      "definition": "in the degree that : insofar as",
+      "partOfSpeech": "連詞"
+    },
+    {
+      "word": "inasmuch as",
+      "sentence": "The word inasmuch as is useful.",
+      "definition": "in the degree that : insofar as",
+      "partOfSpeech": "連詞"
+    },
+    {
+      "word": "indoctrinate",
+      "sentence": "… a dictator who has spent 40 years {wi}indoctrinating{/wi} his people.",
+      "definition": "to imbue with a usually partisan or sectarian opinion, point of view, or principle",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "infirmity",
+      "sentence": "One of the besetting infirmities of living creatures is egotism.",
+      "definition": "the quality or state of being infirm",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "in sight",
+      "sentence": "The in sight is important.",
+      "definition": "at or within a reasonable distance or time",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "insomuch as",
+      "sentence": "The word insomuch as is useful.",
+      "definition": "inasmuch as",
+      "partOfSpeech": "連詞"
+    },
+    {
+      "word": "intricacy",
+      "sentence": "the intricacies of a plot",
+      "definition": "the quality or state of being intricate",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "irradiate",
+      "sentence": "irradiating strength and comfort",
+      "definition": "to affect or treat by radiant energy (such as heat); specifically : to treat by irradiation",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "jostle",
+      "sentence": "a jostling crowd",
+      "definition": "to come in contact or into collision",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "layperson",
+      "sentence": "Unitarian Universalists are also active advocates for trans rights, and we have many LGBTQ+ clergy and {wi}laypeople{/wi} in our congregations today.",
+      "definition": "a member of the laity",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "make shift",
+      "sentence": "We didn't have much money, but we {wi}made shift{/wi}.",
+      "definition": "to manage with difficulty",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "masticate",
+      "sentence": "The cows were masticating their food.",
+      "definition": "to grind or crush (food) with or as if with the teeth : chew",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "memorialize",
+      "sentence": "a statue {wi}memorializing{/wi} the event",
+      "definition": "to address or petition by a memorial",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "mislay",
+      "sentence": "mislaid the car keys",
+      "definition": "to put in an unremembered place : lose",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "mortify",
+      "sentence": "… was no longer mortified by comparisons between her sisters' beauty and her own …",
+      "definition": "to subject to severe and vexing embarrassment : shame",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "naivete",
+      "sentence": "The farce is noted for its ridiculous acts and {wi}naïvetés{/wi}.",
+      "definition": "a naive remark or action",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "nibble",
+      "sentence": "waves nibbling the shore",
+      "definition": "to bite gently",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "nicety",
+      "sentence": "enjoy the niceties of life",
+      "definition": "the quality or state of being nice",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "non sequitur",
+      "sentence": "The word non sequitur is used in advanced contexts.",
+      "definition": "DEFINITION NOT FOUND",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "olive branch",
+      "sentence": "The olive branch is important.",
+      "definition": "a branch of the olive tree especially when used as a symbol of peace",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "orgy",
+      "sentence": "Roman orgies in honor of Bacchus",
+      "definition": "secret ceremonial rites held in honor of an ancient Greek or Roman deity and usually characterized by ecstatic singing and dancing",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "orgy",
+      "sentence": "Roman orgies in honor of Bacchus",
+      "definition": "secret ceremonial rites held in honor of an ancient Greek or Roman deity and usually characterized by ecstatic singing and dancing",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "out of the way",
+      "sentence": "didn't know I'd said anything {wi}out of the way{/wi}",
+      "definition": "wrong, improper",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "overrun",
+      "sentence": "the plane overran the runway",
+      "definition": "to defeat decisively and occupy the positions of",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "parry",
+      "sentence": "parried forcefully and knocked his opponent's sword out of his hand",
+      "definition": "to ward off a weapon or blow",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "parse",
+      "sentence": "… having trouble parsing … explanations for dwindling market shares.",
+      "definition": "to divide (a sentence) into grammatical parts and identify the parts and their relations to each other",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "pass off",
+      "sentence": "The word pass off is used in advanced contexts.",
+      "definition": "DEFINITION NOT FOUND",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "pass off",
+      "sentence": "They pass off regularly.",
+      "definition": "to make public or offer for sale with intent to deceive",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "per se",
+      "sentence": "The word per se is used in advanced contexts.",
+      "definition": "DEFINITION NOT FOUND",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "personify",
+      "sentence": "a teacher who personified patience",
+      "definition": "to conceive of or represent as a person or as having human qualities or powers",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "prima ballerina",
+      "sentence": "The prima ballerina is important.",
+      "definition": "the principal female dancer in a ballet company",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "punch line",
+      "sentence": "The word punch line is used in advanced contexts.",
+      "definition": "DEFINITION NOT FOUND",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "pursuant to",
+      "sentence": "The word pursuant to is useful.",
+      "definition": "in carrying out : in conformity with : according to",
+      "partOfSpeech": "介詞"
+    },
+    {
+      "word": "qui vive",
+      "sentence": "The word qui vive is used in advanced contexts.",
+      "definition": "DEFINITION NOT FOUND",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "rue",
+      "sentence": "{wi}ruing{/wi} his decision",
+      "definition": "to feel penitence, remorse, or regret for",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "savoir faire",
+      "sentence": "The savoir faire is important.",
+      "definition": "capacity for appropriate action; especially : a polished sureness in social behavior",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "sergeant at arms",
+      "sentence": "The sergeant at arms is important.",
+      "definition": "an officer of an organization (such as a legislative body or court of law) who preserves order and executes commands",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "sergeant major",
+      "sentence": "The sergeant major is important.",
+      "definition": "a noncommissioned officer in the army or marine corps serving as chief administrative assistant in a headquarters",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "shear",
+      "sentence": "… lives shorn of any hope …",
+      "definition": "to cut off the hair from",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "shoot",
+      "sentence": "shot out the light",
+      "definition": "to eject or impel or cause to be ejected or impelled by a sudden release of tension (as of a bowstring or slingshot or by a flick of a finger)",
+      "partOfSpeech": "動詞"
+    }
+  ]
+}

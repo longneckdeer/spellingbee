@@ -1,0 +1,107 @@
+{
+  "source_file": "university.json",
+  "entries": [
+    {
+      "word": "renovation",
+      "sentence": "the church was {it}renovated{/it} by a new ecumenical spirit",
+      "definition": "to restore to a former better state (as by cleaning, repairing, or rebuilding)",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "replication",
+      "sentence": "{wi}replication{/wi} of DNA",
+      "definition": "answer, reply",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "entertaining",
+      "sentence": "an {wi}entertaining{/wi} book",
+      "definition": "amusing and enjoyable : providing entertainment",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "gesticulate",
+      "sentence": "arguing and {it}gesticulating{/it} wildly",
+      "definition": "to make gestures especially when speaking",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "overwhelming",
+      "sentence": "{wi}overwhelming{/wi} force",
+      "definition": "very great in number, effect, or force",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "autobiography",
+      "sentence": "celebrity {wi}autobiographies{/wi}",
+      "definition": "the biography of a person narrated by that person : a usually written account of a person's life in their own words",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "compassionate",
+      "sentence": "a {wi}compassionate{/wi} friend",
+      "definition": "having or showing compassion : sympathetic",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "transcendent",
+      "sentence": "… the antislavery movement … recognized the {wi}transcendent{/wi} importance of liberty …",
+      "definition": "exceeding usual limits : surpassing",
+      "partOfSpeech": "adjective"
+    },
+    {
+      "word": "reimbursement",
+      "sentence": "{wi}reimburse{/wi} travel expenses",
+      "definition": "to pay someone an amount of money equal to an amount that person has spent—often + for",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "reinforcement",
+      "sentence": "a bridge in need of steel {wi}reinforcements{/wi}",
+      "definition": "people and supplies that are sent to help or support an army, military force, etc.",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "geographical",
+      "sentence": "the {wi}geographic{/wi} features of Ohio",
+      "definition": "an area of study that deals with the location of countries, cities, rivers, mountains, lakes, etc.",
+      "partOfSpeech": "noun"
+    },
+    {
+      "word": "regimentation",
+      "sentence": "{wi}regiment{/wi} an entire country",
+      "definition": "to organize rigidly especially for the sake of regulation or control",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "resettlement",
+      "sentence": "The family {wi}resettled{/wi} in the United States.",
+      "definition": "to settle (someone or something) again or anew; especially : to move (people) to a new place to live",
+      "partOfSpeech": "verb"
+    },
+    {
+      "word": "beneficiary",
+      "sentence": "the main {it}beneficiaries{/it} of these economic reforms",
+      "definition": "a person or thing that receives help or an advantage from something : one that benefits from something",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "word": "embody",
+      "sentence": "… men who greatly {it}embodied{/it} the idealism of American life …",
+      "definition": "to give a body to (a spirit) : incarnate",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "irrigate",
+      "sentence": "{wi}irrigating{/wi} the cotton plants",
+      "definition": "wet, moisten: such as",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "word": "mockery",
+      "sentence": "… laying himself open to the jeers and {it}mockeries{/it} of his rebellious subjects …",
+      "definition": "insulting or contemptuous action or speech : derision",
+      "partOfSpeech": "名詞"
+    }
+  ]
+}

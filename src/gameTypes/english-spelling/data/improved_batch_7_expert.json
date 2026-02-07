@@ -1,0 +1,305 @@
+{
+  "source_file": "expert.json",
+  "improvements": [
+    {
+      "word": "hibernate",
+      "old_sentence": "bears hibernating in their dens",
+      "new_sentence": "The methodology seeks to {wi}hibernate{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "honorarium",
+      "old_sentence": "donated the honoraria from his speaking engagements",
+      "new_sentence": "The {wi}honorarium{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "hue and cry",
+      "old_sentence": "The word hue and cry is used in advanced contexts.",
+      "new_sentence": "The {wi}hue and cry{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "humanize",
+      "old_sentence": "Much as we try, we can't stop {wi}humanizing{/wi} our horses.",
+      "new_sentence": "The methodology seeks to {wi}humanize{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "ikon",
+      "old_sentence": "a civil rights {wi}icon{/wi}",
+      "new_sentence": "The {wi}ikon{/wi} demonstrated remarkable expertise in this domain.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "illiteracy",
+      "old_sentence": "misspellings and {wi}illiteracies{/wi}",
+      "new_sentence": "The {wi}illiteracy{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "imbed",
+      "old_sentence": "fossils embedded in stone",
+      "new_sentence": "The methodology seeks to {wi}imbed{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "imbibe",
+      "old_sentence": "{wi}imbibing{/wi} large amounts of coffee/wine",
+      "new_sentence": "The methodology seeks to {wi}imbibe{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "impersonate",
+      "old_sentence": "{wi}impersonating{/wi} a police officer",
+      "new_sentence": "The methodology seeks to {wi}impersonate{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "impropriety",
+      "old_sentence": "accused of financial {wi}improprieties{/wi}",
+      "new_sentence": "The {wi}impropriety{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "inasmuch as",
+      "old_sentence": "The word inasmuch as is useful.",
+      "new_sentence": "The term '{wi}inasmuch as{/wi}' encompasses multiple dimensions of meaning.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "inasmuch as",
+      "old_sentence": "The word inasmuch as is useful.",
+      "new_sentence": "The term '{wi}inasmuch as{/wi}' encompasses multiple dimensions of meaning.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "indoctrinate",
+      "old_sentence": "… a dictator who has spent 40 years {wi}indoctrinating{/wi} his people.",
+      "new_sentence": "The methodology seeks to {wi}indoctrinate{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "infirmity",
+      "old_sentence": "One of the besetting infirmities of living creatures is egotism.",
+      "new_sentence": "The {wi}infirmity{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "in sight",
+      "old_sentence": "The in sight is important.",
+      "new_sentence": "The {wi}in sight{/wi} marked an important transition.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "insomuch as",
+      "old_sentence": "The word insomuch as is useful.",
+      "new_sentence": "The term '{wi}insomuch as{/wi}' encompasses multiple dimensions of meaning.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "intricacy",
+      "old_sentence": "the intricacies of a plot",
+      "new_sentence": "The {wi}intricacy{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "irradiate",
+      "old_sentence": "irradiating strength and comfort",
+      "new_sentence": "The methodology seeks to {wi}irradiate{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "jostle",
+      "old_sentence": "a jostling crowd",
+      "new_sentence": "The methodology seeks to {wi}jostle{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "layperson",
+      "old_sentence": "Unitarian Universalists are also active advocates for trans rights, and we have many LGBTQ+ clergy and {wi}laypeople{/wi} in our congregations today.",
+      "new_sentence": "The {wi}layperson{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "make shift",
+      "old_sentence": "We didn't have much money, but we {wi}made shift{/wi}.",
+      "new_sentence": "The {wi}make shift{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "masticate",
+      "old_sentence": "The cows were masticating their food.",
+      "new_sentence": "The methodology seeks to {wi}masticate{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "memorialize",
+      "old_sentence": "a statue {wi}memorializing{/wi} the event",
+      "new_sentence": "The methodology seeks to {wi}memorialize{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "mislay",
+      "old_sentence": "mislaid the car keys",
+      "new_sentence": "The methodology seeks to {wi}mislay{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "mortify",
+      "old_sentence": "… was no longer mortified by comparisons between her sisters' beauty and her own …",
+      "new_sentence": "The methodology seeks to {wi}mortify{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "naivete",
+      "old_sentence": "The farce is noted for its ridiculous acts and {wi}naïvetés{/wi}.",
+      "new_sentence": "The {wi}naivete{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "nibble",
+      "old_sentence": "waves nibbling the shore",
+      "new_sentence": "The methodology seeks to {wi}nibble{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "nicety",
+      "old_sentence": "enjoy the niceties of life",
+      "new_sentence": "The {wi}nicety{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "non sequitur",
+      "old_sentence": "The word non sequitur is used in advanced contexts.",
+      "new_sentence": "The {wi}non sequitur{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "olive branch",
+      "old_sentence": "The olive branch is important.",
+      "new_sentence": "The {wi}olive branch{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "orgy",
+      "old_sentence": "Roman orgies in honor of Bacchus",
+      "new_sentence": "The {wi}orgy{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "orgy",
+      "old_sentence": "Roman orgies in honor of Bacchus",
+      "new_sentence": "The {wi}orgy{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "out of the way",
+      "old_sentence": "didn't know I'd said anything {wi}out of the way{/wi}",
+      "new_sentence": "The {wi}out of the way{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "overrun",
+      "old_sentence": "the plane overran the runway",
+      "new_sentence": "The methodology seeks to {wi}overrun{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "parry",
+      "old_sentence": "parried forcefully and knocked his opponent's sword out of his hand",
+      "new_sentence": "The methodology seeks to {wi}parry{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "parse",
+      "old_sentence": "… having trouble parsing … explanations for dwindling market shares.",
+      "new_sentence": "The methodology seeks to {wi}parse{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "pass off",
+      "old_sentence": "The word pass off is used in advanced contexts.",
+      "new_sentence": "The {wi}pass off{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "pass off",
+      "old_sentence": "They pass off regularly.",
+      "new_sentence": "The methodology seeks to {wi}pass off{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "per se",
+      "old_sentence": "The word per se is used in advanced contexts.",
+      "new_sentence": "The {wi}per se{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "personify",
+      "old_sentence": "a teacher who personified patience",
+      "new_sentence": "The methodology seeks to {wi}personify{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "prima ballerina",
+      "old_sentence": "The prima ballerina is important.",
+      "new_sentence": "The {wi}prima ballerina{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "punch line",
+      "old_sentence": "The word punch line is used in advanced contexts.",
+      "new_sentence": "The {wi}punch line{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "pursuant to",
+      "old_sentence": "The word pursuant to is useful.",
+      "new_sentence": "The term '{wi}pursuant to{/wi}' encompasses multiple dimensions of meaning.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "qui vive",
+      "old_sentence": "The word qui vive is used in advanced contexts.",
+      "new_sentence": "The {wi}qui vive{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "rue",
+      "old_sentence": "{wi}ruing{/wi} his decision",
+      "new_sentence": "The methodology seeks to {wi}rue{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "savoir faire",
+      "old_sentence": "The savoir faire is important.",
+      "new_sentence": "The {wi}savoir faire{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "sergeant at arms",
+      "old_sentence": "The sergeant at arms is important.",
+      "new_sentence": "The {wi}sergeant at arms{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "sergeant major",
+      "old_sentence": "The sergeant major is important.",
+      "new_sentence": "The {wi}sergeant major{/wi} represents a fundamental concept in this discipline.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "shear",
+      "old_sentence": "… lives shorn of any hope …",
+      "new_sentence": "The methodology seeks to {wi}shear{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "shoot",
+      "old_sentence": "shot out the light",
+      "new_sentence": "The methodology seeks to {wi}shoot{/wi} the underlying principles.",
+      "reason": "Auto-generated natural sentence"
+    }
+  ]
+}

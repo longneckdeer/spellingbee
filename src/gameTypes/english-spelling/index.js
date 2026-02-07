@@ -9,11 +9,11 @@ export default {
   name: '英文拼字',
   icon: '🔤',
   levels: [
-    { id: 1, name: '小學', data: elementary, difficultyRange: [0, 35] },
-    { id: 2, name: '中學', data: middle, difficultyRange: [25, 60] },
-    { id: 3, name: '高中', data: high, difficultyRange: [50, 80] },
-    { id: 4, name: '大學', data: university, difficultyRange: [70, 95] },
-    { id: 5, name: '英文高手', data: expert, difficultyRange: [85, 100] }
+    { id: 1, name: '小學', data: elementary, difficultyRange: [1, 30] },
+    { id: 2, name: '中學', data: middle, difficultyRange: [31, 50] },
+    { id: 3, name: '高中', data: high, difficultyRange: [51, 70] },
+    { id: 4, name: '大學', data: university, difficultyRange: [71, 90] },
+    { id: 5, name: '英文高手', data: expert, difficultyRange: [91, 120] }
   ],
   tts: { language: 'en-US', rate: 0.9 },
 

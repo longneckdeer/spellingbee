@@ -167,6 +167,13 @@ export const gameStore = reactive({
     if (tableIndex < 0 || tableIndex >= this.tables.length) return false
     if (this.tables[tableIndex].playerId !== null) return false // Already occupied
 
+    // Check if player is already sitting at another table
+    const existingTable = this.tables.find(t => t.playerId === playerId)
+    if (existingTable) {
+      console.warn(`Player ${playerId} is already seated at table ${existingTable.index}, cannot sit at table ${tableIndex}`)
+      return false
+    }
+
     this.tables[tableIndex].playerId = playerId
     this.tables[tableIndex].nickname = nickname
     this.tables[tableIndex].currentTyping = ''
@@ -421,8 +428,16 @@ export const gameStore = reactive({
 
   applyStateSync(state) {
     if (state.tables) {
-      // Trust server state completely - server is the source of truth
+      // Trust server state, but preserve local hasLeft to prevent race condition
+      // (player clicks leave, stale state sync arrives before server processes PLAYER_LEFT)
       state.tables.forEach((syncedTable, index) => {
+        // If local player initiated leave (hasLeft = true), preserve it
+        // to prevent stale state sync from overwriting
+        if (this.tables[index].playerId === this.localPlayer.id &&
+            this.tables[index].hasLeft &&
+            !syncedTable.hasLeft) {
+          syncedTable.hasLeft = true
+        }
         this.tables[index] = { ...syncedTable }
       })
     }
@@ -434,7 +449,8 @@ export const gameStore = reactive({
 
     // Restore local player seat status
     const myTable = this.tables.find(t => t.playerId === this.localPlayer.id)
-    if (myTable) {
+    if (myTable && !myTable.hasLeft) {
+      // Only restore seated status if player hasn't left mid-game
       this.localPlayer.isSeated = true
       this.localPlayer.seatIndex = myTable.index
     } else {

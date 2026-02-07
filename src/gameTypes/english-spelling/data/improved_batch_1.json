@@ -1,0 +1,215 @@
+{
+  "source_file": "middle.json",
+  "improvements": [
+    {
+      "word": "empty",
+      "old_sentence": "{wi}empty{/wi} shelves",
+      "new_sentence": "The shelves in the store were completely empty after the sale.",
+      "reason": "Fragment → complete sentence"
+    },
+    {
+      "word": "final",
+      "old_sentence": "All sales are {wi}final{/wi}.",
+      "new_sentence": "All sales are {wi}final{/wi}.",
+      "reason": "Keep - already good"
+    },
+    {
+      "word": "gay",
+      "old_sentence": "{wi}gay{/wi} people/men/women",
+      "new_sentence": "The city has a large {wi}gay{/wi} community.",
+      "reason": "Fragment → complete sentence"
+    },
+    {
+      "word": "operate",
+      "old_sentence": "factors {it}operating{/it} against our success",
+      "new_sentence": "The surgeon will {wi}operate{/wi} on the patient tomorrow morning.",
+      "reason": "Fragment → complete sentence, clearer meaning"
+    },
+    {
+      "word": "TV",
+      "old_sentence": "I for one am rooting for anything that stems the rising tide of reality on television.",
+      "new_sentence": "I watch {wi}TV{/wi} for about two hours every evening.",
+      "reason": "Contains 'television' not 'TV' → simple, clear sentence"
+    },
+    {
+      "word": "say",
+      "old_sentence": "'Hello,' she said with a warm smile.",
+      "new_sentence": "'Hello,' she {wi}said{/wi} with a warm smile.",
+      "reason": "Keep - already good"
+    },
+    {
+      "word": "she",
+      "old_sentence": "{wi}she{/wi} is my wife",
+      "new_sentence": "{wi}She{/wi} is my best friend from school.",
+      "reason": "Add capital, better context for middle school"
+    },
+    {
+      "word": "sky",
+      "old_sentence": "… temperate English {it}skies{/it} …",
+      "new_sentence": "The {wi}sky{/wi} turned dark gray before the storm.",
+      "reason": "Fragment → complete sentence"
+    },
+    {
+      "word": "win",
+      "old_sentence": "Our team won the championship game.",
+      "new_sentence": "Our team {wi}won{/wi} the championship game.",
+      "reason": "Keep - already good"
+    },
+    {
+      "word": "have",
+      "old_sentence": "{wi}have{/wi} a car",
+      "new_sentence": "My parents {wi}have{/wi} a car and a motorcycle.",
+      "reason": "Fragment → complete sentence"
+    },
+    {
+      "word": "lie",
+      "old_sentence": "She was lying when she said she didn't break the vase.",
+      "new_sentence": "She was {wi}lying{/wi} when she said she didn't break the vase.",
+      "reason": "Keep - already good"
+    },
+    {
+      "word": "make",
+      "old_sentence": "When he lost his driver's license, he made a virtue of necessity and got in shape by riding his bike to work.",
+      "new_sentence": "I will {wi}make{/wi} a birthday cake for my mother.",
+      "reason": "Too complex idiom → simple, clear sentence"
+    },
+    {
+      "word": "rice",
+      "old_sentence": "Ricing the spuds with the butter and cream, rather than mashing them, makes them light and airy, and gives you a completely different experience.",
+      "new_sentence": "We eat {wi}rice{/wi} with almost every meal in Taiwan.",
+      "reason": "Wrong usage (ricing as verb) → simple, culturally relevant"
+    },
+    {
+      "word": "swim",
+      "old_sentence": "a cloud {it}swam{/it} slowly across the moon",
+      "new_sentence": "I learned to {wi}swim{/wi} when I was seven years old.",
+      "reason": "Poetic/confusing → simple, clear"
+    },
+    {
+      "word": "USA",
+      "old_sentence": "Maybe Cowell can give him a bell towards the end of his marathon broadcast—that would certainly wake him up.",
+      "new_sentence": "The {wi}USA{/wi} is located in North America.",
+      "reason": "Wrong sentence → simple, clear"
+    },
+    {
+      "word": "ring",
+      "old_sentence": "a key {wi}ring{/wi}",
+      "new_sentence": "She put the key {wi}ring{/wi} in her purse.",
+      "reason": "Fragment → complete sentence"
+    },
+    {
+      "word": "rise",
+      "old_sentence": "a belief that the dead will {wi}rise{/wi} again",
+      "new_sentence": "The sun will {wi}rise{/wi} at 6:30 tomorrow morning.",
+      "reason": "Religious → simple, everyday usage"
+    },
+    {
+      "word": "shout",
+      "old_sentence": "… a quality that {wi}shouts{/wi} from good novels …",
+      "new_sentence": "Please don't {wi}shout{/wi} in the library.",
+      "reason": "Abstract/awkward → simple, clear"
+    },
+    {
+      "word": "sister",
+      "old_sentence": "{wi}sister{/wi} cities",
+      "new_sentence": "My {wi}sister{/wi} is three years younger than me.",
+      "reason": "Fragment → complete sentence, better meaning"
+    },
+    {
+      "word": "smoke",
+      "old_sentence": "If a guy's going to hit you … he certainly isn't going to throw a spitter—he gives you {wi}smoke{/wi}.",
+      "new_sentence": "You can see {wi}smoke{/wi} rising from the chimney.",
+      "reason": "Baseball idiom → simple, clear"
+    },
+    {
+      "word": "spend",
+      "old_sentence": "the hurricane gradually {it}spent{/it} itself",
+      "new_sentence": "I {wi}spend{/wi} about an hour doing homework every day.",
+      "reason": "Confusing usage → simple, common meaning"
+    },
+    {
+      "word": "tooth",
+      "old_sentence": "drug laws with {it}teeth{/it}",
+      "new_sentence": "I brush my {it}teeth{/it} twice a day.",
+      "reason": "Idiom → simple, everyday usage"
+    },
+    {
+      "word": "twenty",
+      "old_sentence": "With 20/20 hindsight we now see where our strategy went wrong.",
+      "new_sentence": "There are {wi}twenty{/wi} students in our class.",
+      "reason": "Idiom with numbers → simple, spelled out"
+    },
+    {
+      "word": "socks",
+      "old_sentence": "Ready to sock it to somebody … that they were mad as hell about.",
+      "new_sentence": "I need to buy new {wi}socks{/wi} because mine have holes.",
+      "reason": "Wrong (verb 'sock') → correct noun usage"
+    },
+    {
+      "word": "someone",
+      "old_sentence": "I'm sorry you lost. I guess it just wasn't your day.",
+      "new_sentence": "{wi}Someone{/wi} left their bag on the bus.",
+      "reason": "Wrong sentence → simple, clear"
+    },
+    {
+      "word": "happen",
+      "old_sentence": "Mistakes will {wi}happen{/wi}.",
+      "new_sentence": "Mistakes will {wi}happen{/wi}.",
+      "reason": "Keep - already good"
+    },
+    {
+      "word": "leader",
+      "old_sentence": "The tour {wi}leader{/wi} recommended several restaurants in the area.",
+      "new_sentence": "The tour {wi}leader{/wi} recommended several restaurants in the area.",
+      "reason": "Keep - already good"
+    },
+    {
+      "word": "string",
+      "old_sentence": "garnished with potato {wi}strings{/wi}",
+      "new_sentence": "We need some {wi}string{/wi} to tie the package.",
+      "reason": "Fragment → complete sentence"
+    },
+    {
+      "word": "throw",
+      "old_sentence": "{wi}throw{/wi} a baseball",
+      "new_sentence": "Can you {wi}throw{/wi} the ball to me?",
+      "reason": "Fragment → complete sentence"
+    },
+    {
+      "word": "tidy",
+      "old_sentence": "a {wi}tidy{/wi} mind",
+      "new_sentence": "Please keep your room {wi}tidy{/wi}.",
+      "reason": "Fragment → complete sentence, clearer meaning"
+    },
+    {
+      "word": "scared",
+      "old_sentence": "{wi}scared{/wi} of snakes",
+      "new_sentence": "I'm {wi}scared{/wi} of snakes and spiders.",
+      "reason": "Fragment → complete sentence"
+    },
+    {
+      "word": "shorts",
+      "old_sentence": "The electrical system also received upgrades: Most rooms had only three or fewer outlets, and plugging in multiple devices usually shorted the circuit.",
+      "new_sentence": "I wear {wi}shorts{/wi} and a T-shirt in the summer.",
+      "reason": "Wrong (verb 'shorted') → correct noun usage"
+    },
+    {
+      "word": "puppy",
+      "old_sentence": "a computer that is one fast {wi}puppy{/wi}",
+      "new_sentence": "Our new {wi}puppy{/wi} is very playful and cute.",
+      "reason": "Idiom/slang → simple, literal meaning"
+    },
+    {
+      "word": "well",
+      "old_sentence": "a potential {wi}well{/wi}",
+      "new_sentence": "She speaks English very {wi}well{/wi}.",
+      "reason": "Technical term → common adverb usage"
+    },
+    {
+      "word": "seldom",
+      "old_sentence": "Such radical opinions have rarely, if ever, been heard here before.",
+      "new_sentence": "I {wi}seldom{/wi} eat fast food because it's unhealthy.",
+      "reason": "Wrong word (rarely) → correct usage"
+    }
+  ]
+}

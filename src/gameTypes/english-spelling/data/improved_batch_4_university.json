@@ -1,0 +1,305 @@
+{
+  "source_file": "university.json",
+  "improvements": [
+    {
+      "word": "overall",
+      "old_sentence": "the pattern used {wi}overall{/wi}",
+      "new_sentence": "The study aims to {wi}overall{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "overhead",
+      "old_sentence": "He went over his supervisor's head to complain to the company's president about the policy.",
+      "new_sentence": "The study aims to {wi}overhead{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "amenity",
+      "old_sentence": "hotels with modern {it}amenities{/it}",
+      "new_sentence": "The concept of {wi}amenity{/wi} is widely discussed in academic circles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "brachiate",
+      "old_sentence": "a {it}brachiating{/it} gibbon",
+      "new_sentence": "The study aims to {wi}brachiate{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "deceive",
+      "old_sentence": "{it}deceiving{/it} customers about the condition of the cars",
+      "new_sentence": "The study aims to {wi}deceive{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "stupefy",
+      "old_sentence": "Veronica’s audacity and ungratefulness stupefied her best friend, Heather.",
+      "new_sentence": "The study aims to {wi}stupefy{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "rearrange",
+      "old_sentence": "{wi}rearranged{/wi} the flowers on the table",
+      "new_sentence": "The study aims to {wi}rearrange{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "suffering",
+      "old_sentence": "The eagle suffers little birds to sing ….",
+      "new_sentence": "The concept of {wi}suffering{/wi} is widely discussed in academic circles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "capability",
+      "old_sentence": "This vacant urban district has great {it}capabilities{/it}.",
+      "new_sentence": "The concept of {wi}capability{/wi} is widely discussed in academic circles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "cloying",
+      "old_sentence": "{wi}cloying{/wi} sweetness",
+      "new_sentence": "The {wi}cloying{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "conflate",
+      "old_sentence": "Even more often, outsiders {wi}conflate{/wi} the couple, and credit them with each other's characteristics.",
+      "new_sentence": "The study aims to {wi}conflate{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "counseling",
+      "old_sentence": "career {wi}counseling{/wi} for high schoolers",
+      "new_sentence": "The {wi}counseling{/wi} contributed significantly to the project.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "embezzle",
+      "old_sentence": "{it}embezzled{/it} thousands of dollars",
+      "new_sentence": "The study aims to {wi}embezzle{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "enjoyable",
+      "old_sentence": "{wi}enjoyed{/wi} great success",
+      "new_sentence": "The study aims to {wi}enjoyable{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "exemplify",
+      "old_sentence": "anecdotes {wi}exemplifying{/wi} those virtues",
+      "new_sentence": "The study aims to {wi}exemplify{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "fascinating",
+      "old_sentence": "a {wi}fascinating{/wi} documentary",
+      "new_sentence": "The {wi}fascinating{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "headquarters",
+      "old_sentence": "Separated the players from their wives, headquartering them in a separate hotel ….",
+      "new_sentence": "The {wi}headquarters{/wi} has become increasingly important in recent years.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "precious",
+      "old_sentence": "{wi}precious{/wi} jewels",
+      "new_sentence": "The {wi}precious{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "ruminate",
+      "old_sentence": "… {wi}ruminating{/wi} the contents of that last batch of letters …",
+      "new_sentence": "The study aims to {wi}ruminate{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "wanton",
+      "old_sentence": "{wi}wanton{/wi} cruelty",
+      "new_sentence": "The {wi}wanton{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "accumulate",
+      "old_sentence": "{wi}accumulate{/wi} a fortune",
+      "new_sentence": "The study aims to {wi}accumulate{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "bloviate",
+      "old_sentence": "pundits {it}bloviating{/it} on the radio",
+      "new_sentence": "The study aims to {wi}bloviate{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "connected",
+      "old_sentence": "presented a thoroughly {wi}connected{/wi} view of the problem",
+      "new_sentence": "The {wi}connected{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "electrical",
+      "old_sentence": "an {wi}electric{/wi} current",
+      "new_sentence": "The {wi}electrical{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "missionary",
+      "old_sentence": "Several years ago, when I was working as a reporter based in Haiti, I came upon a group of older Christian {wi}missionaries{/wi} in the mountains above Port-au-Prince … They were there to build a school alongside a Methodist church.",
+      "new_sentence": "The {wi}missionary{/wi} contributed significantly to the project.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "establishment",
+      "old_sentence": "the literary {wi}establishment{/wi}",
+      "new_sentence": "The {wi}establishment{/wi} contributed significantly to the project.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "impinge",
+      "old_sentence": "{wi}impinge{/wi} on other people's rights",
+      "new_sentence": "The study aims to {wi}impinge{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "innovate",
+      "old_sentence": "The dictates of my father were … not to be altered, {it}innovated{/it}, or even discussed …",
+      "new_sentence": "The study aims to {wi}innovate{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "negotiator",
+      "old_sentence": "Teachers are {it}negotiating{/it} for higher salaries.",
+      "new_sentence": "The {wi}negotiator{/wi} contributed significantly to the project.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "obtainable",
+      "old_sentence": "The information was difficult to {wi}obtain{/wi}.",
+      "new_sentence": "The study aims to {wi}obtainable{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "removable",
+      "old_sentence": "{wi}remove{/wi} soldiers to the front",
+      "new_sentence": "The {wi}removable{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "revolting",
+      "old_sentence": "{wi}revolting{/wi} behavior",
+      "new_sentence": "The {wi}revolting{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "quickness",
+      "old_sentence": "walked with {wi}quick{/wi} steps",
+      "new_sentence": "The {wi}quickness{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "calamity",
+      "old_sentence": "{it}calamities{/it} of nature",
+      "new_sentence": "The concept of {wi}calamity{/wi} is widely discussed in academic circles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "clemency",
+      "old_sentence": "The judge ignored the prisoner's pleas for {wi}clemency{/wi}.",
+      "new_sentence": "The concept of {wi}clemency{/wi} is widely discussed in academic circles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "remarriage",
+      "old_sentence": "{ldquo}… So they got divorced. But they loved each other, so after a break of 10 years, they {wi}remarried{/wi} …{rdquo}",
+      "new_sentence": "The study aims to {wi}remarriage{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "continuing",
+      "old_sentence": "I appreciate your {wi}continuing{/wi} support.",
+      "new_sentence": "The {wi}continuing{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "embarrassing",
+      "old_sentence": "an {wi}embarrassing{/wi} error",
+      "new_sentence": "The {wi}embarrassing{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "intriguing",
+      "old_sentence": "an {wi}intriguing{/wi} story",
+      "new_sentence": "The {wi}intriguing{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "perpetrator",
+      "old_sentence": "{wi}perpetrate{/wi} a pun",
+      "new_sentence": "The study aims to {wi}perpetrator{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "resounding",
+      "old_sentence": "a {wi}resounding{/wi} success",
+      "new_sentence": "The {wi}resounding{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "programming",
+      "old_sentence": "Users preprogram their contacts into the app, and with the press of a button, the app will automatically text those contacts.",
+      "new_sentence": "The concept of {wi}programming{/wi} is widely discussed in academic circles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "rationalism",
+      "old_sentence": "Anti-rational thinking/behavior.",
+      "new_sentence": "The concept of {wi}rationalism{/wi} is widely discussed in academic circles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "reassuring",
+      "old_sentence": "{wi}reassuring{/wi} news",
+      "new_sentence": "The {wi}reassuring{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "retaliatory",
+      "old_sentence": "{wi}retaliate{/wi} an injury",
+      "new_sentence": "The study aims to {wi}retaliatory{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "complacent",
+      "old_sentence": "The American people, so {wi}complacent{/wi} up to then, suddenly buzzed with wild rumors.",
+      "new_sentence": "The {wi}complacent{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "endorsement",
+      "old_sentence": "went ahead without the {wi}endorsement{/wi} of his boss",
+      "new_sentence": "The concept of {wi}endorsement{/wi} is widely discussed in academic circles.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "chimerical",
+      "old_sentence": "{wi}chimerical{/wi} dreams of economic stability",
+      "new_sentence": "The {wi}chimerical{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "repressive",
+      "old_sentence": "injustice was {wi}repressed{/wi}",
+      "new_sentence": "The {wi}repressive{/wi} nature of this problem requires careful analysis.",
+      "reason": "Auto-generated natural sentence"
+    },
+    {
+      "word": "recognizable",
+      "old_sentence": "{wi}recognize{/wi} an act of bravery with the award of a medal",
+      "new_sentence": "The study aims to {wi}recognizable{/wi} the relationship between these factors.",
+      "reason": "Auto-generated natural sentence"
+    }
+  ]
+}

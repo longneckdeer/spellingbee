@@ -273,7 +273,7 @@ These corrections significantly enhance the game's educational value by:
 
 ### Corrected Dictionary Files
 ```
-src/gameTypes/english-spelling/data/
+/Users/jeffkuo/My Drive/AIProjects/spellingbee/src/gameTypes/english-spelling/data/
 ├── elementary.json    (689 entries - CEFR A1)
 ├── middle.json        (2,101 entries - CEFR A2-B1)
 ├── high.json          (1,523 entries - CEFR B1-B2)
@@ -283,6 +283,7 @@ src/gameTypes/english-spelling/data/
 
 ### Supporting Files
 ```
+/Users/jeffkuo/My Drive/AIProjects/spellingbee/
 ├── comprehensive_fix.py           (Main correction script)
 ├── fix_dictionary.py              (Initial version - deprecated)
 ├── summary_report.txt             (Processing summary)

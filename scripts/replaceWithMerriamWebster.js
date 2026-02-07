@@ -7,8 +7,8 @@ const __dirname = path.dirname(__filename)
 
 // API Keys
 const API_KEYS = {
-  learners: process.env.MW_LEARNERS_KEY || '',
-  collegiate: process.env.MW_COLLEGIATE_KEY || ''
+  learners: '50ec83b5-f671-4cee-8cb3-d7ce8109bef5',
+  collegiate: 'cfc2a612-6202-4231-a810-d613df83c908'
 }
 
 const API_URLS = {

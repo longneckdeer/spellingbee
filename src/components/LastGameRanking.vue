@@ -165,12 +165,29 @@ const currentRankings = computed(() => {
     return b.roundsSurvived - a.roundsSurvived // Higher rounds first
   })
 
-  // Assign ranks
-  return players.map((p, index) => ({
-    nickname: p.nickname,
-    roundsSurvived: p.roundsSurvived,
-    rank: index + 1
-  }))
+  // Assign ranks, handling ties properly (same score = same rank)
+  const rankedPlayers = []
+  let currentRank = 1
+  let previousScore = null
+
+  for (let i = 0; i < players.length; i++) {
+    const player = players[i]
+
+    // If score is different from previous, update rank to current position
+    if (previousScore !== null && player.roundsSurvived !== previousScore) {
+      currentRank = i + 1
+    }
+
+    rankedPlayers.push({
+      nickname: player.nickname,
+      roundsSurvived: player.roundsSurvived,
+      rank: currentRank
+    })
+
+    previousScore = player.roundsSurvived
+  }
+
+  return rankedPlayers
 })
 
 const hasRankings = computed(() => currentRankings.value.length > 0)

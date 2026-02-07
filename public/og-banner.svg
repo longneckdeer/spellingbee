@@ -1,0 +1,57 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+
+  <!-- Decorative elements - floating letters -->
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="80" fill="rgba(255,255,255,0.1)" font-weight="bold">A</text>
+  <text x="1050" y="150" font-family="Arial, sans-serif" font-size="60" fill="rgba(255,255,255,0.1)" font-weight="bold">B</text>
+  <text x="150" y="550" font-family="Arial, sans-serif" font-size="70" fill="rgba(255,255,255,0.1)" font-weight="bold">C</text>
+  <text x="1000" y="580" font-family="Arial, sans-serif" font-size="65" fill="rgba(255,255,255,0.1)" font-weight="bold">Z</text>
+
+  <!-- Main content -->
+  <g transform="translate(600, 315)">
+    <!-- Icon/Emoji -->
+    <text x="0" y="-120" text-anchor="middle" font-family="Arial, sans-serif" font-size="100">🔤</text>
+
+    <!-- Title -->
+    <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white">
+      超級拼字王
+    </text>
+
+    <!-- Subtitle -->
+    <text x="0" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="rgba(255,255,255,0.95)">
+      Super Spelling Champion
+    </text>
+
+    <!-- Description -->
+    <text x="0" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.9)">
+      多人線上英文拼字遊戲 • 挑戰 14,000+ 單字
+    </text>
+
+    <!-- Features -->
+    <g transform="translate(0, 140)">
+      <text x="-200" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.85)">
+        ⚡ 即時對戰
+      </text>
+      <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.85)">
+        🏆 淘汰賽制
+      </text>
+      <text x="200" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.85)">
+        📚 五個難度
+      </text>
+    </g>
+  </g>
+
+  <!-- URL at bottom -->
+  <text x="600" y="600" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="rgba(255,255,255,0.7)">
+    spellingisfun.pages.dev
+  </text>
+</svg>

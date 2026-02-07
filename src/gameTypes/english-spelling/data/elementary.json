@@ -6,7 +6,8 @@
     "sentence": "I read a story about a brave little mouse.",
     "partOfSpeech": "preposition",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "在…附近，在…的近處"
   },
   {
     "word": "after",
@@ -15,7 +16,8 @@
     "sentence": "We can play outside after we finish our homework.",
     "partOfSpeech": "preposition",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "在後，隨後"
   },
   {
     "word": "ant",
@@ -23,7 +25,8 @@
     "difficulty": 1,
     "sentence": "The ant is carrying food to its nest.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "螞蟻"
   },
   {
     "word": "ask",
@@ -32,7 +35,8 @@
     "sentence": "I need to ask a question.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "詢問，問"
   },
   {
     "word": "bag",
@@ -41,7 +45,8 @@
     "sentence": "I packed my lunch in a brown paper bag this morning.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "袋"
   },
   {
     "word": "be",
@@ -50,7 +55,8 @@
     "sentence": "To be or not to be.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "是，存在"
   },
   {
     "word": "bed",
@@ -59,7 +65,8 @@
     "sentence": "I make my bed every morning before going to school.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "床，臥床"
   },
   {
     "word": "boy",
@@ -68,7 +75,8 @@
     "sentence": "The boy kicked the soccer ball across the field during recess.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "男孩，少年"
   },
   {
     "word": "bug",
@@ -76,7 +84,8 @@
     "difficulty": 2,
     "sentence": "A tiny bug crawled across the sidewalk near the playground.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "布格河"
   },
   {
     "word": "bun",
@@ -84,7 +93,8 @@
     "difficulty": 2,
     "sentence": "Rumor has it, she has a bun in the oven.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "小甜圓面包"
   },
   {
     "word": "buy",
@@ -93,7 +103,8 @@
     "sentence": "We need to buy groceries for the week.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "買"
   },
   {
     "word": "cap",
@@ -101,7 +112,8 @@
     "difficulty": 2,
     "sentence": "Went cap in hand to the governor to seek more funds for education.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "無邊帽，(表示職業、階級等的)帽子"
   },
   {
     "word": "China",
@@ -109,7 +121,8 @@
     "difficulty": 2,
     "sentence": "Pandas come from the forests of China.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "中國"
   },
   {
     "word": "act",
@@ -118,7 +131,8 @@
     "sentence": "Please learn the new rules and act accordingly.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "行為，舉動"
   },
   {
     "word": "age",
@@ -127,7 +141,8 @@
     "sentence": "My grandmother is eighty years of age and still very active.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "年齡"
   },
   {
     "word": "ago",
@@ -136,7 +151,8 @@
     "sentence": "I learned to ride a bike two years ago.",
     "partOfSpeech": "adjective or adverb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "…以前"
   },
   {
     "word": "air",
@@ -145,7 +161,8 @@
     "sentence": "The air is fresh in the mountains.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "天空，空中"
   },
   {
     "word": "along",
@@ -154,7 +171,8 @@
     "sentence": "As we waited, I chatted with lawmakers … who were along for the ride.",
     "partOfSpeech": "preposition",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "沿著…"
   },
   {
     "word": "any",
@@ -163,7 +181,8 @@
     "sentence": "Do you have any crayons I can borrow?",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "任何一個…，不論哪個…，隨便哪個…"
   },
   {
     "word": "arm",
@@ -172,7 +191,8 @@
     "sentence": "She hurt her arm playing tennis.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "臂"
   },
   {
     "word": "art",
@@ -181,7 +201,8 @@
     "sentence": "The art proved to be very useful.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "藝術"
   },
   {
     "word": "back",
@@ -190,7 +211,8 @@
     "sentence": "She was carrying her little daughter on her back.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "背"
   },
   {
     "word": "bad",
@@ -199,7 +221,8 @@
     "sentence": "The storm caused bad damage to the roof.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "壞的"
   },
   {
     "word": "bake",
@@ -207,7 +230,8 @@
     "difficulty": 3,
     "sentence": "Mom and I will bake chocolate chip cookies for the school party.",
     "partOfSpeech": "verb",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "烤，烘，焙"
   },
   {
     "word": "car",
@@ -216,7 +240,8 @@
     "sentence": "Traveled to Boston by car.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "汽車，車"
   },
   {
     "word": "cat",
@@ -225,7 +250,8 @@
     "sentence": "Some young … cat asked me to go drinking with him ….",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "貓"
   },
   {
     "word": "cow",
@@ -234,7 +260,8 @@
     "sentence": "The cow produced fresh milk for the local dairy.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "恐嚇，嚇"
   },
   {
     "word": "dad",
@@ -243,7 +270,8 @@
     "sentence": "My mom swam and played soccer, my dad surfed, and my brother played basketball.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "爸，爹"
   },
   {
     "word": "day",
@@ -252,7 +280,8 @@
     "sentence": "We're open seven days a week, 365 days a year.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "白天，白晝，日間"
   },
   {
     "word": "dog",
@@ -261,7 +290,8 @@
     "sentence": "The dog wagged its tail happily.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "犬，狗"
   },
   {
     "word": "ear",
@@ -270,7 +300,8 @@
     "sentence": "He was whispering something in her ear.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "耳"
   },
   {
     "word": "eat",
@@ -279,7 +310,8 @@
     "sentence": "We eat lunch together in the cafeteria at twelve o'clock.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "吃"
   },
   {
     "word": "egg",
@@ -288,7 +320,8 @@
     "sentence": "She cracked an egg into the mixing bowl very carefully.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "卵，蛋"
   },
   {
     "word": "end",
@@ -297,7 +330,8 @@
     "sentence": "The end proved to be very useful.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "終結，結束，終了，末尾"
   },
   {
     "word": "eve",
@@ -305,7 +339,8 @@
     "difficulty": 4,
     "sentence": "Christmas eve is a magical time for all families.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "夏娃"
   },
   {
     "word": "fly",
@@ -314,7 +349,8 @@
     "sentence": "Birds can fly high in the sky with their strong wings.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "福來河"
   },
   {
     "word": "fox",
@@ -322,7 +358,8 @@
     "difficulty": 4,
     "sentence": "The fox lives in the forest.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "福克斯族"
   },
   {
     "word": "because",
@@ -331,7 +368,8 @@
     "sentence": "But the Conservatives voted against the amendment—because politics. And so did the Liberals.",
     "partOfSpeech": "conjunction",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "因為"
   },
   {
     "word": "beef",
@@ -339,7 +377,8 @@
     "difficulty": 4,
     "sentence": "Security around the city will be beefed up during the event.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "牛肉"
   },
   {
     "word": "before",
@@ -348,7 +387,8 @@
     "sentence": "Please wash your hands before you eat dinner.",
     "partOfSpeech": "preposition",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "以前，從前，曾經"
   },
   {
     "word": "bench",
@@ -356,7 +396,8 @@
     "difficulty": 4,
     "sentence": "We sat on the park bench.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "長凳，長椅"
   },
   {
     "word": "big",
@@ -365,7 +406,8 @@
     "sentence": "We live in a big house with five bedrooms.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "大的"
   },
   {
     "word": "bike",
@@ -373,7 +415,8 @@
     "difficulty": 4,
     "sentence": "I ride my bike to the park with my friends on Saturdays.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "自行車，腳踏車"
   },
   {
     "word": "bird",
@@ -382,7 +425,8 @@
     "sentence": "The bird sang a beautiful song at dawn.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "勃德"
   },
   {
     "word": "book",
@@ -391,7 +435,8 @@
     "sentence": "Tried to make reservations, but they were all booked up.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "書，書籍，著作"
   },
   {
     "word": "box",
@@ -400,7 +445,8 @@
     "sentence": "For something a bit more suited to everyday, you can also pull your box braids into a high ponytail.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "箱，盒，匣"
   },
   {
     "word": "bus",
@@ -409,7 +455,8 @@
     "sentence": "The yellow school bus picks me up at eight o'clock each morning.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "公車，公共汽車，巴士"
   },
   {
     "word": "cake",
@@ -418,7 +465,8 @@
     "sentence": "I made/baked three cakes for the party.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "蛋糕，餅"
   },
   {
     "word": "chair",
@@ -427,7 +475,8 @@
     "sentence": "Please sit in your chair and finish your homework.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "椅子"
   },
   {
     "word": "cheat",
@@ -435,7 +484,8 @@
     "difficulty": 5,
     "sentence": "The players were accused of cheating.",
     "partOfSpeech": "verb",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "欺騙"
   },
   {
     "word": "cheer",
@@ -443,7 +493,8 @@
     "difficulty": 5,
     "sentence": "With autumn approaching, evenings at Stringham Pitcher Park are again alive with the sounds of football and cheer.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "喝採，歡呼"
   },
   {
     "word": "child",
@@ -452,7 +503,8 @@
     "sentence": "The child learned to ride a bicycle.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "小孩，兒童"
   },
   {
     "word": "city",
@@ -461,7 +513,8 @@
     "sentence": "New York is a big city.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "都市，都會，城市"
   },
   {
     "word": "close",
@@ -470,7 +523,8 @@
     "sentence": "Please close the door when you leave the classroom.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "接近的，類似的"
   },
   {
     "word": "come",
@@ -479,7 +533,8 @@
     "sentence": "Please come here for a minute. I want to show you something.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "來"
   },
   {
     "word": "cook",
@@ -488,7 +543,8 @@
     "sentence": "My dad is a great cook who makes delicious pasta every Sunday.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "科克"
   },
   {
     "word": "couch",
@@ -496,7 +552,8 @@
     "difficulty": 5,
     "sentence": "The tiger couches in the thick grass, watching its prey move closer.",
     "partOfSpeech": "verb",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "睡椅，長椅，長沙發"
   },
   {
     "word": "cry",
@@ -505,7 +562,8 @@
     "sentence": "You made a mistake, but there's no use crying over spilled milk.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "叫喊"
   },
   {
     "word": "cup",
@@ -514,7 +572,8 @@
     "sentence": "Please give me a cup of water.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "杯子，茶杯"
   },
   {
     "word": "cut",
@@ -523,7 +582,8 @@
     "sentence": "Cut the paper along/on the dotted line (with a pair of scissors).",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "切，割"
   },
   {
     "word": "dance",
@@ -532,7 +592,8 @@
     "sentence": "He never learned how to dance.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "跳舞，舞蹈"
   },
   {
     "word": "dig",
@@ -541,7 +602,8 @@
     "sentence": "My dog likes to dig holes in the backyard to hide his bones.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "挖，掘"
   },
   {
     "word": "April",
@@ -549,7 +611,8 @@
     "difficulty": 6,
     "sentence": "My birthday is in April, right after spring starts.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "四月"
   },
   {
     "word": "draw",
@@ -558,7 +621,8 @@
     "sentence": "I like to draw pictures of my family and pets with crayons.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "拉，拖"
   },
   {
     "word": "drink",
@@ -567,7 +631,8 @@
     "sentence": "Remember to drink water after playing outside in the sun.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "飲，喝"
   },
   {
     "word": "drum",
@@ -575,7 +640,8 @@
     "difficulty": 6,
     "sentence": "A child beating on a drum.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "鼓"
   },
   {
     "word": "duck",
@@ -583,7 +649,8 @@
     "difficulty": 6,
     "sentence": "The duck paddled across the pond.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "帆布"
   },
   {
     "word": "enjoy",
@@ -592,7 +659,8 @@
     "sentence": "Did you enjoy the movie?",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "享受，欣賞，有趣地體驗"
   },
   {
     "word": "face",
@@ -601,7 +669,8 @@
     "sentence": "Wash your face with soap and water before bedtime.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "臉"
   },
   {
     "word": "fan",
@@ -610,7 +679,8 @@
     "sentence": "I am a big fan of the school basketball team.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "團扇，扇子"
   },
   {
     "word": "far",
@@ -619,7 +689,8 @@
     "sentence": "The dog wandered far from home.",
     "partOfSpeech": "adverb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "美國北部北達科他州法哥機場之代號"
   },
   {
     "word": "farm",
@@ -628,7 +699,8 @@
     "sentence": "There was a trend of people farming likes on TikTok to get their significant others to buy them the game.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "農場，農莊"
   },
   {
     "word": "feel",
@@ -637,7 +709,8 @@
     "sentence": "I feel much better after a good night's sleep.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "摸摸看，觸"
   },
   {
     "word": "fifty",
@@ -645,7 +718,8 @@
     "difficulty": 7,
     "sentence": "There are fifty states in the United States of America.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "五十的，五十個的，五十個人的"
   },
   {
     "word": "find",
@@ -654,7 +728,8 @@
     "sentence": "The artist loses himself in his experience and finds himself in it again.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "找出"
   },
   {
     "word": "fish",
@@ -663,7 +738,8 @@
     "sentence": "The fish swam gracefully through the clear water.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "接合板，夾片，魚尾板，懸魚飾"
   },
   {
     "word": "fix",
@@ -672,7 +748,8 @@
     "sentence": "It was obvious early in the game that the fix was in.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "使…固定"
   },
   {
     "word": "food",
@@ -681,7 +758,8 @@
     "sentence": "A farmer who grows his own food.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "食物，糧食，(對飲料而言的)食品"
   },
   {
     "word": "foot",
@@ -690,7 +768,8 @@
     "sentence": "The foot is a fascinating creature to observe.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "腳，足"
   },
   {
     "word": "fork",
@@ -698,7 +777,8 @@
     "difficulty": 7,
     "sentence": "Use your fork to eat the salad and your spoon for soup.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "叉子，肉叉"
   },
   {
     "word": "forty",
@@ -706,7 +786,8 @@
     "difficulty": 7,
     "sentence": "Kelvin finished his forty in seven or eight long gulps. Tossed the bottle in the median carpeted with brown grass.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "四十的，四十個的，四十人的"
   },
   {
     "word": "four",
@@ -715,7 +796,8 @@
     "sentence": "A square has four sides and a table has four legs.",
     "partOfSpeech": "numeral",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "四的，四個的，四個人的"
   },
   {
     "word": "America",
@@ -723,7 +805,8 @@
     "difficulty": 7,
     "sentence": "The Statue of Liberty is in America.",
     "partOfSpeech": "geographical name",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "美利堅合眾國，美國，)"
   },
   {
     "word": "Chinese",
@@ -731,7 +814,8 @@
     "difficulty": 7,
     "sentence": "My friend is teaching me some Chinese words.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "中國人"
   },
   {
     "word": "Easter",
@@ -739,7 +823,8 @@
     "difficulty": 7,
     "sentence": "We hunt for colorful eggs on Easter Sunday morning.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "復活節"
   },
   {
     "word": "Friday",
@@ -748,7 +833,8 @@
     "sentence": "We have art class every Friday afternoon after lunch.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "星期五"
   },
   {
     "word": "actor",
@@ -757,7 +843,8 @@
     "sentence": "My favorite actor played a superhero in the new movie.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "男演員"
   },
   {
     "word": "agree",
@@ -766,7 +853,8 @@
     "sentence": "He likes golf and his wife likes tennis, so when it comes to sports, they have agreed to disagree.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "進行討論等而"
   },
   {
     "word": "also",
@@ -775,7 +863,8 @@
     "sentence": "I like pizza, and my sister also likes it.",
     "partOfSpeech": "adverb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "也，亦"
   },
   {
     "word": "animal",
@@ -784,7 +873,8 @@
     "sentence": "The bay was home to clams, fish, dolphins, and other aquatic animals.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "動物，獸，畜生"
   },
   {
     "word": "answer",
@@ -793,7 +883,8 @@
     "sentence": "The answer proved to be very useful.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "答，答覆，回覆，回答"
   },
   {
     "word": "apple",
@@ -802,7 +893,8 @@
     "sentence": "Is the epitome of apple-pie wholesomeness.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "蘋果"
   },
   {
     "word": "area",
@@ -811,7 +903,8 @@
     "sentence": "This question falls outside my area of expertise.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "面積"
   },
   {
     "word": "aunt",
@@ -820,7 +913,8 @@
     "sentence": "My aunt visited us from overseas last weekend for a week.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "姨母"
   },
   {
     "word": "baby",
@@ -829,7 +923,8 @@
     "sentence": "She had the baby yesterday.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "嬰孩，嬰兒，寶寶"
   },
   {
     "word": "bakery",
@@ -837,7 +932,8 @@
     "difficulty": 8,
     "sentence": "The bakery sells fresh bread and pastries every day.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "面包廠，面包店，面包糕餅類的制造廠"
   },
   {
     "word": "balcony",
@@ -845,7 +941,8 @@
     "difficulty": 8,
     "sentence": "We watched the beautiful sunset from the balcony of the hotel.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "陽台"
   },
   {
     "word": "clerk",
@@ -853,7 +950,8 @@
     "difficulty": 8,
     "sentence": "Landed a job as a law clerk at the Supreme Court straight out of law school.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "書記，職員，辦事員"
   },
   {
     "word": "color",
@@ -862,7 +960,8 @@
     "sentence": "The color of the sky is blue.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "色調，(光線、圖畫、水墨畫等的)明暗"
   },
   {
     "word": "daddy",
@@ -870,7 +969,8 @@
     "difficulty": 9,
     "sentence": "He's the Big Daddy of Spanish filmmakers ….",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "爸爸，爹"
   },
   {
     "word": "die",
@@ -879,7 +979,8 @@
     "sentence": "She claims she's not afraid to die.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "骰子"
   },
   {
     "word": "doll",
@@ -887,7 +988,8 @@
     "difficulty": 9,
     "sentence": "Generic, blue-eyed, blonde Barbie dolls with orthodontically perfect teeth ….",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "多爾"
   },
   {
     "word": "dress",
@@ -896,7 +998,8 @@
     "sentence": "They dressed themselves in a hurry.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "服裝，衣服"
   },
   {
     "word": "drive",
@@ -905,7 +1008,8 @@
     "sentence": "The school held a food drive.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "駕駛，駕禦，驅，趕"
   },
   {
     "word": "five",
@@ -914,7 +1018,8 @@
     "sentence": "I have five fingers on each hand and five toes on each foot.",
     "partOfSpeech": "numeral",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "五的，五個的，五人的"
   },
   {
     "word": "banana",
@@ -923,7 +1028,8 @@
     "sentence": "I eat a banana with my cereal for breakfast every morning.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "香蕉"
   },
   {
     "word": "band",
@@ -932,7 +1038,8 @@
     "sentence": "The band's drummer is also the lead singer.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "身體的限制束縛"
   },
   {
     "word": "bank",
@@ -941,7 +1048,8 @@
     "sentence": "Our paychecks are deposited in/into the bank automatically.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "土堤，堤防"
   },
   {
     "word": "beach",
@@ -950,7 +1058,8 @@
     "sentence": "We spent the day at the beach.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "海水浴場，遊泳場"
   },
   {
     "word": "bean",
@@ -959,7 +1068,8 @@
     "sentence": "Green bean is my favorite vegetable to eat with dinner.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "豆"
   },
   {
     "word": "bear",
@@ -968,7 +1078,8 @@
     "sentence": "A mother bear and her cubs.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "生"
   },
   {
     "word": "begin",
@@ -977,7 +1088,8 @@
     "sentence": "They will begin construction on the new school soon.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "開始"
   },
   {
     "word": "belt",
@@ -986,7 +1098,8 @@
     "sentence": "Dad wears a brown leather belt to keep his pants up.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "腰帶，帶子，皮帶"
   },
   {
     "word": "between",
@@ -995,7 +1108,8 @@
     "sentence": "The library is between the post office and the bank.",
     "partOfSpeech": "preposition",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "在之間"
   },
   {
     "word": "bite",
@@ -1004,7 +1118,8 @@
     "sentence": "In seven previous days, the seller didn't get a single bite.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "咬"
   },
   {
     "word": "black",
@@ -1013,7 +1128,8 @@
     "sentence": "My cat has soft black fur and green eyes.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "黑的，黑色的"
   },
   {
     "word": "blanket",
@@ -1021,7 +1137,8 @@
     "difficulty": 10,
     "sentence": "I snuggle under my warm blanket when I read before bedtime.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "氈，毛毯"
   },
   {
     "word": "blow",
@@ -1030,7 +1147,8 @@
     "sentence": "The wind was blowing earlier but it's not blowing now.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "打，毆打"
   },
   {
     "word": "boat",
@@ -1039,7 +1157,8 @@
     "sentence": "A lot of people still think Cadillac makes big floaty boats.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "小艇，小船"
   },
   {
     "word": "body",
@@ -1048,7 +1167,8 @@
     "sentence": "Exercise helps keep your body strong and healthy.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "身體)，軀體，肉體"
   },
   {
     "word": "boil",
@@ -1057,7 +1177,8 @@
     "sentence": "After two hit singles, the band went off the boil and eventually disbanded.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "使沸騰，煮沸，燒開，以煮沸消毒"
   },
   {
     "word": "bowl",
@@ -1066,7 +1187,8 @@
     "sentence": "Being bowled over by a base runner.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "木球"
   },
   {
     "word": "break",
@@ -1075,7 +1197,8 @@
     "sentence": "Be careful not to break the expensive vase.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "切斷"
   },
   {
     "word": "bring",
@@ -1084,7 +1207,8 @@
     "sentence": "This station brings you the news every night.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "帶來，攜來"
   },
   {
     "word": "brown",
@@ -1093,7 +1217,8 @@
     "sentence": "Their hands and faces were brown from long days in the sun.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "褐色的，棕色的"
   },
   {
     "word": "build",
@@ -1102,7 +1227,8 @@
     "sentence": "They plan to build a new house next year.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "建"
   },
   {
     "word": "burger",
@@ -1110,7 +1236,8 @@
     "difficulty": 11,
     "sentence": "To put the smash in smashburger, I pressed down firmly on my burgers with a spatula.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "漢堡"
   },
   {
     "word": "burn",
@@ -1119,7 +1246,8 @@
     "sentence": "A small fire burned on the hearth.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "燃燒"
   },
   {
     "word": "camp",
@@ -1128,7 +1256,8 @@
     "sentence": "Fishing camps are located all along the river.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "露營場地"
   },
   {
     "word": "candle",
@@ -1136,7 +1265,8 @@
     "difficulty": 11,
     "sentence": "We put candles on the birthday cake and made a wish.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "蠟燭"
   },
   {
     "word": "candy",
@@ -1145,7 +1275,8 @@
     "sentence": "Do not eat too much candy.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "凱恩蒂"
   },
   {
     "word": "card",
@@ -1154,7 +1285,8 @@
     "sentence": "I made a card for my mom on Mother's Day.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "卡片，名片，厚紙片，票"
   },
   {
     "word": "care",
@@ -1163,7 +1295,8 @@
     "sentence": "I care for my puppy by feeding him every morning.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "美國民間援外組織"
   },
   {
     "word": "case",
@@ -1172,7 +1305,8 @@
     "sentence": "That was true in all three cases.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "卡斯"
   },
   {
     "word": "cent",
@@ -1181,7 +1315,8 @@
     "sentence": "A large percent of their income is used to pay rent.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "分"
   },
   {
     "word": "check",
@@ -1190,7 +1325,8 @@
     "sentence": "Mom will check my spelling test before I turn it in.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "停止，妨礙，阻止"
   },
   {
     "word": "chicken",
@@ -1199,7 +1335,8 @@
     "sentence": "The chicken laid fresh eggs every morning.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "小雞"
   },
   {
     "word": "clean",
@@ -1208,7 +1345,8 @@
     "sentence": "All visitors to the prison are searched to make sure they're clean.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "清潔的，清新的，未受污染的"
   },
   {
     "word": "clock",
@@ -1217,7 +1355,8 @@
     "sentence": "She looked/glanced at the clock on the wall. It was now 2:30.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "時鐘"
   },
   {
     "word": "cloud",
@@ -1226,7 +1365,8 @@
     "sentence": "The sun is shining and there's not a cloud in the sky.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "雲"
   },
   {
     "word": "club",
@@ -1235,7 +1375,8 @@
     "sentence": "I joined the art club at school this semester.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "棍棒"
   },
   {
     "word": "coat",
@@ -1244,7 +1385,8 @@
     "sentence": "She put on her coat, hat, and gloves, and then she went outside.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "外衣，外套"
   },
   {
     "word": "cold",
@@ -1253,7 +1395,8 @@
     "sentence": "The water was too cold for swimming.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "寒冷的，冷的"
   },
   {
     "word": "comic",
@@ -1261,7 +1404,8 @@
     "difficulty": 12,
     "sentence": "I love reading comic books about superheroes on the weekend.",
     "partOfSpeech": "adjective",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "喜劇的"
   },
   {
     "word": "cool",
@@ -1270,7 +1414,8 @@
     "sentence": "A cool breeze made the evening pleasant.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "涼的，涼爽的，微冷的，有涼意的"
   },
   {
     "word": "copy",
@@ -1279,7 +1424,8 @@
     "sentence": "The teacher asked us to make a copy of the worksheet.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "抄本，謄本，副本，復制品"
   },
   {
     "word": "cost",
@@ -1288,7 +1434,8 @@
     "sentence": "The original cost of the house was $200,000.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "需要…金額，值…價錢"
   },
   {
     "word": "count",
@@ -1297,7 +1444,8 @@
     "sentence": "If you are looking for people to help you clean the house today, count me out.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "數，點數"
   },
   {
     "word": "country",
@@ -1306,7 +1454,8 @@
     "sentence": "She traveled to a foreign country for the first time.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "國，國家，國土"
   },
   {
     "word": "date",
@@ -1315,7 +1464,8 @@
     "sentence": "The date of the party is March 1.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "海棗"
   },
   {
     "word": "deal",
@@ -1324,7 +1474,8 @@
     "sentence": "Let's make a deal to share the cookies fairly.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "分配"
   },
   {
     "word": "desk",
@@ -1333,7 +1484,8 @@
     "sentence": "She placed her hand on the desk.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "桌子，書桌，辦公桌"
   },
   {
     "word": "dish",
@@ -1342,7 +1494,8 @@
     "sentence": "He can dish it out, but he can't take it when others do the same to him.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "大盤子"
   },
   {
     "word": "doctor",
@@ -1351,7 +1504,8 @@
     "sentence": "I think you should see a doctor.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "醫師，醫生"
   },
   {
     "word": "down",
@@ -1360,7 +1514,8 @@
     "sentence": "The ball rolled down the hill and into the lake.",
     "partOfSpeech": "adverb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "道恩"
   },
   {
     "word": "dream",
@@ -1369,7 +1524,8 @@
     "sentence": "He had a dream about climbing a mountain.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "夢"
   },
   {
     "word": "drop",
@@ -1378,7 +1534,8 @@
     "sentence": "He squeezed the bottle until a few drops came out.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "滴，液滴"
   },
   {
     "word": "dry",
@@ -1387,7 +1544,8 @@
     "sentence": "Hang your wet towel outside in the sun to dry.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "幹的，無水分的"
   },
   {
     "word": "during",
@@ -1396,7 +1554,8 @@
     "sentence": "Was offered a job during a visit to the capital.",
     "partOfSpeech": "preposition",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "在…的期間"
   },
   {
     "word": "e-mail",
@@ -1404,7 +1563,8 @@
     "difficulty": 13,
     "sentence": "My teacher sent an e-mail to my parents about the field trip.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "電子郵件"
   },
   {
     "word": "enter",
@@ -1413,7 +1573,8 @@
     "sentence": "He's been faced with many scandals since he entered office.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "進入"
   },
   {
     "word": "eraser",
@@ -1421,7 +1582,8 @@
     "difficulty": 13,
     "sentence": "Use an eraser to fix mistakes.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "黑板擦，石板擦，抹去者"
   },
   {
     "word": "example",
@@ -1430,7 +1592,8 @@
     "sentence": "He was inspired by the example of his older brother.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "例子，實例"
   },
   {
     "word": "except",
@@ -1439,7 +1602,8 @@
     "sentence": "The stores will be open daily except Sundays.",
     "partOfSpeech": "preposition",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "除了…以外"
   },
   {
     "word": "fact",
@@ -1448,7 +1612,8 @@
     "sentence": "Rapid electronic communication is now a fact.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "事實"
   },
   {
     "word": "fail",
@@ -1457,7 +1622,8 @@
     "sentence": "Our nation's greatest resource is our youth. … It has … never failed an invincible courage ….",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "失敗，受挫"
   },
   {
     "word": "family",
@@ -1466,7 +1632,8 @@
     "sentence": "The family gathered for Thanksgiving dinner.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "家族，一家人，家庭"
   },
   {
     "word": "fast",
@@ -1475,7 +1642,8 @@
     "sentence": "The rabbit can run really fast through the grass.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "快的"
   },
   {
     "word": "fat",
@@ -1484,7 +1652,8 @@
     "sentence": "The author, a doctoral student therapist, discusses her experience with a clinical supervisor who fat-shamed a client during supervision.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "肥胖的，胖的"
   },
   {
     "word": "feed",
@@ -1493,7 +1662,8 @@
     "sentence": "I help my mom feed our cat and dog every evening.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "喂食物，給喂食，給喂奶"
   },
   {
     "word": "fifteen",
@@ -1501,7 +1671,8 @@
     "difficulty": 14,
     "sentence": "She was fifteen when she first learned to drive.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "十五的，十五個的，十五個人的"
   },
   {
     "word": "fine",
@@ -1510,7 +1681,8 @@
     "sentence": "There's a fine line between helping and intruding.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "美妙的，美好的，堂堂的"
   },
   {
     "word": "finish",
@@ -1519,7 +1691,8 @@
     "sentence": "You can play outside after you finish your homework.",
     "partOfSpeech": "verb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "做完…，做好，完成，結束"
   },
   {
     "word": "fire",
@@ -1528,7 +1701,8 @@
     "sentence": "The shack was destroyed by a fire. Police think someone set fire to it.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "火，火燄"
   },
   {
     "word": "first",
@@ -1537,7 +1711,8 @@
     "sentence": "Our team won first place in the competition.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "第一的，最先的"
   },
   {
     "word": "across",
@@ -1546,7 +1721,8 @@
     "sentence": "The restaurant is (just) across from the high school.",
     "partOfSpeech": "preposition",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "橫過…，橫渡…，橫架，在…的另一邊"
   },
   {
     "word": "actress",
@@ -1554,7 +1730,8 @@
     "difficulty": 15,
     "sentence": "The actress wore a beautiful costume on stage during the play.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "女演員"
   },
   {
     "word": "allow",
@@ -1563,7 +1740,8 @@
     "sentence": "My teacher will allow us to play outside after we finish our work.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "允許"
   },
   {
     "word": "bell",
@@ -1572,7 +1750,8 @@
     "sentence": "The school bell rings at three o'clock every day.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "鐘，釣鐘"
   },
   {
     "word": "blue",
@@ -1581,7 +1760,8 @@
     "sentence": "The sky was a brilliant blue.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "青色的，藍色的"
   },
   {
     "word": "boss",
@@ -1590,7 +1770,8 @@
     "sentence": "Why don't you ask your boss for a raise?",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "壓出的突起部分，突紋"
   },
   {
     "word": "call",
@@ -1599,7 +1780,8 @@
     "sentence": "He called to passersby for help.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "喊，叫，呼叫"
   },
   {
     "word": "carry",
@@ -1608,7 +1790,8 @@
     "sentence": "She helped me carry the boxes out to my car.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "運送，搬運"
   },
   {
     "word": "catch",
@@ -1617,7 +1800,8 @@
     "sentence": "Catch the ball and throw it to first base.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "捕，捕捉，逮捕"
   },
   {
     "word": "chalk",
@@ -1625,7 +1809,8 @@
     "difficulty": 15,
     "sentence": "Write with chalk on the board.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "白堊"
   },
   {
     "word": "coffee",
@@ -1634,7 +1819,8 @@
     "sentence": "My dad drinks a hot cup of coffee every morning before work.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "咖啡"
   },
   {
     "word": "comb",
@@ -1642,7 +1828,8 @@
     "difficulty": 15,
     "sentence": "The police are going over the evidence with a fine-tooth comb.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "梳子，篦子"
   },
   {
     "word": "cover",
@@ -1651,7 +1838,8 @@
     "sentence": "The well rounded menu covers all the bases.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "蓋，遮蔽"
   },
   {
     "word": "cross",
@@ -1660,7 +1848,8 @@
     "sentence": "Please cross the street carefully.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "十字架"
   },
   {
     "word": "dinner",
@@ -1669,7 +1858,8 @@
     "sentence": "We had many pleasant dinners together.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "主餐，正餐"
   },
   {
     "word": "driver",
@@ -1677,7 +1867,8 @@
     "difficulty": 16,
     "sentence": "Who was the driver at the time of the accident?",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "駕駛者，司機"
   },
   {
     "word": "eleven",
@@ -1686,7 +1877,8 @@
     "sentence": "There are exactly eleven players on a soccer team.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "十一的，十一個的，十一人的"
   },
   {
     "word": "every",
@@ -1695,7 +1887,8 @@
     "sentence": "I brush my teeth every morning and every night before bed.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "每一，所有的，一切的"
   },
   {
     "word": "fall",
@@ -1704,7 +1897,8 @@
     "sentence": "Be careful not to fall on the icy sidewalk.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "落下"
   },
   {
     "word": "American",
@@ -1712,15 +1906,17 @@
     "difficulty": 16,
     "sentence": "We learned about American history in our social studies class today.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "美洲的，美利堅合眾國的，美國的，美國人的"
   },
   {
     "word": "August",
-    "definition": "the eighth month of the year",
+    "definition": "marked by majestic dignity or grandeur",
     "difficulty": 16,
     "sentence": "School vacation ends in August every year.",
-    "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "partOfSpeech": "adjective",
+    "taiwan_stage": "小學",
+    "chinese_definition": "八月"
   },
   {
     "word": "December",
@@ -1728,7 +1924,8 @@
     "difficulty": 16,
     "sentence": "We celebrate Christmas and New Year in December every year.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "十二月"
   },
   {
     "word": "English",
@@ -1737,7 +1934,8 @@
     "sentence": "We learn English grammar and reading in school every day.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "英格蘭的，英吉利的，英國的"
   },
   {
     "word": "February",
@@ -1745,7 +1943,8 @@
     "difficulty": 16,
     "sentence": "February is the shortest month.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "二月"
   },
   {
     "word": "fill",
@@ -1754,7 +1953,8 @@
     "sentence": "No one will be able to fill your shoes after you retire.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "使…滿"
   },
   {
     "word": "floor",
@@ -1763,7 +1963,8 @@
     "sentence": "On the ground floor, design architects removed some walls to create an open floor plan with lots of light ….",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "地板，室內的地面"
   },
   {
     "word": "flower",
@@ -1772,7 +1973,8 @@
     "sentence": "A movement that flowered in the early 21st century.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "花"
   },
   {
     "word": "friend",
@@ -1781,7 +1983,8 @@
     "sentence": "I'd like you to meet my friend.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "友人，朋友"
   },
   {
     "word": "able",
@@ -1790,7 +1993,8 @@
     "sentence": "Hopes to be able to visit soon.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "能的，能夠的"
   },
   {
     "word": "ahead",
@@ -1799,7 +2003,8 @@
     "sentence": "The road stretched ahead for many miles.",
     "partOfSpeech": "adverb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "在前面，向前方"
   },
   {
     "word": "airport",
@@ -1808,7 +2013,8 @@
     "sentence": "We arrived at the airport just before closing time.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "機場，航空站"
   },
   {
     "word": "always",
@@ -1817,7 +2023,8 @@
     "sentence": "You can always try again if it doesn't work this time.",
     "partOfSpeech": "adverb",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "經常，總是"
   },
   {
     "word": "angry",
@@ -1826,7 +2033,8 @@
     "sentence": "I've never seen her look so angry.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "發怒的，憤怒的，惱怒的，生氣的"
   },
   {
     "word": "anybody",
@@ -1835,7 +2043,8 @@
     "sentence": "Can anybody help me carry these books?",
     "partOfSpeech": "pronoun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "任何人"
   },
   {
     "word": "anyone",
@@ -1844,7 +2053,8 @@
     "sentence": "Is anyone sitting in this chair?",
     "partOfSpeech": "pronoun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "任何一個，任何一位"
   },
   {
     "word": "autumn",
@@ -1853,7 +2063,8 @@
     "sentence": "From traditional lion dances to eating mooncake, the Autumn Moon Festival brought families together to celebrate a cherished Chinese tradition.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "(依一般習俗在北半球指九，十"
   },
   {
     "word": "away",
@@ -1862,7 +2073,8 @@
     "sentence": "The park is just two blocks away from our house.",
     "partOfSpeech": "adverb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "離去，脫離，向那邊"
   },
   {
     "word": "basket",
@@ -1871,7 +2083,8 @@
     "sentence": "We collected apples in a big basket at the farm yesterday.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "籃，筐，笊，籬，簍"
   },
   {
     "word": "bat",
@@ -1880,7 +2093,8 @@
     "sentence": "We need his bat in the lineup.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "棒"
   },
   {
     "word": "bath",
@@ -1889,7 +2103,8 @@
     "sentence": "My little sister takes a bath with her rubber ducky every night.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "巴茲"
   },
   {
     "word": "become",
@@ -1898,7 +2113,8 @@
     "sentence": "Although I've known him for years, we didn't become close friends until recently.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "適合，適宜，適于"
   },
   {
     "word": "bedroom",
@@ -1907,7 +2123,8 @@
     "sentence": "I keep my toys in a big box in my bedroom.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "臥室用的"
   },
   {
     "word": "bee",
@@ -1916,7 +2133,8 @@
     "sentence": "A yellow bee flew around the flowers in our garden.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "亦作Bea"
   },
   {
     "word": "behind",
@@ -1925,7 +2143,8 @@
     "sentence": "The cat is hiding behind the couch in the living room.",
     "partOfSpeech": "adverb or adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "在後"
   },
   {
     "word": "belong",
@@ -1934,7 +2153,8 @@
     "sentence": "The house belongs not just to her, but to her husband as well.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "屬，屬所有"
   },
   {
     "word": "bicycle",
@@ -1943,7 +2163,8 @@
     "sentence": "She rode her bicycle to school.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "自行車，腳踏車，自由車"
   },
   {
     "word": "born",
@@ -1952,7 +2173,8 @@
     "sentence": "My baby brother was born in the hospital last spring.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "出生的"
   },
   {
     "word": "bow",
@@ -1961,7 +2183,8 @@
     "sentence": "Whose heavy hand hath bowed you to the grave ….",
     "partOfSpeech": "verb",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "鞠躬，彎身"
   },
   {
     "word": "brother",
@@ -1970,7 +2193,8 @@
     "sentence": "My little brother is learning to read in first grade.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "兄，弟，哥哥，弟弟，兄弟"
   },
   {
     "word": "busy",
@@ -1979,7 +2203,8 @@
     "sentence": "She has a busy/hectic social life. It seems like there's a party every week.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "忙，忙碌"
   },
   {
     "word": "camera",
@@ -1988,7 +2213,8 @@
     "sentence": "The camera proved to be very useful.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "照相機，攝影機"
   },
   {
     "word": "castle",
@@ -1997,7 +2223,8 @@
     "sentence": "The princess lived in a tall castle with many towers.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "城，城堡"
   },
   {
     "word": "center",
@@ -2006,7 +2233,8 @@
     "sentence": "The center proved to be very useful.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "中心，中心點"
   },
   {
     "word": "chance",
@@ -2015,7 +2243,8 @@
     "sentence": "I wanted to call you, but I never got/had the chance (to).",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "機會，良機，時機"
   },
   {
     "word": "change",
@@ -2024,7 +2253,8 @@
     "sentence": "She was wearing a strange smile. … then her smile changed back to the kind one that I recognized ….",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "變化，變更，變遷"
   },
   {
     "word": "cheap",
@@ -2033,7 +2263,8 @@
     "sentence": "I always buy the cheapest brand of cereal.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "便宜的，廉價的"
   },
   {
     "word": "cheese",
@@ -2042,7 +2273,8 @@
     "sentence": "I like cheese on my pizza.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "偉大的人"
   },
   {
     "word": "choice",
@@ -2051,7 +2283,8 @@
     "sentence": "He knew he had to make a choice.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "選擇，挑選"
   },
   {
     "word": "choose",
@@ -2060,7 +2293,8 @@
     "sentence": "It's difficult to choose between so many good options.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "選擇，挑選"
   },
   {
     "word": "church",
@@ -2069,7 +2303,8 @@
     "sentence": "The church bells rang every Sunday morning.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "教堂，聖堂"
   },
   {
     "word": "cloudy",
@@ -2077,7 +2312,8 @@
     "difficulty": 19,
     "sentence": "It is cloudy today, so we might get some rain.",
     "partOfSpeech": "adjective",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "陰暗的，多雲的"
   },
   {
     "word": "corner",
@@ -2086,7 +2322,8 @@
     "sentence": "We arrived at the corner just before closing time.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "角，轉角處"
   },
   {
     "word": "course",
@@ -2095,7 +2332,8 @@
     "sentence": "We're trying to determine the best course of action at this point.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "前進路線，水道"
   },
   {
     "word": "cousin",
@@ -2104,7 +2342,8 @@
     "sentence": "Rural children deserve as good an education as their city cousins get.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "堂兄弟"
   },
   {
     "word": "crazy",
@@ -2113,7 +2352,8 @@
     "sentence": "My little brother is crazy about dinosaurs and toy cars.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "瘋狂的，發狂的，癲狂的"
   },
   {
     "word": "cute",
@@ -2122,7 +2362,8 @@
     "sentence": "The baby puppies at the pet store are so cute.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "漂亮的，可愛的"
   },
   {
     "word": "dark",
@@ -2131,7 +2372,8 @@
     "sentence": "She sat in the dark room alone.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "暗的，黑暗的"
   },
   {
     "word": "dead",
@@ -2140,7 +2382,8 @@
     "sentence": "Her husband is dead. He died last year.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "死的，已死的!"
   },
   {
     "word": "dear",
@@ -2149,7 +2392,8 @@
     "sentence": "He's a dear friend of mine.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "親愛的，可愛的，心愛的"
   },
   {
     "word": "death",
@@ -2158,7 +2402,8 @@
     "sentence": "The scary movie made me scream and scared me to death.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "死，死亡，死法，死狀"
   },
   {
     "word": "decide",
@@ -2167,7 +2412,8 @@
     "sentence": "He decided that dinner would be at 7 o'clock, and asked guests to arrive at 6.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "決心"
   },
   {
     "word": "deep",
@@ -2176,7 +2422,8 @@
     "sentence": "We walked in the deep snow.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "深的"
   },
   {
     "word": "dentist",
@@ -2185,7 +2432,8 @@
     "sentence": "He goes to the dentist's for a check-up every six months.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "牙醫，牙科醫生"
   },
   {
     "word": "dirty",
@@ -2194,7 +2442,8 @@
     "sentence": "Your hands are dirty, so wash them before eating lunch.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "齷齪的，骯髒的，不潔的"
   },
   {
     "word": "dot",
@@ -2203,7 +2452,8 @@
     "sentence": "Put a dot over the i.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "朵特"
   },
   {
     "word": "download",
@@ -2211,7 +2461,8 @@
     "difficulty": 20,
     "sentence": "Download the files onto your computer.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "下載"
   },
   {
     "word": "each",
@@ -2220,7 +2471,8 @@
     "sentence": "The teacher gave each student a pencil and a notebook.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "各個，各人，每人"
   },
   {
     "word": "earth",
@@ -2229,7 +2481,8 @@
     "sentence": "The new planetary system consists of two planets that are about three times larger than Earth ….",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "地球"
   },
   {
     "word": "east",
@@ -2238,7 +2491,8 @@
     "sentence": "The sun rises in the east and sets in the west.",
     "partOfSpeech": "adverb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "東方的，在東方的，向東的"
   },
   {
     "word": "easy",
@@ -2247,7 +2501,8 @@
     "sentence": "This puzzle is too easy for older children.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "容易的，平易的，不難的"
   },
   {
     "word": "elephant",
@@ -2256,7 +2511,8 @@
     "sentence": "The elephant is the largest land animal.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "象"
   },
   {
     "word": "else",
@@ -2265,7 +2521,8 @@
     "sentence": "I don't like it. Apart from anything else , it's too expensive.",
     "partOfSpeech": "adverb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "其他，此外"
   },
   {
     "word": "excuse",
@@ -2274,7 +2531,8 @@
     "sentence": "Please excuse me for being late to school this morning.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "寬恕"
   },
   {
     "word": "expect",
@@ -2283,7 +2541,8 @@
     "sentence": "We expect (that) the economy will improve.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "預期，期待"
   },
   {
     "word": "explain",
@@ -2292,7 +2551,8 @@
     "sentence": "I need a lawyer to explain this contract to me.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "說明"
   },
   {
     "word": "factory",
@@ -2301,7 +2561,8 @@
     "sentence": "We arrived at the factory just before closing time.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "工廠，制造廠"
   },
   {
     "word": "famous",
@@ -2310,7 +2571,8 @@
     "sentence": "A restaurant famous for its French cuisine.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "有名的，著名的，出名的，馳名的"
   },
   {
     "word": "father",
@@ -2319,7 +2581,8 @@
     "sentence": "He became a father when he was 30.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "父，父親"
   },
   {
     "word": "forget",
@@ -2328,7 +2591,8 @@
     "sentence": "She's a talented singer and, lest we forget, a fine musician as well.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "忘"
   },
   {
     "word": "fourteen",
@@ -2336,7 +2600,8 @@
     "difficulty": 21,
     "sentence": "My brother turned fourteen years old this month.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "十四的，十四個的，十四人的"
   },
   {
     "word": "free",
@@ -2345,7 +2610,8 @@
     "sentence": "They're giving out free tickets to the show.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "自由的"
   },
   {
     "word": "fresh",
@@ -2354,7 +2620,8 @@
     "sentence": "We bought fresh vegetables from the farmers market this morning.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "新鮮的"
   },
   {
     "word": "afraid",
@@ -2363,7 +2630,8 @@
     "sentence": "She's not afraid of hard work.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "害怕的，畏懼的"
   },
   {
     "word": "airplane",
@@ -2371,7 +2639,8 @@
     "difficulty": 22,
     "sentence": "We watched the airplane fly high above the clouds in the sky.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "飛機)"
   },
   {
     "word": "almost",
@@ -2380,7 +2649,8 @@
     "sentence": "I almost jumped out of my skin when I heard her say my name.",
     "partOfSpeech": "adverb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "幾乎，差不多，將近，快要"
   },
   {
     "word": "angle",
@@ -2389,7 +2659,8 @@
     "sentence": "The two lines form a sharp angle.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "盎格魯族之人，盎格魯人"
   },
   {
     "word": "appear",
@@ -2398,7 +2669,8 @@
     "sentence": "A performer who first appeared on a television variety show.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "出現"
   },
   {
     "word": "borrow",
@@ -2407,7 +2679,8 @@
     "sentence": "Borrow a book from the library.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "借，借用，借入"
   },
   {
     "word": "bottle",
@@ -2416,7 +2689,8 @@
     "sentence": "Slipped deeper and deeper into the bottle ….",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "瓶"
   },
   {
     "word": "bottom",
@@ -2425,7 +2699,8 @@
     "sentence": "The treasure is at the bottom of the ocean.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "底"
   },
   {
     "word": "brave",
@@ -2434,7 +2709,8 @@
     "sentence": "He was a brave soldier.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "勇敢的，英勇的"
   },
   {
     "word": "bridge",
@@ -2443,7 +2719,8 @@
     "sentence": "A bridge connecting the island to the mainland.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "橋，橋梁"
   },
   {
     "word": "butter",
@@ -2452,7 +2729,8 @@
     "sentence": "I spread butter on my toast for a yummy breakfast treat.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "奶油"
   },
   {
     "word": "button",
@@ -2461,7 +2739,8 @@
     "sentence": "The button proved to be very useful.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "鈕扣"
   },
   {
     "word": "circle",
@@ -2470,7 +2749,8 @@
     "sentence": "She drew a circle around the correct answer.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "圓，圓週"
   },
   {
     "word": "clear",
@@ -2479,7 +2759,8 @@
     "sentence": "The show was a clear failure.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "明亮的"
   },
   {
     "word": "climb",
@@ -2488,7 +2769,8 @@
     "sentence": "We like to climb the big tree in the backyard.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "登上"
   },
   {
     "word": "collect",
@@ -2497,7 +2779,8 @@
     "sentence": "I collected up the dishes and brought them to the kitchen.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "收集，搜集，集合"
   },
   {
     "word": "early",
@@ -2506,7 +2789,8 @@
     "sentence": "Early in his career he moved to the city.",
     "partOfSpeech": "adverb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "早"
   },
   {
     "word": "envelope",
@@ -2514,7 +2798,8 @@
     "difficulty": 23,
     "sentence": "Put the letter in an envelope.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "<<可數"
   },
   {
     "word": "even",
@@ -2523,7 +2808,8 @@
     "sentence": "My little sister can even ride a bike without training wheels.",
     "partOfSpeech": "adverb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "甚至，連，即使"
   },
   {
     "word": "fight",
@@ -2532,7 +2818,8 @@
     "sentence": "He will fight for the heavyweight title next month.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "打仗，戰鬥，交戰"
   },
   {
     "word": "follow",
@@ -2541,7 +2828,8 @@
     "sentence": "She followed us into the kitchen.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "跟隨…去，跟在…後面，伴隨…"
   },
   {
     "word": "Christmas",
@@ -2549,7 +2837,8 @@
     "difficulty": 23,
     "sentence": "We're spending Christmas with my parents.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "耶誕節，聖誕節(十二月二十五日)"
   },
   {
     "word": "already",
@@ -2558,7 +2847,8 @@
     "sentence": "He had already left when I called.",
     "partOfSpeech": "adverb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "已經，早已，業經，業已"
   },
   {
     "word": "around",
@@ -2567,7 +2857,8 @@
     "sentence": "The most intelligent of the artists around today.",
     "partOfSpeech": "adverb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "在週圍，在四面，在四週"
   },
   {
     "word": "arrive",
@@ -2576,7 +2867,8 @@
     "sentence": "He arrived home at six o'clock.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "暴發戶，新貴"
   },
   {
     "word": "badminton",
@@ -2584,7 +2876,8 @@
     "difficulty": 23,
     "sentence": "We played badminton on the weekends at the park with friends.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "羽毛球"
   },
   {
     "word": "baseball",
@@ -2593,7 +2886,8 @@
     "sentence": "We played baseball in the field after school today.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "棒球"
   },
   {
     "word": "believe",
@@ -2602,7 +2896,8 @@
     "sentence": "I believe in giving people second chances.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "相信，相信之言，認為…為正確"
   },
   {
     "word": "beside",
@@ -2611,7 +2906,8 @@
     "sentence": "A composition that can be ranked beside that of the masters.",
     "partOfSpeech": "preposition",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "在…的旁邊，在…邊"
   },
   {
     "word": "block",
@@ -2620,7 +2916,8 @@
     "sentence": "Walk two blocks to the store.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "一塊，片，木塊，木片"
   },
   {
     "word": "bookstore",
@@ -2628,7 +2925,8 @@
     "difficulty": 24,
     "sentence": "I bought several interesting novels at the bookstore downtown.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "書局，書店)"
   },
   {
     "word": "bread",
@@ -2637,7 +2935,8 @@
     "sentence": "We buy fresh bread from the bakery every Saturday morning.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "面包"
   },
   {
     "word": "breakfast",
@@ -2646,7 +2945,8 @@
     "sentence": "The large kitchen has a long breakfast bar and a sitting area with French doors onto a back deck.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "早餐"
   },
   {
     "word": "brush",
@@ -2655,7 +2955,8 @@
     "sentence": "Use a wire brush to get the rust off the metal.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "刷子，毛刷"
   },
   {
     "word": "careful",
@@ -2664,7 +2965,8 @@
     "sentence": "Careful of a child's welfare.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "小心的，慎重的，謹慎的"
   },
   {
     "word": "class",
@@ -2673,7 +2975,8 @@
     "sentence": "There are 20 students in the class.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "種，類別，種類"
   },
   {
     "word": "classmate",
@@ -2681,7 +2984,8 @@
     "difficulty": 24,
     "sentence": "My classmate helped me with the difficult homework.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "同班同學"
   },
   {
     "word": "common",
@@ -2690,7 +2994,8 @@
     "sentence": "Oh hard is the bed they have made him, / And common the blanket and cheap ….",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "共通的，共同的，共有的"
   },
   {
     "word": "dollar",
@@ -2699,7 +3004,8 @@
     "sentence": "Inflatable balloons, holiday decorations, toothbrushes and spices are some of the best deals you can buy at the dollar store.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "元，圓"
   },
   {
     "word": "door",
@@ -2708,7 +3014,8 @@
     "sentence": "Please close the door quietly when you leave the classroom.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "門，戶"
   },
   {
     "word": "dozen",
@@ -2717,7 +3024,8 @@
     "sentence": "My dad bought a dozen eggs from the grocery store.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "打，十二"
   },
   {
     "word": "eighty",
@@ -2725,7 +3033,8 @@
     "difficulty": 25,
     "sentence": "Sadly, … the heartless bottom-liners on the food committee eighty-sixed the black raspberry for good.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "八十的，八十個的，八十人的"
   },
   {
     "word": "engineer",
@@ -2734,7 +3043,8 @@
     "sentence": "Corn engineered to resist crop pests.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "機械師，技師，工程師"
   },
   {
     "word": "excited",
@@ -2743,7 +3053,8 @@
     "sentence": "They were excited about/over the trip.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "興奮的"
   },
   {
     "word": "exercise",
@@ -2752,7 +3063,8 @@
     "sentence": "Get plenty of fresh air and exercise.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "運動"
   },
   {
     "word": "file",
@@ -2761,7 +3073,8 @@
     "sentence": "The teacher keeps all our art projects in a big blue file.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "銼刀，銼子"
   },
   {
     "word": "fool",
@@ -2770,7 +3083,8 @@
     "sentence": "On April Fools Day, my brother tried to fool me.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "弄臣，小醜"
   },
   {
     "word": "abroad",
@@ -2779,7 +3093,8 @@
     "sentence": "A family that came here from abroad.",
     "partOfSpeech": "adverb or adjective",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "往國外，往海外"
   },
   {
     "word": "action",
@@ -2788,7 +3103,8 @@
     "sentence": "As its first official action, the committee elected Ms. Jones as its president.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "行動，動作，活動，實際行動"
   },
   {
     "word": "afternoon",
@@ -2797,7 +3113,8 @@
     "sentence": "Mom picked me up from school this afternoon.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "下午"
   },
   {
     "word": "another",
@@ -2806,7 +3123,8 @@
     "sentence": "I'm willing to help you, but if you're asking for money, that's another thing/matter/story.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "又一的"
   },
   {
     "word": "anything",
@@ -2815,7 +3133,8 @@
     "sentence": "Today, in terms of clothing, almost anything goes, but they recall when the dress code was strictly formal.",
     "partOfSpeech": "pronoun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "任何東西，什麼都"
   },
   {
     "word": "bathroom",
@@ -2824,7 +3143,8 @@
     "sentence": "Wash your hands in the bathroom.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "浴室"
   },
   {
     "word": "birthday",
@@ -2833,7 +3153,8 @@
     "sentence": "I got a new bicycle for my birthday this year.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "生日，誕辰"
   },
   {
     "word": "blank",
@@ -2842,7 +3163,8 @@
     "sentence": "I tried to remember her name but drew a blank/my mind was a blank.",
     "partOfSpeech": "adjective",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "白紙的，空白的"
   },
   {
     "word": "blind",
@@ -2851,7 +3173,8 @@
     "sentence": "The blind man uses a white cane to help him walk safely.",
     "partOfSpeech": "adjective",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "眼睛看不見的，瞎的，失明的"
   },
   {
     "word": "bored",
@@ -2860,7 +3183,8 @@
     "sentence": "Bobbi slouched back against the cushions doing her best impression of a bored teenager ….",
     "partOfSpeech": "adjective",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "厭倦的，厭煩的"
   },
   {
     "word": "butterfly",
@@ -2868,7 +3192,8 @@
     "difficulty": 26,
     "sentence": "A beautiful butterfly landed on the flower in our garden.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "蝴蝶"
   },
   {
     "word": "cellphone",
@@ -2876,7 +3201,8 @@
     "difficulty": 26,
     "sentence": "Mom uses her cellphone to call Dad at work.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "手機"
   },
   {
     "word": "centimeter",
@@ -2884,7 +3210,8 @@
     "difficulty": 26,
     "sentence": "One centimeter equals exactly ten millimeters in measurement.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "公分"
   },
   {
     "word": "chopsticks",
@@ -2892,7 +3219,8 @@
     "difficulty": 26,
     "sentence": "I am learning how to eat rice with chopsticks.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "筷子"
   },
   {
     "word": "correct",
@@ -2901,7 +3229,8 @@
     "sentence": "What's the correct answer/response to this question?",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "對的，無誤的，正確的"
   },
   {
     "word": "daughter",
@@ -2910,7 +3239,8 @@
     "sentence": "The United States is a daughter of Great Britain.",
     "partOfSpeech": "noun",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "女兒"
   },
   {
     "word": "drawer",
@@ -2919,7 +3249,8 @@
     "sentence": "The top/middle/bottom drawer of the desk/dresser.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "抽屜"
   },
   {
     "word": "eight",
@@ -2928,7 +3259,8 @@
     "sentence": "There are eight crayons in my pencil box right now.",
     "partOfSpeech": "numeral",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "八的，八個的，八人的"
   },
   {
     "word": "eighteen",
@@ -2936,7 +3268,8 @@
     "difficulty": 27,
     "sentence": "He turned eighteen this year and got his license.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "十八的，十八個的，十八人的"
   },
   {
     "word": "error",
@@ -2945,7 +3278,8 @@
     "sentence": "I made an error in my calculations.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "錯誤，謬誤"
   },
   {
     "word": "everyone",
@@ -2954,7 +3288,8 @@
     "sentence": "Everyone in our class is excited about the school picnic.",
     "partOfSpeech": "pronoun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "每個人，大家"
   },
   {
     "word": "festival",
@@ -2963,7 +3298,8 @@
     "sentence": "Each year, a festival was held to celebrate the harvest.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "節日，慶祝，祭典，慶典"
   },
   {
     "word": "fever",
@@ -2972,7 +3308,8 @@
     "sentence": "I stayed home from school because I had a fever.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "熱病"
   },
   {
     "word": "foreign",
@@ -2981,7 +3318,8 @@
     "sentence": "This design is not foreign from some people's thoughts ….",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "外國的"
   },
   {
     "word": "foreigner",
@@ -2989,7 +3327,8 @@
     "difficulty": 27,
     "sentence": "Our new classmate is a foreigner from Japan who speaks Japanese.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "外國人"
   },
   {
     "word": "although",
@@ -2998,7 +3337,8 @@
     "sentence": "They are good friends, although they don't see each other very often.",
     "partOfSpeech": "conjunction",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "雖然，縱然，雖則，盡管，縱使"
   },
   {
     "word": "apartment",
@@ -3007,7 +3347,8 @@
     "sentence": "We lived in an apartment for several years before buying a house.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "公寓"
   },
   {
     "word": "attack",
@@ -3016,7 +3357,8 @@
     "sentence": "He attacked the guard with a knife.",
     "partOfSpeech": "verb",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "攻擊，襲擊"
   },
   {
     "word": "basketball",
@@ -3025,7 +3367,8 @@
     "sentence": "My brother plays basketball on the school team.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "籃球"
   },
   {
     "word": "beautiful",
@@ -3034,7 +3377,8 @@
     "sentence": "The sunset was absolutely beautiful this evening over the ocean.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "美麗的，美觀的"
   },
   {
     "word": "blackboard",
@@ -3042,7 +3386,8 @@
     "difficulty": 27,
     "sentence": "The teacher wrote the important math problem on the blackboard.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "黑板"
   },
   {
     "word": "boring",
@@ -3051,7 +3396,8 @@
     "sentence": "The movie was so boring that I fell asleep.",
     "partOfSpeech": "adjective",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "令人厭煩的"
   },
   {
     "word": "bright",
@@ -3060,7 +3406,8 @@
     "sentence": "She's a bright child with a curious mind.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "光亮的，光明的，發光的，閃光的"
   },
   {
     "word": "business",
@@ -3069,7 +3416,8 @@
     "sentence": "Business is doing well this year.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "職業，行業"
   },
   {
     "word": "businessman",
@@ -3077,7 +3425,8 @@
     "difficulty": 28,
     "sentence": "The businessman closed an important deal with his partners.",
     "partOfSpeech": "noun",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "實業家，公司行號或工廠的經營者"
   },
   {
     "word": "celebrate",
@@ -3086,7 +3435,8 @@
     "sentence": "Other elements of the culture, from spiritual practices to natural crafts, maintain and celebrate ties to west Africa.",
     "partOfSpeech": "verb",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "舉行"
   },
   {
     "word": "computer",
@@ -3095,7 +3445,8 @@
     "sentence": "He works all day on/with a computer.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "電子計算機，電腦"
   },
   {
     "word": "dangerous",
@@ -3104,7 +3455,8 @@
     "sentence": "As the conversation turned to politics, I knew we were heading into dangerous territory.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "危險的，不安全的"
   },
   {
     "word": "dictionary",
@@ -3113,7 +3465,8 @@
     "sentence": "Look it up in the dictionary.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "字典，辭典"
   },
   {
     "word": "different",
@@ -3122,7 +3475,8 @@
     "sentence": "The two brothers could not have been more different.",
     "partOfSpeech": "adjective",
     "cefr_level": "A1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "不同的，不一樣的，有差別的，別的"
   },
   {
     "word": "difficult",
@@ -3131,7 +3485,8 @@
     "sentence": "Our last test was extremely difficult.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "困難的，麻煩的，艱難的，難懂的"
   },
   {
     "word": "either",
@@ -3140,7 +3495,8 @@
     "sentence": "Flowers blooming on either side of the walk.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "任一方的，兩者之一的"
   },
   {
     "word": "enough",
@@ -3149,7 +3505,8 @@
     "sentence": "He just doesn't know when to leave well enough alone.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "充分的，足夠需要的"
   },
   {
     "word": "everybody",
@@ -3158,7 +3515,8 @@
     "sentence": "The teacher said everybody should bring a pencil to class tomorrow.",
     "partOfSpeech": "pronoun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "每個人，人人"
   },
   {
     "word": "excellent",
@@ -3167,7 +3525,8 @@
     "sentence": "Her new movie has received excellent reviews.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "特優的，極好的"
   },
   {
     "word": "exciting",
@@ -3176,7 +3535,8 @@
     "sentence": "Going to the zoo was the most exciting trip of the year.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "令人興奮的，刺激的，使人激動的"
   },
   {
     "word": "eye",
@@ -3185,7 +3545,8 @@
     "sentence": "Her eyes slowly became accustomed to the dark.",
     "partOfSpeech": "noun",
     "cefr_level": "B2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "眼睛"
   },
   {
     "word": "farmer",
@@ -3194,7 +3555,8 @@
     "sentence": "My uncle has been a farmer for 60 years.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "農場主人，莊主，農場經營者"
   },
   {
     "word": "finger",
@@ -3203,7 +3565,8 @@
     "sentence": "The finger proved to be very useful.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "手指"
   },
   {
     "word": "fridge",
@@ -3212,7 +3575,8 @@
     "sentence": "The fridge keeps food cold and fresh at home.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "冰箱"
   },
   {
     "word": "friendly",
@@ -3221,7 +3585,8 @@
     "sentence": "Our neighbor is very friendly and always waves hello to us.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "友好的，善意的，沒有敵意的，易親近的"
   },
   {
     "word": "chocolate",
@@ -3230,7 +3595,8 @@
     "sentence": "The tart mousse was served in a dark chocolate cup, topped with meringue, and finished with a crisp wafer.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "巧克力"
   },
   {
     "word": "clap",
@@ -3239,7 +3605,8 @@
     "sentence": "We all love a good clapback. It's a comeback but with that extra oomph.",
     "partOfSpeech": "verb",
     "cefr_level": "C1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "嗶啪聲，轟隆聲，隆隆聲"
   },
   {
     "word": "classroom",
@@ -3248,7 +3615,8 @@
     "sentence": "We arrived at the classroom just before closing time.",
     "partOfSpeech": "noun",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "教室"
   },
   {
     "word": "comfortable",
@@ -3257,7 +3625,8 @@
     "sentence": "Lamb was comfortable in his ignorance of what he did not choose to know.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "安樂的，舒服的"
   },
   {
     "word": "convenient",
@@ -3265,7 +3634,8 @@
     "difficulty": 29,
     "sentence": "Found it convenient to deal with both problems at the same time.",
     "partOfSpeech": "adjective",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "便利的，方便的，合適的"
   },
   {
     "word": "cookie",
@@ -3274,7 +3644,8 @@
     "sentence": "This recipe makes about two dozen cookies.",
     "partOfSpeech": "noun",
     "cefr_level": "C1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "餅幹)"
   },
   {
     "word": "delicious",
@@ -3282,7 +3653,8 @@
     "difficulty": 30,
     "sentence": "A delicious bit of gossip.",
     "partOfSpeech": "adjective",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "美味的，好吃的"
   },
   {
     "word": "earthquake",
@@ -3291,7 +3663,8 @@
     "sentence": "The earthquake had great importance in our daily lives.",
     "partOfSpeech": "noun",
     "cefr_level": "C1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "地震"
   },
   {
     "word": "everything",
@@ -3300,7 +3673,8 @@
     "sentence": "Put everything back in your backpack before going home.",
     "partOfSpeech": "pronoun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "一切事物，每樣事物，萬事"
   },
   {
     "word": "expensive",
@@ -3309,7 +3683,8 @@
     "sentence": "That restaurant is too expensive for my budget.",
     "partOfSpeech": "adjective",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "昂貴的，費用浩大的，費錢的"
   },
   {
     "word": "experience",
@@ -3318,7 +3693,8 @@
     "sentence": "The best way to learn is by experience.",
     "partOfSpeech": "noun",
     "cefr_level": "A2",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "經驗，體驗"
   },
   {
     "word": "favorite",
@@ -3327,7 +3703,8 @@
     "sentence": "Red is my favorite color.",
     "partOfSpeech": "adjective",
     "cefr_level": "B1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "最喜愛的人，得人望的人，嗜好品"
   },
   {
     "word": "fisherman",
@@ -3336,6 +3713,7 @@
     "sentence": "The fisherman cast his line into the river early morning.",
     "partOfSpeech": "noun",
     "cefr_level": "C1",
-    "taiwan_stage": "小學"
+    "taiwan_stage": "小學",
+    "chinese_definition": "漁夫，漁人，漁民"
   }
 ]

@@ -6,7 +6,7 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
 const API_KEYS = {
-  learners: process.env.MW_LEARNERS_KEY || ''
+  learners: '50ec83b5-f671-4cee-8cb3-d7ce8109bef5'
 }
 
 const API_URL = 'https://www.dictionaryapi.com/api/v3/references/learners/json'

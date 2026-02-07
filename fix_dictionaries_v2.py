@@ -419,7 +419,7 @@ def fix_file(file_path):
 
 def main():
     """Main function to fix all dictionary files."""
-    base_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "src", "gameTypes", "english-spelling", "data")
+    base_path = "/Users/jeffkuo/My Drive/AIProjects/spellingbee/src/gameTypes/english-spelling/data"
 
     files = [
         "elementary.json",

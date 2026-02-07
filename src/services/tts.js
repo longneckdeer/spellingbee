@@ -234,6 +234,123 @@ class TTSService {
     return /[\u4e00-\u9fff]/.test(text)
   }
 
+  /**
+   * Speak text in a specific language
+   * @param {string} text - Text to speak
+   * @param {string} lang - Language code (e.g., 'en-US', 'zh-TW')
+   * @param {number} rate - Speaking rate
+   * @returns {Promise<void>}
+   */
+  async speakInLanguage(text, lang, rate = 0.85) {
+    const originalLang = this.language
+    const originalRate = this.rate
+
+    try {
+      this.setLanguage(lang)
+      this.setRate(rate)
+      await this.speak(text)
+    } finally {
+      this.setLanguage(originalLang)
+      this.setRate(originalRate)
+    }
+  }
+
+  /**
+   * Speak Chinese text using Taiwan Mandarin (zh-TW)
+   * @param {string} text - Chinese text to speak
+   * @param {number} rate - Speaking rate (default 0.9)
+   * @returns {Promise<void>}
+   */
+  async speakChinese(text, rate = 0.9) {
+    if (!text) return
+    await this.speakInLanguage(text, 'zh-TW', rate)
+  }
+
+  /**
+   * Bilingual Spelling Bee format with Chinese or English definition based on level
+   *
+   * For elementary/middle/high: Uses chinese_definition (zh-TW)
+   * For university/expert: Uses English definition (en-US)
+   *
+   * Sequence: Word → POS → Definition → Sentence → Word
+   *
+   * @param {Object} wordObj - Word object with word, partOfSpeech, definition, chinese_definition, sentence
+   * @param {Object} options - Configuration options
+   * @param {boolean} options.useChineseDefinition - Whether to use Chinese definition (default: false)
+   */
+  async speakBilingualSpellingBeeWord(wordObj, options = {}) {
+    const {
+      useChineseDefinition = false,
+      wordRate = 0.6,
+      normalRate = 0.85,
+      chineseRate = 0.9,
+      pauseShort = 800,
+      pauseMedium = 1200,
+      pauseLong = 1500
+    } = options
+
+    const originalLang = this.language
+    const originalRate = this.rate
+
+    try {
+      // Ensure we start in English mode
+      this.setLanguage('en-US')
+
+      // 1. Say the word slowly twice (using MW audio if available)
+      await this.speakWord(wordObj.word)
+      await new Promise(resolve => setTimeout(resolve, pauseShort))
+      await this.speakWord(wordObj.word)
+      await new Promise(resolve => setTimeout(resolve, pauseMedium))
+
+      // 2. Say part of speech in English (using MW audio)
+      if (wordObj.partOfSpeech) {
+        await this.speakPartOfSpeech(wordObj.partOfSpeech)
+        await new Promise(resolve => setTimeout(resolve, pauseShort))
+      }
+
+      // 3. Say definition - Chinese or English based on level
+      if (useChineseDefinition && wordObj.chinese_definition) {
+        // Switch to Chinese for definition
+        await this.speakChinese(wordObj.chinese_definition, chineseRate)
+        await new Promise(resolve => setTimeout(resolve, pauseMedium))
+      } else if (wordObj.definition) {
+        // Use English definition
+        this.setLanguage('en-US')
+        this.setRate(normalRate)
+        await this.speak(wordObj.definition)
+        await new Promise(resolve => setTimeout(resolve, pauseMedium))
+      }
+
+      // 4. Say example sentence in English
+      if (wordObj.sentence) {
+        this.setLanguage('en-US')
+        this.setRate(normalRate)
+        await this.speak(wordObj.sentence)
+        await new Promise(resolve => setTimeout(resolve, pauseLong))
+      }
+
+      // 5. Say the word slowly one more time
+      await this.speakWord(wordObj.word)
+
+    } finally {
+      // Restore original settings
+      this.setLanguage(originalLang)
+      this.setRate(originalRate)
+    }
+  }
+
+  /**
+   * Determine if Chinese definition should be used based on game level
+   * @param {number|string} level - Game level (1-5 or level name)
+   * @returns {boolean} True if Chinese definition should be used
+   */
+  shouldUseChineseDefinition(level) {
+    // Levels 1-3 (elementary, middle, high) use Chinese
+    // Levels 4-5 (university, expert) use English
+    const chineseLevels = [1, 2, 3, '1', '2', '3', 'elementary', 'middle', 'high', '小學', '中學', '高中']
+    return chineseLevels.includes(level)
+  }
+
   // Get list of available Google voices
   getGoogleVoices() {
     const voices = this.synth.getVoices()
@@ -331,7 +448,7 @@ class TTSService {
   // Words where MW audio is wrong (returns base word audio instead of derived form)
   // These words will use TTS instead for correct pronunciation
   badMWAudioWords = new Set([
-    'august', 'enjoyable', 'offender', 'harassment', 'enforcement', 'refurbishment',
+    'enjoyable', 'offender', 'harassment', 'enforcement', 'refurbishment',
     'recklessness', 'retailer', 'roughness', 'righteousness', 'reconsideration',
     'richness', 'dealer', 'quickness', 'repressive', 'enrollment',
     'ruthlessness', 'obtainable', 'responsiveness', 'reproachful', 'remoteness',

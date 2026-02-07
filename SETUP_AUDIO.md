@@ -48,7 +48,7 @@
 
 ### Run the Script
 ```bash
-cd src/gameTypes/english-spelling/data
+cd "/Users/jeffkuo/My Drive/AIProjects/spellingbee/src/gameTypes/english-spelling/data"
 python3 generate_audio.py
 ```
 
@@ -107,7 +107,7 @@ Listen for:
 
 ### Move Files to Public Directory
 ```bash
-cd /path/to/spellingbee
+cd "/Users/jeffkuo/My Drive/AIProjects/spellingbee"
 mkdir -p public/audio
 cp -r "src/gameTypes/english-spelling/data/audio/"* public/audio/
 ```
@@ -124,7 +124,7 @@ Replace Web Speech API calls with MP3 playback (I'll help with this after audio 
 # Verify environment variable is set
 echo $GOOGLE_APPLICATION_CREDENTIALS
 
-# Should output: /path/to/google-cloud-credentials.json
+# Should output: /Users/jeffkuo/google-cloud-credentials.json
 
 # If empty, re-export
 export GOOGLE_APPLICATION_CREDENTIALS="$HOME/google-cloud-credentials.json"
@@ -159,7 +159,7 @@ export GOOGLE_APPLICATION_CREDENTIALS="$HOME/google-cloud-credentials.json"
 
 Run this command when ready:
 ```bash
-cd src/gameTypes/english-spelling/data && python3 generate_audio.py
+cd "/Users/jeffkuo/My Drive/AIProjects/spellingbee/src/gameTypes/english-spelling/data" && python3 generate_audio.py
 ```
 
 **Estimated time**: 35-45 minutes
